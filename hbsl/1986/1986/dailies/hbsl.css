@@ -1,0 +1,10 @@
+p         {color: #ffeecc; font-weight: 200; font-family: -apple-system, BlinkMacSystemFont, Arial, sans-serif;  font-size: 14px; margin-top: 8px;}
+h1        {color: #ff5511; font-size: 46px; font-weight: 600; font-family: -apple-system, BlinkMacSystemFont, Arial, sans-serif;}
+h2        {color: #ffeecc; font-size: 15px; font-weight: 600; font-family: -apple-system, BlinkMacSystemFont, Arial, sans-serif; border-top: 2px solid #dd7755; margin-top: 30px; margin-bottom: 10px;}
+h3        {color: #ffeecc; font-size: 12px; font-weight: 200; font-family: -apple-system,  BlinkMacSystemFont, Arial, sans-serif; border-top: 1px dotted #773322; margin-top: 15px;}
+h4        {color: #aabb55; font-size: 20px; font-weight: 600; font-family: -apple-system, BlinkMacSystemFont, Arial, sans-serif;}
+a:link    {color: #ff5511; font-size: 14px; font-weight: 200; font-family: -apple-system, BlinkMacSystemFont, Arial, sans-serif;}
+a:visited {color: #dd7755; font-size: 14px; font-weight: 200; font-family: -apple-system, BlinkMacSystemFont, Arial, sans-serif;}
+a:hover   {color: #ccdd88; font-size: 14px; font-weight: 800; font-family: -apple-system, BlinkMacSystemFont, Arial, sans-serif;}
+body      {background-color: #000000; color:#ffeecc; font-family: -apple-system, BlinkMacSystemFont, Arial, sans-serif; font-size: 15px; line-height: 1.3;}
+pre       {font-size: 14px; line-height: 1.3;}
