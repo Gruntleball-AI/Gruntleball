@@ -1,0 +1,503 @@
+The Combat Rock League
+
+Round 1 Box Scores
+
+Series 1 12/30/1982 -- Game 1 of 1,  Dodger Stadium                
+ 
+                     1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+82 Magellans         0  0  0  1  0  0  1  1  2     5 10  1     9  0
+82 Beavis            0  1  0  5  0  0  0  2  x     8  5  1     3  1
+ 
+Magellans      AB  R  H BI   AVG       Beavis         AB  R  H BI   AVG
+Hernandez   lf  3  1  2  0  .667       Morgan      2b  2  1  1  1  .500       
+Carew       1b  5  0  0  0  .000       Jones       cf  3  1  1  3  .333       
+Grich       2b  5  2  3  2  .600       Guerrero    3b  4  0  0  0  .000       
+Thomas      cf  4  1  2  2  .500        Cruz       lf  0  0  0  0  .000       
+Simmons     c   4  0  0  0  .000       Lezcano     rf  4  0  0  0  .000       
+ Gamble     ph  1  0  0  0  .000       Kennedy     1b  3  0  0  0  .000       
+Kemp        rf  3  0  0  0  .000        Campbell   p   0  0  0  0  .000       
+Wallach     3b  4  0  2  0  .500        Vande Berg p   0  0  0  0  .000       
+Ripken      ss  3  0  0  0  .000        Caudill    p   1  0  0  0  .000       
+Andujar     p   2  0  0  0  .000       Carter      c   2  3  1  0  .500       
+ Piniella   ph  1  1  1  0 1.000       Paciorek    lf  3  1  1  0  .333       
+ Shirley    p   0  0  0  0  .000        Washington ss  1  1  1  2 1.000       
+ Money      ph  1  0  0  0  .000       Thon        ss  2  1  0  1  .000       
+               36  5 10  4              Sexton     3b  1  0  0  0  .000       
+                                       Rogers      p   1  0  0  0  .000       
+                                        Leal       p   1  0  0  0  .000       
+                                        Thompson   1b  1  0  0  0  .000       
+                                        Richards   1b  0  0  0  0  .000       
+                                                      29  8  5  7             
+ 
+Magellans            INN  H  R ER BB  K PCH STR   ERA
+Andujar    L  0-1    6.0  4  6  6  5  5 127  75  9.00
+Shirley              2.0  1  2  2  1  1  27  14  9.00
+                     8.0  5  8  8  6  6 154  89 
+ 
+Beavis               INN  H  R ER BB  K PCH STR   ERA
+Rogers               2.2  2  0  0  1  2  39  22  0.00
+Leal       W  1-0    2.1  2  1  1  2  1  38  19  3.86
+Campbell             2.0  2  1  0  1  4  49  30  0.00
+Vande Berg           0.2  2  1  1  0  1  12   8 13.50
+Caudill    S  1      1.1  2  2  2  1  3  35  17 13.50
+                     9.0 10  5  4  5 11 173  96 
+ 
+FER: Piniella batted for Andujar in the 7th
+     Money batted for Shirley in the 9th
+     Gamble batted for Simmons in the 9th
+BMB: Thompson inserted at 1b in the 6th
+     Washington inserted at ss in the 8th
+     Sexton inserted at 3b in the 8th
+     Richards inserted at 1b in the 8th
+     Cruz inserted at lf in the 8th
+ 
+E-Kemp, Thompson. 2B-Thomas, Carter. 3B-Grich. HR-Grich(1), Thomas(1), 
+Jones(1), Washington(1). K-Carew, Grich 2, Simmons 2, Kemp, Wallach, 
+Ripken 2, Money, Gamble, Jones, Guerrero, Lezcano, Carter, Thon, Leal. 
+BB-Hernandez 2, Thomas, Kemp, Ripken, Morgan 2, Jones, Carter 2, Thon. 
+WP-Andujar. 
+GWRBI: Morgan    
+Steve Rogers was injured for this game and 9 more
+Temperature: 64, Sky: clear, Wind: out to center at 8 MPH.
+.Series 1 12/30/1982 -- Game 1 of 1,  Dodger Stadium                
+ 
+                     1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+82 Magellans         0  0  0  1  0  0  1  1  2     5 10  1     9  0
+82 Beavis            0  1  0  5  0  0  0  2  x     8  5  1     3  1
+ 
+ 
+Magellans        1            10           19           28           37        
+Hernandez   lf 1>9            S            W            S.1-3        W         
+Carew       1b   9            Leal         k            note 1       7         
+                              43                                               
+Grich       2b   S          4>T          6>Campbell     k            HR.1-H    
+                                           k                                   
+Thomas      cf   64/f         43.3-H       W          8>Vande Berg   D         
+                                                        HR                     
+Simmons     c  2>63           53           k            k                      
+ Gamble     ph                                                       k         
+Kemp        rf   k            W            9            43                     
+Wallach     3b   k            S.1-2      7>4            S                      
+Ripken      ss 3>W            note 2       k            Caudill                
+                            5>53                        k                      
+Andujar     p    643/gdp      63                                               
+ Piniella   ph                             S                                   
+ Shirley    p                                                                  
+ Money      ph                                        9>k                      
+ 
+ 1: e3.3-H;1-2;B-1  2: OBA.2X3(25) 
+ 
+ 
+Beavis           1            10           19           28           37        
+Morgan      2b 1>W          3>W            note 1     7>Shirley                
+                                                        5/fl                   
+Jones       cf   W.1-2        43.1-2       HR.3-H;2-H   k                      
+Guerrero    3b   43.2-3;1-2   4            k            8                      
+ Cruz       lf                                                                 
+Lezcano     rf   6            53         5>k          8>9                      
+Kennedy     1b   53         4>4            63                                  
+ Campbell   p                                                                  
+ Vande Berg p                                                                  
+ Caudill    p                                           43                     
+Carter      c  2>D            W            k            W                      
+Paciorek    lf   9.2-3        S.1-2      6>43                                  
+ Washington ss                                          HR.1-H                 
+Thon        ss   63.3-H       wp.2-3;1-2   k                                   
+                              W                                                
+ Sexton     3b                                          9                      
+Rogers      p    43                                                            
+ Leal       p                 k                                                
+ Thompson   1b                             7                                   
+ Richards   1b                                                                 
+ 
+ 1: S+e9.3-H;2-H;1-3;B-2 
+ 
+ 
+.Magellans     IN OUT ER               Beavis        IN OUT ER               
+Andujar        1  27  6  L  0-1       Rogers         1  10  0               
+Shirley       28  35  2               Leal          11  20  1  W  1-0       
+                                      Campbell      21  30  0               
+                                      Vande Berg    31  34  1               
+                                      Caudill       35  41  2  S  1         
+.
+
+Series 3 12/31/1982 -- Game 1 of 1,  Dodger Stadium                
+ 
+                     1  2  3  4  5  6  7  8  9 10 11 12
+82 Magellans         0  0  2  0  0  0  0  0  2  0  0  0
+82 Beavis            0  1  2  0  0  0  1  0  0  0  0  0
+ 
+                    13     R  H  E   LOB DP
+82 Magellans         1     5 11  4    10  2
+82 Beavis            2     6 10  1    11  1
+ 
+Magellans      AB  R  H BI   AVG       Beavis         AB  R  H BI   AVG
+Hernandez   lf  6  1  2  4  .444       Morgan      2b  5  0  1  0  .286       
+Carew       1b  5  0  1  0  .100       Jones       cf  4  1  2  0  .429       
+Grich       2b  5  0  1  0  .400        Washington ss  2  0  0  0  .333       
+Thomas      cf  6  0  1  0  .300       Guerrero    3b  4  0  0  0  .000       
+ Maddox     cf  0  0  0  0  .000        Sexton     3b  1  0  0  0  .000       
+Simmons     c   6  1  2  0  .200       Lezcano     rf  6  1  1  2  .100       
+Kemp        rf  6  0  0  0  .000       Kennedy     1b  4  0  1  0  .143       
+Wallach     3b  5  0  2  0  .444        Cruz       lf  0  0  0  0  .000       
+Ripken      ss  4  2  1  1  .143        Leonard    ph  1  0  0  0  .000       
+Sutcliffe   p   3  0  0  0  .000       Carter      c   6  2  2  1  .375       
+ Gamble     ph  1  0  1  0  .500       Paciorek    lf  4  0  0  0  .143       
+ Lefebvre   pr  0  1  0  0  .000        Richards   1b  1  0  1  0 1.000       
+ Sambito    p   0  0  0  0  .000       Thon        ss  3  1  1  0  .200       
+ Money      ph  1  0  0  0  .000        Thompson   cf  2  1  0  0  .000       
+ Burgmeier  p   0  0  0  0  .000       Clancy      p   2  0  0  0  .000       
+ Brouhard   ph  1  0  0  0  .000        Caudill    p   0  0  0  0  .000       
+ Jackson    p   0  0  0  0  .000        Royster    ph  1  0  0  0  .000       
+               49  5 11  5              Vande Berg p   0  0  0  0  .000       
+                                        Ayala      ph  0  0  0  0  .000       
+                                        Stanton    p   1  0  1  1 1.000       
+                                                      47  6 10  4             
+ 
+Magellans            INN  H  R ER BB  K PCH STR   ERA
+Sutcliffe            8.0  7  4  3  2  2 107  71  3.38
+Sambito              2.0  0  0  0  2  0  19   9  0.00
+Burgmeier            2.0  1  0  0  1  0  31  16  0.00
+Jackson    L  0-1    0.1  2  2  1  1  0  14   6 27.00
+                    12.1 10  6  4  6  2 171 102 
+ 
+Beavis               INN  H  R ER BB  K PCH STR   ERA
+Clancy               8.2  7  4  4  4  3 130  78  4.15
+Caudill              0.1  0  0  0  0  0   2   2 10.80
+Vande Berg           2.0  1  0  0  0  1  26  18  3.38
+Stanton    W  1-0    2.0  3  1  1  0  1  37  20  4.50
+                    13.0 11  5  5  4  5 195 118 
+ 
+FER: Gamble batted for Sutcliffe in the 9th
+     Lefebvre ran for Gamble in the 9th
+     Money batted for Sambito in the 11th
+     Brouhard batted for Burgmeier in the 13th
+     Maddox inserted at cf in the 13th
+BMB: Thompson inserted at cf in the 8th
+     Washington inserted at ss in the 8th
+     Sexton inserted at 3b in the 8th
+     Cruz inserted at lf in the 9th
+     Richards inserted at 1b in the 9th
+.     Royster batted for Caudill in the 9th
+     Ayala batted for Vande Berg in the 11th
+     Leonard batted for Cruz in the 12th
+     Leonard moved to lf in the 13th
+ 
+E-Hernandez, Kemp, Wallach, Ripken, Clancy. 2B-Simmons, Gamble. 
+HR-Hernandez(1), Lezcano(1), Carter(1). SB-Thon(1), Sexton(1). K-Hernandez, 
+Kemp, Ripken, Sutcliffe, Money, Lezcano, Paciorek. BB-Carew, Wallach, 
+Ripken 2, Morgan, Clancy, Thompson, Sexton, Cruz, Ayala. SH-Richards. 
+HBP-Grich. HB-Stanton. WP-Sutcliffe. 
+Temperature: 62, Sky: clear, Wind: in from center at 5 MPH.
+.Series 3 12/31/1982 -- Game 1 of 1,  Dodger Stadium                
+ 
+                     1  2  3  4  5  6  7  8  9 10 11 12
+82 Magellans         0  0  2  0  0  0  0  0  2  0  0  0
+82 Beavis            0  1  2  0  0  0  1  0  0  0  0  0
+ 
+                    13     R  H  E   LOB DP
+82 Magellans         1     5 11  4    10  2
+82 Beavis            2     6 10  1    11  1
+ 
+ 
+Magellans        1            10           19           28           37        
+Hernandez   lf 1>43           HR.2-H       9          8>63           note 1    
+                                                                               
+Carew       1b   e1.B-1       W          6>43           S            Caudill   
+                                                                     5/fl      
+Grich       2b   9            643/gdp      43           S.1-2      0>Vande Berg
+                                                                     63        
+Thomas      cf   7          4>8            S            9.2-3        9         
+ Maddox     cf                                                                 
+Simmons     c  2>43           D            8            64/f         9         
+Kemp        rf   63           63.2-3     7>k          9>8          1>9         
+Wallach     3b   9            8            W            7            S         
+Ripken      ss 3>W          5>6            k            W            9         
+Sutcliffe   p    31.1-2       53           k                                   
+ Gamble     ph                                          D.1-3                  
+ Lefebvre   pr                                                                 
+ Sambito    p                                                                  
+ Money      ph                                                       k         
+ Burgmeier  p                                                                  
+ Brouhard   ph                                                                 
+ Jackson    p                                                                  
+ 
+ 1: S.3-H;2-H;B-2 
+ 
+ 
+Beavis           1            10           19           28           37        
+Morgan      2b 1>W            5/f          9            S.2-3        43        
+Jones       cf   4          3>S          5>S            note 1                 
+ Washington ss                                                       7         
+Guerrero    3b   5/fl         9            463/gdp      5/f.1-2                
+ Sexton     3b                                                     0>W         
+Lezcano     rf   k            HR.1-H       4            5/f          SB2       
+                                                                     43.2-3    
+Kennedy     1b 2>9            43         6>53         8>S                      
+ Cruz       lf                                                       IW        
+ Leonard    ph                                                                 
+Carter      c    HR           e5/th.B-2    3/fl         7            643/gdp   
+                                                                               
+Paciorek    lf   8            3            8            k                      
+ Richards   1b                                                     1>Burgmeier 
+                                                                     S         
+Thon        ss   e7.B-1     4>6          7>S                                   
+ Thompson   cf                                          6/f          63.1-2    
+Clancy      p    wp.1-2       63           SB2                                 
+                 W                         53                                  
+ Caudill    p                                         9>Sambito                
+. Royster    ph                                                                 
+                                                        8                      
+ Vande Berg p                                                                  
+ Ayala      ph                                                       IW        
+ Stanton    p                                                                  
+ 
+ 1: e6.3-H;1-2;B-1 
+ 
+ 
+.Magellans        46           55           64           73           82        
+Hernandez   lf 2>Stanton                                                       
+                 k                                                             
+Carew       1b   5                                                             
+                                                                               
+Grich       2b   HP                                                            
+                                                                               
+Thomas      cf   3                                                             
+ Maddox     cf                                                                 
+Simmons     c  3>S                                                             
+Kemp        rf   63.1-2                                                        
+Wallach     3b   S.2-3                                                         
+Ripken      ss   note 1                                                        
+Sutcliffe   p                                                                  
+ Gamble     ph                                                                 
+ Lefebvre   pr                                                                 
+ Sambito    p                                                                  
+ Money      ph                                                                 
+ Burgmeier  p                                                                  
+ Brouhard   ph   8                                                             
+ Jackson    p                                                                  
+ 
+ 1: S.3-H;1X3(95) 
+ 
+ 
+Beavis           46           55           64           73           82        
+Morgan      2b   3/fl                                                          
+Jones       cf                                                                 
+ Washington ss   9                                                             
+Guerrero    3b                                                                 
+ Sexton     3b 2>43                                                            
+Lezcano     rf   43                                                            
+                                                                               
+Kennedy     1b                                                                 
+ Cruz       lf                                                                 
+ Leonard    ph   31                                                            
+Carter      c  3>Jackson                                                       
+                 S                                                             
+Paciorek    lf                                                                 
+ Richards   1b   13/SH.1-2                                                     
+                                                                               
+Thon        ss                                                                 
+ Thompson   cf   IW                                                            
+Clancy      p                                                                  
+                                                                               
+ Caudill    p                                                                  
+ Royster    ph                                                                 
+                                                                               
+ Vande Berg p                                                                  
+ Ayala      ph                                                                 
+ Stanton    p    note 1                                                        
+ 
+ 1: S.2-H;1-H(e9/th);B-3 
+ 
+ 
+.Magellans     IN OUT ER               Beavis        IN OUT ER               
+Sutcliffe      1  35  3               Clancy         1  37  4               
+Sambito       36  42  0               Caudill       38  38  0               
+Burgmeier     43  50  0               Vande Berg    39  45  0               
+Jackson       51  54  1  L  0-1       Stanton       46  54  1  W  1-0       
+.
+
+Series 5 1/2/1983 -- Game 1 of 1,  Fenway Park                   
+ 
+                     1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+82 Beavis            0  2  0  1  2  0  0  0  0     5  9  0     4  4
+82 Magellans         1  0  1  0  0  0  0  0  0     2  8  0     3  1
+ 
+Beavis         AB  R  H BI   AVG       Magellans      AB  R  H BI   AVG
+Morgan      2b  3  1  1  1  .300       Hernandez   1b  4  1  1  1  .385       
+Lezcano     rf  4  1  2  1  .214       Grich       2b  4  0  1  0  .357       
+Carter      c   4  0  1  1  .333       Thomas      cf  4  1  1  1  .286       
+Kennedy     1b  4  0  1  0  .182       Wallach     3b  4  0  1  0  .385       
+ Thompson   cf  0  0  0  0  .000       Brouhard    lf  3  0  0  0  .000       
+Paciorek    lf  4  0  0  0  .091        Maddox     ph  1  0  0  0  .000       
+ Richards   1b  0  0  0  0 1.000       Simmons     c   3  0  2  0  .308       
+Guerrero    cf  4  2  2  1  .167       Gamble      rf  2  0  1  0  .500       
+ Cruz       lf  0  0  0  0  .000       Ripken      ss  3  0  0  0  .100       
+Washington  ss  4  0  0  0  .143       Scherrer    p   2  0  0  0  .000       
+Royster     3b  3  1  2  1  .500        Money      ph  1  0  1  0  .333       
+ Sexton     3b  0  0  0  0  .000        Shirley    p   0  0  0  0  .000       
+Bannister   p   4  0  0  0  .000                      31  2  8  2             
+ Stanton    p   0  0  0  0 1.000                                              
+               34  5  9  5                                                    
+ 
+Beavis               INN  H  R ER BB  K PCH STR   ERA
+Bannister  W  1-0    8.1  8  2  2  0  6 116  76  2.16
+Stanton    S  1      0.2  0  0  0  0  0   6   3  3.38
+                     9.0  8  2  2  0  6 122  79 
+ 
+Magellans            INN  H  R ER BB  K PCH STR   ERA
+Scherrer   L  0-1    8.0  9  5  5  1  5  96  75  5.63
+Shirley              1.0  0  0  0  1  1  13   6  6.00
+                     9.0  9  5  5  2  6 109  81 
+ 
+BMB: Thompson inserted at cf in the 8th
+     Richards inserted at 1b in the 8th
+     Cruz inserted at lf in the 8th
+     Sexton inserted at 3b in the 9th
+FER: Money batted for Scherrer in the 8th
+     Maddox batted for Brouhard in the 9th
+ 
+2B-Guerrero, Grich. 3B-Lezcano, Royster. HR-Guerrero(1), Hernandez(2), 
+Thomas(2). SB-Morgan(1). CS-Royster. K-Morgan, Kennedy 3, Bannister 2, 
+Hernandez, Grich 2, Thomas, Gamble, Ripken. BB-Morgan, Royster. HBP-Gamble. 
+HB-Bannister. BALK-Scherrer. 
+GWRBI: Guerrero  
+Temperature: 37, Sky: partly cloudy, Wind: left to right at 5 MPH.
+.Series 5 1/2/1983 -- Game 1 of 1,  Fenway Park                   
+ 
+                     1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+82 Beavis            0  2  0  1  2  0  0  0  0     5  9  0     4  4
+82 Magellans         1  0  1  0  0  0  0  0  0     2  8  0     3  1
+ 
+ 
+Beavis           1            10           19           28           37        
+Morgan      2b 1>k            S.3-H      5>W          7>43                     
+Lezcano     rf   S            SB2          T.1-H        13                     
+                              63                                               
+Carter      c    S.1-2      3>43           3/g.3-H      4/L                    
+Kennedy     1b   k            k            k          8>S                      
+ Thompson   cf                                                                 
+Paciorek    lf   9            63           3/fl         7                      
+ Richards   1b                                                                 
+Guerrero    cf 2>D          4>HR         6>53           463/gdp                
+ Cruz       lf                                                                 
+Washington  ss   bk.2-3       7            53         9>Shirley                
+                 4                                      8                      
+Royster     3b   T.3-H        9            S            W                      
+ Sexton     3b                                                                 
+Bannister   p    k            8            3/g          CS2(26)                
+                                                        k                      
+ Stanton    p                                                                  
+ 
+ 
+Magellans        1            10           19           28           37        
+Hernandez   1b 1>HR         3>k            8            543/gdp                
+Grich       2b   D            7            k            k                      
+Thomas      cf   9            HR         6>k          9>43                     
+Wallach     3b   3/L          3            4/L          S                      
+Brouhard    lf   8          4>2/fl         8            Stanton                
+ Maddox     ph                                                                 
+                                                        463/gdp                
+Simmons     c  2>S            63         7>S                                   
+Gamble      rf   S.1-2        HP           k                                   
+Ripken      ss   k            8            643/gdp                             
+Scherrer    p    463/gdp    5>53                                               
+ Money      ph                           8>S                                   
+ Shirley    p                                                                  
+ 
+ 
+Beavis        IN OUT ER               Magellans     IN OUT ER               
+Bannister      1  31  2  W  1-0       Scherrer       1  33  5  L  0-1       
+Stanton       32  32  0  S  1         Shirley       34  36  0               
+.
+
+Series 7 1/3/1983 -- Game 1 of 1,  Fenway Park                   
+ 
+                     1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+82 Beavis            0  2  0  0  0  2  1  2  0     7  9  1     7  3
+82 Magellans         0  0  0  0  0  1  0  0  0     1  8  2     4  1
+ 
+Beavis         AB  R  H BI   AVG       Magellans      AB  R  H BI   AVG
+Morgan      2b  3  1  1  0  .308       Hernandez   lf  4  1  1  1  .353       
+Jones       cf  5  0  0  0  .250       Carew       1b  4  0  3  0  .286       
+Guerrero    3b  3  0  0  0  .133       Grich       2b  4  0  2  0  .389       
+Lezcano     rf  4  1  1  0  .222       Thomas      cf  4  0  1  0  .278       
+Kennedy     1b  5  1  2  1  .250       Simmons     c   4  0  0  0  .235       
+Carter      c   4  1  1  2  .313       Kemp        rf  3  0  1  0  .083       
+Paciorek    lf  4  2  2  2  .200       Wallach     3b  2  0  0  0  .333       
+Thon        ss  4  1  2  2  .333        Lefebvre   ph  1  0  0  0  .000       
+Stoddard    p   4  0  0  0  .000       Ripken      ss  3  0  0  0  .077       
+               36  7  9  7             Sutton      p   1  0  0  0  .000       
+                                        Gamble     ph  1  0  0  0  .400       
+                                        Shirley    p   0  0  0  0  .000       
+                                        Money      ph  1  0  0  0  .250       
+                                        McClure    p   0  0  0  0  .000       
+                                                      32  1  8  1             
+ 
+Beavis               INN  H  R ER BB  K PCH STR   ERA
+Stoddard   W  1-0    9.0  8  1  1  0  1 109  70  1.00
+                     9.0  8  1  1  0  1 109  70 
+ 
+Magellans            INN  H  R ER BB  K PCH STR   ERA
+Sutton     L  0-1    6.0  6  4  4  2  5  98  59  6.00
+Shirley              2.0  3  3  3  2  1  35  19  9.00
+McClure              1.0  0  0  0  1  1  22  12  0.00
+                     9.0  9  7  7  5  7 155  90 
+ 
+FER: Gamble batted for Sutton in the 6th
+     Lefebvre batted for Wallach in the 7th
+     Lefebvre moved to 3b in the 8th
+     Money batted for Shirley in the 8th
+ 
+E-Morgan, Carew, Grich. 2B-Thon, Carew, Thomas. 3B-Paciorek. HR-Carter(2), 
+Paciorek(1), Thon(1), Hernandez(3). SB-Thon(2). K-Jones 2, Guerrero, Kennedy, 
+Carter, Paciorek, Stoddard, Thomas. BB-Morgan 2, Guerrero 2, Lezcano. 
+GWRBI: Paciorek  
+Temperature: 42, Sky: cloudy, Wind: out to left at 17 MPH.
+.Series 7 1/3/1983 -- Game 1 of 1,  Fenway Park                   
+ 
+                     1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+82 Beavis            0  2  0  0  0  2  1  2  0     7  9  1     7  3
+82 Magellans         0  0  0  0  0  1  0  0  0     1  8  2     4  1
+ 
+ 
+Beavis           1            10           19           28           37        
+Morgan      2b 1>S            W          5>8          7>Shirley      5         
+                                                        W                      
+Jones       cf   53.1-2       64/f         63           k          9>McClure   
+                                                                     k         
+Guerrero    3b   note 1     3>W            k            W.1-2        8         
+Lezcano     rf   363/gdp      54/f       6>S            6            W         
+Kennedy     1b 2>S            9            k            note 2       6         
+Carter      c    k            5            HR.1-H     8>7                      
+Paciorek    lf   HR.1-H     4>5/L          k            T                      
+Thon        ss   e3.B-1       43           D            HR.3-H                 
+Stoddard    p    SB2          63           63           43                     
+                 k                                                             
+ 
+ 1: e4/th.2-3;B-1  2: S.2-H;1-2;BX2(936) 
+ 
+ 
+Magellans        1            10           19           28           37        
+Hernandez   lf 1>43           6/L          HR           3/g                    
+Carew       1b   D          4>53           S          9>S                      
+Grich       2b   S.2XH(82)    e4/th.B-2    543/gdp      S.1-2                  
+Thomas      cf   63           9.2-3      7>D            k                      
+Simmons     c  2>63           43           4/ldp        643/gdp                
+Kemp        rf   9          5>9            S                                   
+Wallach     3b   9            63                                               
+ Lefebvre   ph                             64/f                                
+Ripken      ss 3>63           7          8>5/L                                 
+Sutton      p    7                                                             
+ Gamble     ph              6>8                                                
+ Shirley    p                                                                  
+ Money      ph                             43                                  
+ McClure    p                                                                  
+ 
+ 
+Beavis        IN OUT ER               Magellans     IN OUT ER               
+Stoddard       1  32  1  W  1-0       Sutton         1  27  4  L  0-1       
+                                      Shirley       28  37  3               
+                                      McClure       38  41  0               
+.
+

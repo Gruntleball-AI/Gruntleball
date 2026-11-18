@@ -1,0 +1,622 @@
+The Combat Rock League
+
+Parsons Parsons
+
+              DMB League Batting Statistics:  1982 Parsons Parsons
+                                        
+ 
+ NAME         AVG   OBP   SPC   G  AB   H 2B 3B HR   R RBI  BB   K HB IW  SB CS
+ 
+ Armas       .234  .273  .418 119 261  61 14  2 10  23  24  14  67  1  1   1  0 
+ Benedict    .230  .266  .279  68 122  28  4  1  0  10  12   5  21  1  0   0  0 
+ Butler      .250  .308  .250  34  36   9  0  0  0   3   2   2  10  1  0   3  2 
+ Cooper      .280  .300  .423 149 600 168 39  1 15  55  78  20  99  0  6   2  4 
+ Cromartie   .218  .293  .317 148 504 110 17  3  9  41  38  52  63  3  2   7  4 
+rEasler      .263  .333  .375  80 315  83 22  2  3  42  32  23  78 10  1   1  1 
+rEisenreich  .273  .333  .309  29  55  15  2  0  0   6   7   5  12  0  0   0  0 
+ Fisk        .243  .301  .353 151 470 114 22  3  8  48  45  37  75  6  1  28  2 
+ Flannery    .207  .266  .229 107 188  39  4  0  0  13  13  13  25  2  1   2  2 
+ Garcia      .269  .293  .333 151 592 159 38  0  0  71  35  16  78  5  2  54 27 
+ Horner      .230  .306  .413 150 526 121 26  2 22  57  69  57  94  4  2   1  4 
+rMaldonado   .000  .000  .000   0   0   0  0  0  0   0   0   0   0  0  0   0  0 
+rMcBride     .000  .000  .000   0   0   0  0  0  0   0   0   0   0  0  0   0  0 
+ Moreno      .263  .318  .322 105 118  31  7  0  0  13   9   9  18  2  0   8  5 
+ Murphy      .273  .349  .423 154 582 159 19  4 20  81  71  69 147  1  5  24 11 
+ Orta        .148  .174  .193  30  88  13  1  0  1   3   5   2  18  1  0   1  0 
+rOrtiz       .000  .000  .000   0   0   0  0  0  0   0   0   0   0  0  0   0  0 
+ Pocoroba    .170  .264  .277  20  47   8  5  0  0   5   3   0   6  6  0   0  0 
+ Russell     .232  .313  .291 146 501 116 25  1  1  50  29  58  30  2  3  14  3 
+dThomas      .300  .341  .363  39  80  24  5  0  0   9   3   5   9  0  0   1  3 
+ 
+ Christnson  .074  .100  .088  32  68   5  1  0  0   0   3   2  21  0  0   0  0 
+ Flanagan    .096  .096  .135  22  52   5  2  0  0   2   1   0  20  0  0   0  0 
+rHayes       .000  .000  .000  44   1   0  0  0  0   0   0   0   0  0  0   0  0 
+rHoyt        .138  .159  .150  34  80  11  1  0  0   3   6   2  21  0  0   0  0 
+ Hume        .000  .000  .000  36   4   0  0  0  0   0   0   0   2  0  0   0  0 
+ Lavelle     .000  .000  .000  39   1   0  0  0  0   0   0   0   0  0  0   0  1 
+ Matlack     .333  .333  .500  29   6   2  1  0  0   0   2   0   3  0  0   0  0 
+ Niekro, P   .184  .222  .197  34  76  14  1  0  0   3   7   4  19  0  0   2  1 
+ Perez       .000  .000  .000  42   5   0  0  0  0   0   0   0   2  0  0   0  0 
+ Perry       .143  .250  .143   4   7   1  0  0  0   0   0   1   3  0  0   0  0 
+ Reardon     .000  .000  .000  46   1   0  0  0  0   0   0   0   0  0  0   0  0 
+ Valenzuela  .131  .131  .143  38  84  11  1  0  0   2   1   0  23  0  0   0  0 
+
+ Team Total  .239  .294  .342 162    1307    19    540     396     45    149
+                                 5470    257    89     495     964    24     70
+            DMB League Batting Splits:  1982 Parsons Parsons-- vsLHP
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Armas        .212  .252  .364   118   25    4    1    4   11    7   24   0   2
+ Benedict     .200  .200  .257    35    7    0    1    0    4    0    5   1   0
+ Butler       .281  .324  .281    32    9    0    0    0    2    1   10   0   0
+ Cooper       .245  .265  .324   188   46    6    0    3   21    6   33   0   2
+ Cromartie    .178  .237  .268   157   28    6    1    2   12   10   19   0   0
+rEasler       .294  .362  .388    85   25    6    1    0   10    3   31   0   0
+rEisenreich   .333  .360  .333    24    8    0    0    0    2    1    6   0   0
+ Fisk         .260  .313  .380   150   39    8    2    2   18   13   19   0   3
+ Flannery     .138  .176  .185    65    9    3    0    0    4    2   13   0   0
+ Garcia       .251  .260  .303   175   44    9    0    0    6    2   33   3   0
+ Horner       .285  .364  .496   137   39   10    2    5   16   17   20   0   0
+rMaldonado    .000  .000  .000     0    0    0    0    0    0    0    0   0   0
+rMcBride      .000  .000  .000     0    0    0    0    0    0    0    0   0   0
+ Moreno       .167  .154  .250    12    2    1    0    0    1    0    5   0   1
+ Murphy       .274  .379  .423   168   46    5    1    6   15   29   42   0   1
+ Orta         .000  .000  .000     6    0    0    0    0    0    0    5   0   0
+rOrtiz        .000  .000  .000     0    0    0    0    0    0    0    0   0   0
+ Pocoroba     .167  .268  .278    36    6    4    0    0    1    0    5   0   0
+ Russell      .258  .312  .336   128   33   10    0    0    7   10    8   0   0
+dThomas       .167  .167  .250    12    2    1    0    0    0    0    3   0   0
+ 
+ Christnson   .105  .105  .158    19    2    1    0    0    1    0    6   1   0
+ Flanagan     .071  .071  .071    14    1    0    0    0    0    0    5   0   0
+rHoyt         .091  .091  .091    22    2    0    0    0    0    0    5   4   0
+ Hume         .000  .000  .000     1    0    0    0    0    0    0    0   0   0
+ Matlack      .500  .500  .750     4    2    1    0    0    2    0    2   0   0
+ Niekro, P    .154  .190  .154    39    6    0    0    0    4    2    9   2   1
+ Perez        .000  .000  .000     2    0    0    0    0    0    0    1   0   0
+ Perry        .000 1.000  .000     0    0    0    0    0    0    1    0   0   0
+ Valenzuela   .130  .130  .130    23    3    0    0    0    0    0    8   1   0
+ 
+ Team Total   .232  .281  .329  1652  384   75    9   22  137  104  317  12  10
+            DMB League Batting Splits:  1982 Parsons Parsons-- vsRHP
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Armas        .252  .291  .462   143   36   10    1    6   13    7   43   0   0
+ Benedict     .241  .290  .287    87   21    4    0    0    8    5   16   0   0
+ Butler       .000  .200  .000     4    0    0    0    0    0    1    0   0   0
+ Cooper       .296  .316  .468   412  122   33    1   12   57   14   66   1   4
+ Cromartie    .236  .317  .340   347   82   11    2    7   26   42   44   0   4
+rEasler       .252  .323  .370   230   58   16    1    3   22   20   47   0   0
+rEisenreich   .226  .314  .290    31    7    2    0    0    5    4    6   0   0
+ Fisk         .234  .296  .341   320   75   14    1    6   27   24   56   0   5
+ Flannery     .244  .311  .252   123   30    1    0    0    9   11   12   0   0
+ Garcia       .276  .307  .345   417  115   29    0    0   29   14   45   3   1
+ Horner       .211  .286  .383   389   82   16    0   17   53   40   74   0   7
+rMaldonado    .000  .000  .000     0    0    0    0    0    0    0    0   0   0
+rMcBride      .000  .000  .000     0    0    0    0    0    0    0    0   0   0
+ Moreno       .274  .336  .330   106   29    6    0    0    8    9   13   3   2
+ Murphy       .273  .336  .423   414  113   14    3   14   56   40  105   0   3
+ Orta         .159  .186  .207    82   13    1    0    1    5    2   13   0   1
+rOrtiz        .000  .000  .000     0    0    0    0    0    0    0    0   0   0
+ Pocoroba     .182  .250  .273    11    2    1    0    0    2    0    1   0   0
+ Russell      .223  .313  .276   373   83   15    1    1   22   48   22   1   2
+dThomas       .324  .370  .382    68   22    4    0    0    3    5    6   0   0
+ 
+ Christnson   .061  .098  .061    49    3    0    0    0    2    2   15   5   0
+ Flanagan     .105  .105  .158    38    4    2    0    0    1    0   15   2   0
+rHayes        .000  .000  .000     1    0    0    0    0    0    0    0   0   0
+rHoyt         .155  .183  .172    58    9    1    0    0    6    2   16   4   0
+ Hume         .000  .000  .000     3    0    0    0    0    0    0    2   0   0
+ Lavelle      .000  .000  .000     1    0    0    0    0    0    0    0   0   0
+ Matlack      .000  .000  .000     2    0    0    0    0    0    0    1   0   0
+ Niekro, P    .216  .256  .243    37    8    1    0    0    3    2   10   3   0
+ Perez        .000  .000  .000     3    0    0    0    0    0    0    1   1   0
+ Perry        .143  .143  .143     7    1    0    0    0    0    0    3   0   0
+ Reardon      .000  .000  .000     1    0    0    0    0    0    0    0   1   0
+ Valenzuela   .131  .131  .148    61    8    1    0    0    1    0   15   9   0
+ 
+ Team Total   .242  .296  .347  3818  923  182   10   67  358  292  647  33  29
+      DMB League Games Started by Position:  1982 Parsons Parsons-- vsLHP
+                                        
+ 
+ NAME           C   1B   2B   3B   SS   LF   CF   RF
+ 
+ Benedict      11    0    0    0    0    0    0    0
+ Fisk          45    2    0    0    0    0    0    0
+rOrtiz          0    0    0    0    0    0    0    0
+ Pocoroba       0    0    0   14    0    0    0    0
+ Cooper         0   51    0    0    0    0    0    0
+ Flannery       0    0    5    0   19    0    0    0
+ Garcia         0    0   51    0    0    0    0    0
+ Horner         0    0    0   42    0    0    0    0
+ Orta           0    0    0    0    0    0    0    0
+ Russell        0    0    0    0   37    0    0    0
+dThomas         0    0    0    0    0    0    0    0
+ Armas          0    0    0    0    0    0    0   38
+ Butler         0    0    0    0    0    0    6    0
+ Cromartie      0    3    0    0    0   30    0   17
+rEasler         0    0    0    0    0   22    0    0
+rEisenreich     0    0    0    0    0    0    2    0
+rMaldonado      0    0    0    0    0    0    0    0
+rMcBride        0    0    0    0    0    0    0    0
+ Moreno         0    0    0    0    0    0    0    0
+ Murphy         0    0    0    0    0    4   48    1
+ 
+ Team Total    56   56   56   56   56   56   56   56
+      DMB League Games Started by Position:  1982 Parsons Parsons-- vsRHP
+                                        
+ 
+ NAME           C   1B   2B   3B   SS   LF   CF   RF
+ 
+ Benedict      20    0    0    0    0    0    0    0
+ Fisk          86    3    0    0    0    0    0    0
+rOrtiz          0    0    0    0    0    0    0    0
+ Pocoroba       0    0    0    0    0    0    0    0
+ Cooper         0   97    0    0    0    0    0    0
+ Flannery       0    0   10    4   10    0    0    0
+ Garcia         0    0   96    0    0    0    0    0
+ Horner         0    0    0  102    0    0    0    0
+ Orta           0    0    0    0    0   22    0    0
+ Russell        0    0    0    0   96    0    0    0
+dThomas         0    0    0    0    0   20    0    0
+ Armas          0    0    0    0    0    0    0   16
+ Butler         0    0    0    0    0    0    0    0
+ Cromartie      0    6    0    0    0    0    0   88
+rEasler         0    0    0    0    0   58    0    0
+rEisenreich     0    0    0    0    0    0    5    0
+rMaldonado      0    0    0    0    0    0    0    0
+rMcBride        0    0    0    0    0    0    0    0
+ Moreno         0    0    0    0    0    0   12    0
+ Murphy         0    0    0    0    0    6   89    2
+ 
+ Team Total   106  106  106  106  106  106  106  106
+             DMB League Pitching Statistics:  1982 Parsons Parsons
+                                        
+ 
+ NAME         ERA  W  L  S   G GS CG SH    IP   H   R  ER  BB   K   BF HR WP DP
+ 
+rAllen       0.00  0  0  0   0  0  0  0   0.0   0   0   0   0   0    0  0  0  0
+ Christnson  3.28 12 16  0  32 32  1  0 217.0 218  91  79  49 137  903 10  3 17
+ Flanagan    2.38  9  6  0  22 19  6  2 147.2 135  49  39  36  91  610  7  4 11
+rHayes       2.85  1  2  1  44  0  0  0  47.1  42  18  15  24  42  208  4  0  1
+rHoyt        3.08 15 13  0  34 34  9  0 251.1 250 102  86  59 155 1046 24  4 21
+ Hume        1.06  2  0  5  36  0  0  0  42.1  29   5   5   6  15  155  1  0  5
+rLamp        0.00  0  0  0   0  0  0  0   0.0   0   0   0   0   0    0  0  0  0
+ Lavelle     3.30  2  9  4  39  0  0  0  43.2  47  24  16  11  38  195  5  0  2
+ Matlack     3.38  1  0  1  29  1  0  0  48.0  52  21  18   9  32  206  2  1  5
+ Niekro, P   2.87 13 10  0  34 34  5  4 222.1 204  80  71  77 134  933 11  3 21
+rPastore     0.00  0  0  0   0  0  0  0   0.0   0   0   0   0   0    0  0  0  0
+ Perez       3.08  2  3  2  42  0  0  0  73.0  86  26  25  11  32  299  1  1 11
+ Perry       2.77  1  2  0   4  4  1  1  26.0  23   8   8   7  22  106  1  0  1
+ Reardon     2.35  5  7 25  46  0  0  0  57.1  35  19  15  29  45  230  2  1  4
+ Valenzuela  3.56 12 19  0  38 38  6  0 280.2 270 121 111  70 214 1156 26  2 23
+
+ Team Total  3.02    87    162    28   1456.2     564     388     6047    19
+                  75    38    162    12      1391     488     957      94   122
+ 
+ 
+ NAME          IW HBP  WP  BK  CI   H/9  BB/9   R/9   K/9  HR/9
+ 
+rAllen          0   0   0   0   0   0.0   0.0   0.0   0.0   0.0
+ Christnson     6   1   3   2   0   9.0   2.0  11.1   5.7   0.4
+ Flanagan       7   3   4   1   0   8.2   2.2  10.6   5.5   0.4
+rHayes          4   0   0   0   0   8.0   4.6  12.5   8.0   0.8
+rHoyt          12   2   4   0   0   9.0   2.1  11.1   5.6   0.9
+ Hume           2   0   0   0   0   6.2   1.3   7.4   3.2   0.2
+rLamp           0   0   0   0   0   0.0   0.0   0.0   0.0   0.0
+ Lavelle        6   0   0   0   0   9.7   2.3  12.0   7.8   1.0
+ Matlack        1   2   1   0   0   9.8   1.7  11.8   6.0   0.4
+ Niekro, P      0   6   3   1   0   8.3   3.1  11.6   5.4   0.4
+rPastore        0   0   0   0   0   0.0   0.0   0.0   0.0   0.0
+ Perez          1   1   1   1   0  10.6   1.4  12.1   3.9   0.1
+ Perry          0   0   0   0   0   8.0   2.4  10.4   7.6   0.3
+ Reardon        3   0   1   0   0   5.5   4.6  10.0   7.1   0.3
+ Valenzuela     2   4   2   0   0   8.7   2.2  11.0   6.9   0.8
+
+ Team Total    44  19  19   5   0   8.6   2.4  11.1   5.9   0.6
+             DMB League Pitching Statistics:  1982 Parsons Parsons
+                                        
+ 
+ NAME         AVG   OBP   SPC   BF   AB    H  2B  3B  HR   TB  SH  SF
+ 
+rAllen       .000  .000  .000    0    0    0   0   0   0    0   0   0
+ Christnson  .257  .298  .362  903  848  218  45   7  10  307   3   2
+ Flanagan    .240  .288  .348  610  563  135  28   6   7  196   5   3
+rHayes       .231  .320  .368  208  182   42   9   2   4   67   2   0
+rHoyt        .258  .300  .401 1046  968  250  56   5  24  388  11   6
+ Hume        .195  .226  .235  155  149   29   3   0   1   35   0   0
+rLamp        .000  .000  .000    0    0    0   0   0   0    0   0   0
+ Lavelle     .257  .297  .383  195  183   47   6   1   5   70   0   1
+ Matlack     .272  .310  .398  206  191   52  16   1   2   76   3   1
+ Niekro, P   .242  .309  .324  933  843  204  30   3  11  273   4   3
+rPastore     .000  .000  .000    0    0    0   0   0   0    0   0   0
+ Perez       .302  .330  .372  299  285   86  13   2   1  106   2   0
+ Perry       .232  .283  .323  106   99   23   4   1   1   32   0   0
+ Reardon     .179  .278  .241  230  195   35   6   0   2   47   0   6
+ Valenzuela  .253  .300  .399 1156 1066  270  59   9  26  425   9   7
+
+ Team Total  .250  .299  .363      5572      275      94       39
+                              6047      1391      37     2022      29
+ 
+ 
+ NAME          GS  CG   CG% SHo  QS   QS%   RS RS/G  RL RLS   RL%
+ 
+rAllen          0   0  .000   0   0  .000    0  0.0   0   0  .000
+ Christnson    32   1  .031   0  22  .688  102  3.2  17   6  .353
+ Flanagan      19   6  .316   2  14  .737   68  3.6  10   6  .600
+rHayes          0   0  .000   0   0  .000    0  0.0  15   3  .200
+rHoyt          34   9  .265   0  23  .676  126  3.7  10   1  .100
+ Hume           0   0  .000   0   0  .000    0  0.0   5   1  .200
+rLamp           0   0  .000   0   0  .000    0  0.0   0   0  .000
+ Lavelle        0   0  .000   0   0  .000    0  0.0  14   2  .143
+ Matlack        1   0  .000   0   0  .000    2  2.0   4   2  .500
+ Niekro, P     34   5  .147   4  21  .618  122  3.6  21   6  .286
+rPastore        0   0  .000   0   0  .000    0  0.0   0   0  .000
+ Perez          0   0  .000   0   0  .000    0  0.0   6   2  .333
+ Perry          4   1  .250   1   2  .500    4  1.0   1   0  .000
+ Reardon        0   0  .000   0   0  .000    0  0.0   8   1  .125
+ Valenzuela    38   6  .158   0  24  .632  116  3.1  16   4  .250
+
+ Team Total   162      .173     106        540      127      .268
+                   28        12      .654       3.3      34
+             DMB League Pitching Statistics:  1982 Parsons Parsons
+                                        
+ 
+ NAME         SvO  Sv   Sv%  BSv  BSv%  IR  IRS   IR%    G  RA   RA%  GF   GF%
+ 
+rAllen          0   0  .000    0  .000   0    0  .000    0   0  .000   0  .000
+ Christnson     0   0  .000    0  .000   0    0  .000   32   0  .000   0  .000
+ Flanagan       0   0  .000    0  .000   0    0  .000   22   3  .136   3 1.000
+rHayes         14   1  .071    1  .071  20    6  .300   44  44 1.000  20  .455
+rHoyt           0   0  .000    0  .000   0    0  .000   34   0  .000   0  .000
+ Hume          12   5  .417    2  .167  20    2  .100   36  36 1.000  22  .611
+rLamp           0   0  .000    0  .000   0    0  .000    0   0  .000   0  .000
+ Lavelle       16   4  .250    2  .125  20    5  .250   39  39 1.000  19  .487
+ Matlack        2   1  .500    0  .000  17    7  .412   29  28  .966  14  .500
+ Niekro, P      0   0  .000    0  .000   0    0  .000   34   0  .000   0  .000
+rPastore        0   0  .000    0  .000   0    0  .000    0   0  .000   0  .000
+ Perez          5   2  .400    1  .200  23    9  .391   42  42 1.000  22  .524
+ Perry          0   0  .000    0  .000   0    0  .000    4   0  .000   0  .000
+ Reardon       33  25  .758    7  .212  27    5  .185   46  46 1.000  34  .739
+ Valenzuela     0   0  .000    0  .000   0    0  .000   38   0  .000   0  .000
+
+ Team Total    82      .463       .159       34        400      .595      .563
+                   38         13       127       .268      238       134
+           DMB League Pitching Splits:  1982 Parsons Parsons-- vsLHB
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+rAllen        .000  .000  .000     0    0    0    0    0    0    0    0   0   0
+ Christnson   .283  .334  .401   389  110   21    5    5   44   31   51   0   2
+ Flanagan     .146  .212  .204   157   23    6    0    1   11   10   44   1   0
+rHayes        .276  .360  .434    76   21    4    1    2    8   10   13   0   0
+rHoyt         .304  .355  .463   490  149   29    2   15   49   39   58   4   3
+ Hume         .298  .344  .404    57   17    3    0    1    4    4    1   0   0
+rLamp         .000  .000  .000     0    0    0    0    0    0    0    0   0   0
+ Lavelle      .159  .169  .188    69   11    2    0    0    5    1   26   0   1
+ Matlack      .194  .239  .242    62   12    3    0    0    5    3   17   1   1
+ Niekro, P    .209  .265  .282   425   89   15    2    4   28   33   62   1   3
+rPastore      .000  .000  .000     0    0    0    0    0    0    0    0   0   0
+ Perez        .270  .308  .306   111   30    1    0    1    7    6   11   1   0
+ Perry        .138  .242  .207    29    4    2    0    0    0    4    7   0   0
+ Reardon      .212  .368  .271    85   18    2    0    1   10   24   11   0   5
+ Valenzuela   .256  .310  .411   219   56   12    5    4   27   16   51   0   2
+ 
+ Team Total   .249  .306  .356  2169  540  100   15   34  198  181  352   8  17
+           DMB League Pitching Splits:  1982 Parsons Parsons-- vsRHB
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+rAllen        .000  .000  .000     0    0    0    0    0    0    0    0   0   0
+ Christnson   .235  .266  .329   459  108   24    2    5   37   18   86   3   0
+ Flanagan     .276  .317  .404   406  112   22    6    6   31   26   47   4   3
+rHayes        .198  .292  .321   106   21    5    1    2   10   14   29   2   0
+rHoyt         .211  .243  .337   478  101   27    3    9   43   20   97   7   3
+ Hume         .130  .149  .130    92   12    0    0    0    2    2   14   0   0
+rLamp         .000  .000  .000     0    0    0    0    0    0    0    0   0   0
+ Lavelle      .316  .371  .500   114   36    4    1    5   22   10   12   0   0
+ Matlack      .310  .346  .473   129   40   13    1    2   20    6   15   2   0
+ Niekro, P    .275  .353  .366   418  115   15    1    7   41   44   72   3   0
+rPastore      .000  .000  .000     0    0    0    0    0    0    0    0   0   0
+ Perez        .322  .344  .414   174   56   12    2    0   25    5   21   1   0
+ Perry        .271  .301  .371    70   19    2    1    1    8    3   15   0   0
+ Reardon      .155  .190  .218   110   17    4    0    1   10    5   34   0   1
+ Valenzuela   .253  .297  .396   847  214   47    4   22   87   54  163   9   5
+ 
+ Team Total   .250  .292  .367  3403  851  175   22   60  336  207  605  31  12
+             DMB League Fielding Statistics:  1982 Parsons Parsons
+                                        
+ 
+POS NAME             G    GS    PO     A     E    DP    TC     PCT   PB
+ 
+p   Valenzuela      38    38    18    33     2     3    53    .962
+    Niekro, P       34    34    15    32     1     0    48    .979
+    Christnson      32    32    17    21     4     4    42    .905
+   rHoyt            34    34    12    26     0     4    38   1.000
+    Flanagan        22    19    11    23     0     1    34   1.000
+    Lavelle         39     0     7     2     2     0    11    .818
+    Matlack         29     1     0    10     0     1    10   1.000
+    Reardon         46     0     4     4     2     0    10    .800
+    Perez           42     0     3     7     0     2    10   1.000
+    Hume            36     0     2     5     0     1     7   1.000
+   rHayes           44     0     2     4     0     0     6   1.000
+    Perry            4     4     1     2     0     1     3   1.000
+                   400   162    92   169    11    17   272    .960
+ 
+c   Fisk           143   131   805    61     5     4   871    .994    4
+    Benedict        52    31   199    17     3     0   219    .986    1
+    Pocoroba         3     0     3     0     0     0     3   1.000    0
+                   198   162  1007    78     8     4  1093    .993    5
+ 
+1b  Cooper         149   148  1327    89     9   117  1425    .994
+    Cromartie       10     9    97     9     0     7   106   1.000
+    Fisk             6     5    49     4     0     1    53   1.000
+   rEisenreich       1     0     7     0     0     0     7   1.000
+                   166   162  1480   102     9   125  1591    .994
+ 
+2b  Garcia         149   147   298   462    17    94   777    .978
+    Flannery        16    15    24    34     1     7    59    .983
+   dThomas           3     0     2     0     0     0     2   1.000
+                   168   162   324   496    18   101   838    .979
+ 
+3b  Horner         147   144    96   220    16    25   332    .952
+    Flannery        42     4     7    23     2     4    32    .938
+    Pocoroba        14    14     9    15     1     2    25    .960
+                   203   162   112   258    19    31   389    .951
+ 
+ss  Russell        143   133   171   471    26    75   668    .961
+    Flannery        34    29    31    92     5     9   128    .961
+   dThomas           1     0     0     1     0     0     1   1.000
+                   178   162   202   564    31    84   797    .961
+ 
+lf rEasler          80    80   176     5     9     1   190    .953
+    Cromartie       36    30    68     3     0     0    71   1.000
+    Orta            24    22    52     2     2     1    56    .964
+   dThomas          21    20    39     5     2     0    46    .957
+    Murphy          16    10    35     2     2     0    39    .949
+                   177   162   370    17    15     2   402    .963
+             DMB League Fielding Statistics:  1982 Parsons Parsons
+                                        
+ 
+POS NAME             G    GS    PO     A     E    DP    TC     PCT   PB
+ 
+cf  Murphy         137   137   354    18    10     4   382    .974
+    Moreno          15    12    39     1     1     0    41    .976
+   rEisenreich      11     7    24     1     0     0    25   1.000
+    Butler           7     6    15     1     0     0    16   1.000
+    Armas            8     0     6     0     0     0     6   1.000
+   dThomas           3     0     4     0     0     0     4   1.000
+                   181   162   442    21    11     4   474    .977
+ 
+rf  Cromartie      106   105   197    15     4     4   216    .981
+    Armas           62    54   121     3     5     2   129    .961
+    Murphy          10     3    11     0     0     0    11   1.000
+   dThomas           9     0     5     1     0     0     6   1.000
+    Orta             4     0     4     0     1     0     5    .800
+   rEisenreich       1     0     2     0     0     0     2   1.000
+   rEasler           1     0     1     0     0     0     1   1.000
+                   193   162   341    19    10     6   370    .973
+ 
+    Team Total     162   162  4370  1724   132   141  6226    .979    5
+                      Game Results:  1982 Parsons Parsons
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 6/ 4/1999   @CIN   L  0-4      Valenzuela  Valenzuela              Soto        
+ 6/ 5/1999   @CIN   L  3-4      Hoyt        Hoyt                    Petry       
+ 6/ 6/1999   @CIN   L  5-6      Niekro, P   Niekro, P               Berenyi     
+ 6/ 7/1999    GCP   L  1-2      Christnson  Christnson              Sarmiento   
+ 6/ 8/1999    GCP   L  4-6  10  Flanagan    Hayes                   Barker      
+ 6/ 9/1999    GCP   L  3-5      Valenzuela  Valenzuela              Beattie     
+ 6/10/1999   @JJJ   L  2-3      Hoyt        Reardon                 Guidry      
+ 6/11/1999   @JJJ   L  0-3      Niekro, P   Niekro, P               Zahn        
+ 6/12/1999   @JJJ   L  3-5      Christnson  Christnson              Jenkins     
+ 6/14/1999   @JJJ   W  8-5      Flanagan    Flanagan                Dotson      
+ 6/15/1999   @JJJ   W  7-2      Valenzuela  Valenzuela              Gullickson  
+ 6/19/1999    BBG   W  3-1      Hoyt        Hoyt                    Scott       
+ 6/20/1999    BBG   L  1-3      Niekro, P   Niekro, P               Viola       
+ 6/22/1999   @BAR   L  3-5      Christnson  Christnson              Stieb       
+ 6/23/1999   @BAR   L  1-7      Valenzuela  Valenzuela              Morris      
+ 6/24/1999   @BAR   W  3-1      Hoyt        Hoyt        Reardon     Smith,B     
+ 6/25/1999    BAR   L  4-5      Niekro, P   Niekro, P               Eichhorn    
+ 6/28/1999    CTW   L  3-11     Valenzuela  Valenzuela              Hough       
+ 6/29/1999    CTW   L  1-5      Hoyt        Hoyt                    Krukow      
+ 6/30/1999    CTW   L  2-3      Niekro, P   Lavelle                 Laskey      
+ 7/ 2/1999    CIN   L  1-2      Christnson  Reardon                 Soto        
+ 7/ 3/1999    CIN   L  1-3      Valenzuela  Valenzuela              Petry       
+ 7/ 4/1999    JJJ   L  0-5      Hoyt        Hoyt                    Guidry      
+ 7/ 5/1999    JJJ   L  0-3      Niekro, P   Niekro, P               Zahn        
+ 7/ 8/1999   @CEN   L  0-4      Valenzuela  Valenzuela              Forsch, K   
+ 7/ 9/1999   @JJJ   W  9-3      Hoyt        Hoyt                    Guidry      
+ 7/10/1999   @JJJ   L  2-3      Niekro, P   Lavelle                 Zahn        
+ 7/11/1999   @JJJ   W  7-6      Christnson  Perez       Reardon     Jenkins     
+ 7/12/1999   @JJJ   W  5-1      Flanagan    Flanagan                Dotson      
+ 7/13/1999    CEN   W  7-3      Valenzuela  Valenzuela              McWilliams  
+ 7/14/1999    CEN   W  5-4      Hoyt        Hoyt                    Swan        
+ 7/18/1999    BOS   L  3-4      Valenzuela  Valenzuela              Palmer      
+ 7/19/1999    BOS   L  2-4  11  Hoyt        Reardon                 Lerch       
+ 7/21/1999    GCP   W  6-5      Niekro, P   Hume                    Reuss       
+ 7/22/1999    GCP   W  5-2      Christnson  Christnson  Hume        Sarmiento   
+ 7/23/1999    GCP   W  3-1  10  Valenzuela  Hayes                   Barker      
+ 7/24/1999    CIN   L  2-3      Hoyt        Lavelle                 Righetti    
+ 7/25/1999    CIN   W  7-3      Niekro, P   Matlack                 Stewart     
+ 7/26/1999    CIN   W  7-4      Christnson  Christnson  Reardon     Soto        
+ 7/27/1999    CIN   W  5-2      Flanagan    Flanagan                Petry       
+ 7/28/1999   @BMB   L  3-6      Valenzuela  Valenzuela              Denny       
+ 7/29/1999   @BMB   W  2-0      Hoyt        Hoyt        Reardon     Rogers      
+ 7/30/1999   @BMB   L  2-3      Niekro, P   Niekro, P               Clancy      
+ 7/31/1999    GCP   W 10-3      Christnson  Christnson  Reardon     Barker      
+ 8/ 1/1999    GCP   L  0-4      Flanagan    Flanagan                Beattie     
+ 8/ 2/1999    GCP   L  3-4  11  Valenzuela  Reardon                 Montefusco  
+ 8/ 3/1999    CIN   L  4-7      Hoyt        Hoyt                    Petry       
+ 8/ 4/1999    CIN   W  5-0      Niekro, P   Niekro, P               Berenyi     
+ 8/ 5/1999    CIN   W  4-1      Christnson  Christnson  Reardon     Righetti    
+ 8/ 6/1999   @BBG   W  8-2      Flanagan    Flanagan                Alexander   
+ 8/ 7/1999   @BBG   W  4-3      Valenzuela  Valenzuela  Reardon     Welch       
+ 8/ 8/1999   @BBG   W  5-1      Hoyt        Hoyt                    Scott       
+                      Game Results:  1982 Parsons Parsons
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 8/ 9/1999    BBG   W  6-2      Niekro, P   Niekro, P               Viola       
+ 8/10/1999    BBG   L  2-6      Christnson  Christnson              Alexander   
+ 8/11/1999    BBG   L  4-7  12  Flanagan    Lavelle                 Welch       
+ 8/14/1999    SUN   L  0-1      Valenzuela  Valenzuela              Show        
+ 8/15/1999    SUN   L  2-9      Hoyt        Hoyt                    Lea         
+ 8/16/1999   @CIN   W  3-2  10  Niekro, P   Lavelle     Reardon     Righetti    
+ 8/17/1999   @CIN   L  2-5      Christnson  Christnson              Falcone     
+ 8/18/1999   @CIN   L  3-7      Flanagan    Flanagan                Soto        
+ 8/19/1999   @SUN   L  5-6      Valenzuela  Valenzuela              Show        
+ 8/20/1999   @SUN   L  3-4      Hoyt        Hoyt                    Beckwith    
+ 8/22/1999   @FER   W  3-1      Niekro, P   Niekro, P   Reardon     Hammaker    
+ 8/23/1999   @FER   L  2-8      Christnson  Christnson              Shirley     
+ 8/24/1999   @NYH   W  6-3      Valenzuela  Valenzuela              Wilcox      
+ 8/25/1999   @NYH   W  6-3      Hoyt        Hoyt        Reardon     Ryan        
+ 8/26/1999   @NYH   L  4-5      Niekro, P   Reardon                 Lollar      
+ 8/27/1999   @GCP   W  4-1      Christnson  Christnson  Hume        Barker      
+ 8/28/1999   @GCP   W  5-1      Flanagan    Flanagan                Beattie     
+ 8/29/1999   @GCP   W  7-3      Valenzuela  Valenzuela  Hayes       Montefusco  
+ 8/30/1999    CTW   L  1-3      Hoyt        Hoyt                    Krukow      
+ 9/ 2/1999    LON   W  9-1      Niekro, P   Niekro, P               Orosco      
+ 9/ 3/1999    BMB   L  1-6      Christnson  Christnson              Rogers      
+ 9/ 4/1999    BMB   W  3-2      Valenzuela  Valenzuela              Clancy      
+ 9/ 6/1999   @NYH   L  3-8      Hoyt        Hoyt                    Ryan        
+ 9/ 7/1999    NYH   L  0-9      Niekro, P   Niekro, P               Lollar      
+ 9/ 8/1999    NYH   L  1-2      Christnson  Christnson              Ujdur       
+ 9/ 9/1999    LDL   L  1-2  10  Valenzuela  Hayes                   Caldwell    
+ 9/10/1999    LDL   W  9-2      Hoyt        Hoyt                    McGregor    
+ 9/14/1999    LDL   W  8-7      Valenzuela  Reardon                 Seaver      
+ 9/15/1999   @CIN   L  3-5      Hoyt        Hoyt                    Petry       
+ 9/16/1999   @CIN   L  2-3      Niekro, P   Lavelle                 Berenyi     
+ 9/17/1999   @CIN   L  4-6      Christnson  Christnson              Righetti    
+ 9/19/1999    BMB   L  3-4      Valenzuela  Valenzuela              Rogers      
+ 9/20/1999    BMB   L  2-5      Hoyt        Hoyt                    Clancy      
+ 9/21/1999    BMB   L  2-5      Matlack     Perez                   Bannister   
+ 9/22/1999   @CEN   L  2-8      Christnson  Christnson              Niekro,J    
+ 9/23/1999   @CEN   L  0-3      Flanagan    Flanagan                Sanderson   
+ 9/24/1999   @CEN   L  3-10     Valenzuela  Valenzuela              Forsch, K   
+ 9/25/1999    LON   W  6-1      Hoyt        Hoyt                    Mahler      
+ 9/26/1999    LON   W  7-1      Niekro, P   Niekro, P   Lavelle     Knepper     
+ 9/27/1999    LON   L  1-2      Christnson  Christnson              Camp        
+ 9/28/1999   @BBG   W  4-2      Flanagan    Reardon                 Blue        
+ 9/29/1999   @BBG   L  0-5      Valenzuela  Valenzuela              Welch       
+ 9/30/1999   @BBG   W  7-1      Hoyt        Hoyt                    John        
+10/ 1/1999   @BBG   W  2-0      Niekro, P   Niekro, P               Dravecky    
+10/ 2/1999   @CTW   L  1-4      Christnson  Christnson              Krukow      
+10/ 3/1999   @CTW   L  1-6      Flanagan    Flanagan                Laskey      
+10/ 4/1999   @CTW   W  5-4      Valenzuela  Valenzuela  Reardon     Hough       
+10/ 5/1999   @BOS   W  8-1      Hoyt        Hoyt                    Martinez,D  
+10/ 6/1999   @BOS   W  6-4  13  Niekro, P   Reardon     Hume        Carlton     
+10/ 7/1999    JJJ   W  3-2      Christnson  Christnson  Hume        Gullickson  
+10/ 8/1999    JJJ   W  5-0      Flanagan    Flanagan                Guidry      
+10/ 9/1999   @BOS   L  3-5      Valenzuela  Valenzuela              Robinson,D  
+                      Game Results:  1982 Parsons Parsons
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+10/10/1999   @BOS   W  2-0      Hoyt        Hoyt        Reardon     Martinez,D  
+10/11/1999   @BOS   W  8-5      Niekro, P   Perez       Reardon     Carlton     
+10/12/1999    SUN   W  4-3      Christnson  Christnson  Reardon     Lea         
+10/13/1999    SUN   W  4-3      Flanagan    Flanagan    Lavelle     Candelaria  
+10/14/1999    SUN   L  3-4      Valenzuela  Valenzuela              Anderson    
+10/18/1999   @LDL   L  5-6      Hoyt        Hoyt                    McGregor    
+10/19/1999   @LDL   W  2-1      Niekro, P   Niekro, P   Reardon     Seaver      
+10/20/1999   @CTW   W  6-1      Christnson  Christnson              Forsch, B   
+10/21/1999   @CTW   L  6-8      Valenzuela  Valenzuela              Krukow      
+10/23/1999    FER   W  5-3      Hoyt        Hoyt        Reardon     Andujar     
+10/26/1999    BBG   W  3-2      Niekro, P   Niekro, P   Reardon     Blue        
+10/27/1999    BBG   L  0-1      Christnson  Christnson              Welch       
+10/28/1999    BBG   W  3-2      Valenzuela  Valenzuela              John        
+10/29/1999    BBG   L  5-8      Hoyt        Hoyt                    Dravecky    
+10/30/1999   @LON   W  2-0      Niekro, P   Niekro, P   Reardon     Knepper     
+10/31/1999   @LON   W 11-1      Christnson  Christnson              Camp        
+11/ 1/1999   @LON   L  1-3      Flanagan    Flanagan                Koosman     
+11/ 2/1999    BOS   W  3-1      Valenzuela  Valenzuela  Reardon     Palmer      
+11/ 3/1999    BOS   W  4-3      Hoyt        Hoyt        Reardon     Robinson,D  
+11/ 4/1999    JJJ   W  2-0      Niekro, P   Niekro, P               Guidry      
+11/ 5/1999    JJJ   W  1-0      Christnson  Christnson  Reardon     Zahn        
+11/ 6/1999    JJJ   L  1-7      Flanagan    Flanagan                Price       
+11/ 7/1999   @BBG   W  3-2      Valenzuela  Valenzuela              Dravecky    
+11/ 8/1999   @BBG   L  2-8      Hoyt        Hoyt                    Blue        
+11/10/1999    JJJ   W  4-1      Niekro, P   Niekro, P   Reardon     Gullickson  
+11/11/1999    JJJ   L  2-6      Christnson  Christnson              Guidry      
+11/12/1999   @BMB   W  3-2  14  Valenzuela  Lavelle     Perez       Leal        
+11/14/1999   @SUN   W  3-1      Hoyt        Hoyt        Hume        Lea         
+11/15/1999   @SUN   W  4-3      Niekro, P   Niekro, P   Perez       Anderson    
+11/16/1999   @LDL   L  1-2  12  Christnson  Lavelle                 Eckersley   
+11/17/1999   @LDL   W  3-1  10  Valenzuela  Reardon     Matlack     Honeycutt   
+11/19/1999   @GCP   L  2-3  13  Hoyt        Perez                   Beattie     
+11/20/1999   @GCP   L  3-4      Niekro, P   Niekro, P               Montefusco  
+11/21/1999   @GCP   W  3-2      Christnson  Hume        Lavelle     Reuss       
+11/22/1999   @FER   W  3-1      Valenzuela  Valenzuela  Reardon     Scherrer    
+11/23/1999   @FER   L  2-3      Hoyt        Lavelle                 Shirley     
+11/24/1999   @FER   L  5-6      Niekro, P   Lavelle                 Andujar     
+11/25/1999    FER   L  1-5      Christnson  Christnson              Sutton      
+11/26/1999    FER   L  1-3      Flanagan    Reardon                 Sutcliffe   
+11/27/1999    FER   L  2-3  10  Valenzuela  Reardon                 Scherrer    
+11/28/1999    CEN   L  5-7      Hoyt        Lavelle                 Niekro,J    
+11/29/1999    CEN   W  5-0      Niekro, P   Niekro, P               Sanderson   
+11/30/1999    CEN   L  3-6      Christnson  Christnson              Forsch, K   
+12/ 1/1999   @BAR   W  4-2      Flanagan    Flanagan                Black       
+12/ 2/1999   @BAR   W  4-3      Valenzuela  Valenzuela  Reardon     Stieb       
+12/ 4/1999    BAR   W  1-0      Perry       Perry                   Morris      
+12/ 5/1999    BAR   W  3-2  10  Niekro, P   Reardon                 Tanana      
+12/ 6/1999    BAR   W  1-0      Christnson  Christnson  Lavelle     Burns       
+12/ 8/1999   @GCP   L  1-2      Valenzuela  Valenzuela              Reuss       
+12/ 9/1999   @GCP   L  0-4      Perry       Perry                   Sarmiento   
+12/10/1999   @GCP   L  1-4      Niekro, P   Niekro, P               Barker      
+12/11/1999   @LON   W  5-3      Christnson  Christnson  Reardon     Bird        
+                      Game Results:  1982 Parsons Parsons
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+12/12/1999   @LON   W  5-0      Flanagan    Flanagan                Rhoden      
+12/13/1999    NYH   L  0-9      Valenzuela  Valenzuela              Lollar      
+12/14/1999    NYH   L  2-3  16  Perry       Perez                   Rozema      
+12/15/1999    NYH   L  4-7      Niekro, P   Niekro, P               Wilcox      
+12/18/1999    LDL   L  0-2      Valenzuela  Valenzuela              Gura        
+12/19/1999    LDL   L  1-4      Perry       Perry                   Caldwell    
+                        Injury Log: 1982 Parsons Parsons
+                                        
+ 
+-- Date -- #  Player      Cause                 Length
+ 
+ 6/28/1999    Garcia      General                  2
+ 6/30/1999    Niekro, P   General                  0
+ 7/12/1999    Flanagan    Rain delay               0
+ 7/31/1999    Cromartie   General                  0
+ 8/ 3/1999    Easler      Hit by pitch             0
+ 8/10/1999    Cooper      General                  6
+ 8/16/1999    Benedict    General                  5
+ 9/16/1999    Niekro, P   General                  5
+ 9/21/1999    Matlack     Rain delay               0
+10/30/1999    Cromartie   General                  0
+11/ 3/1999    Thomas      General                 22
+11/14/1999    Lavelle     General                  0
+12/ 9/1999    Horner      General                  5
+               DMB League Transaction Log:  1982 Parsons Parsons
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+ 9/ 3/1999  PAR    Promote      Derrell Thomas      
+ 9/ 3/1999  PAR    Farm         Jim Eisenreich      
+ 9/23/1999  PAR    Farm         Mike Easler         
+ 9/23/1999  PAR    Promote      Jorge Orta          
+10/ 7/1999  PAR    Farm         Ben Hayes           
+11/ 7/1999  PAR    Promote      Biff Pocoroba       
+11/ 7/1999  PAR    DL           Derrell Thomas        effective 11/ 4/1999  
+11/28/1999  PAR    Promote      Gaylord Perry       
+11/29/1999  PAR    Farm         Lamarr Hoyt         
+  
+

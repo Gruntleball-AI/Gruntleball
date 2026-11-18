@@ -1,0 +1,753 @@
+The Combat Rock League
+
+Llaha Dalai Lamas
+
+             DMB League Batting Statistics:  1982 Lhasa DalaiLlama
+                                        
+ 
+ NAME         AVG   OBP   SPC   G  AB   H 2B 3B HR   R RBI  BB   K HB IW  SB CS
+ 
+ Buckner     .299  .322  .421 139 568 170 30  3 11  61  61  21  34  0  2  13 13 
+ Cey         .286  .333  .523 142 503 144 33  1 28  59  97  36  92  0  0   1  1 
+ Davis, J    .193  .240  .293 114 352  68  9  1  8  32  27  23  83  0  2   0  0 
+ DeJesus     .218  .291  .256  74 133  29  3  1  0  13  10  12  24  2  0   3  0 
+ Dernier     .313  .358  .424  93 278  87 16  0  5  46  20  19  52  1  1  42 14 
+ Engle       .252  .291  .369  59 111  28  5  1  2   8  11   6  11  0  2   0  0 
+cEngle       .224  .260  .313  75 147  33  5  1  2  11  13   7  17  0  3   0  0 
+ Foster      .234  .278  .348 118 402  94 28  0  6  33  46  25 119  1  0   3  1 
+ Heath       .188  .224  .250 102 288  54 14  2  0  25  20  15  50  0  0  10  3 
+rHousholder  .000  .000  .000   0   0   0  0  0  0   0   0   0   0  0  0   0  0 
+ LeFlore     .326  .347  .505  40  95  31  5  0  4  14   7   3  27  0  0   4  5 
+ Mazzilli    .221  .293  .344 110 253  56  7  0  8  30  29  27  43  0  3   2  2 
+ Morrison    .197  .260  .366  41  71  14  6  0  2   9  10   6  15  0  0   0  0 
+ Randolph    .364  .406  .489  24  88  32  7  2  0  13   6   7   7  0  0   5  0 
+cRandolph    .268  .347  .345 135 496 133 18  4  4  74  47  60  56  3  0  24  3 
+ Rose        .444  .508  .537  53  54  24  5  0  0   7   8   7   3  0  0   0  0 
+ Salazar     .253  .260  .362 134 458 116 25  5  5  40  38   5  78  0  0  21  9 
+ Sandberg    .260  .300  .327 156 605 157 29  3  2  66  43  34 107  2  2  40 19 
+ 
+rAponte      .000  .000  .000  67   2   0  0  0  0   0   0   0   0  0  0   0  0 
+ Caldwell    .135  .147  .149  33  74  10  1  0  0   4   4   1  20  0  0   0  0 
+ Davis, R    .000  .000  .000  44   2   0  0  0  0   0   0   0   0  0  0   0  0 
+rEckersley   .095  .106  .095  34  84   8  0  0  0   5   5   0  28  1  0   0  0 
+ Gura        .151  .195  .192  34  73  11  3  0  0   4   8   4  20  0  0   0  1 
+ Havens      .000  .000  .000   4   7   0  0  0  0   0   0   0   1  0  0   0  0 
+ Honeycutt   .167  .250  .167  40  18   3  0  0  0   3   0   2   9  0  0   0  0 
+ Martinez,T  .500  .500  .500  17   4   2  0  0  0   0   0   0   1  0  0   0  0 
+cMartinez,T  .571  .571  .571  65   7   4  0  0  0   1   0   0   1  0  0   0  0 
+ McGregor    .154  .211  .154  29  65  10  0  0  0   5   6   4  18  1  0   0  0 
+rRuthven     .000  .000  .000   2   4   0  0  0  0   0   0   0   3  0  0   0  0 
+cRuthven     .039  .058  .039  23  51   2  0  0  0   1   2   1  23  0  0   0  0 
+rSeaver      .111  .111  .111  17  27   3  0  0  0   0   1   0   6  0  0   0  0 
+ Spillner    .286  .375  .286  67   7   2  0  0  0   0   1   1   2  0  0   0  0 
+rStewart     .045  .045  .045  51  22   1  0  0  0   1   0   0   5  0  0   0  0 
+ 
+ Others      .280  .346  .462 287 987 276 52  4 40 157 127  89 224 16  6  40 16
+
+ Team Total  .254  .298  .376 162    1430    23    635     347     24    184
+                                 5635    278   121     585    1082    18     84
+           DMB League Batting Splits:  1982 Lhasa DalaiLlama-- vsLHP
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Buckner      .245  .276  .297   155   38    8    0    0   14    7   16   0   1
+ Cey          .300  .320  .683   120   36    8    1   12   32    4   15   1   1
+ Davis, J     .193  .254  .193   114   22    0    0    0    4   10   22   0   2
+ DeJesus      .158  .213  .158    57    9    0    0    0    1    3   10   2   0
+ Dernier      .364  .420  .558   129   47   10    0    5   14   13   26   0   1
+ Engle        .303  .361  .515    33   10    2    1    1    4    3    1   0   0
+cEngle        .242  .288  .355    62   15    2    1    1    6    4    5   0   0
+ Foster       .216  .254  .360   111   24   10    0    2   12    6   35   0   1
+ Heath        .181  .205  .257   105   19    8    0    0    8    4   15   0   3
+rHousholder   .000  .000  .000     0    0    0    0    0    0    0    0   0   0
+ LeFlore      .293  .293  .390    41   12    4    0    0    1    0   11   0   0
+ Mazzilli     .262  .310  .450    80   21    0    0    5   12    6   17   0   1
+ Morrison     .143  .143  .429    14    2    1    0    1    3    0    4   0   0
+ Randolph     .371  .405  .571    35   13    3    2    0    1    2    1   2   0
+cRandolph     .289  .345  .411   197   57    7    4    3   24   17   19   2   4
+ Rose         .538  .571  .615    13    7    1    0    0    4    1    0   0   0
+ Salazar      .293  .299  .470   164   48   17    3    2   12    2   41   0   1
+ Sandberg     .253  .292  .328   198   50   11    2    0   14   11   47   2   0
+ 
+rAponte       .000  .000  .000     1    0    0    0    0    0    0    0   0   0
+ Caldwell     .143  .143  .179    28    4    1    0    0    2    0    6   0   0
+rEckersley    .125  .160  .125    24    3    0    0    0    0    0   10   0   0
+ Gura         .036  .069  .036    28    1    0    0    0    1    1    9   1   0
+ Havens       .000  .000  .000     4    0    0    0    0    0    0    0   0   0
+ Honeycutt    .200  .333  .200     5    1    0    0    0    0    1    3   0   0
+ Martinez,T   .500  .500  .500     2    1    0    0    0    0    0    1   0   0
+cMartinez,T   .333  .333  .333     3    1    0    0    0    0    0    1   0   0
+ McGregor     .091  .091  .091    22    2    0    0    0    2    0    6   1   0
+rRuthven      .000  .000  .000     2    0    0    0    0    0    0    2   1   0
+cRuthven      .059  .059  .059    17    1    0    0    0    1    0    6   3   0
+rSeaver       .154  .154  .154    13    2    0    0    0    0    0    3   1   0
+ Spillner     .500  .500  .500     2    1    0    0    0    1    0    0   0   0
+rStewart      .143  .143  .143     7    1    0    0    0    0    0    3   0   0
+ 
+ Others       .263  .324  .415   342   90   15    2   11   33   29   94   0   0
+ 
+ Team Total   .251  .289  .380  1849  464   99   11   39  175  103  398  11  11
+           DMB League Batting Splits:  1982 Lhasa DalaiLlama-- vsRHP
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Buckner      .320  .340  .467   413  132   22    3   11   47   14   18   0   3
+ Cey          .282  .337  .473   383  108   25    0   16   65   32   77   1   1
+ Davis, J     .193  .233  .340   238   46    9    1    8   23   13   61   2   2
+ DeJesus      .263  .345  .329    76   20    3    1    0    9    9   14   0   1
+ Dernier      .268  .301  .309   149   40    6    0    0    6    6   26   0   0
+ Engle        .231  .259  .308    78   18    3    0    1    7    3   10   0   0
+cEngle        .212  .239  .282    85   18    3    0    1    7    3   12   0   0
+ Foster       .241  .288  .344   291   70   18    0    4   34   19   84   0   2
+ Heath        .191  .235  .246   183   35    6    2    0   12   11   35   0   2
+rHousholder   .000  .000  .000     0    0    0    0    0    0    0    0   0   0
+ LeFlore      .352  .386  .593    54   19    1    0    4    6    3   16   0   0
+ Mazzilli     .202  .286  .295   173   35    7    0    3   17   21   26   0   2
+ Morrison     .211  .286  .351    57   12    5    0    1    7    6   11   1   0
+ Randolph     .358  .407  .434    53   19    4    0    0    5    5    6   0   1
+cRandolph     .254  .348  .301   299   76   11    0    1   23   43   37   1   2
+ Rose         .415  .489  .512    41   17    4    0    0    4    6    3   0   0
+ Salazar      .231  .237  .303   294   68    8    2    3   26    3   37   1   2
+ Sandberg     .263  .304  .327   407  107   18    1    2   29   23   60   5   2
+ 
+rAponte       .000  .000  .000     1    0    0    0    0    0    0    0   1   0
+ Caldwell     .130  .149  .130    46    6    0    0    0    2    1   14   3   0
+ Davis, R     .000  .000  .000     2    0    0    0    0    0    0    0   0   0
+rEckersley    .083  .083  .083    60    5    0    0    0    5    0   18   2   0
+ Gura         .222  .271  .289    45   10    3    0    0    7    3   11   3   0
+ Havens       .000  .000  .000     3    0    0    0    0    0    0    1   0   0
+ Honeycutt    .154  .214  .154    13    2    0    0    0    0    1    6   0   0
+ Martinez,T   .500  .500  .500     2    1    0    0    0    0    0    0   0   0
+cMartinez,T   .750  .750  .750     4    3    0    0    0    0    0    0   0   0
+ McGregor     .186  .265  .186    43    8    0    0    0    4    4   12   2   1
+rRuthven      .000  .000  .000     2    0    0    0    0    0    0    1   0   0
+cRuthven      .029  .057  .029    34    1    0    0    0    1    1   17   3   0
+rSeaver       .071  .071  .071    14    1    0    0    0    1    0    3   0   0
+ Spillner     .200  .333  .200     5    1    0    0    0    0    1    2   1   0
+rStewart      .000  .000  .000    15    0    0    0    0    0    0    2   4   0
+ 
+ Others       .288  .356  .487   645  186   37    2   29   94   60  130   2   9
+ 
+ Team Total   .255  .300  .374  3786  966  179   12   82  410  244  684  28  28
+      DMB League Games Started by Position:  1982 Lhasa DalaiLlama-- vsLHP
+                                        
+ 
+ NAME           C   1B   2B   3B   SS   LF   CF   RF
+ 
+ Davis, J      29    0    0    0    0    0    0    0
+ Heath         21    0    0    9    0    0    0    0
+ Buckner        0   36    0    0    0    0    0    0
+ Cey            0    0    0   26    0    0    0    0
+ DeJesus        0    0    1    0   17    0    0    0
+ Morrison       0    0    0    1    0    0    0    1
+ Rose           0    2    0    0    0    0    0    0
+ Sandberg       0    0   55    0    0    0    0    0
+ Salazar        0    0    0   20   28    0    0    0
+ Engle          0    0    0    0    0    8    0    2
+CEngle          0    0    0    0    0   17    0    2
+ Dernier        0    0    0    0    0   10   24    0
+ Foster         0    0    0    0    0   22    0    2
+rHousholder     0    0    0    0    0    0    0    0
+ LeFlore        0    0    0    0    0    3    9    0
+ Mazzilli       0    2    0    0    0    0    1   15
+ Randolph       0    0    0    0   11    0    0    0
+CRandolph       0    0   50    0   11    0    0    0
+ 
+ Others         6   16    0    0    0   13   22   36
+ 
+ Team Total    56   56   56   56   56   56   56   56
+      DMB League Games Started by Position:  1982 Lhasa DalaiLlama-- vsRHP
+                                        
+ 
+ NAME           C   1B   2B   3B   SS   LF   CF   RF
+ 
+ Davis, J      56    0    0    0    0    0    0    0
+ Heath         40    0    2    4    0    0    0    0
+ Buckner        0   97    0    0    0    0    0    0
+ Cey            0    0    0   98    0    0    0    0
+ DeJesus        0    0    4    0   10    0    0    0
+ Morrison       0    0    0    4    0    6    0    0
+ Rose           0    1    0    0    0    0    0    0
+ Sandberg       0    0  100    0    0    0    0    0
+ Salazar        0    0    0    0   83    0    0    0
+ Engle          4    1    0    0    0    3    0    5
+CEngle          4    1    0    0    0    3    0    5
+ Dernier        0    0    0    0    0    5   30    0
+ Foster         0    0    0    0    0   70    0   10
+rHousholder     0    0    0    0    0    0    0    0
+ LeFlore        0    0    0    0    0    3    7    0
+ Mazzilli       0    3    0    0    0    8    6   18
+ Randolph       0    0    0    0   13    0    0    0
+CRandolph       0    0   50    0   13    0    0    0
+ 
+ Others         6    4    0    0    0   11   63   73
+ 
+ Team Total   106  106  106  106  106  106  106  106
+             DMB League Pitching Statistics:  1982 Lhasa DalaiLlama
+                                        
+ 
+ NAME         ERA  W  L  S   G GS CG SH    IP   H   R  ER  BB   K   BF HR WP DP
+ 
+rAponte      2.83  4  8  0  67  0  0  0  92.1  78  31  29  22  60  369  8  1  8
+rBoone       0.00  0  0  0   0  0  0  0   0.0   0   0   0   0   0    0  0  0  0
+ Caldwell    3.61 12 12  0  33 32  4  0 209.2 205  95  84  38  84  845 24  4 30
+rCurtis      0.00  0  0  0   0  0  0  0   0.0   0   0   0   0   0    0  0  0  0
+rDarwin      0.00  0  0  0   0  0  0  0   0.0   0   0   0   0   0    0  0  0  0
+cDarwin      3.45  4  2  1  16 11  0  0  62.2  75  27  24  19  49  275  3  0  4
+ Davis, R    3.11  5  2  7  44  0  0  0  55.0  39  19  19  18  48  220  5  2  2
+rEckersley   3.18 15 11  0  34 33  9  1 243.1 225  95  86  30 150  976 30  0 12
+rGorman      0.00  0  0  0   0  0  0  0   0.0   0   0   0   0   0    0  0  0  0
+ Gura        2.77 16  9  0  34 34  6  2 230.1 224  84  71  36 108  939 20  6  7
+ Havens      6.10  1  2  0   4  4  0  0  20.2  25  14  14   7  12   95  2  2  0
+ Honeycutt   4.94  6  3  1  40  9  0  0  89.1 112  64  49  28  50  398 13  4 12
+ Martinez,T  2.70  1  1  2  17  0  0  0  23.1  12   8   7  10  21   88  3  0  2
+cMartinez,T  3.65  3  5  4  65  0  0  0  69.0  58  34  28  30  59  291  6  1  7
+ McGregor    3.34 10  9  0  28 28  4  1 183.1 191  86  68  32 105  769 25  3  7
+rMorgan      0.00  0  0  0   0  0  0  0   0.0   0   0   0   0   0    0  0  0  0
+rRuthven     2.25  1  0  0   2  2  0  0  16.0   7   4   4   7  12   61  1  0  1
+cRuthven     3.43  7 11  0  23 23  4  0 157.1 144  74  60  43  90  662 12  1  8
+rSeaver      5.25  4  9  0  17 17  0  0  85.2 106  58  50  34  51  391  9  2 10
+ Spillner    3.37  5  4 28  67  0  0  0 106.2 111  48  40  39  81  468  9  4  4
+rStewart     4.86  7  3  2  51  3  0  0 113.0 115  64  61  36  75  488 13  2 12
+ 
+ Others      0.00  2  0  0   5  0  0  0   6.2   7   5   0   6   2   34  0  0  0
+
+ Team Total  3.55    73    162    23   1475.1     675     343     6141    30
+                  89    40    162     8      1457     582     859     162   107
+             DMB League Pitching Statistics:  1982 Lhasa DalaiLlama
+                                        
+ 
+ NAME          IW HBP  WP  BK  CI   H/9  BB/9   R/9   K/9  HR/9
+ 
+rAponte         4   1   1   4   0   7.6   2.1   9.8   5.8   0.8
+rBoone          0   0   0   0   0   0.0   0.0   0.0   0.0   0.0
+ Caldwell       0   0   4   2   0   8.8   1.6  10.4   3.6   1.0
+rCurtis         0   0   0   0   0   0.0   0.0   0.0   0.0   0.0
+rDarwin         0   0   0   0   0   0.0   0.0   0.0   0.0   0.0
+cDarwin         0   2   0   0   0  10.8   2.7  13.8   7.0   0.4
+ Davis, R       3   2   2   1   0   6.4   2.9   9.7   7.9   0.8
+rEckersley      1   1   0   0   0   8.3   1.1   9.5   5.5   1.1
+rGorman         0   0   0   0   0   0.0   0.0   0.0   0.0   0.0
+ Gura           2   5   6   0   0   8.8   1.4  10.4   4.2   0.8
+ Havens         0   1   2   0   0  10.9   3.0  14.4   5.2   0.9
+ Honeycutt      1   1   4   1   0  11.3   2.8  14.2   5.0   1.3
+ Martinez,T     0   0   0   0   0   4.6   3.9   8.5   8.1   1.2
+cMartinez,T     2   1   1   0   0   7.6   3.9  11.6   7.7   0.8
+ McGregor       0   3   3   0   0   9.4   1.6  11.1   5.2   1.2
+rMorgan         0   0   0   0   0   0.0   0.0   0.0   0.0   0.0
+rRuthven        0   0   0   0   0   3.9   3.9   7.9   6.8   0.6
+cRuthven        1   5   1   1   0   8.2   2.5  11.0   5.1   0.7
+rSeaver         0   3   2   0   0  11.1   3.6  15.0   5.4   0.9
+ Spillner       3   1   4   0   0   9.4   3.3  12.7   6.8   0.8
+rStewart        2   2   2   0   0   9.2   2.9  12.2   6.0   1.0
+ 
+ Others         0   0   0   0   0   9.4   8.1  17.5   2.7   0.0
+
+ Team Total    16  20  30   8   0   8.9   2.1  11.1   5.2   1.0
+             DMB League Pitching Statistics:  1982 Lhasa DalaiLlama
+                                        
+ 
+ NAME         AVG   OBP   SPC   BF   AB    H  2B  3B  HR   TB  SH  SF
+ 
+rAponte      .229  .275  .343  369  341   78  15   0   8  117   2   3
+rBoone       .000  .000  .000    0    0    0   0   0   0    0   0   0
+ Caldwell    .256  .289  .409  845  800  205  40   5  24  327   4   3
+rCurtis      .000  .000  .000    0    0    0   0   0   0    0   0   0
+rDarwin      .000  .000  .000    0    0    0   0   0   0    0   0   0
+cDarwin      .300  .352  .392  275  250   75  10   2   3   98   2   2
+ Davis, R    .198  .268  .320  220  197   39   3   3   5   63   0   3
+rEckersley   .242  .264  .396  976  929  225  37   8  30  368   7   9
+rGorman      .000  .000  .000    0    0    0   0   0   0    0   0   0
+ Gura        .252  .283  .367  939  890  224  35   4  20  327   3   5
+ Havens      .291  .351  .419   95   86   25   5   0   2   36   1   0
+ Honeycutt   .307  .356  .479  398  365  112  20   2  13  175   2   2
+ Martinez,T  .156  .253  .286   88   77   12   1   0   3   22   1   0
+cMartinez,T  .226  .309  .335  291  257   58   8   1   6   86   3   0
+ McGregor    .266  .297  .419  769  718  191  29   3  25  301   9   7
+rMorgan      .000  .000  .000    0    0    0   0   0   0    0   0   0
+rRuthven     .130  .230  .204   61   54    7   1   0   1   11   0   0
+cRuthven     .238  .292  .343  662  606  144  24   2  12  208   4   4
+rSeaver      .307  .371  .475  391  345  106  25   3   9  164   6   3
+ Spillner    .264  .324  .356  468  421  111  12   0   9  150   2   5
+rStewart     .257  .314  .403  488  447  115  24   1  13  180   0   3
+ 
+ Others      .250  .382  .321   34   28    7   2   0   0    9   0   0
+
+ Team Total  .256  .298  .395      5698      249     162       37
+                              6141      1457      29     2250      43
+             DMB League Pitching Statistics:  1982 Lhasa DalaiLlama
+                                        
+ 
+ NAME          GS  CG   CG% SHo  QS   QS%   RS RS/G  RL RLS   RL%
+ 
+rAponte         0   0  .000   0   0  .000    0  0.0   7   2  .286
+rBoone          0   0  .000   0   0  .000    0  0.0   0   0  .000
+ Caldwell      32   4  .125   0  21  .656  116  3.6  24  12  .500
+rCurtis         0   0  .000   0   0  .000    0  0.0   0   0  .000
+rDarwin         0   0  .000   0   0  .000    0  0.0   0   0  .000
+cDarwin        11   0  .000   0   5  .455   49  4.5  16   5  .313
+ Davis, R       0   0  .000   0   0  .000    0  0.0  13   3  .231
+rEckersley     33   9  .273   1  20  .606  139  4.2   6   0  .000
+rGorman         0   0  .000   0   0  .000    0  0.0   0   0  .000
+ Gura          34   6  .176   2  25  .735  137  4.0  26   7  .269
+ Havens         4   0  .000   0   2  .500   13  3.3   5   1  .200
+ Honeycutt      9   0  .000   0   3  .333   38  4.2  16   8  .500
+ Martinez,T     0   0  .000   0   0  .000    0  0.0   5   1  .200
+cMartinez,T     0   0  .000   0   0  .000    0  0.0  35   9  .257
+ McGregor      28   4  .143   1  15  .536  119  4.3  20   5  .250
+rMorgan         0   0  .000   0   0  .000    0  0.0   0   0  .000
+rRuthven        2   0  .000   0   2 1.000    6  3.0   0   0  .000
+cRuthven       23   4  .174   0  16  .696   74  3.2  12   6  .500
+rSeaver        17   0  .000   0   6  .353   56  3.3  14   6  .429
+ Spillner       0   0  .000   0   0  .000    0  0.0   5   1  .200
+rStewart        3   0  .000   0   1  .333   11  3.7  11   6  .545
+ 
+ Others         0   0  .000   0   0  .000    0  0.0   4   1  .250
+
+ Team Total   162      .142      95        635      156      .340
+                   23         8      .586       3.9      53
+             DMB League Pitching Statistics:  1982 Lhasa DalaiLlama
+                                        
+ 
+ NAME         SvO  Sv   Sv%  BSv  BSv%  IR  IRS   IR%    G  RA   RA%  GF   GF%
+ 
+rAponte         9   0  .000    2  .222  33   11  .333   67  67 1.000  35  .522
+rBoone          0   0  .000    0  .000   0    0  .000    0   0  .000   0  .000
+ Caldwell       0   0  .000    0  .000   0    0  .000   33   1  .030   1 1.000
+rCurtis         0   0  .000    0  .000   0    0  .000    0   0  .000   0  .000
+rDarwin         0   0  .000    0  .000   0    0  .000    0   0  .000   0  .000
+cDarwin         1   1 1.000    0  .000   4    0  .000   16   5  .313   3  .600
+ Davis, R      13   7  .538    1  .077  28    9  .321   44  44 1.000  19  .432
+rEckersley      0   0  .000    0  .000   1    0  .000   34   1  .029   1 1.000
+rGorman         0   0  .000    0  .000   0    0  .000    0   0  .000   0  .000
+ Gura           0   0  .000    0  .000   0    0  .000   34   0  .000   0  .000
+ Havens         0   0  .000    0  .000   0    0  .000    4   0  .000   0  .000
+ Honeycutt      3   1  .333    0  .000  17    6  .353   40  31  .775  13  .419
+ Martinez,T     4   2  .500    0  .000  10    1  .100   17  17 1.000   4  .235
+cMartinez,T    15   4  .267    2  .133  40   12  .300   65  65 1.000  16  .246
+ McGregor       0   0  .000    0  .000   0    0  .000   28   0  .000   0  .000
+rMorgan         0   0  .000    0  .000   0    0  .000    0   0  .000   0  .000
+rRuthven        0   0  .000    0  .000   0    0  .000    2   0  .000   0  .000
+cRuthven        0   0  .000    0  .000   0    0  .000   23   0  .000   0  .000
+rSeaver         0   0  .000    0  .000   0    0  .000   17   0  .000   0  .000
+ Spillner      39  28  .718    8  .205  23    9  .391   67  67 1.000  45  .672
+rStewart        4   2  .500    0  .000  42   16  .381   51  48  .941  18  .375
+ 
+ Others         0   0  .000    0  .000   2    1  .500    5   5 1.000   3  .600
+
+ Team Total    72      .556       .153       53        443      .634      .495
+                   40         11       156       .340      281       139
+           DMB League Pitching Splits:  1982 Lhasa DalaiLlama-- vsLHB
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+rAponte       .316  .389  .439   155   49   13    0    2   20   19   14   2   1
+rBoone        .000  .000  .000     0    0    0    0    0    0    0    0   0   0
+ Caldwell     .239  .266  .350   163   39    6    0    4   10    6   25   1   0
+rCurtis       .000  .000  .000     0    0    0    0    0    0    0    0   0   0
+rDarwin       .000  .000  .000     0    0    0    0    0    0    0    0   0   0
+cDarwin       .276  .345  .314   105   29    4    0    0    6   11   13   2   0
+ Davis, R     .250  .353  .420   100   25    2    3    3   13   15   16   0   2
+rEckersley    .229  .252  .393   484  111   17    4   18   50   17   55   3   6
+rGorman       .000  .000  .000     0    0    0    0    0    0    0    0   0   0
+ Gura         .224  .235  .308   201   45    8    0    3   12    1   32   1   0
+ Havens       .265  .359  .382    34    9    4    0    0    4    5    4   1   0
+ Honeycutt    .295  .325  .518   112   33    7    0    6   21    6   23   0   2
+ Martinez,T   .111  .158  .111    18    2    0    0    0    1    1    7   0   0
+cMartinez,T   .244  .344  .295    78   19    1    0    1   12   11   25   0   0
+ McGregor     .240  .269  .394   175   42    3    3    6   16    4   30   2   0
+rMorgan       .000  .000  .000     0    0    0    0    0    0    0    0   0   0
+rRuthven      .061  .162  .061    33    2    0    0    0    2    4    7   0   0
+cRuthven      .220  .278  .338   337   74   12    2    8   40   24   45   1   2
+rSeaver       .274  .337  .453   179   49   13    2    5   31   15   32   6   2
+ Spillner     .302  .357  .401   232   70    5    0    6   32   22   36   2   4
+rStewart      .247  .306  .427   178   44   14    0    6   25   15   20   0   0
+ 
+ Others       .333  .412  .467    15    5    2    0    0    3    2    1   0   0
+ 
+ Team Total   .253  .296  .394  2079  525   94   12   59  240  132  302  18  17
+           DMB League Pitching Splits:  1982 Lhasa DalaiLlama-- vsRHB
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+rAponte       .156  .172  .263   186   29    2    0    6   16    3   46   0   2
+rBoone        .000  .000  .000     0    0    0    0    0    0    0    0   0   0
+ Caldwell     .261  .295  .424   637  166   34    5   20   70   32   59   3   3
+rCurtis       .000  .000  .000     0    0    0    0    0    0    0    0   0   0
+rDarwin       .000  .000  .000     0    0    0    0    0    0    0    0   0   0
+cDarwin       .317  .357  .448   145   46    6    2    3   14    8   36   0   2
+ Davis, R     .144  .168  .216    97   14    1    0    2   10    3   32   0   1
+rEckersley    .256  .277  .400   445  114   20    4   12   43   13   95   4   3
+rGorman       .000  .000  .000     0    0    0    0    0    0    0    0   0   0
+ Gura         .260  .296  .385   689  179   27    4   17   62   35   76   2   5
+ Havens       .308  .345  .442    52   16    1    0    2    9    2    8   0   0
+ Honeycutt    .312  .370  .462   253   79   13    2    7   35   22   27   2   0
+ Martinez,T   .169  .279  .339    59   10    1    0    3    6    9   14   1   0
+cMartinez,T   .218  .293  .352   179   39    7    1    5   23   19   34   3   0
+ McGregor     .274  .306  .427   543  149   26    0   19   60   28   75   7   7
+rMorgan       .000  .000  .000     0    0    0    0    0    0    0    0   0   0
+rRuthven      .238  .333  .429    21    5    1    0    1    2    3    5   0   0
+cRuthven      .260  .309  .349   269   70   12    0    4   26   19   45   3   2
+rSeaver       .343  .409  .500   166   57   12    1    4   18   19   19   0   1
+ Spillner     .217  .284  .302   189   41    7    0    3   23   17   45   0   1
+rStewart      .264  .319  .387   269   71   10    1    7   42   21   55   0   3
+ 
+ Others       .154  .353  .154    13    2    0    0    0    1    4    1   0   0
+ 
+ Team Total   .258  .297  .395  3619  932  155   17  103  397  211  557  19  26
+             DMB League Fielding Statistics:  1982 Lhasa DalaiLlama
+                                        
+ 
+POS NAME             G    GS    PO     A     E    DP    TC     PCT   PB
+ 
+p   Caldwell        33    32    15    25     5     2    45    .889
+    Gura            34    34    11    27     2     0    40    .950
+    McGregor        28    28     8    23     1     2    32    .969
+   rEckersley       34    33    13    15     1     1    29    .966
+   rAponte          67     0     9    13     0     0    22   1.000
+    Honeycutt       40     9     5    14     3     2    22    .864
+   rStewart         51     3     9     9     0     1    18   1.000
+    Spillner        67     0     2     9     4     1    15    .733
+   rSeaver          17    17     5     8     2     0    15    .867
+    Davis, R        44     0     3     6     1     0    10    .900
+    Havens           4     4     3     1     0     0     4   1.000
+   rRuthven          2     2     2     2     0     0     4   1.000
+   cRuthven         23    23     9    19     1     1    29    .966
+    Martinez,T      17     0     1     1     0     0     2   1.000
+   cMartinez,T      65     0     3     2     0     0     5   1.000
+    Others           5     0     1     2     0     0     3   1.000
+                   443   162    87   155    19     9   261    .927
+ 
+c   Davis, J       103    85   529    38     8     1   575    .986    4
+    Heath           68    61   307    31     5     1   343    .985    1
+    Engle            4     4    19     1     0     0    20   1.000    2
+   cEngle            4     4    19     1     0     0    20   1.000    2
+    Others          12    12    55     7     1     1    63    .984    0
+                   187   162   910    77    14     3  1001    .986    7
+ 
+1b  Buckner        136   133  1207   102     8    91  1317    .994
+    Mazzilli         8     5    67     3     0     7    70   1.000
+    Rose             6     3    25     1     0     1    26   1.000
+    Engle            1     1     5     2     2     0     9    .778
+   cEngle            1     1     5     2     2     0     9    .778
+    Others          22    20   186    13     3    14   202    .985
+                   173   162  1490   121    13   113  1624    .992
+ 
+2b  Sandberg       156   155   291   541    18    87   850    .979
+    DeJesus          5     5    13    10     0     4    23   1.000
+    Heath            2     2     3     8     0     0    11   1.000
+    Morrison         1     0     0     0     0     0     0    .000
+                   164   162   307   559    18    91   884    .980
+ 
+3b  Cey            138   124    93   228    19    20   340    .944
+    Salazar         21    20    17    39     4     1    60    .933
+    Heath           15    13    11    17     1     3    29    .966
+    Morrison         8     5     1     4     1     0     6    .833
+                   182   162   122   288    25    24   435    .943
+ 
+ss  Salazar        114   111   159   321    29    58   509    .943
+    DeJesus         66    27    46   111     5    14   162    .969
+    Randolph        24    24    37    83     5    12   125    .960
+   cRandolph        36    24    42    90     7    14   139    .950
+                   204   162   242   515    39    84   796    .951
+             DMB League Fielding Statistics:  1982 Lhasa DalaiLlama
+                                        
+ 
+POS NAME             G    GS    PO     A     E    DP    TC     PCT   PB
+ 
+lf  Foster          98    92   240     8     5     3   253    .980
+    Dernier         23    15    53     1     0     1    54   1.000
+    Engle           15    11    29     0     1     0    30    .967
+   cEngle           24    20    48     0     2     0    50    .960
+    LeFlore         15     6    19     1     3     0    23    .870
+    Morrison        11     6    19     1     0     0    20   1.000
+    Mazzilli        15     8     9     0     0     0     9   1.000
+    Heath            2     0     0     0     0     0     0    .000
+    Others          24    24    68     2     2     0    72    .972
+                   203   162   437    13    11     4   461    .976
+ 
+cf  Dernier         59    54   159     7     1     1   167    .994
+    LeFlore         23    16    40     0     2     0    42    .952
+    Mazzilli        17     7    32     1     1     0    34    .971
+    Others          87    85   218     7     6     0   231    .974
+                   186   162   449    15    10     1   474    .979
+ 
+rf  Mazzilli        40    33    92     2     1     0    95    .989
+    Foster          14    12    31     2     3     0    36    .917
+    Engle            7     7    14     0     1     0    15    .933
+   cEngle            7     7    14     0     1     0    15    .933
+    Morrison         1     1     3     0     0     0     3   1.000
+    Dernier          3     0     1     1     0     0     2   1.000
+    LeFlore          2     0     0     0     0     0     0    .000
+    Heath            1     0     0     0     0     0     0    .000
+    Others         113   109   241     7     9     1   257    .965
+                   181   162   382    12    14     1   408    .966
+ 
+    Team Total     162   162  4426  1755   163   121  6344    .974    7
+                      Game Results:  1982 Lhasa DalaiLlama
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 6/ 4/1999    BAR   W  3-1      Gura        Gura                    Stieb       
+ 6/ 5/1999    BAR   L  0-11     Eckersley   Eckersley               Morris      
+ 6/ 6/1999    BAR   L  3-7      Caldwell    Caldwell                Tanana      
+ 6/ 8/1999   @CTW   W  9-5  12  McGregor    Fryman                  Forsch, B   
+ 6/ 9/1999   @CTW   L  0-3      Seaver      Seaver                  Hough       
+ 6/11/1999   @CEN   L  1-6      Gura        Gura                    Niekro,J    
+ 6/12/1999   @CEN   W  6-2      Eckersley   Eckersley               Sanderson   
+ 6/13/1999   @CIN   L  5-12     Caldwell    Caldwell                Soto        
+ 6/16/1999   @BMB   L  1-2      McGregor    McGregor                Rogers      
+ 6/17/1999   @BMB   W  3-0      Seaver      Seaver      Spillner    Clancy      
+ 6/19/1999    SUN   W  4-1      Gura        Davis, R                Candelaria  
+ 6/20/1999    SUN   L  5-10     Eckersley   Eckersley               Palmer, D   
+ 6/21/1999    SUN   W  5-4      Caldwell    Caldwell    Spillner    Tudor       
+ 6/22/1999    CIN   W  5-2      McGregor    McGregor    Davis, R    Berenyi     
+ 6/23/1999    CIN   W  3-2      Seaver      Stewart                 Righetti    
+ 6/24/1999    CIN   W  9-2      Gura        Gura                    Smithson    
+ 6/25/1999   @LON   W  5-0      Eckersley   Eckersley               Knepper     
+ 6/26/1999   @LON   W  2-1      Caldwell    Caldwell    Spillner    Camp        
+ 6/27/1999   @LON   W  8-4      McGregor    McGregor                Orosco      
+ 6/28/1999   @JJJ   W  7-3      Seaver      Seaver                  Gullickson  
+ 6/29/1999   @JJJ   W  6-2      Gura        Gura        Davis, R    Guidry      
+ 6/30/1999   @JJJ   W  8-3      Eckersley   Eckersley               Zahn        
+ 7/ 2/1999   @BAR   L  6-7      Caldwell    Caldwell                Tanana      
+ 7/ 3/1999   @BAR   W  9-8      McGregor    Aponte      Spillner    Stieb       
+ 7/ 4/1999    CEN   W  7-6  10  Seaver      Spillner                McWilliams  
+ 7/ 5/1999    CEN   L  4-9      Gura        Spillner                Niekro,J    
+ 7/ 6/1999    CEN   L  3-6      Eckersley   Aponte                  Sanderson   
+ 7/ 7/1999    LON   W  6-3      Caldwell    Caldwell                Koosman     
+ 7/ 8/1999    LON   W  3-2  12  McGregor    Aponte                  Orosco      
+ 7/ 9/1999   @CEN   L  3-6      Seaver      Seaver                  McWilliams  
+ 7/10/1999   @CEN   L  3-5      Gura        Aponte                  Niekro,J    
+ 7/11/1999    CEN   L  2-6      Eckersley   Eckersley               Sanderson   
+ 7/12/1999    CEN   L  2-4  12  Caldwell    Davis, R                Forsch, K   
+ 7/13/1999   @LON   W  7-5      McGregor    McGregor    Spillner    Camp        
+ 7/14/1999   @LON   L  0-5      Seaver      Seaver                  Orosco      
+ 7/15/1999   @LON   L  4-6      Gura        Gura                    Rhoden      
+ 7/16/1999   @LON   W  4-3      Eckersley   Eckersley   Spillner    Mahler      
+ 7/17/1999   @SUN   L  3-17     Caldwell    Caldwell                Tudor       
+ 7/18/1999   @SUN   W  5-0      McGregor    McGregor                Show        
+ 7/20/1999    NYH   W  4-3  11  Seaver      Spillner                Witt        
+ 7/21/1999    NYH   W  6-3      Gura        Gura                    Wilcox      
+ 7/24/1999    BOS   W  6-1      Eckersley   Eckersley               Lerch       
+ 7/25/1999    BOS   W  8-5      Caldwell    Caldwell                Martinez,D  
+ 7/26/1999   @SUN   L  1-2      McGregor    Aponte                  Show        
+ 7/27/1999   @SUN   L  3-11     Seaver      Seaver                  Lea         
+ 7/29/1999    BAR   L  2-6      Gura        Gura                    Stieb       
+ 7/30/1999    BAR   W  4-1      Eckersley   Eckersley               Morris      
+ 8/ 1/1999    NYH   L  0-1      Caldwell    Caldwell                Witt        
+ 8/ 2/1999    NYH   L  3-4      McGregor    McGregor                Wilcox      
+ 8/ 3/1999    BOS   W  4-0      Seaver      Seaver      Spillner    Vuckovich   
+ 8/ 4/1999    BOS   W  4-1      Gura        Gura        Spillner    Palmer      
+ 8/ 5/1999    BOS   W  5-4  17  Eckersley   Honeycutt               Robinson,D  
+                      Game Results:  1982 Lhasa DalaiLlama
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 8/ 6/1999   @SUN   L  4-5      Caldwell    Aponte                  Candelaria  
+ 8/ 7/1999   @SUN   W  5-3      McGregor    McGregor                Palmer, D   
+ 8/ 8/1999   @SUN   W  2-1  10  Havens      Spillner                Tudor       
+ 8/ 9/1999   @FER   W 13-9      Gura        Stewart                 Andujar     
+ 8/10/1999   @FER   L  1-2      Eckersley   Eckersley               Sutton      
+ 8/11/1999   @FER   L  4-11     Caldwell    Caldwell                Sutcliffe   
+ 8/12/1999   @BMB   L  0-6      McGregor    McGregor                Denny       
+ 8/13/1999   @BMB   L  0-14     Havens      Havens                  Rogers      
+ 8/14/1999    LON   W  2-1  11  Gura        Stewart                 Rhoden      
+ 8/15/1999    LON   W  3-1      Eckersley   Eckersley               Mahler      
+ 8/16/1999   @BOS   L  6-7      Caldwell    Stewart                 Martinez,D  
+ 8/17/1999   @BOS   L  1-17     McGregor    McGregor                Carlton     
+ 8/20/1999    BBG   W  6-2      Havens      Havens      Spillner    Viola       
+ 8/21/1999    BBG   L  0-4      Gura        Gura                    Blue        
+ 8/23/1999    CTW   W  7-4      Eckersley   Eckersley   Stewart     Forsch, B   
+ 8/27/1999    CTW   L  3-5  10  Caldwell    Aponte                  Ruthven     
+ 8/28/1999    CTW   W  4-2      McGregor    McGregor    Spillner    Forsch, B   
+ 8/29/1999    CTW   L  2-8      Seaver      Seaver                  Hough       
+ 8/31/1999   @JJJ   W  7-2      Gura        Gura                    Gullickson  
+ 9/ 1/1999   @GCP   W  7-1      Eckersley   Eckersley               Barker      
+ 9/ 2/1999   @GCP   W  3-2      Caldwell    Caldwell    Spillner    Beattie     
+ 9/ 3/1999   @BAR   L  4-5      McGregor    McGregor                Tanana      
+ 9/ 4/1999   @BAR   L  1-3      Seaver      Seaver                  Smith,B     
+ 9/ 7/1999    BBG   W  3-0      Gura        Gura                    Viola       
+ 9/ 8/1999    BBG   L  2-6      Eckersley   Eckersley               Blue        
+ 9/ 9/1999   @PAR   W  2-1  10  Caldwell    Aponte      Spillner    Valenzuela  
+ 9/10/1999   @PAR   L  2-9      McGregor    McGregor                Hoyt        
+ 9/14/1999   @PAR   L  7-8      Seaver      Spillner                Valenzuela  
+ 9/15/1999   @BOS   W  4-1      Gura        Gura        Spillner    Carlton     
+ 9/16/1999   @BOS   L  1-6      Eckersley   Eckersley               Vuckovich   
+ 9/19/1999   @BAR   W  2-1      Honeycutt   Honeycutt   Spillner    Smith,B     
+ 9/20/1999   @BAR   L  2-4      McGregor    McGregor                Stieb       
+ 9/21/1999   @BAR   W  4-2      Stewart     Stewart     Spillner    Morris      
+ 9/22/1999    LON   W  5-1      Gura        Gura                    Leibrandt   
+ 9/23/1999    LON   L  3-4      Eckersley   Eckersley               Koosman     
+ 9/24/1999    LON   L  2-3      Caldwell    Caldwell                Rhoden      
+ 9/25/1999   @GCP   W  7-5      McGregor    McGregor                Beattie     
+ 9/26/1999   @GCP   L  5-6      Stewart     Stewart                 Montefusco  
+ 9/28/1999    FER   L  1-2      Gura        Gura                    Hammaker    
+ 9/30/1999    CTW   W  5-1      Eckersley   Eckersley               Ruthven     
+10/ 1/1999    CTW   L  3-6      Honeycutt   Honeycutt               Forsch, B   
+10/ 2/1999    JJJ   W  5-4      McGregor    McGregor    Spillner    Gullickson  
+10/ 3/1999    JJJ   L  3-12     Seaver      Seaver                  Guidry      
+10/ 4/1999    JJJ   W  4-2      Gura        Gura        Spillner    Zahn        
+10/ 5/1999    SUN   L  3-4      Eckersley   Eckersley               Whitson     
+10/ 6/1999    SUN   W  4-3  10  Caldwell    Stewart                 Lea         
+10/ 7/1999    SUN   W  4-3  13  McGregor    Davis, R                Candelaria  
+10/ 9/1999    SUN   L  4-8      Seaver      Seaver                  Tudor       
+10/10/1999    SUN   W  3-2      Gura        Gura        Spillner    Reed,R      
+10/11/1999    SUN   W  5-2      Eckersley   Eckersley               Whitson     
+10/12/1999   @BBG   W  2-1      Caldwell    Caldwell    Spillner    John        
+10/13/1999   @BBG   W  5-3  15  McGregor    Campbell                Dravecky    
+                      Game Results:  1982 Lhasa DalaiLlama
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+10/14/1999   @BBG   W  4-2      Seaver      Seaver      Stewart     Blue        
+10/15/1999    BMB   W  4-3  13  Gura        Davis, R                Denny       
+10/16/1999    BMB   W 10-4      Eckersley   Eckersley               Rogers      
+10/17/1999    BMB   L  2-6      Caldwell    Caldwell                Clancy      
+10/18/1999    PAR   W  6-5      McGregor    Spillner                Hoyt        
+10/19/1999    PAR   L  1-2      Seaver      Seaver                  Niekro, P   
+10/20/1999    JJJ   L  2-3  10  Gura        Aponte                  Price       
+10/21/1999    JJJ   L  6-11     Eckersley   Spillner                Dotson      
+10/22/1999   @CTW   L  2-5      Caldwell    Caldwell                Hough       
+10/23/1999   @CTW   W  7-5      McGregor    Aponte      Spillner    Hurst       
+10/24/1999   @CTW   W  7-5      Honeycutt   Honeycutt   Spillner    Krukow      
+10/25/1999   @CTW   W  9-8      Gura        Stewart     Honeycutt   Terrell     
+10/26/1999   @FER   L  3-4      Eckersley   Aponte                  Holman      
+10/27/1999   @FER   L  1-3      Caldwell    Caldwell                Boddicker   
+10/30/1999    GCP   L  1-4      McGregor    McGregor                Montefusco  
+10/31/1999    GCP   W  3-2      Ruthven     Ruthven     Spillner    Reuss       
+11/ 1/1999    GCP   L  4-5      Gura        Gura                    Sarmiento   
+11/ 2/1999   @SUN   W  6-4      Eckersley   Honeycutt   Spillner    Candelaria  
+11/ 3/1999   @SUN   L  1-3      Caldwell    Caldwell                Anderson    
+11/ 4/1999    CIN   W  5-4  13  McGregor    Stewart                 Petry       
+11/ 5/1999    CIN   L  3-4  11  Ruthven     Davis, R                Berenyi     
+11/ 6/1999   @CIN   W  2-0      Gura        Gura        Davis, R    Falcone     
+11/ 7/1999    FER   W  4-1      Eckersley   Eckersley   Spillner    Boddicker   
+11/ 8/1999    FER   W  5-2      Caldwell    Caldwell                Andujar     
+11/ 9/1999    FER   W  6-0      McGregor    McGregor                Sutton      
+11/10/1999   @BAR   L  2-9      Stewart     Stewart                 Tanana      
+11/11/1999   @BAR   W  4-3      Gura        Gura        Spillner    Darwin      
+11/12/1999    BAR   L  2-4      Eckersley   Eckersley               Burns       
+11/13/1999    BAR   L  0-7      Honeycutt   Honeycutt               Stieb       
+11/14/1999    BAR   W  8-3      Caldwell    Caldwell                Morris      
+11/15/1999    BAR   L  2-3      Gura        Martinez,T              Tanana      
+11/16/1999    PAR   W  2-1  12  Eckersley   Davis, R                Christnson  
+11/17/1999    PAR   L  1-3  10  Honeycutt   Spillner                Valenzuela  
+11/19/1999   @NYH   L  0-4      Caldwell    Aponte                  Wilcox      
+11/20/1999   @NYH   W  4-1      Gura        Gura        Martinez,T  Ryan        
+11/21/1999   @NYH   W  4-2  10  Eckersley   Eckersley   Spillner    Lollar      
+11/22/1999    CTW   W  8-7      Honeycutt   Spillner                Hurst       
+11/23/1999    CTW   W  4-1      Caldwell    Caldwell    Davis, R    Forsch, B   
+11/24/1999    CTW   L  6-8      Gura        Gura                    Hough       
+11/25/1999   @CTW   L  4-5      Eckersley   Eckersley               Hurst       
+11/26/1999   @CTW   W  9-6      Honeycutt   Honeycutt               Forsch, B   
+11/27/1999   @CTW   L  5-10     Caldwell    Caldwell                Hough       
+11/28/1999   @LON   W  6-3      Gura        Gura        Spillner    Camp        
+11/29/1999   @LON   L  3-8      Eckersley   Eckersley               Rhoden      
+12/ 1/1999    LON   W  8-1      Caldwell    Caldwell                Rucker      
+12/ 2/1999    LON   W  4-1      McGregor    McGregor                Knepper     
+12/ 4/1999   @CIN   L  4-9      Honeycutt   Honeycutt               Petry       
+12/ 5/1999   @CIN   L  3-7      Gura        Gura                    Falcone     
+12/ 7/1999   @NYH   W  2-1      Eckersley   Davis, R                Lollar      
+12/ 8/1999   @NYH   W  2-1      Caldwell    Caldwell    Davis, R    Rozema      
+12/ 9/1999   @BBG   W  4-2      Honeycutt   Honeycutt   Spillner    Blue        
+12/10/1999   @BBG   W  8-5      Eckersley   Eckersley   Martinez,T  Scott       
+                      Game Results:  1982 Lhasa DalaiLlama
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+12/11/1999    GCP   L  1-5      Gura        Gura                    Montefusco  
+12/12/1999    GCP   W  4-1      Caldwell    Caldwell    Davis, R    Rawley      
+12/16/1999    BMB   L  0-1      McGregor    McGregor                Leal        
+12/17/1999    BMB   L  5-9      Havens      Havens                  Stoddard    
+12/18/1999   @PAR   W  2-0      Gura        Gura                    Valenzuela  
+12/19/1999   @PAR   W  4-1      Caldwell    Martinez,T  Davis, R    Perry       
+                       Injury Log: 1982 Lhasa DalaiLlama
+                                        
+ 
+-- Date -- #  Player      Cause                 Length
+ 
+ 6/19/1999    Dawson      General                  9
+ 7/14/1999    Luzinski    General                  0
+ 7/21/1999    Dawson      General                  4
+ 7/24/1999    Dernier     Brawl                   22
+ 7/25/1999    LeFlore     General                  0
+ 8/ 3/1999    Seaver      General                 10
+ 8/10/1999    Davis, J    General                  3
+ 8/13/1999    Dawson      General                  0
+ 8/29/1999    Engle       General                  9
+ 9/ 2/1999    Buckner     General                  0
+ 9/14/1999    Jackson,Re  Hit by pitch             0
+10/13/1999    Dawson      Hit by pitch             0
+10/21/1999    Foster      General                  3
+10/26/1999    Buckner     General                  0
+11/ 4/1999    Cey         General                  3
+11/10/1999    Heath       General                  1
+11/19/1999    Caldwell    Rain delay               0
+11/26/1999    Engle       General                  4
+12/ 8/1999    Engle       General                  0
+12/19/1999    Caldwell    Rain delay               0
+               DMB League Transaction Log:  1982 Lhasa DalaiLlama
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+ 6/21/1999  LDL    DL           Andre Dawson          effective  6/20/1999  
+ 6/21/1999  LDL    Promote      Ron LeFlore         
+ 7/ 5/1999  LDL    Activate     Andre Dawson        
+ 7/ 5/1999  LDL    Farm         Ron LeFlore         
+ 7/ 5/1999  LDL    Promote      Brad Havens         
+ 7/ 5/1999  LDL    Farm         Woodie Fryman       
+ 7/15/1999  LDL    Acquire      Dave Engle            from BMB
+ 7/15/1999  LDL    Acquire      Ivan DeJesus          from BMB
+ 7/15/1999  LDL    TradeAway    Alfredo Griffin       to BMB
+ 7/15/1999  LDL    TradeAway    Jimmy Sexton          to BMB
+ 7/15/1999  LDL    Farm         Jody Davis          
+ 7/15/1999  LDL    Promote      Jody Davis          
+ 7/15/1999  LDL    Farm         Ron Davis           
+ 7/24/1999  LDL    DL           Bob Dernier           effective  7/25/1999  
+ 7/24/1999  LDL    Promote      Ron LeFlore         
+ 8/11/1999  LDL    Acquire      Steve Yeager          from BAR
+ 8/11/1999  LDL    TradeAway    Greg Luzinski         to BAR
+ 8/11/1999  LDL    TradeAway    Woodie Fryman         to BAR
+ 8/19/1999  LDL    Promote      Ivan DeJesus        
+ 8/19/1999  LDL    Farm         Jim Morrison        
+ 8/19/1999  LDL    Farm         Tom Seaver          
+ 8/19/1999  LDL    Promote      Ron Davis           
+ 8/25/1999  LDL    Activate     Bob Dernier         
+ 8/25/1999  LDL    Promote      Tom Seaver          
+ 8/25/1999  LDL    Farm         Brad Havens         
+ 8/25/1999  LDL    Farm         Steve Yeager        
+ 9/ 7/1999  LDL    Promote      Pete Rose           
+ 9/ 7/1999  LDL    Farm         Ron LeFlore         
+10/22/1999  LDL    Acquire      Dick Ruthven          from CTW
+11/ 4/1999  LDL    Farm         Tom Seaver          
+11/ 4/1999  LDL    Farm         Bill Campbell       
+11/ 4/1999  LDL    Promote      Steve Yeager        
+11/ 9/1999  LDL    Promote      Jim Morrison        
+11/ 9/1999  LDL    Farm         Dick Ruthven        
+11/14/1999  LDL    Acquire      Tippy Martinez        from BMB
+11/14/1999  LDL    TradeAway    Bill Campbell         to BMB
+11/14/1999  LDL    Farm         Jim Morrison        
+11/14/1999  LDL    Farm         Dave Stewart        
+11/14/1999  LDL    Promote      Jim Morrison        
+11/16/1999  LDL    Acquire      Willie Randolph       from BAR
+11/16/1999  LDL    Acquire      Danny Darwin          from BAR
+11/16/1999  LDL    TradeAway    Andre Dawson          to BAR
+11/16/1999  LDL    TradeAway    Steve Yeager          to BAR
+11/16/1999  LDL    TradeAway    Reggie Jackson        to BAR
+11/16/1999  LDL    Farm         Danny Darwin        
+11/16/1999  LDL    Promote      Ron LeFlore         
+11/24/1999  LDL    Farm         Luis Aponte         
+12/10/1999  LDL    Farm         Dennis Eckersley    
+12/16/1999  LDL    Promote      Brad Havens         
+
+

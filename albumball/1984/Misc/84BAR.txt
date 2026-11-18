@@ -1,0 +1,679 @@
+   	 	 	 	 	 	
+					
+> INTERNATIONAL DIVISION > BARCELONA BREWERS
+
+  » EASTERN DIVISION
+  » WESTERN DIVISION
+    » Directory, Constitution, Record Book, etc.
+	
+
+             DMB League Batting Statistics:  1984 Barcelona Brewers
+                                        
+ 
+ NAME         AVG   OBP   SPC   G  AB   H 2B 3B HR   R RBI  BB   K HB IW  SB CS
+ 
+nFrancona    .397  .422  .532 101 126  50 10  2  1  18  19   4   8  3  0   0  0 
+ Hargrove    .375  .444  .542  20  24   9  4  0  0   3   3   3   1  0  0   0  0 
+rOrta        .342  .384  .523 121 421 144 24  8 12  52  81  30  46  2  0   0  0 
+ Phillips    .325  .376  .416 119 351 114 19  2  3  45  30  28  56  1  3  14  6 
+ Smith,O     .302  .379  .383 133 371 112 17  2  3  60  30  44  21  3  0  40  9 
+rBradley     .293  .336  .319  75 263  77  5  1  0  35  17  15  72  2  0  15  8 
+ Kennedy     .283  .335  .410 109 322  91  8  0 11  32  40  26  50  0  6   0  0 
+ Johnson     .277  .352  .356 101 278  77 15  2  1  34  28  34  48  0  2   8  2 
+ Baylor      .274  .341  .507  80 223  61 13  0 13  29  42  13  42 12  1   0  0 
+ Cooper      .273  .333  .545  10  11   3  0  0  1   3   1   1   2  0  0   0  0 
+cCooper      .258  .324  .355  20  31   8  0  0  1   3   3   2   9  1  0   0  0 
+ Heath       .271  .343  .362  88 218  59 10  2  2  28  23  24  31  0  8   3  3 
+nWashington  .268  .356  .414 110 365  98 13  2 12  54  50  48  69  3  0  13  7 
+ Lopes       .265  .345  .408  97 211  56 13  1  5  26  28  25  24  1  0  16  4 
+ Tabler      .256  .345  .380  43 121  31  4  1  3  20  20  17  17  0  0   2  0 
+cTabler      .292  .362  .431 118 281  82 16  1  7  38  44  32  29  0  0   2  0 
+ Hendersn,D  .249  .294  .398 102 357  89 21  1 10  38  43  20  56  4  2   3  4 
+ Hairston    .240  .356  .380  32 100  24  6  1  2  20  11  17  10  1  0   3  2 
+ Wilson      .238  .301  .313  98 252  60  7  3  2  26  31  24  36  0  2  18  9 
+ Thornton    .238  .322  .406 147 534 127 23  2 21  78  72  69  76  1  1   5  1 
+ Samuel      .237  .267  .375 138 536 127 25  8 11  67  50  20 152  3  2  35  7 
+ Webster     .208  .208  .292  16  24   5  2  0  0   2   2   0  11  0  0   0  0 
+ Nieto       .192  .236  .346  33  52  10  2  0  2   6   6   3  13  0  3   0  0 
+ Gulden      .000  .000  .000   5   8   0  0  0  0   0   0   0   0  0  0   0  0 
+ Mazzilli    .000  .333  .000   4   2   0  0  0  0   0   0   1   0  0  0   0  0 
+ 
+ Sambito     .250  .250  .500  14   4   1  1  0  0   0   1   0   2  0  0   0  0 
+nCalhoun     .250  .250  .250  13   4   1  0  0  0   1   0   0   1  0  0   0  0 
+nBlack       .169  .167  .211  30  71  12  1  1  0   3   3   0  20  0  0   1  0 
+rHernandez   .158  .158  .211  81  19   3  1  0  0   1   1   0  12  0  0   0  0 
+ Stieb       .122  .122  .122  37  90  11  0  0  0   2   1   0  31  0  0   0  0 
+ Morris      .103  .101  .128  40  78   8  2  0  0   1   7   0  30  0  0   0  0 
+ Blyleven    .092  .132  .092  42  87   8  0  0  0   5   1   2  22  2  0   0  0 
+ Eckersley   .086  .117  .086  44  58   5  0  0  0   2   2   2  24  0  0   0  0 
+ Wilcox      .000  .000  .000  31   6   0  0  0  0   0   0   0   2  0  0   0  0 
+rHowell      .000  .000  .000  65  17   0  0  0  0   0   1   0   7  0  0   0  0 
+
+ Team Total  .263  .322  .382 162    1473    39    691     470     38    176
+                                 5604    246   115     644     992    30     62
+             DMB League Batting Statistics:  1984 Barcelona Brewers
+                                        
+ 
+ NAME         GS  SH  SF  GDP  CI  GW     RC   RC27    ISO   TAVG    TB CHS LHS
+ 
+nFrancona     15   3   2    1   0   3   29.0    9.5   .135   .961    67   1   9
+ Hargrove      2   0   0    0   0   1    6.1   11.0   .167  1.067    13   1   2
+rOrta        100   0   5    6   0   7   85.7    8.0   .181   .890   220   7  11
+ Phillips     91   3   0    8   0   4   54.4    5.8   .091   .753   146   0  17
+ Smith,O      99  13   1    9   0   2   59.5    5.5   .081   .827   142   1  14
+rBradley      61   6   0    5   0   4   28.1    3.7   .027   .583    84   0   9
+ Kennedy      89   0   1    7   0   7   43.4    4.9   .127   .664   132   1   8
+ Johnson      74   1   3    8   0   2   36.3    4.6   .079   .668    99   0   6
+ Baylor       58   0   4    4   0   5   39.5    6.3   .233   .831   113   4   7
+ Cooper        1   0   0    0   0   0    2.1    7.0   .273   .875     6   0   2
+cCooper        5   0   0    0   0   0    3.8    4.5   .097   .609    11   0   2
+ Heath        66   0   0   11   0   4   24.2    3.8   .092   .613    79   0   5
+nWashington   95   0   3   12   0   6   53.5    5.0   .145   .752   151   1   6
+ Lopes        57   1   1    8   0   3   29.9    4.8   .142   .766    86   1   6
+ Tabler       33   0   1    2   0   1   17.2    5.0   .124   .707    46   1   6
+cTabler       69   0   2    4   0   3   45.9    6.0   .139   .764   121   1   7
+ Hendersn,D   90   3   4    9   0   6   39.4    3.7   .148   .601   142   0   8
+ Hairston     26   0   0    1   0   3   14.6    5.0   .140   .747    38   3   6
+ Wilson       51   1   3    8   0   8   23.0    2.9   .075   .579    79   0   7
+ Thornton    147   0   7    9   0   9   73.8    4.7   .169   .700   217   2   8
+ Samuel      130   0   2    9   0   4   53.9    3.4   .138   .609   201   1   7
+ Webster       4   0   0    0   0   0    1.5    2.1   .083   .368     7   0   1
+ Nieto         7   0   0    1   0   2    3.9    2.5   .154   .488    18   0   5
+ Gulden        0   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+ Mazzilli      0   0   0    0   0   0    0.1    1.2   .000   .500     0   0   0
+ 
+ Sambito       0   0   0    0   0   0    0.5    4.5   .250   .667     2   0   1
+nCalhoun       0   0   0    0   0   0    0.3    2.3   .000   .333     1   0   1
+nBlack        30   1   1    0   0   0    2.7    1.2   .042   .271    15   0   3
+rHernandez     0   0   0    0   0   0    0.6    1.1   .053   .250     4   0   1
+ Stieb        36   6   0    2   0   0    1.3    0.4   .000   .136    11   0   2
+ Morris       37   0   1    0   0   1    1.1    0.4   .026   .143    10   0   2
+ Blyleven     33   4   0    2   0   0    1.2    0.4   .000   .148     8   0   1
+ Eckersley    24   3   0    0   0   0    0.8    0.4   .000   .132     5   0   2
+ Wilcox        1   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+rHowell        1   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+
+ Team Total  162  45  39  122   0  82  696.5    4.3   .119   .655  2142
+           DMB League Batting Splits:  1984 Barcelona Brewers-- vsLHP
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+rOrta         .424  .500  .424    33   14    0    0    0    6    5    5   0   0
+ Smith,O      .385  .489  .487   117   45    8    2    0   10   24    4   6   0
+ Cooper       .375  .444  .750     8    3    0    0    1    1    1    2   0   0
+cCooper       .222  .300  .389    18    4    0    0    1    1    1    8   0   0
+ Phillips     .348  .407  .424   132   46   10    0    0   13   13   11   2   0
+ Hairston     .333  .429  .333     6    2    0    0    0    0    1    1   0   0
+nFrancona     .333  .355  .333    30   10    0    0    0    3    0    2   1   0
+ Nieto        .333  .333  .556     9    3    2    0    0    1    0    1   0   0
+ Lopes        .284  .373  .468   141   40    9    1    5   22   19   12   0   0
+ Samuel       .279  .297  .416   154   43    9    3    2   14    4   38   0   0
+ Heath        .278  .370  .351   151   42    7    2    0   18   22   22   0   0
+ Baylor       .270  .353  .513   152   41    7    0   10   28   11   32   0   1
+nWashington   .264  .324  .333   129   34    6    0    1   18   11   27   0   1
+ Tabler       .259  .412  .407    27    7    2    1    0    7    7    4   0   0
+cTabler       .315  .388  .423   130   41   12    1    0   18   16    9   0   1
+ Thornton     .259  .352  .373   166   43    7    0    4   22   26   13   0   4
+ Hendersn,D   .256  .305  .359   117   30    7    1    1   11    8   18   0   2
+ Wilson       .247  .299  .327   150   37    4    1    2   19   12   23   0   2
+ Johnson      .240  .259  .360    25    6    3    0    0    2    1    1   0   1
+ Kennedy      .179  .179  .179    28    5    0    0    0    1    0   12   0   0
+ Webster      .111  .111  .111     9    1    0    0    0    0    0    2   0   0
+rBradley      .000  .067  .000    14    0    0    0    0    0    1    6   0   0
+ Mazzilli     .000 1.000  .000     0    0    0    0    0    0    1    0   0   0
+ 
+ Sambito      .500  .500 1.000     2    1    1    0    0    1    0    1   0   0
+ Stieb        .190  .190  .190    21    4    0    0    0    1    0    7   2   0
+nBlack        .167  .167  .200    30    5    1    0    0    1    0   10   0   0
+ Morris       .148  .148  .185    27    4    1    0    0    3    0    8   0   0
+ Blyleven     .087  .106  .087    46    4    0    0    0    0    0   13   2   0
+ Eckersley    .083  .154  .083    12    1    0    0    0    1    1    4   1   0
+rHernandez    .000  .000  .000     4    0    0    0    0    0    0    4   0   0
+rHowell       .000  .000  .000     6    0    0    0    0    1    0    3   0   0
+nCalhoun      .000  .000  .000     3    0    0    0    0    0    0    1   0   0
+ 
+ Team Total   .269  .334  .374  1749  471   84   11   26  204  168  287  14  11
+           DMB League Batting Splits:  1984 Barcelona Brewers-- vsRHP
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+nFrancona     .417  .442  .594    96   40   10    2    1   16    4    6   2   2
+ Hargrove     .375  .444  .542    24    9    4    0    0    3    3    1   0   0
+rOrta         .335  .374  .531   388  130   24    8   12   75   25   41   0   5
+ Phillips     .311  .357  .411   219   68    9    2    3   17   15   45   1   0
+rBradley      .309  .351  .337   249   77    5    1    0   17   14   66   6   0
+ Kennedy      .293  .349  .432   294   86    8    0   11   39   26   38   0   1
+ Baylor       .282  .316  .493    71   20    6    0    3   14    2   10   0   3
+ Johnson      .281  .361  .356   253   71   12    2    1   26   33   47   1   2
+nWashington   .271  .372  .458   236   64    7    2   11   32   37   42   0   2
+ Webster      .267  .267  .400    15    4    2    0    0    2    0    9   0   0
+ Smith,O      .264  .324  .335   254   67    9    0    3   20   20   17   7   1
+ Tabler       .255  .324  .372    94   24    2    0    3   13   10   13   0   1
+cTabler       .272  .339  .437   151   41    4    0    7   26   16   20   0   1
+ Heath        .254  .275  .388    67   17    3    0    2    5    2    9   0   0
+ Hendersn,D   .246  .288  .417   240   59   14    0    9   32   12   38   3   2
+ Hairston     .234  .351  .383    94   22    6    1    2   11   16    9   0   0
+ Lopes        .229  .286  .286    70   16    4    0    0    6    6   12   1   1
+ Thornton     .228  .308  .421   368   84   16    2   17   50   43   63   0   3
+ Wilson       .225  .304  .294   102   23    3    2    0   12   12   13   1   1
+ Samuel       .220  .256  .359   382   84   16    5    9   36   16  114   0   2
+ Nieto        .163  .217  .302    43    7    0    0    2    5    3   12   0   0
+ Mazzilli     .000  .000  .000     2    0    0    0    0    0    0    0   0   0
+ Cooper       .000  .000  .000     3    0    0    0    0    0    0    0   0   0
+cCooper       .308  .357  .308    13    4    0    0    0    2    1    1   0   0
+ Gulden       .000  .000  .000     8    0    0    0    0    0    0    0   0   0
+ 
+nCalhoun     1.000 1.000 1.000     1    1    0    0    0    0    0    0   0   0
+rHernandez    .200  .200  .267    15    3    1    0    0    1    0    8   0   0
+nBlack        .171  .167  .220    41    7    0    1    0    2    0   10   1   1
+ Stieb        .101  .101  .101    69    7    0    0    0    0    0   24   4   0
+ Blyleven     .098  .159  .098    41    4    0    0    0    1    2    9   2   0
+ Eckersley    .087  .106  .087    46    4    0    0    0    1    1   20   2   0
+ Morris       .078  .077  .098    51    4    1    0    0    4    0   22   0   1
+rHowell       .000  .000  .000    11    0    0    0    0    0    0    4   0   0
+ Wilcox       .000  .000  .000     6    0    0    0    0    0    0    2   0   0
+ Sambito      .000  .000  .000     2    0    0    0    0    0    0    1   0   0
+ 
+ Team Total   .260  .313  .386  3855 1002  162   28   89  440  302  705  31  28
+     DMB League Games Started by Position:  1984 Barcelona Brewers-- vsLHP
+                                        
+ 
+ NAME           C   1B   2B   3B   SS   LF   CF   RF
+ 
+ Baylor         0    0    0    0    0   50    0    0
+rBradley        0    0    0    0    0    0    0    1
+nFrancona       0    4    0    0    0    0    0    0
+ Heath         53    0    0    0    0    0    0    0
+ Hendersn,D     0    0    0    0    0    0   13   17
+ Johnson        0    0    0    0    2    0    0    0
+ Lopes          0    0    0   46    0    0    0    0
+rOrta           0    0    0    0    0    0    0    1
+ Phillips       0    0   17    0   18    0    0    0
+ Samuel         0    0   36    0    0    0    0    0
+ Smith,O        0    0    0    0   33    0    0    0
+ Cooper         0    1    0    0    0    0    0    0
+CCooper         0    5    0    0    0    0    0    0
+ Thornton       0   48    0    0    0    0    0    0
+nWashington     0    0    0    0    0    0    0   34
+ Webster        0    0    0    0    0    3    0    0
+ Wilson         0    0    0    0    0    0   40    0
+ Tabler         0    0    0    7    0    0    0    0
+CTabler         0    0    0   41    0    0    0    0
+ 
+ Team Total    53   53   53   53   53   53   53   53
+     DMB League Games Started by Position:  1984 Barcelona Brewers-- vsRHP
+                                        
+ 
+ NAME           C   1B   2B   3B   SS   LF   CF   RF
+ 
+ Baylor         0    0    0    0    0    8    0    0
+rBradley        0    0    0    0    0    0   39   21
+nFrancona       0    8    0    0    2    1    0    0
+ Hairston       0    0    0    0    0    0    0   26
+ Hargrove       0    2    0    0    0    0    0    0
+ Heath         13    0    0    0    0    0    0    0
+ Hendersn,D     0    0    0    0    0    0   59    1
+ Johnson        0    0    0   72    0    0    0    0
+ Kennedy       89    0    0    0    0    0    0    0
+ Lopes          0    0    0   11    0    0    0    0
+ Nieto          7    0    0    0    0    0    0    0
+rOrta           0    0    0    0    0   99    0    0
+ Phillips       0    0   16    0   40    0    0    0
+ Samuel         0    0   93    0    1    0    0    0
+ Smith,O        0    0    0    0   66    0    0    0
+ Thornton       0   99    0    0    0    0    0    0
+nWashington     0    0    0    0    0    0    0   61
+ Webster        0    0    0    0    0    1    0    0
+ Wilson         0    0    0    0    0    0   11    0
+ Tabler         0    0    0   26    0    0    0    0
+CTabler         0    0    0   28    0    0    0    0
+ 
+ Team Total   109  109  109  109  109  109  109  109
+            DMB League Pitching Statistics:  1984 Barcelona Brewers
+                                        
+ 
+ NAME         ERA  W  L  S   G GS CG SH    IP   H   R  ER  BB   K   BF HR WP DP
+ 
+nCalhoun     1.13  2  2  6  13  0  0  0  16.0  10   3   2   0  15   61  0  1  0
+rHernandez   1.45 14  4 19  81  0  0  0 143.0 121  34  23  31 130  574  5  2 16
+rHowell      1.86  5  5  9  65  1  0  0 116.0  75  30  24  32 125  449  6  4  5
+ Sambito     2.25  1  2  2  14  0  0  0  24.0  15   6   6  11  11   95  1  0  0
+ Blyleven    3.01 17  9  0  42 33 11  3 263.0 206  96  88  83 189 1058 24 10 17
+ Stieb       3.04 19  8  0  37 36  9  4 257.2 237 103  87  72 219 1060 21  0 21
+ Morris      4.07 12 16  1  40 37  4  2 238.2 242 140 108  66 162 1010 24  7 13
+nBlack       4.18 12 11  0  30 30  7  2 183.0 201  96  85  43 113  791 22  1 11
+ Wilcox      4.25  3  2  1  31  1  0  0  48.2  52  25  23  16  37  207  2  2  6
+ Eckersley   4.34  7 11  0  44 24  5  0 184.2 212  96  89  37 106  792 15  3 19
+
+ Team Total  3.27    70    162    36   1474.2     629     391     6097    30
+                  92    38    162    14      1371     535    1107     120   108
+ 
+ 
+ NAME          IW HBP  WP  BK  CI   H/9  BB/9   R/9   K/9  HR/9
+ 
+nCalhoun        0   0   1   0   0   5.6   0.0   5.6   8.4   0.0
+rHernandez      3   5   2   0   0   7.6   2.0   9.9   8.2   0.3
+rHowell         0   2   4   0   0   5.8   2.5   8.5   9.7   0.5
+ Sambito        2   0   0   0   0   5.6   4.1   9.8   4.1   0.4
+ Blyleven       0   5  10   0   0   7.0   2.8  10.1   6.5   0.8
+ Stieb          0   8   0   0   0   8.3   2.5  11.1   7.6   0.7
+ Morris         1   2   7   0   0   9.1   2.5  11.7   6.1   0.9
+nBlack          0   1   1   3   0   9.9   2.1  12.0   5.6   1.1
+ Wilcox         0   3   2   1   0   9.6   3.0  13.1   6.8   0.4
+ Eckersley      5   7   3   2   0  10.3   1.8  12.5   5.2   0.7
+
+ Team Total    11  33  30   6   0   8.4   2.4  11.0   6.8   0.7
+ 
+ 
+ NAME         AVG   OBP   SPC   BF   AB    H  2B  3B  HR   TB  SH  SF
+ 
+nCalhoun     .164  .164  .262   61   61   10   6   0   0   16   0   0
+rHernandez   .227  .274  .285  574  533  121  14   1   5  152   2   3
+rHowell      .182  .243  .252  449  412   75  11   0   6  104   1   2
+ Sambito     .188  .280  .262   95   80   15   3   0   1   21   2   2
+ Blyleven    .215  .279  .327 1058  958  206  19   8  24  313   4   8
+ Stieb       .244  .300  .366 1060  970  237  41   7  21  355   5   5
+ Morris      .264  .311  .389 1010  918  242  27   8  24  357  13  11
+nBlack       .271  .310  .402  791  742  201  29   1  22  298   1   4
+ Wilcox      .286  .346  .423  207  182   52  17   1   2   77   2   4
+ Eckersley   .289  .327  .416  792  734  212  44   2  15  305   8   6
+
+ Team Total  .245  .296  .357      5590      211     120       38
+                              6097      1371      28     1998      45
+            DMB League Pitching Statistics:  1984 Barcelona Brewers
+                                        
+ 
+ NAME          GS  CG   CG% SHo  QS   QS%   RS RS/G  RL RLS   RL%
+ 
+nCalhoun        0   0  .000   0   0  .000    0  0.0   0   0  .000
+rHernandez      0   0  .000   0   0  .000    0  0.0   9   3  .333
+rHowell         1   0  .000   0   1 1.000    4  4.0  14   3  .214
+ Sambito        0   0  .000   0   0  .000    0  0.0   5   3  .600
+ Blyleven      33  11  .333   3  24  .727  152  4.6  15   7  .467
+ Stieb         36   9  .250   4  22  .611  168  4.7  16   8  .500
+ Morris        37   4  .108   2  16  .432  150  4.1  22  12  .545
+nBlack         30   7  .233   2  16  .533  127  4.2  17   9  .529
+ Wilcox         1   0  .000   0   0  .000    5  5.0   8   4  .500
+ Eckersley     24   5  .208   0  12  .500   85  3.5  26   9  .346
+
+ Team Total   162      .222      91        691      132      .439
+                   36        14      .562       4.3      58
+ 
+ 
+ NAME         SvO  Sv   Sv%  BSv  BSv%  IR  IRS   IR%    G  RA   RA%  GF   GF%
+ 
+nCalhoun        7   6  .857    1  .143   7    2  .286   13  13 1.000  12  .923
+rHernandez     32  19  .594   10  .313  46   25  .543   81  81 1.000  44  .543
+rHowell        15   9  .600    1  .067  32   10  .313   65  64  .985  34  .531
+ Sambito        3   2  .667    0  .000   8    4  .500   14  14 1.000   6  .429
+ Blyleven       1   0  .000    0  .000   6    2  .333   42   9  .214   5  .556
+ Stieb          0   0  .000    0  .000   1    0  .000   37   1  .027   0  .000
+ Morris         1   1 1.000    0  .000   4    2  .500   40   3  .075   2  .667
+nBlack          0   0  .000    0  .000   0    0  .000   30   0  .000   0  .000
+ Wilcox         2   1  .500    0  .000  13    6  .462   31  30  .968  17  .567
+ Eckersley      4   0  .000    0  .000  15    7  .467   44  20  .455   6  .300
+
+ Team Total    65      .585       .185       58        397      .592      .536
+                   38         12       132       .439      235       126
+          DMB League Pitching Splits:  1984 Barcelona Brewers-- vsLHB
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+nCalhoun      .000  .000  .000    11    0    0    0    0    0    0    1   0   0
+ Sambito      .045  .043  .045    22    1    0    0    0    1    0    7   0   1
+rHowell       .202  .268  .277   188   38    5    0    3   18   17   52   0   0
+ Blyleven     .205  .290  .331   492  101    6    4   16   53   58   95   1   5
+rHernandez    .220  .292  .271   118   26    3    0    1    9    9   34   0   0
+nBlack        .252  .308  .301   143   36    1    0    2   12   12   21   1   1
+ Stieb        .264  .322  .401   519  137   17    3   16   47   44   86   2   1
+ Morris       .270  .316  .413   508  137   17    4   16   71   38   80   2   7
+ Wilcox       .310  .365  .417    84   26    9    0    0   10    9   17   1   3
+ Eckersley    .312  .357  .447   369  115   30    1    6   45   27   34   3   4
+ 
+ Team Total   .251  .310  .370  2454  617   88   12   60  266  214  427  10  22
+          DMB League Pitching Splits:  1984 Barcelona Brewers-- vsRHB
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+rHowell       .165  .222  .232   224   37    6    0    3   16   15   73   1   2
+nCalhoun      .200  .200  .320    50   10    6    0    0    5    0   14   0   0
+ Stieb        .222  .276  .326   451  100   24    4    5   43   28  133   3   4
+ Blyleven     .225  .266  .322   466  105   13    4    8   31   25   94   3   3
+rHernandez    .229  .269  .289   415   95   11    1    4   43   22   96   2   3
+ Sambito      .241  .357  .345    58   14    3    0    1    6   11    4   2   1
+ Morris       .256  .304  .359   410  105   10    4    8   51   28   82  11   4
+ Wilcox       .265  .330  .429    98   26    8    1    2   15    7   20   1   1
+ Eckersley    .266  .295  .384   365   97   14    1    9   43   10   72   5   2
+nBlack        .275  .311  .426   599  165   28    1   20   70   31   92   0   3
+ 
+ Team Total   .240  .282  .347  3136  754  123   16   60  323  177  680  28  23
+            DMB League Fielding Statistics:  1984 Barcelona Brewers
+                                        
+ 
+POS NAME             G    GS    PO     A     E    DP    TC     PCT   PB
+ 
+p   Blyleven        42    33    17    28     3     2    48    .938
+    Morris          40    37    12    27     1     2    40    .975
+   nBlack           30     0    13    22     3     0    38    .921
+    Eckersley       44    24     6    26     5     4    37    .865
+    Stieb           37    36    17    19     0     1    36   1.000
+   rHernandez       81     0    10    13     0     2    23   1.000
+   rHowell          65     1     7    14     1     0    22    .955
+    Wilcox          31     1     1     4     1     0     6    .833
+    Sambito         14     0     2     2     0     0     4   1.000
+   nCalhoun         13     0     0     0     0     0     0    .000
+                   397   132    85   155    14    11   254    .945
+ 
+c   Kennedy         99    89   584    31     7     0   622    .989    1
+    Heath           82    66   441    42     4     1   487    .992    2
+    Nieto           29     7   112     7     0     0   119   1.000    1
+    Gulden           4     0    10     0     0     0    10   1.000    0
+                   214   162  1147    80    11     1  1238    .991    4
+ 
+1b  Thornton       147   147  1131    86    12    97  1229    .990
+   nFrancona        46     0   170    22     1    13   193    .995
+    Hargrove         4     2    18     1     0     2    19   1.000
+    Cooper           2     1     7     1     0     0     8   1.000
+   cCooper           7     5    47     3     0     2    50   1.000
+   nWashington       1     0     4     0     0     0     4   1.000
+                   200   150  1330   110    13   112  1453    .991
+ 
+2b  Samuel         132   129   249   367    25    75   641    .961
+    Phillips        48    33    65   108     1    20   174    .994
+    Lopes            9     0     3     4     0     1     7   1.000
+                   189   162   317   479    26    96   822    .968
+ 
+3b  Lopes           79    57    60   109    11    16   180    .939
+    Johnson         84    72    51   111    10    11   172    .942
+    Tabler          37    33    24    47     4     2    75    .947
+   cTabler          80    69    51    96     8     6   155    .948
+    Heath            2     0     0     0     0     0     0    .000
+                   202   162   135   267    25    29   427    .941
+ 
+ss  Smith,O        128    99   152   319    12    57   483    .975
+    Phillips        67    58    94   156    18    23   268    .933
+    Johnson         10     2     5    12     0     1    17   1.000
+   nFrancona         2     0     2     4     2     0     8    .750
+    Samuel           1     1     0     0     1     0     1    .000
+                   208   160   253   491    33    81   777    .958
+            DMB League Fielding Statistics:  1984 Barcelona Brewers
+                                        
+ 
+POS NAME             G    GS    PO     A     E    DP    TC     PCT   PB
+ 
+lf rOrta           111    99   234     9    11     1   254    .957
+    Baylor          68    58   131     6     3     1   140    .979
+    Webster          4     4     8     2     0     0    10   1.000
+    Wilson          11     0     7     1     0     0     8   1.000
+   nFrancona         3     0     2     0     0     0     2   1.000
+   rBradley          2     0     1     0     0     0     1   1.000
+    Hairston         2     0     0     0     0     0     0    .000
+                   201   161   383    18    14     2   415    .966
+ 
+cf  Hendersn,D      73    72   196    14     3     1   213    .986
+    Wilson          58    51   142     3     1     0   146    .993
+   rBradley         39    39    86     2     3     1    91    .967
+                   170   162   424    19     7     2   450    .984
+ 
+rf nWashington      99     0   203    10     6     3   219    .973
+   rBradley         23    22    61     3     0     0    64   1.000
+    Hairston        26    26    50     3     0     0    53   1.000
+    Hendersn,D      23    18    33     3     1     0    37    .973
+   rOrta             1     1     2     0     0     0     2   1.000
+    Wilson           2     0     1     0     0     0     1   1.000
+   nFrancona         1     0     0     0     0     0     0    .000
+    Baylor           1     0     0     0     0     0     0    .000
+                   176    67   350    19     7     3   376    .981
+ 
+    Team Total     162   162  4424  1638   150   126  6212    .976    4
+                     Game Results:  1984 Barcelona Brewers
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 4/ 1/1984   @FER   L  4-6      Stieb       Stieb                   Boddicker   
+ 4/ 2/1984   @FER   L  6-8      Blyleven    Howell                  Andujar     
+ 4/ 3/1984   @FER   W  5-1      Black       Black                   Sutcliffe   
+ 4/ 4/1984   @BBG   W  6-4      Morris      Hernandez               Viola       
+ 4/ 5/1984   @EVN   L  1-3      Eckersley   Howell                  Smith       
+ 4/ 6/1984   @EVN   W  4-3      Stieb       Stieb       Hernandez   Burns       
+ 4/ 7/1984    JJJ   L  1-2      Blyleven    Blyleven                Guidry      
+ 4/ 8/1984    CIN   W  9-4      Black       Black       Hernandez   Browning    
+ 4/ 9/1984    CIN   L  4-8      Morris      Morris                  Fernandez   
+ 4/10/1984    CIN   W  5-1      Eckersley   Eckersley               Candiotti   
+ 4/12/1984    TEW   L  4-6      Howell      Calhoun                 Witt        
+ 4/13/1984    TEW   W  6-4      Blyleven    Blyleven                Ojeda       
+ 4/15/1984   @GCP   W 10-3      Black       Black                   Key         
+ 4/16/1984   @GCP   L  0-5      Morris      Morris                  Darwin      
+ 4/17/1984   @GCP   L  2-5      Eckersley   Eckersley               Martinez,D  
+ 4/18/1984    CTW   W  6-4      Stieb       Stieb       Hernandez   Zahn        
+ 4/19/1984    CTW   L  2-3  10  Blyleven    Howell                  Butcher     
+ 4/20/1984    CTW   L  5-7      Black       Black                   Carlton     
+ 4/21/1984   @BBG   W  5-4      Morris      Wilcox      Calhoun     Welch       
+ 4/22/1984    JJJ   W  9-5      Eckersley   Eckersley   Hernandez   Rijo        
+ 4/23/1984    BBG   L  5-8      Stieb       Stieb                   Reuschel    
+ 4/24/1984    BBG   L  2-4      Blyleven    Hernandez               Viola       
+ 4/25/1984    EVN   W  3-2      Black       Black                   Rawley      
+ 4/26/1984   @CEN   W  7-5      Morris      Howell      Calhoun     Cowley      
+ 4/27/1984   @CEN   L  0-8      Eckersley   Eckersley               Niekro      
+ 4/28/1984   @CEN   W  4-0      Stieb       Stieb                   McGregor    
+ 4/29/1984   @GCP   W  8-5      Blyleven    Blyleven    Hernandez   Berenguer   
+ 4/30/1984   @GCP   L  0-10     Black       Black                   Barker      
+ 5/ 1/1984    EVN   W  4-3      Morris      Hernandez               Robinson    
+ 5/ 2/1984    FER   W  5-4      Eckersley   Howell                  Andujar     
+ 5/ 3/1984    FER   L  3-4      Stieb       Stieb                   Sutcliffe   
+ 5/ 4/1984   @BBG   L  2-3      Blyleven    Blyleven                Viola       
+ 5/ 5/1984    GCP   W  4-3      Black       Black       Hernandez   Barker      
+ 5/ 6/1984    GCP   L  3-8      Morris      Morris                  Darwin      
+ 5/ 7/1984    GCP   L  2-5      Eckersley   Eckersley               Martinez,D  
+ 5/ 8/1984   @SUN   W  8-4      Stieb       Stieb                   Lea         
+ 5/ 9/1984   @GPC   W  4-2      Blyleven    Blyleven                Thurmond    
+ 5/10/1984   @GPC   W  6-5      Black       Wilcox      Calhoun     Pena        
+ 5/11/1984   @GPC   L  3-6      Morris      Morris                  Rhoden      
+ 5/12/1984   @GPC   L  1-4      Eckersley   Eckersley               Gooden      
+ 5/13/1984    CIN   W  2-0      Stieb       Stieb                   Smithson    
+ 5/14/1984    CIN   L  2-6      Blyleven    Blyleven                Davis       
+ 5/15/1984    CIN   W  6-0      Black       Black                   Fernandez   
+ 5/16/1984   @GAR   W  2-0      Morris      Morris                  Hurst       
+ 5/17/1984   @GAR   W  5-2      Eckersley   Eckersley               Hoyt        
+ 5/18/1984   @GAR   W  5-4      Stieb       Stieb       Hernandez   Flanagan    
+ 5/19/1984    JJJ   L  5-6      Blyleven    Blyleven                Leibrandt   
+ 5/20/1984    JJJ   W  6-2      Black       Black                   Rijo        
+ 5/21/1984    JJJ   W  6-5      Morris      Morris      Howell      Cox         
+ 5/22/1984    EVN   W  9-8  10  Eckersley   Hernandez               Rawley      
+ 5/23/1984    EVN   L  3-8      Stieb       Stieb                   Robinson    
+ 5/24/1984    EVN   L  1-3      Blyleven    Hernandez               Moore       
+                     Game Results:  1984 Barcelona Brewers
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 5/25/1984    CTW   L  0-6      Black       Black                   Zahn        
+ 5/26/1984    CTW   W  3-1  13  Morris      Calhoun                 Honeycutt   
+ 5/27/1984    CTW   L  5-7      Eckersley   Eckersley               Hough       
+ 5/28/1984    CTW   L  6-7  11  Stieb       Calhoun                 Tibbs       
+ 5/29/1984    BMB   L  0-5      Black       Black                   Denny       
+ 5/30/1984    BMB   W  4-3      Morris      Morris      Hernandez   Clemens     
+ 5/31/1984    BMB   L  2-4      Eckersley   Eckersley               Langston    
+ 6/ 1/1984   @SUN   W  4-3  11  Stieb       Hernandez   Calhoun     Perez       
+ 6/ 2/1984   @SUN   W  3-1      Black       Blyleven    Hernandez   Lea         
+ 6/ 3/1984   @SUN   W  3-2      Morris      Morris      Hernandez   Tudor       
+ 6/ 4/1984   @A51   L  1-2      Eckersley   Blyleven                Niekro      
+ 6/ 5/1984   @A51   L  3-4      Stieb       Hernandez               Trout       
+ 6/ 6/1984   @A51   W  5-4      Black       Black       Hernandez   Sanderson   
+ 6/ 7/1984    SUN   L  2-7      Morris      Morris                  Lea         
+ 6/ 8/1984    SUN   W  1-0      Eckersley   Hernandez               Tudor       
+ 6/ 9/1984    SUN   L  0-1      Stieb       Stieb                   Show        
+ 6/13/1984   @TEW   L  2-6      Black       Black                   Witt        
+ 6/14/1984   @TEW   W  4-2      Morris      Morris                  Ojeda       
+ 6/15/1984   @TEW   W  7-1      Eckersley   Eckersley               Darling     
+ 6/19/1984    EVN   W  4-1      Stieb       Stieb                   Smith       
+ 6/20/1984    CEN   W  7-3      Black       Black                   McWilliams  
+ 6/21/1984    CEN   L  0-2      Morris      Morris                  Davis,M     
+ 6/22/1984    CEN   W  5-2      Eckersley   Eckersley               Niekro      
+ 6/23/1984   @A51   W 11-6      Stieb       Stieb       Hernandez   Valenzuela  
+ 6/24/1984   @A51   W  5-3      Black       Hernandez   Howell      Niekro      
+ 6/25/1984   @A51   L  3-4      Morris      Morris                  Trout       
+ 6/26/1984    GAR   W  3-1      Blyleven    Blyleven                Hurst       
+ 6/27/1984   @CIN   L  6-7      Stieb       Hernandez               Smithson    
+ 6/28/1984   @CIN   W  8-2      Black       Black                   Davis       
+ 7/ 3/1984    BBG   W  6-5      Morris      Hernandez               Welch       
+ 7/ 4/1984    BBG   W  8-2      Blyleven    Blyleven                Scott,M     
+ 7/ 5/1984    BBG   L  1-2      Stieb       Stieb                   Viola       
+ 7/ 6/1984   @JJJ   W  4-3  11  Black       Hernandez               Cox         
+ 7/ 7/1984   @JJJ   W  5-2      Morris      Morris      Hernandez   Gullickson  
+ 7/ 8/1984   @JJJ   W  5-1  10  Blyleven    Howell                  Guidry      
+ 7/ 9/1984   @FER   W  9-4      Stieb       Eckersley   Howell      Boyd        
+ 7/10/1984   @FER   L  1-6      Black       Black                   Sutton      
+ 7/11/1984   @FER   L  2-4      Morris      Morris                  Boddicker   
+ 7/15/1984   @JJJ   W  3-2  10  Blyleven    Hernandez               Hawkins     
+ 7/16/1984   @JJJ   W  7-0      Stieb       Stieb                   Cox         
+ 7/17/1984   @SUN   L  2-3      Black       Black                   Hammaker    
+ 7/18/1984   @BMB   W  6-3      Morris      Hernandez   Calhoun     Castillo    
+ 7/19/1984   @BMB   L  3-7      Blyleven    Blyleven                Langston    
+ 7/20/1984   @BMB   W  9-5      Stieb       Stieb                   Gubicza     
+ 7/21/1984   @CTW   L  0-8      Black       Black                   Tibbs       
+ 7/22/1984   @CTW   L  3-7      Morris      Morris                  Davis       
+ 7/23/1984   @CTW   L  1-2      Blyleven    Blyleven                Zahn        
+ 7/24/1984   @BBG   L  3-5      Stieb       Stieb                   Welch       
+ 7/25/1984   @BBG   W  7-0      Black       Hernandez   Howell      Saberhagen  
+ 7/26/1984   @BBG   W 11-7      Morris      Hernandez               Alexander   
+ 7/27/1984   @EVN   W  4-2      Blyleven    Blyleven    Calhoun     Robinson    
+ 7/28/1984   @EVN   W  7-2      Stieb       Stieb                   Petry       
+                     Game Results:  1984 Barcelona Brewers
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 7/29/1984   @EVN   L  5-9      Black       Black                   Moore       
+ 7/30/1984   @TEW   L  3-8      Morris      Morris                  Leal        
+ 7/31/1984   @TEW   L  1-6      Blyleven    Blyleven                Witt        
+ 8/ 1/1984    GAR   W  5-1      Stieb       Stieb       Howell      Stewart     
+ 8/ 2/1984   @GAR   W  5-2      Black       Black       Howell      Hurst       
+ 8/ 3/1984   @GAR   L  3-5      Morris      Morris                  Flanagan    
+ 8/ 5/1984    A51   W  5-1      Blyleven    Blyleven                Trout       
+ 8/ 6/1984    A51   W  4-1      Stieb       Stieb                   Clancy      
+ 8/ 7/1984    A51   L  3-4  17  Black       Eckersley               Tanana      
+ 8/ 8/1984   @CEN   W  8-0      Morris      Morris                  Davis,M     
+ 8/ 9/1984   @CEN   W  7-4  10  Blyleven    Calhoun                 Niekro      
+ 8/10/1984   @CEN   W  6-4  13  Stieb       Eckersley   Wilcox      Krukow      
+ 8/11/1984   @CEN   L  3-4      Black       Black                   McWilliams  
+ 8/12/1984    GCP   L  2-8      Morris      Morris                  Barker      
+ 8/13/1984    GCP   W  2-1      Blyleven    Blyleven                Darwin      
+ 8/14/1984    GCP   W  6-4      Stieb       Stieb       Hernandez   Forster     
+ 8/15/1984    GPC   L  7-14     Black       Black                   Mahler      
+ 8/16/1984    GPC   L  1-7      Morris      Morris                  Gooden      
+ 8/17/1984    GPC   W  5-3      Blyleven    Blyleven    Hernandez   Mason       
+ 8/18/1984   @CTW   W  5-0      Stieb       Stieb                   Davis       
+ 8/19/1984   @CTW   W  3-0      Black       Black                   Smithson    
+ 8/20/1984   @CTW   W  5-2      Morris      Morris      Hernandez   Honeycutt   
+ 8/21/1984    SUN   W  6-3      Blyleven    Blyleven    Howell      Perez       
+ 8/22/1984    SUN   W  3-2      Stieb       Stieb       Hernandez   Lea         
+ 8/23/1984   @SUN   L  3-4  10  Black       Howell                  Tudor       
+ 8/24/1984    A51   W  7-6      Morris      Sambito     Howell      Clancy      
+ 8/25/1984    A51   W  9-2      Blyleven    Blyleven                Tanana      
+ 8/26/1984    A51   L  3-5      Stieb       Stieb                   Niekro      
+ 8/27/1984    A51   L  5-7      Eckersley   Eckersley               Langston    
+ 8/28/1984    CEN   L  2-5      Morris      Morris                  Niekro      
+ 8/29/1984    CEN   W 10-1      Blyleven    Blyleven                Krukow      
+ 8/30/1984    CEN   L  6-7  12  Stieb       Sambito                 McWilliams  
+ 8/31/1984    GAR   W  4-3      Eckersley   Hernandez   Howell      Hoyt        
+ 9/ 1/1984    GAR   W  8-6      Morris      Morris      Hernandez   Stewart     
+ 9/ 2/1984    GAR   W  3-0      Blyleven    Blyleven                Flanagan    
+ 9/ 3/1984   @BMB   W  4-0      Stieb       Stieb                   Denny       
+ 9/ 4/1984   @BMB   L  2-8      Eckersley   Eckersley               Nipper      
+ 9/ 5/1984   @TEW   W 10-4      Morris      Morris                  Ojeda       
+ 9/ 6/1984   @CIN   L  2-4      Blyleven    Blyleven                Soto        
+ 9/ 7/1984   @CIN   W  2-1      Stieb       Stieb       Sambito     Hough       
+ 9/ 8/1984   @CIN   L  4-5      Eckersley   Sambito                 Romanick    
+ 9/ 9/1984    TEW   W  2-1      Morris      Morris      Hernandez   Witt        
+ 9/10/1984    TEW   W  8-7      Blyleven    Howell                  Ojeda       
+ 9/11/1984    TEW   W  5-3      Stieb       Stieb       Sambito     Darling     
+ 9/12/1984    GPC   L  4-7  15  Eckersley   Wilcox                  Mahler      
+ 9/13/1984    GPC   L  3-4      Morris      Morris                  Gooden      
+ 9/14/1984    GPC   W  8-7  12  Blyleven    Howell                  Mason       
+ 9/17/1984    JJJ   W  3-2  12  Stieb       Hernandez               Farr        
+ 9/18/1984    FER   W  3-2      Eckersley   Wilcox                  Boddicker   
+ 9/19/1984    FER   W  3-2      Morris      Morris                  Sutcliffe   
+ 9/20/1984    FER   W  8-0      Blyleven    Blyleven                Boyd        
+ 9/21/1984   @GPC   L  5-6      Wilcox      Wilcox                  Rhoden      
+                     Game Results:  1984 Barcelona Brewers
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 9/22/1984   @GPC   L  1-5      Eckersley   Eckersley               Mahler      
+ 9/23/1984   @GPC   L  1-4      Morris      Morris                  Gooden      
+ 9/24/1984    BMB   L  2-4  17  Stieb       Howell                  Castillo    
+ 9/25/1984    BMB   W  3-1      Blyleven    Blyleven    Morris      Williams    
+ 9/26/1984    BMB   L  2-11     Eckersley   Eckersley               Denny       
+ 9/27/1984    GAR   W  9-0      Blyleven    Blyleven                Terrell     
+                       Injury Log: 1984 Barcelona Brewers
+                                        
+ 
+-- Date -- #  Player      Cause                 Length
+ 
+ 4/ 6/1984    Stieb       General                 10
+ 4/28/1984    Heath       General                  5
+ 5/ 7/1984    Kennedy     Collision in field      14
+ 5/13/1984    Orta        General                  1
+ 5/21/1984    Samuel      General                  0
+ 5/26/1984    Thornton    Collision on bases       5
+ 5/28/1984    Bradley     Hit by pitch             0
+ 6/ 4/1984    Smith,O     General                  5
+ 6/25/1984    Thornton    General                  3
+ 7/ 4/1984    Phillips    General                  0
+ 7/19/1984    Eckersley   General                  0
+ 7/20/1984    Phillips    General                  5
+ 7/25/1984    Black       Rain delay               0
+ 7/31/1984    Kennedy     Collision in field      14
+ 8/19/1984    Thornton    General                  6
+ 8/23/1984    Phillips    General                  0
+ 9/17/1984    Stieb       General                  5
+              DMB League Transaction Log:  1984 Barcelona Brewers
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+ 5/ 8/1984  BAR    DL           Terry Kennedy       
+ 5/ 8/1984  BAR    Promote      Mitch Webster       
+ 5/25/1984  BAR    Activate     Terry Kennedy       
+ 5/25/1984  BAR    Farm         Mitch Webster       
+ 6/13/1984  BAR    Acquire      Cecil Cooper          from GAR
+ 6/13/1984  BAR    TradeAway    Scot Thompson         to GAR
+ 7/19/1984  BAR    Farm         Phil Bradley        
+ 7/19/1984  BAR    Promote      Mitch Webster       
+ 7/20/1984  BAR    Acquire      Pat Tabler            from CIN
+ 7/20/1984  BAR    TradeAway    Ron Romanick          to CIN
+ 7/20/1984  BAR    Farm         Pat Tabler          
+ 7/31/1984  BAR    DL           Terry Kennedy         effective  8/ 1/1984  
+ 7/31/1984  BAR    Promote      Brad Gulden         
+ 8/ 1/1984  BAR    Farm         Howard Johnson      
+ 8/ 1/1984  BAR    Promote      Pat Tabler          
+ 8/ 9/1984  BAR    Farm         Jeff Calhoun        
+ 8/ 9/1984  BAR    Promote      Jerry Hairston      
+ 8/18/1984  BAR    Activate     Terry Kennedy       
+ 8/18/1984  BAR    Farm         Brad Gulden         
+ 8/23/1984  BAR    TradeAway    Claudel Washington    to GPC
+ 8/23/1984  BAR    TradeAway    Bud Black             to GPC
+ 8/23/1984  BAR    TradeAway    Terry Francona        to GPC
+ 8/23/1984  BAR    Promote      Cecil Cooper        
+ 8/23/1984  BAR    Promote      Mike Hargrove       
+ 8/23/1984  BAR    Acquire      Joe Sambito           from GPC
+ 8/23/1984  BAR    Promote      Joe Sambito         
+ 8/31/1984  BAR    TradeAway    Jeff Calhoun          to FER
+ 9/ 2/1984  BAR    Promote      Brad Gulden         
+ 9/ 2/1984  BAR    Promote      Lee Mazzilli        
+ 9/ 2/1984  BAR    Promote      Howard Johnson      
+ 9/17/1984  BAR    Farm         Willie Hernandez    
+ 9/19/1984  BAR    Farm         Jorge Orta          
+ 9/24/1984  BAR    Farm         Jay Howell          
+
+
+ 
+							
+							

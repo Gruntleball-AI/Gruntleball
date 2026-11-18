@@ -1,0 +1,845 @@
+   	 	 	 	 	 	
+					
+	
+
+                           DMB League Transaction Log
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+ 4/ 1/1984  GCP    Farm         Gene Petralli       
+ 4/ 1/1984  GCP    Promote      Jerry Willard       
+ 4/ 2/1984  GPC    DL           Dwight Gooden         effective  4/ 3/1984  
+ 4/ 2/1984  GPC    Promote      Bob Knepper         
+ 4/ 3/1984  BMB    DL           Brian Harper          effective  4/ 4/1984  
+ 4/ 3/1984  BMB    Promote      Chris Brown         
+ 4/ 5/1984  BMB    Farm         Kelly Gruber        
+ 4/ 5/1984  BMB    Promote      Steve Christmas     
+ 4/ 7/1984  CIN    Farm         Bob Walk            
+ 4/ 7/1984  CIN    Promote      Roger Mason         
+ 4/ 7/1984  EVN    Farm         Mark Salas          
+ 4/ 7/1984  EVN    Promote      Jeff Robinson       
+ 4/ 8/1984  BMB    Farm         Steve Christmas     
+ 4/ 8/1984  BMB    Promote      Jerry Mumphrey      
+ 4/ 8/1984  CIN    TradeAway    Bob James             to EVN
+ 4/ 8/1984  EVN    TradeAway    Dan Schatzeder        to CIN
+ 4/ 8/1984  EVN    TradeAway    Stew Cliburn          to CIN
+ 4/ 8/1984  CIN    Farm         Dan Schatzeder      
+ 4/ 8/1984  CIN    Farm         Roger Mason         
+ 4/ 8/1984  CIN    Promote      Mike Smithson       
+ 4/ 8/1984  CIN    Promote      Cecilio Guante      
+ 4/ 9/1984  GCP    Farm         Ken Dixon           
+ 4/ 9/1984  GCP    Promote      Juan Berenguer      
+ 4/10/1984  GCP    Farm         Danny Tartabull     
+ 4/10/1984  GCP    Promote      Jose Oquendo        
+ 4/10/1984  EVN    Promote      Mark Salas          
+ 4/10/1984  EVN    Farm         Jeff Robinson       
+ 4/11/1984  BMB    Farm         Randy O'Neal        
+ 4/11/1984  BMB    Promote      Al Nipper           
+ 4/11/1984  SUN    Farm         Gene Garber         
+ 4/11/1984  SUN    Farm         Bobby Clark         
+ 4/11/1984  SUN    Promote      John Grubb          
+ 4/11/1984  SUN    Promote      Ken Phelps          
+ 4/13/1984  CIN    Farm         Tom Browning        
+ 4/13/1984  CIN    Promote      Storm Davis         
+ 4/15/1984  GPC    DL           Julio Solano          effective  4/16/1984  
+ 4/15/1984  GPC    Promote      Mike Mason          
+ 4/17/1984  JJJ    Farm         Zane Smith          
+ 4/17/1984  JJJ    Promote      Andy Hawkins        
+ 4/17/1984  GAR    Farm         Cecil Cooper        
+ 4/17/1984  GAR    Promote      Toby Harrah         
+ 4/17/1984  A51    Farm         Jeff Russell        
+ 4/17/1984  A51    Promote      Jim Acker           
+ 4/17/1984  GPC    Activate     Dwight Gooden       
+ 4/17/1984  GPC    Farm         Bob Knepper         
+ 4/18/1984  BMB    Farm         Jerry Mumphrey      
+ 4/18/1984  BMB    Activate     Brian Harper        
+ 4/18/1984  A51    Farm         Jim Pankovitz       
+ 4/18/1984  A51    Promote      Glenn Hubbard       
+ 4/22/1984  GCP    Farm         Tom Gorman          
+ 4/22/1984  GCP    Promote      Len Barker          
+ 4/23/1984  BMB    Farm         Don Aase            
+                           DMB League Transaction Log
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+ 4/23/1984  BMB    Promote      Rod Scurry          
+ 4/23/1984  EVN    DL           Tom Seaver            effective  4/22/1984  
+ 4/23/1984  EVN    Promote      Jeff Robinson       
+ 4/24/1984  CEN    Farm         Herm Winningham     
+ 4/24/1984  BMB    Farm         Chris Brown         
+ 4/24/1984  BMB    Promote      Ruppert Jones       
+ 4/25/1984  CEN    Farm         Jim Eisenreich      
+ 4/25/1984  CEN    Farm         Ken Forsch          
+ 4/25/1984  CEN    Promote      Scott McGregor      
+ 4/25/1984  CEN    Promote      Nelson Simmons      
+ 4/25/1984  CEN    Promote      George Hendrick     
+ 4/28/1984  GAR    Farm         Bob Horner          
+ 4/28/1984  GAR    Promote      Danny Heep          
+ 4/28/1984  EVN    DL           Mike Moore            effective  4/29/1984  
+ 4/28/1984  EVN    Promote      Ken Dayley          
+ 4/30/1984  CIN    Promote      Rick Burleson       
+ 4/30/1984  CIN    Farm         Tom Candiotti       
+ 5/ 1/1984  BMB    TradeAway    Dave Geisel           to A51
+ 5/ 1/1984  A51    TradeAway    Jim Essian            to BMB
+ 5/ 1/1984  A51    Promote      Steve Lake          
+ 5/ 1/1984  BMB    Farm         Jim Essian          
+ 5/ 2/1984  SUN    Farm         Tom Niedenfuer      
+ 5/ 2/1984  SUN    Promote      Gene Garber         
+ 5/ 2/1984  GAR    DL           Curt Young            effective  5/ 3/1984  
+ 5/ 2/1984  GAR    Promote      Mike Flanagan       
+ 5/ 3/1984  GAR    Farm         Neil Allen          
+ 5/ 3/1984  GAR    Promote      Gene Nelson         
+ 5/ 3/1984  TEW    Farm         Jack Perconte       
+ 5/ 3/1984  TEW    Farm         Paul Molitor        
+ 5/ 3/1984  TEW    Farm         Doug Bair           
+ 5/ 3/1984  TEW    Promote      Glenn Davis         
+ 5/ 3/1984  TEW    Promote      Rafael Ramirez      
+ 5/ 3/1984  TEW    Promote      Karl Best           
+ 5/ 4/1984  CIN    Farm         Rick Burleson       
+ 5/ 4/1984  CIN    Promote      Jose DeLeon         
+ 5/ 7/1984  EVN    Activate     Tom Seaver          
+ 5/ 7/1984  EVN    Farm         Mark Salas          
+ 5/ 8/1984  BAR    DL           Terry Kennedy       
+ 5/ 8/1984  BAR    Promote      Mitch Webster       
+ 5/ 8/1984  GAR    DL           Joe Carter            effective  5/ 9/1984  
+ 5/ 8/1984  GAR    Promote      Garth Iorg          
+ 5/ 8/1984  FER    Farm         Harry Spilman       
+ 5/ 8/1984  FER    Promote      Ron Hassey          
+ 5/11/1984  FER    Promote      Don Sutton          
+ 5/11/1984  FER    Farm         Greg Gross          
+ 5/11/1984  GAR    Promote      Neil Allen          
+ 5/11/1984  GAR    Farm         Bob Forsch          
+ 5/12/1984  GAR    Promote      Ed Vande Berg       
+ 5/12/1984  GAR    Farm         Walt Terrell        
+ 5/13/1984  SUN    Farm         Willie Lozado       
+ 5/13/1984  SUN    Promote      Atlee Hammaker      
+ 5/15/1984  CTW    DL           Steve Carlton         effective  5/16/1984  
+                           DMB League Transaction Log
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+ 5/15/1984  CTW    Promote      Rick Camp           
+ 5/15/1984  GAR    Farm         Garth Iorg          
+ 5/15/1984  GAR    Promote      Bob Horner          
+ 5/16/1984  BMB    DL           Craig Reynolds        effective  5/17/1984  
+ 5/16/1984  BMB    Farm         Don Carman          
+ 5/16/1984  BMB    Promote      Richard Dotson      
+ 5/16/1984  BMB    Promote      Rob Wilfong         
+ 5/17/1984  A51    Farm         Rusty Staub         
+ 5/17/1984  A51    Farm         Steve Balboni       
+ 5/17/1984  A51    Promote      Greg Gagne          
+ 5/17/1984  A51    Promote      Rob Deer            
+ 5/17/1984  TEW    Farm         Eric Davis          
+ 5/17/1984  TEW    Promote      Dave Collins        
+ 5/17/1984  GAR    DL           Carlton Fisk          effective  5/18/1984  
+ 5/17/1984  GAR    Farm         Tony Bernazard      
+ 5/17/1984  GAR    Promote      Garth Iorg          
+ 5/17/1984  GAR    Promote      Charlie Moore       
+ 5/18/1984  BMB    Farm         Frank Williams      
+ 5/18/1984  BMB    Promote      John Denny          
+ 5/18/1984  CTW    Promote      Len Matuszek        
+ 5/18/1984  CTW    Farm         John Russell        
+ 5/21/1984  GAR    DL           Brook Jacoby          effective  5/22/1984  
+ 5/21/1984  GAR    Promote      Tony Bernazard      
+ 5/21/1984  TEW    Farm         Glenn Davis         
+ 5/21/1984  TEW    Promote      Barry Bonnell       
+ 5/21/1984  CEN    Farm         Dickie Thon         
+ 5/22/1984  GAR    Activate     Curt Young          
+ 5/22/1984  GAR    Farm         Ed Vande Berg       
+ 5/22/1984  CEN    Promote      Larry McWilliams    
+ 5/22/1984  EVN    Promote      Mark Salas          
+ 5/22/1984  EVN    Activate     Mike Moore          
+ 5/22/1984  EVN    Farm         Dan Petry           
+ 5/22/1984  EVN    Farm         Ken Dayley          
+ 5/24/1984  CIN    Farm         Milt Thompson       
+ 5/24/1984  CIN    Promote      Dan Driessen        
+ 5/25/1984  BAR    Activate     Terry Kennedy       
+ 5/25/1984  BAR    Farm         Mitch Webster       
+ 5/25/1984  GAR    DL           Damaso Garcia         effective  5/26/1984  
+ 5/25/1984  GAR    Activate     Joe Carter          
+ 5/26/1984  GCP    Farm         Randy Ready         
+ 5/26/1984  GCP    Promote      Hal McRae           
+ 5/26/1984  GPC    Farm         Rick Rhoden         
+ 5/26/1984  GPC    Promote      Bob Knepper         
+ 5/26/1984  TEW    Farm         Karl Best           
+ 5/26/1984  TEW    Promote      Calvin Schiraldi    
+ 5/27/1984  A51    TradeAway    Dave Stewart          to GAR
+ 5/27/1984  A51    TradeAway    Lonnie Smith          to GAR
+ 5/27/1984  A51    TradeAway    Gary Gaetti           to GAR
+ 5/27/1984  A51    TradeAway    Steve Balboni         to GAR
+ 5/27/1984  GAR    TradeAway    Frnando Valenzuela    to A51
+ 5/27/1984  GAR    TradeAway    Floyd Bannister       to A51
+ 5/27/1984  GAR    TradeAway    Brook Jacoby          to A51
+                           DMB League Transaction Log
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+ 5/27/1984  GAR    TradeAway    Alfredo Griffin       to A51
+ 5/27/1984  GAR    Promote      Lonnie Smith        
+ 5/27/1984  GAR    Promote      Steve Balboni       
+ 5/27/1984  A51    Promote      Bill Buckner        
+ 5/27/1984  A51    Promote      Floyd Bannister     
+ 5/27/1984  A51    Farm         Rob Deer            
+ 5/27/1984  A51    Farm         Alfredo Griffin     
+ 5/27/1984  GAR    Farm         R.J. Reynolds       
+ 5/27/1984  GAR    Farm         Danny Heep          
+ 5/28/1984  BMB    Farm         Mark Clear          
+ 5/28/1984  BMB    Promote      Don Aase            
+ 5/29/1984  GAR    Farm         Bob Horner          
+ 5/29/1984  GAR    Promote      Danny Heep          
+ 5/29/1984  EVN    Farm         Jeff Robinson       
+ 5/29/1984  EVN    Promote      Dan Petry           
+ 5/29/1984  CIN    Farm         Sid Fernandez       
+ 5/29/1984  CIN    Promote      Dan Schatzeder      
+ 5/30/1984  CIN    Farm         Cecilio Guante      
+ 5/30/1984  CIN    Promote      Roger Mason         
+ 5/30/1984  CTW    Farm         Rick Camp           
+ 5/30/1984  CTW    Activate     Steve Carlton       
+ 5/31/1984  BMB    Farm         Rob Wilfong         
+ 5/31/1984  BMB    Promote      Craig Reynolds      
+ 5/31/1984  JJJ    Promote      Nate Snell          
+ 5/31/1984  JJJ    Farm         Jose Rijo           
+ 6/ 1/1984  GAR    Farm         Charlie Moore       
+ 6/ 1/1984  GAR    Activate     Carlton Fisk        
+ 6/ 2/1984  GPC    Farm         Rick Mahler         
+ 6/ 2/1984  GPC    Farm         Terry Pendleton     
+ 6/ 2/1984  GPC    Farm         Tim Corcoran        
+ 6/ 2/1984  GPC    Farm         Chris Bando         
+ 6/ 2/1984  GPC    Promote      Dave Valle          
+ 6/ 2/1984  GPC    Promote      Richie Hebner       
+ 6/ 2/1984  GPC    Promote      John Moses          
+ 6/ 2/1984  GPC    Activate     Julio Solano        
+ 6/ 3/1984  GCP    Farm         Jack Clark          
+ 6/ 3/1984  GCP    Promote      Nick Esasky         
+ 6/ 4/1984  EVN    Farm         Mark Salas          
+ 6/ 4/1984  EVN    Promote      Joel Skinner        
+ 6/ 5/1984  TEW    Farm         Scott Bradley       
+ 6/ 5/1984  TEW    Promote      Bo Diaz             
+ 6/ 8/1984  BMB    TradeAway    Dennis Walling        to A51
+ 6/ 8/1984  A51    TradeAway    Jeff Leonard          to BMB
+ 6/ 8/1984  BMB    Promote      Jerry Mumphrey      
+ 6/ 8/1984  BMB    Farm         Ruppert Jones       
+ 6/ 8/1984  BMB    Farm         Carmelo Martinez    
+ 6/ 8/1984  A51    Promote      Alfredo Griffin     
+ 6/ 8/1984  A51    Promote      Dennis Walling      
+ 6/ 8/1984  A51    Activate     Brook Jacoby        
+ 6/ 8/1984  A51    Farm         Tippy Martinez      
+ 6/ 8/1984  A51    Farm         Bill Buckner        
+ 6/ 8/1984  A51    Farm         Glenn Hubbard       
+                           DMB League Transaction Log
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+ 6/ 8/1984  A51    Promote      Tippy Martinez      
+ 6/ 9/1984  GAR    Farm         Joe Carter          
+ 6/ 9/1984  GAR    Farm         Garth Iorg          
+ 6/ 9/1984  GAR    Activate     Damaso Garcia       
+ 6/ 9/1984  GAR    Promote      R.J. Reynolds       
+ 6/ 9/1984  A51    Farm         Greg Gagne          
+ 6/11/1984  GAR    Farm         Gene Nelson         
+ 6/11/1984  GAR    Promote      Walt Terrell        
+ 6/12/1984  SUN    DL           Gary Roenicke         effective  6/13/1984  
+ 6/12/1984  SUN    Farm         Bert Roberge        
+ 6/12/1984  SUN    Promote      Tom Niedenfuer      
+ 6/12/1984  SUN    Promote      Bobby Clark         
+ 6/12/1984  JJJ    Farm         Nate Snell          
+ 6/12/1984  JJJ    Farm         Jim Deshaies        
+ 6/12/1984  JJJ    Promote      Steve Farr          
+ 6/12/1984  JJJ    Promote      Bob Shirley         
+ 6/13/1984  GAR    TradeAway    Cecil Cooper          to BAR
+ 6/13/1984  BAR    TradeAway    Scot Thompson         to GAR
+ 6/13/1984  GAR    Farm         Danny Heep          
+ 6/13/1984  GAR    Promote      Scot Thompson       
+ 6/13/1984  BBG    Promote      Ray Searage         
+ 6/13/1984  BBG    Farm         Rick Reuschel       
+ 6/13/1984  CEN    Farm         Nelson Simmons      
+ 6/14/1984  CEN    Promote      Mike Laga           
+ 6/14/1984  JJJ    Farm         Mickey Tettleton    
+ 6/14/1984  JJJ    Promote      Dave Engle          
+ 6/15/1984  BMB    Farm         Rich Schu           
+ 6/15/1984  BMB    Promote      Carmelo Martinez    
+ 6/16/1984  GAR    Promote      Rick Waits          
+ 6/16/1984  GAR    Farm         Curt Young          
+ 6/16/1984  CIN    Promote      Stew Cliburn        
+ 6/16/1984  CIN    Farm         Roger Mason         
+ 6/16/1984  TEW    Farm         Alan Ashby          
+ 6/16/1984  TEW    Promote      Jack Perconte       
+ 6/17/1984  GAR    Farm         Rick Waits          
+ 6/17/1984  GAR    Promote      Curt Young          
+ 6/17/1984  GPC    Promote      Rick Rhoden         
+ 6/17/1984  GPC    Promote      Rich Gedman         
+ 6/17/1984  GPC    Promote      Dave Rucker         
+ 6/17/1984  GPC    Promote      Chris Bando         
+ 6/17/1984  GPC    Promote      Terry Pendleton     
+ 6/17/1984  GPC    Promote      Tim Corcoran        
+ 6/17/1984  GPC    Farm         Bob Brenly          
+ 6/17/1984  GPC    Farm         Bob Knepper         
+ 6/17/1984  GPC    Farm         Julio Solano        
+ 6/17/1984  GPC    Farm         Richie Hebner       
+ 6/17/1984  GPC    Farm         John Moses          
+ 6/17/1984  GPC    Farm         Dave Valle          
+ 6/17/1984  JJJ    Promote      Ted Power           
+ 6/17/1984  JJJ    Farm         Dave Schmidt        
+ 6/18/1984  CIN    Farm         Stew Cliburn        
+ 6/18/1984  CIN    Promote      Cecilio Guante      
+                           DMB League Transaction Log
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+ 6/19/1984  GAR    DL           Dave Stewart          effective  6/20/1984  
+ 6/19/1984  GAR    Farm         Lonnie Smith        
+ 6/19/1984  GAR    Promote      Joe Carter          
+ 6/19/1984  GAR    Promote      Rick Waits          
+ 6/19/1984  EVN    Farm         Shane Rawley        
+ 6/19/1984  EVN    Farm         Ivan Calderon       
+ 6/19/1984  EVN    Promote      Jeff Robinson       
+ 6/19/1984  EVN    Promote      Joe Orsulak         
+ 6/20/1984  BBG    Promote      Ron Hodges          
+ 6/20/1984  BBG    DL           Mike Scioscia         effective  6/21/1984  
+ 6/21/1984  BMB    Promote      Mark Clear          
+ 6/21/1984  BMB    Farm         Don Aase            
+ 6/24/1984  BBG    DL           Orel Hershiser        effective  6/25/1984  
+ 6/24/1984  BBG    Promote      Doyle Alexander     
+ 6/25/1984  CTW    Promote      John Russell        
+ 6/25/1984  CTW    DL           Keith Moreland        effective  6/26/1984  
+ 6/26/1984  CIN    DL           George Foster         effective  6/27/1984  
+ 6/26/1984  CIN    Promote      Carmelo Castillo    
+ 6/26/1984  SUN    Promote      Larry Pashnick      
+ 6/26/1984  SUN    Promote      Jim Dwyer           
+ 6/26/1984  SUN    Farm         John Grubb          
+ 6/26/1984  SUN    Farm         Tom Henke           
+ 6/27/1984  CEN    Farm         Edwin Nunez         
+ 6/28/1984  CEN    Promote      Roy Lee Jackson     
+ 7/ 3/1984  GCP    Farm         Jerry Reuss         
+ 7/ 4/1984  GCP    Promote      Jim Beattie         
+ 7/ 4/1984  GAR    Farm         Tom Tellmann        
+ 7/ 4/1984  GAR    Activate     Dave Stewart        
+ 7/ 4/1984  CEN    Farm         Ken Howell          
+ 7/ 5/1984  CEN    Promote      Mike Jeffcoat       
+ 7/ 5/1984  BMB    Farm         Mark Clear          
+ 7/ 5/1984  BMB    Farm         Brian Harper        
+ 7/ 5/1984  BMB    Farm         Jerry Mumphrey      
+ 7/ 5/1984  BMB    Promote      Ruppert Jones       
+ 7/ 5/1984  BMB    Promote      Don Aase            
+ 7/ 5/1984  BMB    Promote      Jim Essian          
+ 7/ 6/1984  GAR    Farm         Frank DiPino        
+ 7/ 6/1984  GAR    Promote      Ed Vande Berg       
+ 7/ 6/1984  CIN    Promote      Garry Maddox        
+ 7/ 6/1984  CIN    Farm         Dan Driessen        
+ 7/ 7/1984  CTW    Promote      Mike Pagliarulo     
+ 7/ 7/1984  CTW    DL           Onix Concepcion       effective  6/29/1984  
+ 7/ 7/1984  CEN    Farm         Mike Laga           
+ 7/10/1984  CIN    Farm         Cecilio Guante      
+ 7/11/1984  GAR    DL           Gary Redus            effective  7/12/1984  
+ 7/11/1984  GAR    Promote      Lonnie Smith        
+ 7/12/1984  GCP    Farm         Rollie Fingers      
+ 7/12/1984  CEN    Promote      Vic Rodriguez       
+ 7/12/1984  GCP    Promote      Tom Gorman          
+ 7/12/1984  CIN    Activate     George Foster       
+ 7/12/1984  CIN    Promote      Roger Mason         
+ 7/12/1984  CIN    Farm         Carmelo Castillo    
+                           DMB League Transaction Log
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+ 7/12/1984  GAR    TradeAway    Dale Murphy           to CTW
+ 7/12/1984  GAR    TradeAway    Neil Allen            to CTW
+ 7/12/1984  CTW    TradeAway    Jim Rice              to GAR
+ 7/12/1984  CTW    TradeAway    Steve Bedrosian       to GAR
+ 7/14/1984  CTW    Farm         John Russell        
+ 7/14/1984  CTW    Activate     Keith Moreland      
+ 7/14/1984  BMB    DL           John Henry Johnson    effective  7/15/1984  
+ 7/14/1984  BMB    Farm         Carmelo Martinez    
+ 7/14/1984  BMB    Promote      Don Carman          
+ 7/14/1984  BMB    Promote      Steve Christmas     
+ 7/15/1984  GCP    Farm         Rusty Kuntz         
+ 7/16/1984  TEW    DL           Dennis Rasmussen      effective  7/15/1984  
+ 7/16/1984  TEW    Farm         Calvin Schiraldi    
+ 7/16/1984  TEW    Promote      Doug Bair           
+ 7/16/1984  TEW    Promote      Luis Leal           
+ 7/16/1984  BMB    Farm         Steve Christmas     
+ 7/17/1984  BMB    Promote      Bobby Castillo      
+ 7/18/1984  BMB    Farm         Bobby Castillo      
+ 7/18/1984  BMB    Promote      Carmelo Martinez    
+ 7/18/1984  GAR    Farm         Lonnie Smith        
+ 7/18/1984  GAR    Promote      Danny Heep          
+ 7/18/1984  GCP    Promote      Randy Ready         
+ 7/18/1984  CIN    Farm         Roger Mason         
+ 7/18/1984  CIN    Promote      Tim Lollar          
+ 7/18/1984  EVN    Farm         Juan Agosto         
+ 7/18/1984  EVN    Farm         Bryn Smith          
+ 7/18/1984  EVN    Promote      Shane Rawley        
+ 7/18/1984  EVN    Promote      Ken Dayley          
+ 7/18/1984  JJJ    Farm         Ken Oberkfell       
+ 7/18/1984  JJJ    Promote      Roy Smalley         
+ 7/18/1984  SUN    Activate     Gary Roenicke       
+ 7/18/1984  SUN    DL           Rance Mulliniks       effective  7/16/1984  
+ 7/18/1984  SUN    Promote      Marv Foley          
+ 7/18/1984  SUN    Promote      Luis Aguayo         
+ 7/18/1984  SUN    Farm         Ernie Whitt         
+ 7/18/1984  SUN    Farm         Bobby Clark         
+ 7/19/1984  BAR    Farm         Phil Bradley        
+ 7/19/1984  BAR    Promote      Mitch Webster       
+ 7/20/1984  BMB    Farm         Don Aase            
+ 7/20/1984  BMB    Farm         Jim Essian          
+ 7/20/1984  BMB    Farm         Ruppert Jones       
+ 7/20/1984  BMB    Promote      Mark Clear          
+ 7/20/1984  BMB    Promote      Brian Harper        
+ 7/20/1984  BMB    Promote      Jerry Mumphrey      
+ 7/20/1984  A51    Promote      Rob Deer            
+ 7/20/1984  A51    Promote      Kevin Mitchell      
+ 7/20/1984  A51    Promote      Otis Nixon          
+ 7/20/1984  A51    Promote      Jim Clancy          
+ 7/20/1984  A51    Farm         Rich Bordi          
+ 7/20/1984  A51    Farm         Scott Sanderson     
+ 7/20/1984  A51    Farm         Ron Cey             
+ 7/20/1984  TEW    Promote      Alan Ashby          
+                           DMB League Transaction Log
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+ 7/20/1984  TEW    DL           Bo Diaz               effective  7/21/1984  
+ 7/20/1984  CIN    TradeAway    Bill Caudill          to CTW
+ 7/20/1984  CIN    TradeAway    Mike Davis            to CTW
+ 7/20/1984  CIN    TradeAway    Storm Davis           to CTW
+ 7/20/1984  CIN    TradeAway    Dan Schatzeder        to CTW
+ 7/20/1984  CIN    TradeAway    Mike Smithson         to CTW
+ 7/20/1984  CTW    TradeAway    Charlie Hough         to CIN
+ 7/20/1984  CTW    TradeAway    Mike Pagliarulo       to CIN
+ 7/20/1984  CIN    TradeAway    Pat Tabler            to BAR
+ 7/20/1984  BAR    TradeAway    Ron Romanick          to CIN
+ 7/20/1984  BAR    Farm         Pat Tabler          
+ 7/20/1984  CIN    Promote      Ron Romanick        
+ 7/20/1984  CIN    Promote      Bob Walk            
+ 7/20/1984  CIN    Promote      Tom Candiotti       
+ 7/20/1984  CIN    Promote      Carmelo Castillo    
+ 7/20/1984  CTW    Farm         Neil Allen          
+ 7/20/1984  CTW    Farm         Len Matuszek        
+ 7/20/1984  CTW    Farm         Steve Carlton       
+ 7/21/1984  CIN    DL           Tony Fernandez        effective  7/22/1984  
+ 7/21/1984  CIN    Promote      Gerald Perry        
+ 7/21/1984  BBG    Activate     Mike Scioscia       
+ 7/21/1984  BBG    Activate     Orel Hershiser      
+ 7/21/1984  BBG    Farm         Mike Scott          
+ 7/21/1984  BBG    Farm         Ron Hodges          
+ 7/21/1984  EVN    TradeAway    Tom Foley             to CIN
+ 7/21/1984  EVN    TradeAway    Ron Davis             to CIN
+ 7/21/1984  CIN    TradeAway    Wally Backman         to EVN
+ 7/21/1984  CIN    Promote      Tom Foley           
+ 7/21/1984  CIN    Promote      Ron Davis           
+ 7/21/1984  CIN    Farm         Gerald Perry        
+ 7/21/1984  EVN    Farm         Andre Robertson     
+ 7/21/1984  CIN    Farm         Bob Walk            
+ 7/21/1984  CIN    Promote      Gerald Perry        
+ 7/23/1984  BMB    Farm         Don Carman          
+ 7/23/1984  BMB    Promote      Jamie Easterly      
+ 7/24/1984  GAR    DL           Curt Young          
+ 7/24/1984  GAR    Farm         Steve Bedrosian     
+ 7/24/1984  GAR    Promote      Ken Schrom          
+ 7/24/1984  GAR    Promote      Frank DiPino        
+ 7/25/1984  GAR    Farm         Joe Carter          
+ 7/26/1984  GAR    Activate     Gary Redus          
+ 7/26/1984  EVN    DL           Frank White           effective  7/27/1984  
+ 7/26/1984  EVN    Farm         Ken Dayley          
+ 7/26/1984  EVN    Promote      Andre Robertson     
+ 7/26/1984  EVN    Promote      Bryn Smith          
+ 7/26/1984  JJJ    Promote      Warren Brusstar     
+ 7/26/1984  JJJ    Farm         Larry Andersen      
+ 7/27/1984  CIN    Farm         Tom Candiotti       
+ 7/27/1984  CIN    Promote      Bob Walk            
+ 7/27/1984  BMB    Farm         Brian Harper        
+ 7/27/1984  BMB    Promote      Jim Essian          
+ 7/27/1984  GPC    Farm         Rick Rhoden         
+                           DMB League Transaction Log
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+ 7/27/1984  GPC    Farm         Terry Pendleton     
+ 7/27/1984  GPC    Promote      Richie Hebner       
+ 7/27/1984  GPC    Promote      Rick Mahler         
+ 7/28/1984  BMB    Farm         Roger Clemens       
+ 7/28/1984  BMB    Promote      Frank Williams      
+ 7/29/1984  CIN    Farm         Bob Walk            
+ 7/29/1984  CIN    Promote      Mike LaValliere     
+ 7/29/1984  SUN    Farm         Ron Reed            
+ 7/29/1984  SUN    Farm         John Wockenfuss     
+ 7/29/1984  SUN    Promote      Tim Laudner         
+ 7/29/1984  SUN    Promote      Ron Robinson        
+ 7/31/1984  BAR    DL           Terry Kennedy         effective  8/ 1/1984  
+ 7/31/1984  BAR    Promote      Brad Gulden         
+ 7/31/1984  GAR    Farm         Rick Waits          
+ 7/31/1984  GAR    Promote      Tom Tellmann        
+ 7/31/1984  CIN    DL           Jose DeLeon         
+ 7/31/1984  CIN    Promote      Sid Fernandez       
+ 7/31/1984  BMB    Farm         Rod Scurry          
+ 7/31/1984  BMB    Promote      Don Aase            
+ 7/31/1984  BMB    Farm         Jerry Mumphrey      
+ 7/31/1984  BMB    Promote      Ruppert Jones       
+ 7/31/1984  FER    Farm         Ron Hassey          
+ 7/31/1984  FER    Farm         Andy McGaffigan     
+ 7/31/1984  FER    Promote      Greg Gross          
+ 7/31/1984  FER    Promote      Jerry Narron        
+ 8/ 1/1984  BAR    Farm         Howard Johnson      
+ 8/ 1/1984  BAR    Promote      Pat Tabler          
+ 8/ 1/1984  TEW    Promote      Dennis Rasmussen    
+ 8/ 1/1984  TEW    Farm         Luis Leal           
+ 8/ 3/1984  CTW    Farm         John Butcher        
+ 8/ 3/1984  CTW    Farm         Bill Schroeder      
+ 8/ 3/1984  CTW    Promote      Dwight Lowry        
+ 8/ 3/1984  CTW    Farm         Jay Tibbs           
+ 8/ 3/1984  CTW    Release      Neil Allen          
+ 8/ 3/1984  CTW    Release      Rick Camp           
+ 8/ 3/1984  CTW    Sign         Neil Allen          
+ 8/ 3/1984  CTW    Sign         Rick Camp           
+ 8/ 4/1984  GCP    Farm         Dennis Martinez     
+ 8/ 6/1984  CEN    Farm         Vic Rodriguez       
+ 8/ 6/1984  CEN    Promote      John Castino        
+ 8/ 6/1984  EVN    Farm         Bob Bailor          
+ 8/ 6/1984  EVN    Promote      Daryl Sconiers      
+ 8/ 6/1984  GCP    Promote      Ken Dixon           
+ 8/ 6/1984  CIN    TradeAway    Joe Nolan             to BMB
+ 8/ 6/1984  CIN    TradeAway    George Foster         to BMB
+ 8/ 6/1984  BMB    Farm         Carmelo Martinez    
+ 8/ 6/1984  CIN    Promote      Milt Thompson       
+ 8/ 8/1984  GAR    Farm         Damaso Garcia       
+ 8/ 8/1984  GAR    Promote      Garth Iorg          
+ 8/ 8/1984  BMB    Farm         Don Aase            
+ 8/ 8/1984  BMB    Promote      Rod Scurry          
+ 8/ 9/1984  BAR    Farm         Jeff Calhoun        
+                           DMB League Transaction Log
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+ 8/ 9/1984  BAR    Promote      Jerry Hairston      
+ 8/ 9/1984  GCP    Farm         Ken Dixon           
+ 8/ 9/1984  GCP    Promote      Terry Forster       
+ 8/10/1984  GAR    Farm         Ed Vande Berg       
+ 8/10/1984  GAR    Activate     Curt Young          
+ 8/11/1984  CEN    Farm         Joe Cowley          
+ 8/11/1984  CEN    TradeAway    John Castino          to BMB
+ 8/11/1984  BMB    Farm         John Castino        
+ 8/12/1984  BMB    Promote      John Castino        
+ 8/12/1984  BMB    Farm         Doug Loman          
+ 8/12/1984  GCP    Farm         Jose Oquendo        
+ 8/12/1984  GCP    Promote      Matt Young          
+ 8/13/1984  SUN    Activate     Rance Mulliniks     
+ 8/13/1984  SUN    Farm         Larry Pashnick      
+ 8/13/1984  CIN    Activate     Tony Fernandez      
+ 8/13/1984  CIN    Farm         Tom Foley           
+ 8/13/1984  CEN    Farm         Joe Beckwith        
+ 8/13/1984  CEN    Promote      Frank LaCorte       
+ 8/13/1984  CEN    Promote      Luis Salazar        
+ 8/13/1984  CEN    Promote      Jim Eisenreich      
+ 8/14/1984  A51    Farm         Steve Lake          
+ 8/14/1984  CEN    TradeAway    Mike Schmidt          to CTW
+ 8/14/1984  CTW    TradeAway    Larry Parrish         to CEN
+ 8/14/1984  CTW    TradeAway    Mike Davis            to CEN
+ 8/14/1984  CEN    Farm         Luis Salazar        
+ 8/15/1984  CIN    Farm         Sid Fernandez       
+ 8/15/1984  CIN    Activate     Jose DeLeon         
+ 8/16/1984  TEW    Activate     Bo Diaz             
+ 8/16/1984  TEW    Farm         Alan Ashby          
+ 8/17/1984  GPC    Farm         Richie Hebner       
+ 8/17/1984  GPC    Farm         Marty Barrett       
+ 8/17/1984  GPC    Promote      Ron Washington      
+ 8/17/1984  GPC    Promote      Bob Brenly          
+ 8/17/1984  CTW    Activate     Onix Concepcion     
+ 8/17/1984  BMB    Promote      Don Aase            
+ 8/17/1984  BMB    Farm         Rod Scurry          
+ 8/17/1984  BBG    Promote      Ernie Camacho       
+ 8/17/1984  BBG    Farm         Bob Welch           
+ 8/17/1984  GAR    Farm         Curt Young          
+ 8/17/1984  GAR    Promote      Carlos Diaz         
+ 8/18/1984  BAR    Activate     Terry Kennedy       
+ 8/18/1984  BAR    Farm         Brad Gulden         
+ 8/18/1984  TEW    Farm         Joe Hesketh         
+ 8/19/1984  CIN    Farm         Milt Thompson       
+ 8/20/1984  CIN    Promote      Rick Burleson       
+ 8/20/1984  TEW    Promote      Bill Almon          
+ 8/20/1984  BMB    Farm         Richard Dotson      
+ 8/20/1984  BMB    Activate     John Henry Johnson  
+ 8/21/1984  A51    Farm         Rob Deer            
+ 8/23/1984  BAR    TradeAway    Claudel Washington    to GPC
+ 8/23/1984  BAR    TradeAway    Bud Black             to GPC
+ 8/23/1984  BAR    TradeAway    Terry Francona        to GPC
+                           DMB League Transaction Log
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+ 8/23/1984  BAR    Promote      Cecil Cooper        
+ 8/23/1984  BAR    Promote      Mike Hargrove       
+ 8/23/1984  GPC    TradeAway    Joe Sambito           to BAR
+ 8/23/1984  BAR    Promote      Joe Sambito         
+ 8/23/1984  GPC    Farm         Chris Bando         
+ 8/23/1984  GPC    Farm         Tim Corcoran        
+ 8/23/1984  GPC    Farm         Mark Thurmond       
+ 8/23/1984  BMB    TradeAway    Carmelo Martinez      to A51
+ 8/23/1984  BMB    TradeAway    Jeff Leonard          to A51
+ 8/23/1984  BMB    TradeAway    Mark Langston         to A51
+ 8/23/1984  A51    TradeAway    Ron Cey               to BMB
+ 8/23/1984  A51    TradeAway    Frnando Valenzuela    to BMB
+ 8/23/1984  A51    TradeAway    Scott Sanderson       to BMB
+ 8/23/1984  BMB    Promote      Ron Cey             
+ 8/23/1984  BMB    Promote      Richard Dotson      
+ 8/23/1984  BMB    Farm         Al Nipper           
+ 8/23/1984  A51    Promote      Carmelo Martinez    
+ 8/23/1984  GAR    Farm         Scott Fletcher      
+ 8/23/1984  GAR    Promote      Lonnie Smith        
+ 8/23/1984  GCP    Farm         Len Barker          
+ 8/24/1984  SUN    Farm         Ken Phelps          
+ 8/26/1984  TEW    Farm         Willie McGee        
+ 8/26/1984  TEW    Promote      Glenn Davis         
+ 8/26/1984  BMB    Farm         Don Aase            
+ 8/26/1984  BMB    Farm         John Denny          
+ 8/26/1984  BMB    Farm         Mark Gubicza        
+ 8/26/1984  BMB    Promote      Al Nipper           
+ 8/26/1984  BMB    Promote      Scott Sanderson     
+ 8/26/1984  BMB    Promote      Rod Scurry          
+ 8/26/1984  BBG    Promote      Ron Roenicke        
+ 8/26/1984  BBG    Farm         Scott Garrelts      
+ 8/26/1984  SUN    Farm         Luis Aguayo         
+ 8/26/1984  SUN    Farm         Tom Niedenfuer      
+ 8/26/1984  SUN    Promote      Willie Lozado       
+ 8/26/1984  SUN    Promote      Bobby Clark         
+ 8/26/1984  SUN    Promote      Tom Henke           
+ 8/26/1984  A51    Farm         Kevin Mitchell      
+ 8/26/1984  EVN    Farm         Bruce Bochy         
+ 8/28/1984  GAR    Farm         Gary Gaetti         
+ 8/28/1984  GAR    Promote      Damaso Garcia       
+ 8/29/1984  EVN    Activate     Frank White         
+ 8/30/1984  SUN    TradeAway    John Wockenfuss       to BBG
+ 8/31/1984  BAR    TradeAway    Jeff Calhoun          to FER
+ 8/31/1984  FER    Farm         Brent Gaff          
+ 8/31/1984  FER    Promote      Andy McGaffigan     
+ 8/31/1984  BMB    Farm         Ruppert Jones       
+ 8/31/1984  BMB    Farm         Frank Williams      
+ 8/31/1984  BMB    Promote      Chris Brown         
+ 8/31/1984  BMB    Promote      John Denny          
+ 8/31/1984  BMB    Promote      Kelly Gruber        
+ 8/31/1984  BMB    Promote      Mark Gubicza        
+ 8/31/1984  BMB    Promote      Doug Loman          
+                           DMB League Transaction Log
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+ 8/31/1984  BMB    Promote      Jerry Mumphrey      
+ 8/31/1984  BMB    Promote      Joe Nolan           
+ 8/31/1984  BMB    Promote      Rich Schu           
+ 8/31/1984  BMB    Promote      Rob Wilfong         
+ 8/31/1984  A51    Promote      Bill Buckner        
+ 8/31/1984  A51    Farm         Andre Dawson        
+ 8/31/1984  A51    Farm         Steve Trout         
+ 8/31/1984  A51    Promote      Jeff Russell        
+ 8/31/1984  CTW    Farm         Rafael Santana      
+ 8/31/1984  CTW    Promote      Steve Carlton       
+ 8/31/1984  CTW    Promote      Jay Tibbs           
+ 8/31/1984  CTW    Promote      John Butcher        
+ 8/31/1984  CTW    Promote      Len Matuszek        
+ 8/31/1984  CTW    Promote      Bill Schroeder      
+ 8/31/1984  CIN    Promote      Tom Foley           
+ 8/31/1984  CIN    Promote      Dan Driessen        
+ 8/31/1984  CIN    Promote      Tom Browning        
+ 8/31/1984  CIN    Promote      Sid Fernandez       
+ 8/31/1984  GAR    Farm         Lamarr Hoyt         
+ 8/31/1984  GAR    Farm         Bruce Hurst         
+ 8/31/1984  GAR    Promote      Lamarr Hoyt         
+ 8/31/1984  GAR    Promote      Ed Vande Berg       
+ 8/31/1984  GCP    Farm         Jerry Willard       
+ 9/ 2/1984  GAR    Promote      Rick Waits          
+ 9/ 2/1984  GAR    Promote      Curt Young          
+ 9/ 2/1984  GAR    Promote      Charlie Moore       
+ 9/ 2/1984  BAR    Promote      Brad Gulden         
+ 9/ 2/1984  BAR    Promote      Lee Mazzilli        
+ 9/ 2/1984  BAR    Promote      Howard Johnson      
+ 9/ 2/1984  TEW    Promote      Luis Leal           
+ 9/ 2/1984  TEW    Promote      Alan Ashby          
+ 9/ 2/1984  TEW    Promote      Paul Molitor        
+ 9/ 2/1984  TEW    Promote      Eric Davis          
+ 9/ 2/1984  BMB    Farm         Rod Scurry          
+ 9/ 2/1984  BMB    Promote      Don Aase            
+ 9/ 2/1984  BBG    Promote      Dave Bergman        
+ 9/ 2/1984  BBG    Promote      Duane Walker        
+ 9/ 2/1984  BBG    Promote      Jeff Stone          
+ 9/ 2/1984  BBG    Promote      Larry Sheets        
+ 9/ 2/1984  BBG    Promote      Bob Welch           
+ 9/ 2/1984  BBG    Promote      Eddie Whitson       
+ 9/ 2/1984  BBG    Farm         Bob Welch           
+ 9/ 2/1984  TEW    Farm         Thad Bosley         
+ 9/ 3/1984  CIN    Farm         Tom Browning        
+ 9/ 3/1984  CEN    Farm         Dion James          
+ 9/ 4/1984  GAR    Farm         Toby Harrah         
+ 9/ 4/1984  BMB    Farm         Don Aase            
+ 9/ 5/1984  EVN    Farm         Kevin Bass          
+ 9/ 6/1984  EVN    Farm         Joe Orsulak         
+ 9/ 6/1984  EVN    Promote      Ivan Calderon       
+ 9/ 6/1984  EVN    Promote      Johnny Rabb         
+ 9/ 7/1984  BMB    Farm         Jim Wohlford        
+                           DMB League Transaction Log
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+ 9/ 7/1984  GCP    Farm         Terry Forster       
+ 9/ 7/1984  BBG    Farm         Bret Saberhagen     
+ 9/ 7/1984  CEN    Farm         Al Oliver           
+ 9/ 7/1984  GPC    Farm         Wayne Krenchicki    
+ 9/ 7/1984  GAR    Farm         Dave Stewart        
+ 9/ 8/1984  GPC    Promote      Marty Barrett       
+ 9/ 8/1984  GPC    Promote      Richie Hebner       
+ 9/ 8/1984  GPC    Promote      Miguel Dilone       
+ 9/ 8/1984  GPC    Promote      John Moses          
+ 9/ 8/1984  GPC    Promote      Rick Rhoden         
+ 9/ 8/1984  GPC    Promote      Ralph Citarella     
+ 9/ 8/1984  GPC    Promote      Bob Knepper         
+ 9/ 8/1984  GPC    Promote      Julio Solano        
+ 9/ 8/1984  BBG    Promote      Bob Welch           
+ 9/ 8/1984  GCP    Farm         Rickey Henderson    
+ 9/ 9/1984  FER    Farm         Andy McGaffigan     
+ 9/ 9/1984  CIN    Farm         Rick Burleson       
+ 9/10/1984  GAR    Farm         Lonnie Smith        
+ 9/10/1984  FER    Farm         Keith Hernandez     
+ 9/10/1984  GCP    Farm         Ken Griffey         
+ 9/10/1984  GCP    Sign         Darnell Coles       
+ 9/10/1984  EVN    Farm         Ivan Calderon       
+ 9/10/1984  EVN    Promote      Juan Agosto         
+ 9/10/1984  FER    Promote      Brent Gaff          
+ 9/10/1984  FER    Promote      Jim Traber          
+ 9/10/1984  FER    Promote      FuckinAlex Sanchez  
+ 9/10/1984  FER    Farm         Mark Brouhard       
+ 9/11/1984  GPC    Farm         Alejandro Pena      
+ 9/11/1984  CTW    Farm         Jay Tibbs           
+ 9/12/1984  CIN    Farm         Eddie Milner        
+ 9/12/1984  CIN    Farm         Danny Jackson       
+ 9/12/1984  SUN    Farm         Atlee Hammaker      
+ 9/12/1984  SUN    Farm         Jim Dwyer           
+ 9/12/1984  BMB    Farm         John Denny          
+ 9/12/1984  BMB    Promote      Bobby Castillo      
+ 9/13/1984  BBG    Farm         Johnny Ray          
+ 9/14/1984  GAR    Farm         Mike LaCoss         
+ 9/14/1984  FER    Farm         Mel Hall            
+ 9/14/1984  FER    Promote      Paul Householder    
+ 9/14/1984  BBG    Promote      Ron Hodges          
+ 9/14/1984  BBG    Farm         Jesse Barfield      
+ 9/14/1984  BBG    Promote      Jesse Barfield      
+ 9/14/1984  BMB    Farm         Jamie Easterly      
+ 9/15/1984  GCP    Farm         Juan Berenguer      
+ 9/15/1984  GCP    Farm         Hal McRae           
+ 9/16/1984  FER    Farm         Mike Young          
+ 9/16/1984  BMB    Promote      Frank Williams      
+ 9/16/1984  EVN    Farm         Cesar Cedeno        
+ 9/16/1984  TEW    Farm         Tom Brookens        
+ 9/16/1984  SUN    Farm         Rance Mulliniks     
+ 9/17/1984  CIN    Farm         Gary Lucas          
+ 9/17/1984  BAR    Farm         Willie Hernandez    
+                           DMB League Transaction Log
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+ 9/18/1984  BMB    Farm         Al Nipper           
+ 9/18/1984  SUN    Farm         Ron Robinson        
+ 9/18/1984  GPC    Farm         Alan Trammell       
+ 9/19/1984  SUN    Promote      Ernie Whitt         
+ 9/19/1984  SUN    Promote      Steve Henderson     
+ 9/19/1984  SUN    Promote      Luis Aguayo         
+ 9/19/1984  BMB    Promote      Dave Anderson       
+ 9/19/1984  BMB    Promote      Chris Brown         
+ 9/19/1984  BMB    Promote      John Castino        
+ 9/19/1984  BMB    Promote      Ron Cey             
+ 9/19/1984  BMB    Promote      Jose Cruz           
+ 9/19/1984  BMB    Promote      Jim Essian          
+ 9/19/1984  BMB    Promote      George Foster       
+ 9/19/1984  BMB    Promote      Kelly Gruber        
+ 9/19/1984  BMB    Promote      Tommy Herr          
+ 9/19/1984  BMB    Promote      Doug Loman          
+ 9/19/1984  BMB    Promote      Joe Nolan           
+ 9/19/1984  BMB    Promote      Craig Reynolds      
+ 9/19/1984  BMB    Promote      Rich Schu           
+ 9/19/1984  BMB    Promote      Darryl Strawberry   
+ 9/19/1984  BMB    Promote      Rob Wilfong         
+ 9/19/1984  BMB    Promote      Al Wiggins          
+ 9/19/1984  BMB    Promote      Don Aase            
+ 9/19/1984  BMB    Promote      Bobby Castillo      
+ 9/19/1984  BMB    Promote      Jamie Easterly      
+ 9/19/1984  BMB    Promote      George Frazier      
+ 9/19/1984  BMB    Promote      Mark Gubicza        
+ 9/19/1984  BMB    Promote      John Henry Johnson  
+ 9/19/1984  BMB    Promote      Randy O'Neal        
+ 9/19/1984  BMB    Promote      Steve Christmas     
+ 9/19/1984  BMB    Farm         Steve Christmas     
+ 9/19/1984  BMB    Farm         Don Aase            
+ 9/19/1984  BMB    Promote      Mark Clear          
+ 9/19/1984  BMB    Farm         John Denny          
+ 9/19/1984  BMB    Farm         Randy O'Neal        
+ 9/19/1984  BMB    Promote      Frnando Valenzuela  
+ 9/19/1984  BMB    Promote      Frank Williams      
+ 9/19/1984  BMB    Farm         Ruppert Jones       
+ 9/19/1984  TEW    Farm         Glenn Davis         
+ 9/19/1984  BAR    Farm         Jorge Orta          
+ 9/20/1984  FER    Farm         Brent Gaff          
+ 9/20/1984  GCP    Farm         Rick Dempsey        
+ 9/20/1984  GCP    Sign         John Gibbons        
+ 9/20/1984  EVN    Farm         Kirk Gibson         
+ 9/20/1984  EVN    Sign         Skeeter Barnes      
+ 9/21/1984  BBG    Farm         Don Mattingly       
+ 9/21/1984  GAR    Farm         Frank DiPino        
+ 9/21/1984  BMB    Promote      John Denny          
+ 9/22/1984  FER    Farm         Mike Boddicker      
+ 9/22/1984  GCP    Farm         Kelvin Chapman      
+ 9/22/1984  BBG    Farm         Greg Harris         
+ 9/22/1984  CIN    Farm         Sid Fernandez       
+                           DMB League Transaction Log
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+ 9/22/1984  TEW    Farm         Bo Diaz             
+ 9/22/1984  TEW    Sign         Alan Knicely        
+ 9/22/1984  TEW    Farm         Bobby Ojeda         
+ 9/22/1984  GPC    Farm         Harold Baines       
+ 9/23/1984  BMB    Promote      Ruppert Jones       
+ 9/23/1984  BMB    Promote      Don Aase            
+ 9/23/1984  CIN    Farm         Dave Righetti       
+ 9/23/1984  SUN    Farm         Marv Foley          
+ 9/24/1984  BMB    Farm         Bobby Castillo      
+ 9/24/1984  BMB    Farm         Jamie Easterly      
+ 9/24/1984  BBG    Farm         Orel Hershiser      
+ 9/24/1984  EVN    Farm         Graig Nettles       
+ 9/24/1984  EVN    Farm         Bill Campbell       
+ 9/24/1984  TEW    Farm         Alan Ashby          
+ 9/24/1984  BAR    Farm         Jay Howell          
+ 9/24/1984  GAR    Farm         Lamarr Hoyt         
+ 9/24/1984  GAR    Farm         Carlos Diaz         
+ 9/24/1984  GAR    Promote      Frank DiPino        
+ 9/25/1984  BMB    Farm         Ruppert Jones       
+ 9/25/1984  BMB    Farm         Frank Williams      
+ 9/25/1984  FER    Farm         Paul Householder    
+ 9/25/1984  FER    Promote      Mel Hall            
+ 9/25/1984  TEW    Farm         George Bell         
+ 9/25/1984  TEW    Farm         Dennis Rasmussen    
+ 9/25/1984  TEW    Farm         Nolan Ryan          
+ 9/25/1984  TEW    Promote      Dennis Rasmussen    
+ 9/25/1984  A51    Farm         Ryne Sandberg       
+ 9/25/1984  A51    Promote      Glenn Hubbard       
+ 9/26/1984  BMB    Farm         John Denny          
+ 9/26/1984  FER    Farm         Tim Wallach         
+ 9/26/1984  CIN    Farm         Mike LaValliere     
+ 9/26/1984  SUN    Farm         Luis Aguayo         
+ 9/26/1984  GPC    Farm         Richie Hebner       
+
+
+
+							
+							

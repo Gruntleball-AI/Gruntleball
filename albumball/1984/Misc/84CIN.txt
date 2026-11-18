@@ -1,0 +1,878 @@
+   	 	 	 	 	 	
+					
+> EASTERN DIVISION > CINCINNATI REDS
+
+  » WESTERN DIVISION
+  » INTERNATIONAL DIVISION
+    » Directory, Constitution, Record Book, etc.
+	
+
+              DMB League Batting Statistics:  1984 Cincinnati Reds
+                                        
+ 
+ NAME         AVG   OBP   SPC   G  AB   H 2B 3B HR   R RBI  BB   K HB IW  SB CS
+ 
+nTabler      .319  .375  .469  75 160  51 12  0  4  18  24  15  12  0  0   0  0 
+rThompson    .304  .388  .451  36 102  31  1  1  4  25  11  12  11  2  1  14  0 
+ Fernandez   .298  .343  .370  89 235  70  9  1  2  29  23  16  10  1  1  10 13 
+ Doran       .287  .363  .411 148 501 144 25  8  7  72  43  59  69  2  5  23  7 
+ Concepcion  .287  .340  .349 101 289  83 12  0  2  30  23  22  35  1  2  15  4 
+nFoster      .263  .296  .356  77 194  51  4  1  4  15  18   8  37  2  0   1  1 
+ Davis,A     .255  .356  .373 152 501 128 20  3 11  71  66  73  72  7  4   4  2 
+nBackman     .249  .331  .275  81 269  67  5  1  0  38  11  33  35  0  1  27  7 
+ Trevino     .241  .286  .333  83 174  42 10  0  2  14  14   8  21  3  0   4  2 
+rMilner      .241  .338  .374 132 361  87 13  7  7  43  31  54  59  0  2  14  7 
+ Foley       .235  .273  .294  28  51  12  0  0  1   8   4   3   8  0  0   1  0 
+ Marshall    .235  .294  .419 134 422  99 18  0 20  51  72  36  90  1  1   4  0 
+ Parrish     .231  .266  .463 131 451 104 15  3 28  56  72  20 101  3  0   0  0 
+ Pagliarulo  .214  .272  .385  51 187  40 10  2  6  17  24  14  39  1  0   1  0 
+cPagliarulo  .215  .275  .398  54 191  41 10  2  7  19  26  15  40  1  0   1  0 
+nDavis,M     .211  .257  .346  78 237  50 10  2  6  26  27  15  53  0  0   9  4 
+ Castillo    .209  .275  .363  59 182  38  8  1  6  21  22  16  33  1  0   1  0 
+ Gross       .200  .337  .365 106 255  51  4  1 12  33  37  54  50  0  0   1  0 
+ Van Slyke   .190  .311  .323 107 310  59 15  4  6  39  33  54  79  1  0  20  4 
+ Perry       .188  .313  .250  46  80  15  2  0  1  10   6  15   9  0  0   3  6 
+ Maddox      .181  .258  .248  43 105  19  1  0  2   8  11  12   8  0  2   0  0 
+rBurleson    .167  .167  .333   6   6   1  1  0  0   1   0   0   2  0  0   0  0 
+ Driessen    .143  .217  .143  27  21   3  0  0  0   1   0   2   3  0  0   0  0 
+rLaValliere  .000  .100  .000  11   9   0  0  0  0   0   0   1   2  0  0   0  0 
+ 
+ Lollar      .375  .389  .375  10  16   6  0  0  0   0   4   1   2  0  0   0  0 
+nSchatzeder  .333  .368  .333   8  18   6  0  0  0   0   1   1   4  0  0   0  0 
+rBrowning    .300  .300  .300   4  10   3  0  0  0   1   1   0   5  0  0   0  0 
+ Soto        .218  .237  .282  33  78  17  2  0  1   7   7   1  20  1  0   0  0 
+rFernandez   .200  .226  .200  19  30   6  0  0  0   2   3   1   6  0  0   0  0 
+rJackson     .200  .200  .200  57  10   2  0  0  0   0   2   0   5  0  0   0  0 
+rRighetti    .182  .182  .182  72  11   2  0  0  0   1   0   0   3  0  0   0  0 
+nSmithson    .167  .167  .167  17  36   6  0  0  0   0   2   0  10  0  0   0  0 
+ Romanick    .143  .182  .143  11  21   3  0  0  0   1   1   1   9  0  0   0  0 
+ Hough       .121  .171  .152  16  33   4  1  0  0   5   2   2  16  0  0   0  0 
+cHough       .117  .159  .130  38  77   9  1  0  0   6   4   4  30  0  0   1  0 
+ DeLeon      .117  .143  .117  27  60   7  0  0  0   3   4   2  19  0  0   0  0 
+rCandiotti   .111  .111  .222  11   9   1  1  0  0   0   0   0   4  0  0   0  0 
+nDavis       .100  .125  .100  16  30   3  0  0  0   0   1   0  12  1  0   0  0 
+ Davis       .077  .077  .077  35  13   1  0  0  0   0   0   0   7  0  0   0  0 
+rLucas       .000  .000  .000  47   3   0  0  0  0   0   0   0   0  0  0   0  0 
+rCliburn     .000  .000  .000   1   1   0  0  0  0   0   0   0   0  0  0   0  0 
+nJames       .000  .000  .000   5   0   0  0  0  0   0   0   0   0  0  0   0  0 
+rGuante      .000  .000  .000  31   2   0  0  0  0   0   0   0   1  0  0   0  0 
+rWalk        .000  .000  .000   4   4   0  0  0  0   0   0   0   2  0  0   0  0 
+nCaudill     .000  .000  .000  40   5   0  0  0  0   0   0   0   1  0  0   0  0 
+rMason       .000  .000  .000  15   2   0  0  0  0   0   0   0   0  0  0   0  0 
+
+ Team Total  .239  .309  .360 162    1312    35    646     551     27    152
+                                 5494    199   132     600     964    19     57
+              DMB League Batting Statistics:  1984 Cincinnati Reds
+                                        
+ 
+ NAME         GS  SH  SF  GDP  CI  GW     RC   RC27    ISO   TAVG    TB CHS LHS
+ 
+nTabler       36   0   1    2   0   2   28.9    7.0   .150   .811    75   1   7
+rThompson     23   1   0    1   0   1   21.5    8.0   .147  1.028    46   0   6
+ Fernandez    55   2   2    2   0   1   27.7    4.1   .072   .633    87   1   9
+ Doran       138   4   3    5   0   6   80.1    5.8   .124   .786   206   4   8
+ Concepcion   75   5   0    5   0   4   35.8    4.4   .062   .647   101   0  11
+nFoster       46   0   2    9   0   1   18.1    3.2   .093   .523    69   0   6
+ Davis,A     135   0   3    4   0   8   72.8    5.1   .118   .715   187   2   8
+nBackman      61   2   0   13   0   0   25.6    3.1   .026   .604    74   1   7
+ Trevino      41   2   0    1   0   1   17.1    3.4   .092   .541    58   3   6
+rMilner       94   1   2    1   0   4   50.1    4.7   .133   .720   135   4   4
+ Foley         9   0   1    3   0   0    3.7    2.3   .059   .452    15   0   2
+ Marshall    112   0   4   14   1   7   50.2    4.0   .185   .647   177   0   9
+ Parrish     121   0   4    7   0   9   54.5    4.1   .233   .655   209   2   6
+ Pagliarulo   48   0   0    7   0   4   18.2    3.2   .171   .571    72   3   6
+cPagliarulo   49   0   0    7   0   4   19.5    3.4   .183   .592    76   3   6
+nDavis,M      65   1   1    3   0   4   20.9    2.9   .135   .546    82   0   5
+ Castillo     46   0   1    7   0   0   17.2    3.0   .154   .556    66   0   3
+ Gross        68   0   3    7   0   8   34.3    4.3   .165   .701    93   1   6
+ Van Slyke    81   0   2    6   0   7   35.6    3.7   .132   .670   100   2   5
+ Perry        15   1   1    1   0   0    6.3    2.3   .063   .528    20   2   2
+ Maddox       27   0   3    0   0   0    7.8    2.4   .067   .442    26   0   3
+rBurleson      0   0   0    0   0   0    0.3    1.8   .167   .400     2   1   1
+ Driessen      0   1   0    1   0   0    0.7    0.9   .000   .263     3   0   1
+rLaValliere    0   0   0    0   0   0    0.0    0.1   .000   .111     0   0   0
+ 
+ Lollar        8   0   1    0   0   0    2.6    6.5   .000   .700     6   0   4
+nSchatzeder    8   2   0    0   0   1    2.4    4.7   .000   .583     6   0   2
+rBrowning      3   0   0    0   0   0    0.9    3.5   .000   .429     3   0   2
+ Soto         33   4   0    1   0   1    5.3    2.2   .064   .387    22   0   5
+rFernandez    14   2   0    0   0   0    1.5    1.6   .000   .292     6   0   1
+rJackson       0   0   0    0   0   1    0.4    1.4   .000   .250     2   0   1
+rRighetti      0   0   0    0   0   0    0.4    1.1   .000   .222     2   1   1
+nSmithson     17   3   0    0   0   0    1.2    1.0   .000   .200     6   0   2
+ Romanick     11   1   0    0   0   0    0.7    0.9   .000   .222     3   1   1
+ Hough        13   0   0    1   0   0    0.8    0.7   .030   .233     5   0   1
+cHough        35   1   1    2   0   0    1.7    0.6   .013   .214    10   0   2
+ DeLeon       25   1   1    1   0   1    1.1    0.5   .000   .167     7   0   2
+rCandiotti     6   0   0    0   0   0    0.2    0.8   .111   .250     2   0   1
+nDavis        16   1   1    1   0   0    0.4    0.4   .000   .143     3   0   1
+ Davis         6   1   0    0   0   0    0.1    0.2   .000   .083     1   0   1
+rLucas         0   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+rCliburn       0   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+nJames         0   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+rGuante        0   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+rWalk          2   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+nCaudill       0   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+rMason         0   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+
+ Team Total  162  35  36  103   1  71  630.4    3.9   .121   .623  1977
+            DMB League Batting Splits:  1984 Cincinnati Reds-- vsLHP
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Doran        .357  .417  .485   227   81   17    0    4   24   24   27   2   2
+ Foley        .348  .400  .348    23    8    0    0    0    0    2    5   0   0
+nTabler       .330  .381  .427   103   34   10    0    0   11    9    5   0   1
+ Fernandez    .324  .343  .368    68   22    3    0    0    9    2    6   0   0
+ Concepcion   .311  .369  .372   196   61    9    0    1   16   17   22   5   0
+ Parrish      .292  .337  .599   192   56    7    2   16   38   13   35   0   2
+nFoster       .287  .320  .383   115   33    2    0    3   13    5   20   0   1
+ Marshall     .268  .353  .463   190   51   13    0    8   30   26   41   0   2
+ Davis,A      .254  .364  .339   177   45    7    1    2   19   30   29   0   1
+rBurleson     .250  .250  .500     4    1    1    0    0    0    0    1   0   0
+ Perry        .250  .286  .250    12    3    0    0    0    1    1    2   0   1
+ Van Slyke    .221  .270  .382    68   15    5    3    0    5    5   22   0   1
+ Castillo     .220  .262  .360   100   22    6    1    2    8    6   15   0   1
+nDavis,M      .182  .258  .345    55   10    4    1    1    5    6   16   0   1
+ Trevino      .182  .234  .205    44    8    1    0    0    3    3    5   1   0
+rMilner       .176  .274  .189    74   13    1    0    0    5   10   15   1   0
+ Maddox       .172  .260  .253    87   15    1    0    2    9   11    7   0   2
+nBackman      .167  .348  .222    18    3    1    0    0    0    5    3   0   0
+rThompson     .125  .222  .125     8    1    0    0    0    0    0    2   0   0
+ Pagliarulo   .119  .229  .167    42    5    2    0    0    1    6    6   0   0
+cPagliarulo   .119  .245  .167    42    5    2    0    0    1    7    6   0   0
+ Gross        .111  .273  .111    18    2    0    0    0    2    4    7   0   0
+ 
+ Lollar       .400  .400  .400     5    2    0    0    0    1    0    0   0   0
+nSchatzeder   .286  .375  .286     7    2    0    0    0    0    1    2   0   0
+ Soto         .208  .208  .250    24    5    1    0    0    2    0    3   3   0
+rCandiotti    .200  .200  .400     5    1    1    0    0    0    0    3   0   0
+rBrowning     .200  .200  .200     5    1    0    0    0    0    0    2   0   0
+rJackson      .200  .200  .200     5    1    0    0    0    0    0    2   0   0
+ Romanick     .167  .286  .167     6    1    0    0    0    1    1    2   0   0
+rFernandez    .083  .083  .083    12    1    0    0    0    0    0    3   1   0
+ DeLeon       .033  .065  .033    30    1    0    0    0    1    1   10   0   0
+nSmithson     .000  .000  .000     4    0    0    0    0    0    0    3   1   0
+rRighetti     .000  .000  .000     4    0    0    0    0    0    0    2   0   0
+rWalk         .000  .000  .000     1    0    0    0    0    0    0    1   0   0
+rLucas        .000  .000  .000     2    0    0    0    0    0    0    0   0   0
+ Hough        .000  .000  .000    10    0    0    0    0    0    0    4   0   0
+cHough        .042  .077  .042    24    1    0    0    0    1    1    8   0   1
+nDavis        .000  .000  .000    16    0    0    0    0    1    0    7   0   1
+rGuante       .000  .000  .000     1    0    0    0    0    0    0    0   0   0
+nCaudill      .000  .000  .000     2    0    0    0    0    0    0    0   0   0
+ Davis        .000  .000  .000     5    0    0    0    0    0    0    3   0   0
+ 
+ Team Total   .256  .319  .371  1965  504   92    8   39  205  188  338  14  16
+            DMB League Batting Splits:  1984 Cincinnati Reds-- vsRHP
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+rThompson     .319  .402  .479    94   30    1    1    4   11   12    9   1   0
+nTabler       .298  .365  .544    57   17    2    0    4   13    6    7   0   0
+ Fernandez    .287  .342  .371   167   48    6    1    2   14   14    4   2   2
+ Trevino      .262  .304  .377   130   34    9    0    2   11    5   16   1   0
+rMilner       .258  .354  .422   287   74   12    7    7   26   44   44   0   2
+ Davis,A      .256  .352  .392   324   83   13    2    9   47   43   43   0   2
+nBackman      .255  .330  .279   251   64    4    1    0   11   28   32   2   0
+ Pagliarulo   .241  .286  .448   145   35    8    2    6   23    8   33   0   0
+cPagliarulo   .242  .285  .463   149   36    8    2    7   25    8   34   0   0
+ Concepcion   .237  .276  .301    93   22    3    0    1    7    5   13   0   0
+ Doran        .230  .318  .350   274   63    8    8    3   19   35   42   2   1
+nFoster       .228  .262  .316    79   18    2    1    1    5    3   17   0   1
+ Maddox       .222  .250  .222    18    4    0    0    0    2    1    1   0   1
+nDavis,M      .220  .257  .346   182   40    6    1    5   22    9   37   1   0
+ Marshall     .207  .241  .384   232   48    5    0   12   42   10   49   0   2
+ Gross        .207  .341  .384   237   49    4    1   12   35   50   43   0   3
+ Castillo     .195  .290  .366    82   16    2    0    4   14   10   18   0   0
+ Parrish      .185  .211  .363   259   48    8    1   12   34    7   66   0   2
+ Van Slyke    .182  .321  .306   242   44   10    1    6   28   49   57   0   1
+ Perry        .176  .317  .250    68   12    2    0    1    5   14    7   1   0
+ Driessen     .143  .217  .143    21    3    0    0    0    0    2    3   1   0
+ Foley        .143  .167  .250    28    4    0    0    1    4    1    3   0   1
+rBurleson     .000  .000  .000     2    0    0    0    0    0    0    1   0   0
+rLaValliere   .000  .100  .000     9    0    0    0    0    0    1    2   0   0
+ 
+rBrowning     .400  .400  .400     5    2    0    0    0    1    0    3   0   0
+nSchatzeder   .364  .364  .364    11    4    0    0    0    1    0    2   2   0
+ Lollar       .364  .385  .364    11    4    0    0    0    3    1    2   0   1
+rRighetti     .286  .286  .286     7    2    0    0    0    0    0    1   0   0
+rFernandez    .278  .316  .278    18    5    0    0    0    3    1    3   1   0
+ Soto         .222  .250  .296    54   12    1    0    1    5    1   17   1   0
+nDavis        .214  .267  .214    14    3    0    0    0    0    0    5   1   0
+rJackson      .200  .200  .200     5    1    0    0    0    2    0    3   0   0
+ DeLeon       .200  .219  .200    30    6    0    0    0    3    1    9   1   1
+nSmithson     .188  .188  .188    32    6    0    0    0    2    0    7   2   0
+ Hough        .174  .240  .217    23    4    1    0    0    2    2   12   0   0
+cHough        .151  .196  .170    53    8    1    0    0    3    3   22   1   0
+ Romanick     .133  .133  .133    15    2    0    0    0    0    0    7   1   0
+ Davis        .125  .125  .125     8    1    0    0    0    0    0    4   1   0
+rWalk         .000  .000  .000     3    0    0    0    0    0    0    1   0   0
+rCliburn      .000  .000  .000     1    0    0    0    0    0    0    0   0   0
+rMason        .000  .000  .000     2    0    0    0    0    0    0    0   0   0
+rLucas        .000  .000  .000     1    0    0    0    0    0    0    0   0   0
+rGuante       .000  .000  .000     1    0    0    0    0    0    0    1   0   0
+nCaudill      .000  .000  .000     3    0    0    0    0    0    0    1   0   0
+rCandiotti    .000  .000  .000     4    0    0    0    0    0    0    1   0   0
+ 
+ Team Total   .229  .301  .354  3529  808  107   27   93  395  363  626  21  20
+      DMB League Games Started by Position:  1984 Cincinnati Reds-- vsLHP
+                                        
+ 
+ NAME           C   1B   2B   3B   SS   LF   CF   RF
+ 
+ Castillo       0    0    0    0    0   15    0   13
+ Concepcion     0    0    0   14   39    0    0    0
+ Davis,A        0   48    0    0    0    0    0    0
+nDavis,M        0    0    0    0    0    0   11    5
+ Doran          0    0   58    0    0    0    0    0
+ Fernandez      0    0    0    0   14    0    0    0
+nFoster         0    0    0    0    0   34    0    0
+ Maddox         0    0    0    0    0    0   27    0
+ Marshall       0    9    0    0    0    9    0   39
+rMilner         0    0    0    0    0    0   11    0
+ Parrish       50    0    0    0    0    0    0    0
+nTabler         0    0    0   34    0    0    0    0
+ Trevino        8    0    0    0    0    0    0    0
+ Van Slyke      0    1    0    0    0    0    9    1
+ Pagliarulo     0    0    0   10    0    0    0    0
+CPagliarulo     0    0    0   10    0    0    0    0
+ Foley          0    0    0    0    5    0    0    0
+ 
+ Team Total    58   58   58   58   58   58   58   58
+      DMB League Games Started by Position:  1984 Cincinnati Reds-- vsRHP
+                                        
+ 
+ NAME           C   1B   2B   3B   SS   LF   CF   RF
+ 
+nBackman        0    0   61    0    0    0    0    0
+ Castillo       0    0    0    0    0    0    0   18
+ Concepcion     0    0    0    0   22    0    0    0
+ Davis,A        0   87    0    0    0    0    0    0
+nDavis,M        0    0    0    0    0    3    2   44
+ Doran          0    0   43    0   37    0    0    0
+ Fernandez      0    0    0    0   41    0    0    0
+nFoster         0    0    0    0    0   12    0    0
+ Gross          0   17    0   51    0    0    0    0
+ Marshall       0    0    0    0    0   23    0   32
+rMilner         0    0    0    0    0    0   83    0
+ Parrish       71    0    0    0    0    0    0    0
+ Perry          0    0    0    0    0   15    0    0
+nTabler         0    0    0    2    0    0    0    0
+rThompson       0    0    0    0    0   23    0    0
+ Trevino       33    0    0    0    0    0    0    0
+ Van Slyke      0    0    0   13    0   28   19   10
+ Pagliarulo     0    0    0   38    0    0    0    0
+CPagliarulo     0    0    0   39    0    0    0    0
+ Foley          0    0    0    0    4    0    0    0
+ 
+ Team Total   104  104  104  104  104  104  104  104
+             DMB League Pitching Statistics:  1984 Cincinnati Reds
+                                        
+ 
+ NAME         ERA  W  L  S   G GS CG SH    IP   H   R  ER  BB   K   BF HR WP DP
+ 
+rCliburn     0.00  1  0  0   1  0  0  0   4.0   2   0   0   0   1   12  0  0  1
+rRighetti    2.43  3  9 18  72  0  0  0 100.0  75  33  27  60  95  426  3  0  9
+ Davis       2.69  4  2  4  35  6  0  0  63.2  60  31  19  25  66  276  1  8  2
+rBrowning    2.96  1  1  0   4  3  0  0  24.1  31  13   8   4  18  107  0  0  1
+nSchatzeder  3.25  5  3  0   8  8  2  1  52.2  52  23  19  21  26  230  0  2  4
+ DeLeon      3.41  9  9  1  27 25  1  0 169.0 152  74  64  92 154  729 14  9 23
+nCaudill     3.62  5  5 13  40  0  0  0  49.2  45  22  20  14  58  208  6  0  0
+nSmithson    3.64  3  7  0  17 17  0  0 113.2 121  61  46  21  83  483 16  1  4
+ Soto        3.69 14 13  0  33 33  6  1 236.1 189 105  97  81 206  980 37  0 10
+ Hough       3.97  5  5  0  16 13  2  1  93.0 101  44  41  33  51  398 11  7 14
+cHough       4.51 12 15  0  38 35  4  2 215.2 230 116 108  70 141  927 24 11 19
+rJackson     4.13  4  1  4  57  0  0  0  80.2  81  43  37  39  50  354  8  5 14
+rFernandez   4.48  5  5  0  19 14  1  1  90.1  96  49  45  33  66  397 13  2  4
+rCandiotti   4.79  1  4  1  11  6  0  0  35.2  36  19  19  24  25  164  2  0  0
+ Romanick    4.81  3  3  0  11 11  1  0  63.2  64  35  34  15  33  268 11  0  3
+ Lollar      4.82  2  3  0  10  8  0  0  52.1  58  30  28  24  26  232  5  4  5
+rLucas       4.82  5  5  1  47  0  0  0  52.1  70  30  28  20  48  239  5  5  8
+rGuante      4.97  0  3  0  31  0  0  0  41.2  49  25  23  11  31  178  7  0  4
+rWalk        5.40  0  2  0   4  2  0  0  11.2  10   7   7   5   7   48  3  0  0
+nDavis       5.42  6  6  0  16 16  0  0  89.2 106  56  54  38  56  411  8  1  8
+nJames       5.68  0  0  0   5  0  0  0   6.1   9   4   4   2   4   28  0  0  0
+rMason       5.73  0  0  0  15  0  0  0  22.0  29  16  14  14  15  107  5  1  0
+
+ Team Total  3.93    86    162    13   1452.2     720     576     6275    45
+                  76    42    162     9      1436     634    1119     155   114
+             DMB League Pitching Statistics:  1984 Cincinnati Reds
+                                        
+ 
+ NAME          IW HBP  WP  BK  CI   H/9  BB/9   R/9   K/9  HR/9
+ 
+rCliburn        0   0   0   0   0   4.5   0.0   4.5   2.3   0.0
+rRighetti       2   0   0   6   0   6.8   5.4  12.1   8.6   0.3
+ Davis          1   1   8   0   0   8.5   3.5  12.2   9.3   0.1
+rBrowning       0   0   0   0   0  11.5   1.5  12.9   6.7   0.0
+nSchatzeder     0   1   2   1   0   8.9   3.6  12.6   4.4   0.0
+ DeLeon         3   1   9   5   0   8.1   4.9  13.0   8.2   0.7
+nCaudill        1   2   0   0   0   8.2   2.5  11.1  10.5   1.1
+nSmithson       2   4   1   2   0   9.6   1.7  11.6   6.6   1.3
+ Soto           0   7   0   0   0   7.2   3.1  10.5   7.8   1.4
+ Hough          0   2   7   2   0   9.8   3.2  13.2   4.9   1.1
+cHough          0   4  11   4   0   9.6   2.9  12.7   5.9   1.0
+rJackson        1  10   5   5   0   9.0   4.4  14.5   5.6   0.9
+rFernandez      3   0   2   5   0   9.6   3.3  12.9   6.6   1.3
+rCandiotti      3   0   0   0   0   9.1   6.1  15.1   6.3   0.5
+ Romanick       0   1   0   0   0   9.0   2.1  11.3   4.7   1.6
+ Lollar         1   0   4   0   0  10.0   4.1  14.1   4.5   0.9
+rLucas          4   0   5   1   0  12.0   3.4  15.5   8.3   0.9
+rGuante         1   0   0   0   0  10.6   2.4  13.0   6.7   1.5
+rWalk           0   0   0   0   0   7.7   3.9  11.6   5.4   2.3
+nDavis          0   6   1   1   0  10.6   3.8  15.1   5.6   0.8
+nJames          0   0   0   0   0  12.8   2.8  15.6   5.7   0.0
+rMason          2   0   1   1   0  11.9   5.7  17.6   6.1   2.0
+
+ Team Total    24  35  45  29   0   8.9   3.6  12.7   6.9   1.0
+             DMB League Pitching Statistics:  1984 Cincinnati Reds
+                                        
+ 
+ NAME         AVG   OBP   SPC   BF   AB    H  2B  3B  HR   TB  SH  SF
+ 
+rCliburn     .167  .167  .167   12   12    2   0   0   0    2   0   0
+rRighetti    .209  .321  .265  426  358   75   9   1   3   95   6   2
+ Davis       .247  .317  .305  276  243   60  11   0   1   74   5   2
+rBrowning    .304  .327  .373  107  102   31   7   0   0   38   0   1
+nSchatzeder  .255  .326  .333  230  204   52  10   3   0   68   3   1
+ DeLeon      .242  .338  .357  729  627  152  26   2  14  224   4   5
+nCaudill     .238  .293  .365  208  189   45   6   0   6   69   0   3
+nSmithson    .267  .304  .412  483  454  121  16   1  16  187   3   1
+ Soto        .216  .286  .387  980  876  189  25   7  37  339  12   4
+ Hough       .280  .343  .443  398  361  101  20   3  11  160   1   1
+cHough       .273  .330  .421  927  844  230  41   6  24  355   7   2
+rJackson     .267  .368  .413  354  303   81  16   2   8  125   1   1
+rFernandez   .270  .328  .447  397  356   96  24   0  13  159   4   4
+rCandiotti   .265  .370  .360  164  136   36   3   2   2   49   2   2
+ Romanick    .256  .301  .448  268  250   64  15   0  11  112   2   0
+ Lollar      .284  .357  .426  232  204   58  10   2   5   87   2   2
+rLucas       .321  .377  .514  239  218   70  15   6   5  112   0   1
+rGuante      .297  .339  .527  178  165   49   9   4   7   87   1   1
+rWalk        .238  .319  .452   48   42   10   0   0   3   19   1   0
+nDavis       .294  .369  .440  411  361  106  19   5   8  159   4   2
+nJames       .360  .393  .440   28   25    9   2   0   0   11   0   1
+rMason       .319  .406  .626  107   91   29  13   0   5   57   1   1
+
+ Team Total  .257  .329  .400      5577      256     155       52
+                              6275      1436      38     2233      35
+             DMB League Pitching Statistics:  1984 Cincinnati Reds
+                                        
+ 
+ NAME          GS  CG   CG% SHo  QS   QS%   RS RS/G  RL RLS   RL%
+ 
+rCliburn        0   0  .000   0   0  .000    0  0.0   0   0  .000
+rRighetti       0   0  .000   0   0  .000    0  0.0  13   6  .462
+ Davis          6   0  .000   0   1  .167   25  4.2  19   6  .316
+rBrowning       3   0  .000   0   2  .667   12  4.0   2   0  .000
+nSchatzeder     8   2  .250   1   4  .500   30  3.8   5   3  .600
+ DeLeon        25   1  .040   0  17  .680  104  4.2  14   2  .143
+nCaudill        0   0  .000   0   0  .000    0  0.0   3   1  .333
+nSmithson      17   0  .000   0   9  .529   58  3.4   8   4  .500
+ Soto          33   6  .182   1  21  .636  125  3.8  13   5  .385
+ Hough         13   2  .154   1   7  .538   62  4.8  10   4  .400
+cHough         35   4  .114   2  16  .457  165  4.7  28  10  .357
+rJackson        0   0  .000   0   0  .000    0  0.0  13   4  .308
+rFernandez     14   1  .071   1   8  .571   64  4.6   4   1  .250
+rCandiotti      6   0  .000   0   3  .500   13  2.2   3   0  .000
+ Romanick      11   1  .091   0   5  .455   45  4.1  12   5  .417
+ Lollar         8   0  .000   0   3  .375   32  4.0   5   4  .800
+rLucas          0   0  .000   0   0  .000    0  0.0  23   6  .261
+rGuante         0   0  .000   0   0  .000    0  0.0   8   2  .250
+rWalk           2   0  .000   0   0  .000    5  2.5   1   1 1.000
+nDavis         16   0  .000   0   6  .375   71  4.4   9   4  .444
+nJames          0   0  .000   0   0  .000    0  0.0   3   0  .000
+rMason          0   0  .000   0   0  .000    0  0.0   5   0  .000
+
+ Team Total   162      .080      86        646      173      .335
+                   13         9      .531       4.0      58
+             DMB League Pitching Statistics:  1984 Cincinnati Reds
+                                        
+ 
+ NAME         SvO  Sv   Sv%  BSv  BSv%  IR  IRS   IR%    G  RA   RA%  GF   GF%
+ 
+rCliburn        0   0  .000    0  .000   0    0  .000    1   1 1.000   0  .000
+rRighetti      31  18  .581    7  .226  39    9  .231   72  72 1.000  45  .625
+ Davis         10   4  .400    0  .000  17    6  .353   35  29  .829   9  .310
+rBrowning       0   0  .000    0  .000   0    0  .000    4   1  .250   1 1.000
+nSchatzeder     0   0  .000    0  .000   0    0  .000    8   0  .000   0  .000
+ DeLeon         1   1 1.000    0  .000   0    0  .000   27   2  .074   1  .500
+nCaudill       20  13  .650    5  .250  10    1  .100   40  40 1.000  29  .725
+nSmithson       0   0  .000    0  .000   0    0  .000   17   0  .000   0  .000
+ Soto           0   0  .000    0  .000   0    0  .000   33   0  .000   0  .000
+ Hough          0   0  .000    0  .000   0    0  .000   16   3  .188   3 1.000
+cHough          0   0  .000    0  .000   0    0  .000   38   3  .079   3 1.000
+rJackson        5   4  .800    0  .000  45   12  .267   57  57 1.000  26  .456
+rFernandez      0   0  .000    0  .000   5    4  .800   19   5  .263   4  .800
+rCandiotti      1   1 1.000    0  .000   3    0  .000   11   5  .455   4  .800
+ Romanick       0   0  .000    0  .000   0    0  .000   11   0  .000   0  .000
+ Lollar         0   0  .000    0  .000   1    1 1.000   10   2  .200   2 1.000
+rLucas          6   1  .167    2  .333  27   12  .444   47  47 1.000  12  .255
+rGuante         3   0  .000    1  .333  11    4  .364   31  31 1.000   6  .194
+rWalk           1   0  .000    1 1.000   2    2 1.000    4   2  .500   0  .000
+nDavis          0   0  .000    0  .000   0    0  .000   16   0  .000   0  .000
+nJames          1   0  .000    1 1.000   1    0  .000    5   5 1.000   1  .200
+rMason          2   0  .000    0  .000  12    7  .583   15  15 1.000   6  .400
+
+ Team Total    81      .519       .210       58        479      .662      .470
+                   42         17       173       .335      317       149
+           DMB League Pitching Splits:  1984 Cincinnati Reds-- vsLHB
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+rCliburn      .000  .000  .000     6    0    0    0    0    0    0    0   0   0
+rRighetti     .133  .298  .219   105   14    3    0    2    8   25   37   1   1
+ Soto         .212  .303  .374   430   91   10    3   18   56   56   99   4   3
+ Lollar       .216  .286  .333    51   11    0    0    2    4    5    7   1   0
+rFernandez    .218  .241  .231    78   17    1    0    0    4    3   24   1   2
+rJackson      .237  .328  .415   118   28    7    1    4   23   14   26   1   0
+nCaudill      .253  .344  .367    79   20    3    0    2    6   11   17   0   0
+ DeLeon       .272  .406  .404   327   89   12    2    9   39   74   51   3   2
+rWalk         .273  .385  .273    22    6    0    0    0    2    4    2   1   0
+ Romanick     .276  .318  .455   145   40    5    0    7   15    8   12   0   0
+ Davis        .286  .387  .343   105   30    3    0    1   13   17   25   1   1
+nSmithson     .286  .317  .462   199   57    9    1    8   28    9   23   1   0
+rLucas        .296  .329  .420    81   24    8    1    0   12    4   23   0   0
+rMason        .300  .440  .450    40   12    6    0    0    7   10    5   0   0
+ Hough        .309  .370  .452   188   58    9    3    4   20   17   23   1   1
+cHough        .294  .356  .421   470  138   17    5   11   53   44   70   5   1
+nDavis        .314  .401  .457   188   59   12    3    3   24   28   37   2   1
+rBrowning     .333  .350  .389    18    6    1    0    0    4    1    3   0   1
+rCandiotti    .408  .475  .451    71   29    3    0    0   13    9   12   2   0
+rGuante       .412  .431  .765    68   28    6    3    4   16    3   11   0   1
+nSchatzeder   .421  .465  .474    38   16    2    0    0    6    4    2   0   1
+nJames        .545  .571  .545    11    6    0    0    0    3    2    3   0   1
+ 
+ Team Total   .271  .351  .408  2368  641  100   17   64  303  304  442  19  15
+           DMB League Pitching Splits:  1984 Cincinnati Reds-- vsRHB
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+rCandiotti    .108  .268  .262    65    7    0    2    2    6   15   13   0   2
+rWalk         .200  .238  .650    20    4    0    0    3    6    1    5   0   0
+ DeLeon       .210  .252  .307   300   63   14    0    5   29   18  103   1   3
+nJames        .214  .214  .357    14    3    2    0    0    1    0    1   0   0
+rGuante       .216  .276  .361    97   21    3    1    3    9    8   20   1   0
+nSchatzeder   .217  .293  .301   166   36    8    3    0   12   17   24   3   0
+ Davis        .217  .259  .275   138   30    8    0    0   14    8   41   4   1
+ Soto         .220  .268  .399   446   98   15    4   19   39   25  107   8   1
+nCaudill      .227  .254  .364   110   25    3    0    4   14    3   41   0   3
+ Romanick     .229  .277  .438   105   24   10    0    4   15    7   21   2   0
+rRighetti     .241  .332  .285   253   61    6    1    1   26   35   58   5   1
+ Hough        .249  .312  .434   173   43   11    0    7   18   16   28   0   0
+cHough        .246  .298  .420   374   92   24    1   13   49   26   71   2   1
+nSmithson     .251  .294  .373   255   64    7    0    8   26   12   60   2   1
+nDavis        .272  .332  .422   173   47    7    2    5   27   10   19   2   1
+rFernandez    .284  .352  .507   278   79   23    0   13   42   30   42   3   2
+rJackson      .286  .393  .411   185   53    9    1    4   23   25   24   0   1
+rBrowning     .298  .322  .369    84   25    6    0    0    9    3   15   0   0
+ Lollar       .307  .379  .458   153   47   10    2    3   20   19   19   1   2
+rMason        .333  .375  .765    51   17    7    0    5   16    4   10   1   1
+rCliburn      .333  .333  .333     6    2    0    0    0    0    0    1   0   0
+rLucas        .336  .403  .569   137   46    7    5    5   22   16   25   0   1
+ 
+ Team Total   .248  .307  .395  3209  795  156   21   91  374  272  677  33  20
+             DMB League Fielding Statistics:  1984 Cincinnati Reds
+                                        
+ 
+POS NAME             G    GS    PO     A     E    DP    TC     PCT   PB
+ 
+p   Soto            33    33    10    26     4     0    40    .900
+    DeLeon          27    25     8    12     6     2    26    .769
+   nSmithson        17     8    11    14     1     1    26    .962
+   nDavis           16     8     5    10     6     1    21    .714
+    Hough           16    13     5    13     1     2    19    .947
+   cHough           38    35    11    28     2     2    41    .951
+   rJackson         57     0     5    10     0     1    15   1.000
+   nSchatzeder       8     8     4     8     1     0    13    .923
+   rRighetti        72     0     4     7     2     1    13    .846
+   rFernandez       19    14     4     6     2     1    12    .833
+    Romanick        11    11     3     6     1     0    10    .900
+    Lollar          10     8     5     4     0     1     9   1.000
+   rGuante          31     0     1     4     2     0     7    .714
+    Davis           35     6     2     4     0     0     6   1.000
+   rLucas           47     0     1     5     0     1     6   1.000
+   rCandiotti       11     6     3     3     0     0     6   1.000
+   nCaudill         40     8     3     1     0     0     4   1.000
+   rMason           15     0     1     1     2     0     4    .500
+   rBrowning         4     3     0     3     1     0     4    .750
+   rWalk             4     2     1     1     0     0     2   1.000
+   rCliburn          1     0     0     0     0     0     0    .000
+   nJames            5     8     0     0     0     0     0    .000
+                   479   161    76   138    29    11   243    .881
+ 
+c   Parrish        128   121   843    42     4     5   889    .996    9
+    Trevino         68    41   321    12     2     0   335    .994    0
+   rLaValliere       2     0     3     0     0     0     3   1.000    0
+                   198   162  1167    54     6     5  1227    .995    9
+ 
+1b  Davis,A        136   135  1000    76     7   102  1083    .994
+    Gross           19    17   138    13     0    12   151   1.000
+    Marshall        10     9    63     7     0     3    70   1.000
+    Driessen         3     0     9     0     0     2     9   1.000
+    Perry            1     0     4     1     0     0     5   1.000
+    Van Slyke        1     1     5     0     0     1     5   1.000
+   nTabler           2     0     2     0     0     0     2   1.000
+                   172   162  1221    97     7   120  1325    .995
+ 
+2b  Doran          107   101   204   283     9    61   496    .982
+   nBackman         73     0   122   175     5    33   302    .983
+    Foley            1     0     2     3     0     1     5   1.000
+                   181   101   328   461    14    95   803    .983
+ 
+3b  Gross           74    51    53    87     8    13   148    .946
+    Pagliarulo      51    48    35    71     4     8   110    .964
+   cPagliarulo      54    49    37    73     5     8   115    .957
+   nTabler          43     0    27    49     4     4    80    .950
+    Concepcion      17    14    14    22     1     3    37    .973
+    Van Slyke       13    13    12    15     2     2    29    .931
+    Fernandez        1     0     0     0     0     0     0    .000
+                   199   126   141   244    19    30   404    .953
+             DMB League Fielding Statistics:  1984 Cincinnati Reds
+                                        
+ 
+POS NAME             G    GS    PO     A     E    DP    TC     PCT   PB
+ 
+ss  Concepcion      72    61    85   168     4    38   257    .984
+    Fernandez       72    55    78   150     4    23   232    .983
+    Doran           37    37    50    80     7    14   137    .949
+    Foley           24     9    19    29     2     7    50    .960
+   nBackman          2     0     1     2     0     0     3   1.000
+                   207   162   233   429    17    82   679    .975
+ 
+lf nFoster          52     0   113     6     1     0   120    .992
+    Van Slyke       38    28    77     2     0     0    79   1.000
+    Marshall        35    32    77     1     0     0    78   1.000
+   rThompson        32    23    63     2     0     0    65   1.000
+    Perry           15    15    44     1     0     1    45   1.000
+    Castillo        15    15    21     2     3     0    26    .885
+   nDavis,M          5     0    11     0     1     0    12    .917
+   nTabler           1     0     0     0     1     0     1    .000
+                   193   113   406    14     6     1   426    .986
+ 
+cf rMilner         117    94   267     8     4     2   279    .986
+    Maddox          36    27    84     3     0     0    87   1.000
+    Van Slyke       33    28    64     5     0     1    69   1.000
+   nDavis,M         14     0    37     1     0     0    38   1.000
+                   200   149   452    17     4     3   473    .992
+ 
+rf  Marshall        87    71   157    13     5     3   175    .971
+   nDavis,M         55     0    88     6     2     2    96    .979
+    Castillo        37    31    66     3     3     0    72    .958
+    Van Slyke       16    11    23     1     1     0    25    .960
+    Concepcion       1     0     0     0     0     0     0    .000
+                   196   113   334    23    11     5   368    .970
+ 
+    Team Total     162   162  4358  1477   113   133  5948    .981    9
+                      Game Results:  1984 Cincinnati Reds
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 4/ 1/1984    CEN   W  3-1      Soto        Soto                    Niekro      
+ 4/ 2/1984    CEN   L  2-4      Walk        Walk                    Koosman     
+ 4/ 3/1984    CEN   L  3-5  10  Browning    Lucas                   Krukow      
+ 4/ 4/1984    TEW   W  4-3      Fernandez   Caudill                 Darling     
+ 4/ 5/1984   @FER   L  1-2  10  Candiotti   Caudill                 Boddicker   
+ 4/ 6/1984   @FER   L  5-6      Soto        Soto                    Andujar     
+ 4/ 7/1984   @FER   L  3-4      Walk        Lucas                   Sutcliffe   
+ 4/ 8/1984   @BAR   L  4-9      Browning    Browning                Black       
+ 4/ 9/1984   @BAR   W  8-4      Fernandez   Fernandez               Morris      
+ 4/10/1984   @BAR   L  1-5      Candiotti   Candiotti               Eckersley   
+ 4/11/1984    TEW   W  8-7      Soto        Jackson     Caudill     Ryan        
+ 4/12/1984   @CTW   W  1-0      Smithson    Smithson    Caudill     Hough       
+ 4/13/1984   @CTW   W  5-3      Browning    Browning    Righetti    Zahn        
+ 4/14/1984   @A51   W  6-5  10  Fernandez   Caudill                 Tanana      
+ 4/15/1984    GAR   L  0-8      Candiotti   Candiotti               Valenzuela  
+ 4/16/1984    GAR   L  1-5      Soto        Soto                    Forsch      
+ 4/17/1984    GAR   W  4-2      Smithson    Smithson    Righetti    Hoyt        
+ 4/18/1984   @EVN   L  3-5      Davis       Davis                   Moore       
+ 4/19/1984   @EVN   L  1-4      Fernandez   Fernandez               Smith       
+ 4/20/1984   @EVN   L  2-3  10  Candiotti   Caudill                 Rawley      
+ 4/21/1984    TEW   L  2-5      Soto        Soto                    Ryan        
+ 4/22/1984    TEW   L  3-4      Smithson    Righetti                Witt        
+ 4/23/1984   @TEW   W  6-4      Davis       Davis       Righetti    Ojeda       
+ 4/24/1984   @TEW   W  3-2      Fernandez   Fernandez   Caudill     Darling     
+ 4/25/1984   @TEW   L  4-13     Candiotti   Candiotti               Rasmussen   
+ 4/26/1984    GCP   W  8-5      Soto        Soto        Caudill     Darwin      
+ 4/27/1984    GCP   L  1-6      Smithson    Smithson                Martinez,D  
+ 4/28/1984    GCP   W  5-4      Davis       Davis       Caudill     Reuss       
+ 4/29/1984    GAR   L  1-4      Fernandez   Fernandez               Terrell     
+ 4/30/1984    GAR   W  5-2      Candiotti   Candiotti   Caudill     Valenzuela  
+ 5/ 1/1984    GAR   W  5-1      Soto        Soto                    Forsch      
+ 5/ 2/1984   @CEN   W  5-3      Smithson    Smithson    Caudill     Niekro      
+ 5/ 3/1984   @CEN   L  2-5      Davis       Davis                   Koosman     
+ 5/ 4/1984    CTW   W  7-6      Fernandez   Caudill                 Butcher     
+ 5/ 5/1984   @GAR   W  9-2      DeLeon      DeLeon                  Valenzuela  
+ 5/ 6/1984   @GAR   W  7-2      Soto        Soto                    Forsch      
+ 5/ 7/1984   @GAR   W  3-2  13  Smithson    Caudill     Jackson     Hoyt        
+ 5/ 8/1984   @GAR   L  3-4  10  Davis       Righetti                Hurst       
+ 5/ 9/1984    SUN   L  2-10     Fernandez   Fernandez               Tudor       
+ 5/10/1984    SUN   W  5-3      DeLeon      DeLeon      Caudill     Show        
+ 5/11/1984    SUN   W  4-3      Soto        Soto        Caudill     Candelaria  
+ 5/13/1984   @BAR   L  0-2      Smithson    Smithson                Stieb       
+ 5/14/1984   @BAR   W  6-2      Davis       Davis                   Blyleven    
+ 5/15/1984   @BAR   L  0-6      Fernandez   Fernandez               Black       
+ 5/16/1984    A51   W  4-2      DeLeon      DeLeon                  Niekro      
+ 5/17/1984    A51   L  2-4      Soto        Guante                  Trout       
+ 5/18/1984    A51   L  3-5  10  Smithson    Caudill                 Sanderson   
+ 5/22/1984   @FER   W  4-2      Davis       Davis       Caudill     Boyd        
+ 5/23/1984   @FER   W 16-2      Fernandez   Fernandez               Sutton      
+ 5/24/1984   @FER   W  6-5      DeLeon      Caudill     Righetti    Boddicker   
+ 5/25/1984   @EVN   W  3-2  11  Soto        Lucas       Righetti    Seaver      
+ 5/26/1984   @EVN   L  4-6      Smithson    Smithson                Smith       
+                      Game Results:  1984 Cincinnati Reds
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 5/27/1984   @EVN   W  4-0      Davis       Davis                   Burns       
+ 5/29/1984   @GPC   L  1-5      Fernandez   Fernandez               Thurmond    
+ 5/30/1984   @GPC   W  5-1      DeLeon      DeLeon                  Pena        
+ 5/31/1984   @GPC   L  2-5      Soto        Soto                    Knepper     
+ 6/ 1/1984    BMB   L  1-5      Smithson    Smithson                Gubicza     
+ 6/ 2/1984    BMB   L  1-4      Davis       Davis                   Nipper      
+ 6/ 3/1984    BMB   L  3-7      Schatzeder  Schatzeder              Denny       
+ 6/ 4/1984    BBG   L  2-4      DeLeon      DeLeon                  Dravecky    
+ 6/ 5/1984    BBG   L  4-5  10  Soto        Caudill                 Welch       
+ 6/ 6/1984    BBG   L  6-14     Smithson    Smithson                Scott,M     
+ 6/ 7/1984   @BMB   W  4-1      Davis       Davis       Jackson     Nipper      
+ 6/ 8/1984   @BMB   L  0-1      Schatzeder  Schatzeder              Denny       
+ 6/ 9/1984   @BMB   L  2-4      DeLeon      DeLeon                  Clemens     
+ 6/10/1984    JJJ   W  4-0      Soto        Soto                    Cox         
+ 6/11/1984    JJJ   W  7-6  10  Smithson    Righetti                Gullickson  
+ 6/12/1984    JJJ   L  8-13     Davis       Davis                   Cox         
+ 6/13/1984    CTW   W  2-0      Schatzeder  Schatzeder              Butcher     
+ 6/14/1984    CTW   W  5-2      DeLeon      Lucas       Righetti    Zahn        
+ 6/15/1984    CTW   L  3-11     Soto        Soto                    Honeycutt   
+ 6/16/1984   @JJJ   L  4-9      Smithson    Lucas                   Gullickson  
+ 6/17/1984   @JJJ   W  8-6      Davis       Cliburn     Righetti    Shirley     
+ 6/18/1984   @JJJ   W  2-1      Schatzeder  Schatzeder              Leibrandt   
+ 6/20/1984   @GCP   L  2-4      DeLeon      DeLeon                  Reuss       
+ 6/21/1984   @GCP   L  2-3      Soto        Caudill                 Berenguer   
+ 6/22/1984   @GCP   L  3-4  12  Smithson    Righetti                Darwin      
+ 6/23/1984    BBG   W  7-6      Davis       Jackson     Righetti    Viola       
+ 6/24/1984    BBG   L  4-8      Schatzeder  Schatzeder              Hershiser   
+ 6/25/1984    FER   W  4-3      DeLeon      Jackson                 Andujar     
+ 6/26/1984    FER   L  0-6      Soto        Soto                    Sutcliffe   
+ 6/27/1984    BAR   W  7-6      Smithson    Righetti    Caudill     Stieb       
+ 6/28/1984    BAR   L  2-8      Davis       Davis                   Black       
+ 7/ 3/1984   @TEW   W  8-7      Schatzeder  Schatzeder  Righetti    Darling     
+ 7/ 4/1984   @TEW   W  3-1      DeLeon      DeLeon      Caudill     Rasmussen   
+ 7/ 5/1984   @TEW   L  3-4  12  Soto        Guante                  Ryan        
+ 7/ 9/1984    CEN   L  6-8      Smithson    Smithson                Davis,M     
+ 7/10/1984    CEN   L  0-8      Davis       Guante                  Cowley      
+ 7/11/1984    CEN   W  7-6      Schatzeder  Schatzeder  Caudill     Koosman     
+ 7/12/1984   @JJJ   W  5-3      DeLeon      DeLeon      Righetti    Gullickson  
+ 7/13/1984   @JJJ   W  7-3      Soto        Soto                    Guidry      
+ 7/14/1984   @JJJ   L  0-3      Smithson    Smithson                Leibrandt   
+ 7/18/1984    GPC   L  8-11     Davis       Davis                   Rhoden      
+ 7/19/1984    GPC   W  4-0      Schatzeder  Schatzeder              Gooden      
+ 7/20/1984    GPC   W  8-7      DeLeon      Jackson                 Mason       
+ 7/21/1984    EVN   L  5-7      Soto        Soto                    Rawley      
+ 7/22/1984    EVN   L  5-7  12  Hough       Righetti                Robinson    
+ 7/23/1984    EVN   L  5-6  14  Lollar      Candiotti               Petry       
+ 7/24/1984    TEW   W  3-2  11  Romanick    Davis                   Gross,K     
+ 7/25/1984    TEW   L  1-5      DeLeon      DeLeon                  Leal        
+ 7/26/1984    TEW   W  4-2      Soto        Soto        Candiotti   Witt        
+ 7/27/1984    FER   L  2-8      Hough       Hough                   Sutcliffe   
+ 7/28/1984    FER   W 10-7      Lollar      Lollar                  Andujar     
+ 7/29/1984    FER   L  3-5      Romanick    Walk                    Sutton      
+                      Game Results:  1984 Cincinnati Reds
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 7/30/1984    CTW   L  0-6      DeLeon      DeLeon                  Honeycutt   
+ 7/31/1984    CTW   L  1-3      Soto        Soto                    Smithson    
+ 8/ 1/1984    FER   W  3-2      Hough       Hough       Righetti    Andujar     
+ 8/ 2/1984    A51   L  2-5      Lollar      Lollar                  Clancy      
+ 8/ 3/1984    A51   W  4-0      Fernandez   Fernandez               Tanana      
+ 8/ 4/1984   @A51   L  2-4      Romanick    Romanick                Valenzuela  
+ 8/ 5/1984   @BBG   L  0-10     Soto        Soto                    Alexander   
+ 8/ 6/1984   @BBG   L  1-5      Hough       Hough                   Hershiser   
+ 8/ 7/1984   @BBG   L  1-3      Lollar      Lucas                   Viola       
+ 8/ 8/1984    GCP   L  5-7      Fernandez   Righetti                Darwin      
+ 8/ 9/1984    GCP   W  5-4      Romanick    Romanick    Lucas       Dixon       
+ 8/10/1984    GCP   W  6-3      Soto        Soto        Davis       Beattie     
+ 8/12/1984   @GAR   W  7-0      Hough       Hough                   Stewart     
+ 8/13/1984   @GAR   W  4-0      Lollar      Lollar                  Hurst       
+ 8/14/1984   @GAR   W  6-2      Fernandez   Fernandez   Righetti    Flanagan    
+ 8/15/1984    SUN   W  5-4      Romanick    Romanick    Righetti    Perez       
+ 8/16/1984    SUN   W  2-1      DeLeon      Lucas       Davis       Lea         
+ 8/17/1984    SUN   W  6-2      Soto        Soto                    Tudor       
+ 8/18/1984    EVN   W  7-4      Hough       Hough       Davis       Petry       
+ 8/19/1984    EVN   L  4-7      Lollar      Lollar                  Moore       
+ 8/20/1984   @BMB   W  6-3  10  Romanick    Righetti                Williams    
+ 8/21/1984    BMB   W  8-3      DeLeon      DeLeon      Righetti    Langston    
+ 8/22/1984    BMB   L  3-4      Soto        Soto                    Easterly    
+ 8/23/1984    BMB   L  4-9      Hough       Hough                   Nipper      
+ 8/24/1984   @BBG   L  3-6      Lollar      Lollar                  Garrelts    
+ 8/25/1984   @BBG   L  1-4      Romanick    Romanick                Hershiser   
+ 8/26/1984   @BBG   L  0-4      DeLeon      DeLeon                  Viola       
+ 8/27/1984   @BMB   W  5-1      Soto        Soto                    Valenzuela  
+ 8/28/1984   @GCP   W  3-2      Hough       Davis       Righetti    Young       
+ 8/29/1984   @GCP   L  3-5      Lollar      Righetti                Darwin      
+ 8/30/1984    FER   L  4-7  11  Romanick    Jackson                 Andujar     
+ 8/31/1984   @A51   W 11-2      DeLeon      DeLeon      Davis       Niekro      
+ 9/ 1/1984   @A51   W  8-7      Soto        Soto        Jackson     Bannister   
+ 9/ 2/1984   @A51   W 11-1      Hough       Hough                   Russell     
+ 9/ 3/1984    GPC   L  5-11     Romanick    Romanick                Mason       
+ 9/ 4/1984    GPC   L  2-4      DeLeon      DeLeon                  Black       
+ 9/ 6/1984    BAR   W  4-2      Soto        Soto                    Blyleven    
+ 9/ 7/1984    BAR   L  1-2      Hough       Hough                   Stieb       
+ 9/ 8/1984    BAR   W  5-4      Romanick    Davis       Righetti    Eckersley   
+ 9/ 9/1984   @CTW   L  3-4      DeLeon      Righetti                Butcher     
+ 9/10/1984   @CTW   W  3-1      Soto        Soto        Righetti    Smithson    
+ 9/11/1984   @CTW   W  6-1      Hough       Hough                   Tibbs       
+ 9/12/1984   @SUN   W  6-4      Davis       Lucas       Jackson     Show        
+ 9/13/1984   @SUN   W  6-3      Romanick    Romanick                Candelaria  
+ 9/14/1984   @BMB   L  2-3      DeLeon      Lucas                   Castillo    
+ 9/15/1984    JJJ   L  2-7      Davis       Righetti                Shirley     
+ 9/16/1984    JJJ   L  4-5      Soto        Soto                    Gullickson  
+ 9/17/1984   @BMB   W  8-5      Hough       Lucas       Righetti    Valenzuela  
+ 9/18/1984   @CEN   L  2-4      Davis       Davis                   Koosman     
+ 9/19/1984   @CEN   W 11-4      DeLeon      DeLeon                  McWilliams  
+ 9/20/1984   @CEN   L  1-3      Soto        Soto                    Niekro      
+ 9/21/1984   @SUN   L  6-11     Davis       DeLeon                  Lea         
+                      Game Results:  1984 Cincinnati Reds
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 9/22/1984   @SUN   L  4-12     Hough       Hough                   Tudor       
+ 9/23/1984   @SUN   L  2-10     DeLeon      Righetti                Show        
+ 9/24/1984   @GPC   L  2-4      Soto        Soto                    Mason       
+ 9/25/1984   @GPC   L  2-7      DeLeon      DeLeon                  Black       
+ 9/26/1984   @GPC   L  3-4      Davis       Davis                   Rhoden      
+ 9/27/1984   @A51   W  6-0      Davis       Davis       DeLeon      Smith       
+                        Injury Log: 1984 Cincinnati Reds
+                                        
+ 
+-- Date -- #  Player      Cause                 Length
+ 
+ 4/ 7/1984    Walk        Rain delay               0
+ 4/13/1984    Concepcion  General                  5
+ 5/ 8/1984    Marshall    General                  1
+ 5/24/1984    Parrish     General                  1
+ 6/ 3/1984    Schatzeder  General                  0
+ 6/14/1984    Davis,A     General                  1
+ 6/26/1984    Foster      Hit by pitch            16
+ 6/27/1984    Gross       General                  0
+ 7/ 9/1984    Maddox      General                  2
+ 7/10/1984    Davis       Rain delay               0
+ 7/21/1984    Fernandez   General                 23
+ 7/22/1984    Doran       General                  0
+ 7/23/1984    Parrish     General                  0
+ 7/29/1984    Romanick    General                  5
+ 7/29/1984    Davis       General                  1
+ 7/30/1984    DeLeon      General                 10
+ 7/31/1984    Concepcion  General                  3
+ 8/27/1984    Jackson     General                  0
+ 9/15/1984    Fernandez   General                  1
+ 9/19/1984    Righetti    General                  2
+ 9/20/1984    Driessen    General                  0
+               DMB League Transaction Log:  1984 Cincinnati Reds
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+ 4/ 7/1984  CIN    Farm         Bob Walk            
+ 4/ 7/1984  CIN    Promote      Roger Mason         
+ 4/ 8/1984  CIN    TradeAway    Bob James             to EVN
+ 4/ 8/1984  CIN    Acquire      Dan Schatzeder        from EVN
+ 4/ 8/1984  CIN    Acquire      Stew Cliburn          from EVN
+ 4/ 8/1984  CIN    Farm         Dan Schatzeder      
+ 4/ 8/1984  CIN    Farm         Roger Mason         
+ 4/ 8/1984  CIN    Promote      Mike Smithson       
+ 4/ 8/1984  CIN    Promote      Cecilio Guante      
+ 4/13/1984  CIN    Farm         Tom Browning        
+ 4/13/1984  CIN    Promote      Storm Davis         
+ 4/30/1984  CIN    Promote      Rick Burleson       
+ 4/30/1984  CIN    Farm         Tom Candiotti       
+ 5/ 4/1984  CIN    Farm         Rick Burleson       
+ 5/ 4/1984  CIN    Promote      Jose DeLeon         
+ 5/24/1984  CIN    Farm         Milt Thompson       
+ 5/24/1984  CIN    Promote      Dan Driessen        
+ 5/29/1984  CIN    Farm         Sid Fernandez       
+ 5/29/1984  CIN    Promote      Dan Schatzeder      
+ 5/30/1984  CIN    Farm         Cecilio Guante      
+ 5/30/1984  CIN    Promote      Roger Mason         
+ 6/16/1984  CIN    Promote      Stew Cliburn        
+ 6/16/1984  CIN    Farm         Roger Mason         
+ 6/18/1984  CIN    Farm         Stew Cliburn        
+ 6/18/1984  CIN    Promote      Cecilio Guante      
+ 6/26/1984  CIN    DL           George Foster         effective  6/27/1984  
+ 6/26/1984  CIN    Promote      Carmelo Castillo    
+ 7/ 6/1984  CIN    Promote      Garry Maddox        
+ 7/ 6/1984  CIN    Farm         Dan Driessen        
+ 7/10/1984  CIN    Farm         Cecilio Guante      
+ 7/12/1984  CIN    Activate     George Foster       
+ 7/12/1984  CIN    Promote      Roger Mason         
+ 7/12/1984  CIN    Farm         Carmelo Castillo    
+ 7/18/1984  CIN    Farm         Roger Mason         
+ 7/18/1984  CIN    Promote      Tim Lollar          
+ 7/20/1984  CIN    TradeAway    Bill Caudill          to CTW
+ 7/20/1984  CIN    TradeAway    Mike Davis            to CTW
+ 7/20/1984  CIN    TradeAway    Storm Davis           to CTW
+ 7/20/1984  CIN    TradeAway    Dan Schatzeder        to CTW
+ 7/20/1984  CIN    TradeAway    Mike Smithson         to CTW
+ 7/20/1984  CIN    Acquire      Charlie Hough         from CTW
+ 7/20/1984  CIN    Acquire      Mike Pagliarulo       from CTW
+ 7/20/1984  CIN    TradeAway    Pat Tabler            to BAR
+ 7/20/1984  CIN    Acquire      Ron Romanick          from BAR
+ 7/20/1984  CIN    Promote      Ron Romanick        
+ 7/20/1984  CIN    Promote      Bob Walk            
+ 7/20/1984  CIN    Promote      Tom Candiotti       
+ 7/20/1984  CIN    Promote      Carmelo Castillo    
+ 7/21/1984  CIN    DL           Tony Fernandez        effective  7/22/1984  
+ 7/21/1984  CIN    Promote      Gerald Perry        
+ 7/21/1984  CIN    Acquire      Tom Foley             from EVN
+ 7/21/1984  CIN    Acquire      Ron Davis             from EVN
+               DMB League Transaction Log:  1984 Cincinnati Reds
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+ 7/21/1984  CIN    TradeAway    Wally Backman         to EVN
+ 7/21/1984  CIN    Promote      Tom Foley           
+ 7/21/1984  CIN    Promote      Ron Davis           
+ 7/21/1984  CIN    Farm         Gerald Perry        
+ 7/21/1984  CIN    Farm         Bob Walk            
+ 7/21/1984  CIN    Promote      Gerald Perry        
+ 7/27/1984  CIN    Farm         Tom Candiotti       
+ 7/27/1984  CIN    Promote      Bob Walk            
+ 7/29/1984  CIN    Farm         Bob Walk            
+ 7/29/1984  CIN    Promote      Mike LaValliere     
+ 7/31/1984  CIN    DL           Jose DeLeon         
+ 7/31/1984  CIN    Promote      Sid Fernandez       
+ 8/ 6/1984  CIN    TradeAway    Joe Nolan             to BMB
+ 8/ 6/1984  CIN    TradeAway    George Foster         to BMB
+ 8/ 6/1984  CIN    Promote      Milt Thompson       
+ 8/13/1984  CIN    Activate     Tony Fernandez      
+ 8/13/1984  CIN    Farm         Tom Foley           
+ 8/15/1984  CIN    Farm         Sid Fernandez       
+ 8/15/1984  CIN    Activate     Jose DeLeon         
+ 8/19/1984  CIN    Farm         Milt Thompson       
+ 8/20/1984  CIN    Promote      Rick Burleson       
+ 8/31/1984  CIN    Promote      Tom Foley           
+ 8/31/1984  CIN    Promote      Dan Driessen        
+ 8/31/1984  CIN    Promote      Tom Browning        
+ 8/31/1984  CIN    Promote      Sid Fernandez       
+ 9/ 3/1984  CIN    Farm         Tom Browning        
+ 9/ 9/1984  CIN    Farm         Rick Burleson       
+ 9/12/1984  CIN    Farm         Eddie Milner        
+ 9/12/1984  CIN    Farm         Danny Jackson       
+ 9/17/1984  CIN    Farm         Gary Lucas          
+ 9/22/1984  CIN    Farm         Sid Fernandez       
+ 9/23/1984  CIN    Farm         Dave Righetti       
+ 9/26/1984  CIN    Farm         Mike LaValliere     
+
+
+ 
+							
+							

@@ -1,0 +1,617 @@
+The Combat Rock League
+
+World Series Box Scores
+
+Series 1 1/10/1983 -- Game 1 of 1,  Dodger Stadium                
+ 
+                     1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+82 Slayers           4  0  0  0  0  0  0  0  1     5  8  0    10  1
+82 Beavis            0  1  1  0  0  0  0  0  0     2  7  4     6  0
+ 
+Slayers        AB  R  H BI   AVG       Beavis         AB  R  H BI   AVG
+Evans, Da   ss  5  1  0  0  .000       Morgan      2b  4  0  0  0  .000       
+Tenace      c   4  1  1  0  .250       Lezcano     rf  2  1  1  0  .500       
+Monday      1b  5  1  3  3  .600       Carter      c   4  0  1  1  .250       
+Roenicke    rf  3  0  0  0  .000       Kennedy     1b  4  1  1  0  .250       
+Brett       3b  5  1  2  0  .400       Paciorek    lf  4  0  1  0  .250       
+Dwyer       lf  4  1  0  0  .000       Guerrero    cf  4  0  0  0  .000       
+Lynn        cf  3  0  0  0  .000       Washington  ss  4  0  2  1  .500       
+Whitaker    2b  3  0  2  2  .667       Royster     3b  3  0  0  0  .000       
+Candelaria  p   3  0  0  0  .000        Thon       ph  1  0  0  0  .000       
+ Aguayo     ph  1  0  0  0  .000       Rogers      p   2  0  0  0  .000       
+ Romo       p   0  0  0  0  .000        Thompson   ph  1  0  1  0 1.000       
+ Reed,R     p   0  0  0  0  .000        Vande Berg p   0  0  0  0  .000       
+               36  5  8  5                            33  2  7  2             
+ 
+Slayers              INN  H  R ER BB  K PCH STR   ERA
+Candelaria W  1-0    7.0  7  2  2  1  5  94  66  2.57
+Romo                 1.0  0  0  0  1  0  14   7  0.00
+Reed,R     S  1      1.0  0  0  0  0  1  14   9  0.00
+                     9.0  7  2  2  2  6 122  82 
+ 
+Beavis               INN  H  R ER BB  K PCH STR   ERA
+Rogers     L  0-1    7.0  6  4  1  3  6 126  75  1.29
+Vande Berg           2.0  2  1  1  1  1  32  19  4.50
+                     9.0  8  5  2  4  7 158  94 
+ 
+SUN: Aguayo batted for Candelaria in the 8th
+BMB: Thompson batted for Rogers in the 7th
+     Thon batted for Royster in the 9th
+ 
+E-Morgan 2, Guerrero 2. 2B-Monday, Brett, Lezcano, Carter, Kennedy. 
+HR-Monday(1). K-Tenace 2, Roenicke, Dwyer 2, Candelaria, Aguayo, Kennedy, 
+Paciorek, Guerrero, Washington, Royster, Rogers. BB-Tenace, Roenicke, Dwyer, 
+Lynn, Lezcano 2. SH-Roenicke, Whitaker. 
+GWRBI: Monday    
+Temperature: 58, Sky: clear, Wind: out to right at 2 MPH.
+.Series 1 1/10/1983 -- Game 1 of 1,  Dodger Stadium                
+ 
+                     1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+82 Slayers           4  0  0  0  0  0  0  0  1     5  8  0    10  1
+82 Beavis            0  1  1  0  0  0  0  0  0     2  7  4     6  0
+ 
+ 
+Slayers          1            10           19           28           37        
+Evans, Da   ss 1>e4.B-1     2>9            e4/th.B-1    5/fl         7         
+Tenace      c    k            k            W.1-2        3/g        9>S+e8.B-2  
+Monday      1b   HR.1-H       7            6          7>S            D.2-H     
+Roenicke    rf   W          3>k          5>7            14/SH.1-2    43.2-3    
+Brett       3b   D.1-3        e8.B-2       S            3/fl         52.3XH    
+Dwyer       lf   W            k            4/L          k            9         
+Lynn        cf   note 1       53           7          8>Vande Berg             
+                                                        W                      
+Whitaker    2b   note 2     4>7          6>S            54/SH.1-2              
+Candelaria  p    64/f         53           k                                   
+ Aguayo     ph                                          k                      
+ Romo       p                                                                  
+ Reed,R     p                                                                  
+ 
+ 1: 12/f.2-3;1-2  2: S.3-H;2-H;1-3 
+ 
+ 
+Beavis           1            10           19           28           37        
+Morgan      2b 1>63           63           9            63/gdp                 
+Lezcano     rf   163          D            W          8>Romo                   
+                                                        W                      
+Carter      c    7            D.2-H        8            9                      
+Kennedy     1b 2>D            k          6>4/L          36/f                   
+Paciorek    lf   k          4>13           S            54/f                   
+Guerrero    cf   8            k            3/g.1-2    9>Reed,R                 
+                                                        8                      
+Washington  ss   S.2-H        S            43           k                      
+Royster     3b   k            53         7>7                                   
+ Thon       ph                                          3/g                    
+Rogers      p  3>9          5>k                                                
+ Thompson   ph                             S                                   
+ Vande Berg p                                                                  
+ 
+ 
+Slayers       IN OUT ER               Beavis        IN OUT ER               
+Candelaria     1  28  2  W  1-0       Rogers         1  33  1  L  0-1       
+Romo          29  32  0               Vande Berg    34  42  1               
+Reed,R        33  35  0  S  1                                               
+.
+
+Series 2 1/11/1983 -- Game 1 of 1,  Dodger Stadium                
+ 
+                     1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+82 Slayers           0  0  3  6  2  0  0  1  1    13 16  1     8  1
+82 Beavis            0  0  0  2  0  0  0  0  0     2  7  1     5  0
+ 
+Slayers        AB  R  H BI   AVG       Beavis         AB  R  H BI   AVG
+Evans, Da   ss  5  2  1  0  .100       Morgan      2b  4  0  1  0  .125       
+Tenace      c   6  3  3  5  .400       Jones       cf  4  0  1  0  .250       
+Monday      1b  3  2  0  0  .375       Guerrero    3b  4  0  2  0  .250       
+ Show       p   0  0  0  0  .000       Lezcano     rf  4  0  0  0  .167       
+Roenicke    rf  4  1  2  1  .286       Kennedy     1b  4  1  1  0  .250       
+Brett       3b  4  0  1  2  .333       Carter      c   3  1  1  0  .286       
+Dwyer       lf  5  1  2  2  .222       Paciorek    lf  4  0  1  2  .250       
+Lynn        cf  5  0  2  2  .250       Thon        ss  3  0  0  0  .000       
+Whitaker    2b  5  2  2  1  .500       Clancy      p   1  0  0  0  .000       
+Lea         p   4  2  2  0  .500        Campbell   p   0  0  0  0  .000       
+ Zisk       ph  1  0  1  0 1.000        Thompson   ph  1  0  0  0  .500       
+ Wathan     1b  0  0  0  0  .000        Bannister  p   0  0  0  0  .000       
+               42 13 16 13              Leonard    ph  1  0  0  0  .000       
+                                        Leal       p   0  0  0  0  .000       
+                                                      33  2  7  2             
+ 
+Slayers              INN  H  R ER BB  K PCH STR   ERA
+Lea        W  1-0    8.0  7  2  2  0  5 117  72  2.25
+Show                 1.0  0  0  0  0  1  10   7  0.00
+                     9.0  7  2  2  0  6 127  79 
+ 
+Beavis               INN  H  R ER BB  K PCH STR   ERA
+Clancy     L  0-1    3.1  6  6  6  4  1  73  33 16.20
+Campbell             1.2  5  5  5  1  1  40  21 27.00
+Bannister            2.0  0  0  0  0  2  16  14  0.00
+Leal                 2.0  5  2  2  0  0  26  15  9.00
+                     9.0 16 13 13  5  4 155  83 
+ 
+SUN: Zisk batted for Lea in the 9th
+     Wathan inserted at 1b in the 9th
+BMB: Thompson batted for Campbell in the 5th
+     Leonard batted for Bannister in the 7th
+ 
+E-Evans, Da, Paciorek. 2B-Evans, Da, Lynn, Lea, Jones, Guerrero, Paciorek. 
+3B-Lynn. HR-Tenace 2(2), Whitaker(1). K-Evans, Da, Tenace, Lynn, Lea, 
+Jones 2, Kennedy, Carter, Paciorek, Clancy. BB-Evans, Da, Monday 3, Roenicke. 
+SF-Brett. HBP-Carter. HB-Show. WP-Lea. 
+GWRBI: Roenicke  
+Rick Monday was injured for this game and 6 more
+Temperature: 51, Sky: clear, Wind: right to left at 2 MPH.
+.Series 2 1/11/1983 -- Game 1 of 1,  Dodger Stadium                
+ 
+                     1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+82 Slayers           0  0  3  6  2  0  0  1  1    13 16  1     8  1
+82 Beavis            0  0  0  2  0  0  0  0  0     2  7  1     5  0
+ 
+ 
+Slayers          1            10           19           28           37        
+Evans, Da   ss 1>3/g          W            D.1-3        k            8         
+Tenace      c    k            9            HR.3-H;2-H   HR.2-H     8>Leal      
+                                                                     S         
+Monday      1b   W            W.2-3;1-2    Campbell     13           8         
+                                           W                                   
+ Show       p                                                                  
+Roenicke    rf   5/fl         note 1       S.1-2        63           S.1-2     
+Brett       3b 2>3/g          note 2       8          6>Bannister    S.2-H;1-3 
+                                                        5/fl                   
+Dwyer       lf   4            S.3-H;1-2    S.2-H;1-3    43           6         
+Lynn        cf   D            43           T.3-H;1-H    k            43        
+Whitaker    2b   63         4>S            8          7>9          9>HR        
+Lea         p  3>S+e7.B-2     1/b        5>D            k                      
+ Zisk       ph                                                       S         
+ Wathan     1b                                                                 
+ 
+ 1: W.3-H;2-3;1-2  2: 8/SF.3-H;2-3 
+ 
+ 
+Beavis           1            10           19           28           37        
+Morgan      2b 1>9            S            8          8>9                      
+Jones       cf   k            k            D            63                     
+Guerrero    3b   D          4>S            wp.2-3       31                     
+                                           4                                   
+Lezcano     rf   7            43/gdp     6>43         9>Show                   
+                                                        8                      
+Kennedy     1b 2>6            S            k            8                      
+Carter      c    8            S.1-2        k            HP                     
+Paciorek    lf   9            note 1     7>13           k                      
+Thon        ss 3>8            53           63                                  
+Clancy      p    k                                                             
+ Campbell   p                                                                  
+ Thompson   ph              5>7                                                
+ Bannister  p                                                                  
+ Leonard    ph                             4/L                                 
+ Leal       p                                                                  
+ 
+ 1: D.2-H;1-H;B-3(e6/th) 
+ 
+ 
+.Slayers          46           55           64           73           82        
+Evans, Da   ss   5                                                             
+Tenace      c    8                                                             
+                                                                               
+Monday      1b   43                                                            
+                                                                               
+ Show       p                                                                  
+Roenicke    rf                                                                 
+Brett       3b                                                                 
+                                                                               
+Dwyer       lf                                                                 
+Lynn        cf                                                                 
+Whitaker    2b                                                                 
+Lea         p                                                                  
+ Zisk       ph                                                                 
+ Wathan     1b                                                                 
+ 
+ 
+Beavis           46           55           64           73           82        
+Morgan      2b                                                                 
+Jones       cf                                                                 
+Guerrero    3b                                                                 
+                                                                               
+Lezcano     rf                                                                 
+                                                                               
+Kennedy     1b                                                                 
+Carter      c                                                                  
+Paciorek    lf                                                                 
+Thon        ss                                                                 
+Clancy      p                                                                  
+ Campbell   p                                                                  
+ Thompson   ph                                                                 
+ Bannister  p                                                                  
+ Leonard    ph                                                                 
+ Leal       p                                                                  
+ 
+ 
+Slayers       IN OUT ER               Beavis        IN OUT ER               
+Lea            1  30  2  W  1-0       Clancy         1  20  6  L  0-1       
+Show          31  34  0               Campbell      21  31  5               
+                                      Bannister     32  37  0               
+                                      Leal          38  48  2               
+.
+
+Series 3 1/13/1983 -- Game 1 of 1,  County Stadium                
+ 
+                     1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+82 Beavis            0  0  3  0  0  1  3  0  0     7  9  0     2  0
+82 Slayers           0  0  0  0  0  0  0  0  0     0  1  0     4  0
+ 
+Beavis         AB  R  H BI   AVG       Slayers        AB  R  H BI   AVG
+Morgan      2b  4  1  1  0  .167       Evans, Da   ss  2  0  0  0  .083       
+Lezcano     rf  4  1  1  3  .200       Tenace      c   3  0  0  0  .308       
+Carter      c   4  2  2  2  .364       Roenicke    rf  4  0  0  0  .182       
+Kennedy     1b  4  0  1  2  .250       Brett       3b  4  0  0  0  .231       
+Paciorek    lf  3  0  0  0  .182       Zisk        1b  2  0  0  0  .333       
+Guerrero    cf  4  0  0  0  .167        Wockenfuss ph  1  0  0  0  .000       
+Washington  ss  4  1  1  0  .375       Dwyer       lf  3  0  0  0  .167       
+Royster     3b  4  1  3  0  .429       Lynn        cf  3  0  1  0  .273       
+Stoddard    p   3  1  0  0  .000       Whitaker    2b  3  0  0  0  .364       
+ Thon       ph  1  0  0  0  .000       Tudor       p   2  0  0  0  .000       
+ Stanton    p   0  0  0  0  .000        Show       p   0  0  0  0  .000       
+               35  7  9  7              Aguayo     ph  1  0  0  0  .000       
+                                        Moffitt    p   0  0  0  0  .000       
+                                                      28  0  1  0             
+ 
+Beavis               INN  H  R ER BB  K PCH STR   ERA
+Stoddard   W  1-0    8.0  1  0  0  2  5 118  71  0.00
+Stanton              1.0  0  0  0  0  1  10   7  0.00
+                     9.0  1  0  0  2  6 128  78 
+ 
+Slayers              INN  H  R ER BB  K PCH STR   ERA
+Tudor      L  0-1    6.2  9  7  7  0  5  95  64  9.45
+Show                 1.1  0  0  0  0  1  19  12  0.00
+Moffitt              1.0  0  0  0  0  0   7   5  0.00
+                     9.0  9  7  7  0  6 121  81 
+ 
+BMB: Thon batted for Stoddard in the 9th
+SUN: Wockenfuss batted for Zisk in the 7th
+     Wockenfuss moved to 1b in the 8th
+     Aguayo batted for Show in the 8th
+ 
+2B-Carter. HR-Lezcano(1), Carter(1). K-Morgan, Lezcano, Kennedy, Guerrero 3, 
+Roenicke, Brett, Zisk, Dwyer, Lynn, Tudor. BB-Evans, Da 2. HBP-Paciorek, 
+Tenace. HB-Stoddard, Tudor. 
+GWRBI: Carter    
+Temperature: 40, Field: wet, Sky: clear, Wind: left to right at 13 MPH.
+.Series 3 1/13/1983 -- Game 1 of 1,  County Stadium                
+ 
+                     1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+82 Beavis            0  0  3  0  0  1  3  0  0     7  9  0     2  0
+82 Slayers           0  0  0  0  0  0  0  0  0     0  1  0     4  0
+ 
+ 
+Beavis           1            10           19           28           37        
+Morgan      2b 1>7            S.1-2        31           k                      
+Lezcano     rf   k            8            3/fl         HR.2-H;1-H             
+Carter      c    63           D.2-H;1-3  6>HR           Show                   
+                                                        3/fl                   
+Kennedy     1b 2>k            note 1       43         8>2/fl                   
+Paciorek    lf   HP           8            7            43                     
+Guerrero    cf   k          4>k            9            k                      
+Washington  ss   43           3/g        7>S          9>Moffitt                
+                                                        8                      
+Royster     3b 3>S            S            S.1-2        8                      
+Stoddard    p    36/f         PO1(13)      9                                   
+                            5>4                                                
+ Thon       ph                                          43                     
+ Stanton    p                                                                  
+ 
+ 1: S.3-H;2-H;B-2 
+ 
+ 
+Slayers          1            10           19           28           37        
+Evans, Da   ss 1>W            W          6>63           9                      
+Tenace      c    4/L          8            HP         9>Stanton                
+                                                        6                      
+Roenicke    rf   8            7            8            k                      
+Brett       3b   7          4>5/fl         k            63                     
+Zisk        1b 2>63           k                                                
+ Wockenfuss ph                           7>7                                   
+Dwyer       lf   8            53           k                                   
+Lynn        cf   S          5>k            3/g                                 
+Whitaker    2b   7            7          8>23                                  
+Tudor       p  3>6            k                                                
+ Show       p                                                                  
+ Aguayo     ph                             8                                   
+ Moffitt    p                                                                  
+ 
+ 
+Beavis        IN OUT ER               Slayers       IN OUT ER               
+Stoddard       1  28  0  W  1-0       Tudor          1  29  7  L  0-1       
+Stanton       29  31  0               Show          30  33  0               
+                                      Moffitt       34  36  0               
+.
+
+Series 4 1/14/1983 -- Game 1 of 1,  County Stadium                
+ 
+                     1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+82 Beavis            5  0  0  0  1  0  0  0  2     8 11  0     5  0
+82 Slayers           0  0  0  0  0  0  0  0  0     0  2  3     4  0
+ 
+Beavis         AB  R  H BI   AVG       Slayers        AB  R  H BI   AVG
+Morgan      2b  5  1  1  0  .176       Evans, Da   ss  2  0  1  0  .143       
+Jones       cf  3  1  2  2  .429       Roenicke    rf  4  0  0  0  .133       
+Guerrero    3b  4  2  1  1  .188       Brett       3b  4  0  1  0  .235       
+Lezcano     rf  5  1  1  0  .200       Lynn        cf  4  0  0  0  .200       
+Kennedy     1b  4  0  2  1  .313       Zisk        1b  3  0  0  0  .167       
+Carter      c   4  1  1  1  .333       Dwyer       lf  3  0  0  0  .133       
+Paciorek    lf  4  1  1  0  .200       Whitt       c   3  0  0  0  .000       
+Thon        ss  4  0  1  2  .111       Whitaker    2b  3  0  0  0  .286       
+Rogers      p   4  1  1  0  .167       Anderson    p   0  0  0  0  .000       
+               37  8 11  7              Show       p   1  0  0  0  .000       
+                                        Moffitt    p   0  0  0  0  .000       
+                                        Wockenfuss ph  1  0  0  0  .000       
+                                        Romo       p   0  0  0  0  .000       
+                                        Brunansky  ph  1  0  0  0  .000       
+                                        Proly      p   0  0  0  0  .000       
+                                                      29  0  2  0             
+ 
+Beavis               INN  H  R ER BB  K PCH STR   ERA
+Rogers     W  1-1    9.0  2  0  0  2  5 111  67  0.56
+                     9.0  2  0  0  2  5 111  67 
+ 
+Slayers              INN  H  R ER BB  K PCH STR   ERA
+Anderson   L  0-1    1.1  5  5  1  2  1  43  25  6.75
+Show                 3.1  3  1  1  1  2  53  37  1.59
+Moffitt              1.1  0  0  0  0  0  17  11  0.00
+Romo                 2.0  0  0  0  0  3  37  22  0.00
+Proly                1.0  3  2  2  0  0  28  17 18.00
+                     9.0 11  8  4  3  6 178 112 
+ 
+SUN: Wockenfuss batted for Moffitt in the 6th
+     Brunansky batted for Romo in the 8th
+ 
+E-Evans, Da, Brett, Whitt. 2B-Morgan, Guerrero, Kennedy, Thon. 3B-Brett. 
+SB-Guerrero(1). CS-Jones 2. K-Morgan, Jones, Lezcano 2, Rogers 2, Roenicke 2, 
+Zisk, Whitaker, Show. BB-Jones 2, Guerrero, Evans, Da 2. 
+GWRBI: Guerrero  
+Temperature: 34, Field: wet, Sky: clear, Wind: out to center at 11 MPH.
+.Series 4 1/14/1983 -- Game 1 of 1,  County Stadium                
+ 
+                     1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+82 Beavis            5  0  0  0  1  0  0  0  2     8 11  0     5  0
+82 Slayers           0  0  0  0  0  0  0  0  0     0  2  3     4  0
+ 
+ 
+Beavis           1            10           19           28           37        
+Morgan      2b 1>2/fl       2>7            53         7>Romo         D.1-3     
+                                                        k                      
+Jones       cf   W            W          5>S            k            S.3-H;2-H 
+Guerrero    3b   D.1-H        Show         CS2(24)      3/fl         63.1-2    
+                              CS2(24)      W                                   
+                              63                                               
+Lezcano     rf   note 1     3>9            SB2        8>k            8         
+                                           k                                   
+Kennedy     1b   13           D            S.2-H        9                      
+Carter      c    S.2-H        9.2-3        Moffitt      e5/th.B-1              
+                                           54/f                                
+Paciorek    lf   S.1-2        4          6>9            64/f                   
+Thon        ss   note 2     4>43           13         9>Proly                  
+                                                        7                      
+Rogers      p    k            k            8            S                      
+ 
+ 1: S.2-H(8e2);B-2  2: D.2-H;1-H;B-3(e6/th) 
+ 
+ 
+Slayers          1            10           19           28           37        
+Evans, Da   ss 1>W            W            S          9>7                      
+Roenicke    rf   k            k            7            8                      
+Brett       3b   3/g.1-2    4>8            7            T                      
+Lynn        cf   63           53         7>43           43                     
+Zisk        1b 2>k            43           43                                  
+Dwyer       lf   5/fl       5>6            43                                  
+Whitt       c    43           7          8>4                                   
+Whitaker    2b 3>43           63           k                                   
+Anderson    p                                                                  
+ Show       p    k                                                             
+ Moffitt    p                                                                  
+ Wockenfuss ph              6>63                                               
+ Romo       p                                                                  
+ Brunansky  ph                             63                                  
+ Proly      p                                                                  
+ 
+ 
+Beavis        IN OUT ER               Slayers       IN OUT ER               
+Rogers         1  31  0  W  1-1       Anderson       1  11  1  L  0-1       
+                                      Show          12  23  1               
+                                      Moffitt       24  27  0               
+                                      Romo          28  34  0               
+                                      Proly         35  40  2               
+.
+
+Series 5 1/15/1983 -- Game 1 of 1,  County Stadium                
+ 
+                     1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+82 Beavis            0  0  0  0  0  0  0  0  0     0  7  0     9  0
+82 Slayers           0  0  1  0  2  0  1  1  x     5 10  1     8  1
+ 
+Beavis         AB  R  H BI   AVG       Slayers        AB  R  H BI   AVG
+Morgan      2b  4  0  1  0  .190       Cedeno      cf  5  1  3  2  .600       
+Jones       cf  3  0  0  0  .300       Roenicke    lf  4  0  0  0  .105       
+Guerrero    3b  4  0  0  0  .150       Brunansky   rf  4  1  2  2  .400       
+Lezcano     rf  3  0  1  0  .222       Evans, Da   ss  4  0  0  0  .111       
+Kennedy     1b  4  0  0  0  .250       Wathan      c   4  0  0  0  .000       
+Carter      c   4  0  2  0  .368       Brett       3b  4  1  2  0  .286       
+Paciorek    lf  4  0  1  0  .211       Wockenfuss  1b  2  1  1  0  .250       
+Thon        ss  4  0  2  0  .231       Whitaker    2b  2  1  1  1  .313       
+Bannister   p   2  0  0  0  .000       Whitson     p   3  0  1  0  .333       
+ Thompson   ph  1  0  0  0  .333                      32  5 10  5             
+ Leal       p   0  0  0  0  .000                                              
+ Campbell   p   0  0  0  0  .000                                              
+ Leonard    ph  1  0  0  0  .000                                              
+               34  0  7  0                                                    
+ 
+Beavis               INN  H  R ER BB  K PCH STR   ERA
+Bannister  L  0-1    7.0  6  4  4  4  5 118  74  4.00
+Leal                 0.2  4  1  1  0  0  15  11 10.13
+Campbell             0.1  0  0  0  0  0   7   4 22.50
+                     8.0 10  5  5  4  5 140  89 
+ 
+Slayers              INN  H  R ER BB  K PCH STR   ERA
+Whitson    W  1-0    9.0  7  0  0  2  7 125  77  0.00
+                     9.0  7  0  0  2  7 125  77 
+ 
+BMB: Thompson batted for Bannister in the 8th
+     Leonard batted for Campbell in the 9th
+ 
+E-Evans, Da. HR-Brunansky(1). SB-Thon(1). K-Guerrero, Lezcano, Kennedy, 
+Paciorek, Thon, Bannister, Leonard, Roenicke 2, Evans, Da, Brett, Whitson. 
+BB-Jones, Lezcano, Wockenfuss 2, Whitaker 2. SH-Whitson. 
+GWRBI: Cedeno    
+Temperature: 33, Sky: clear, Wind: left to right at 5 MPH.
+.Series 5 1/15/1983 -- Game 1 of 1,  County Stadium                
+ 
+                     1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+82 Beavis            0  0  0  0  0  0  0  0  0     0  7  0     9  0
+82 Slayers           0  0  1  0  2  0  1  1  x     5 10  1     8  1
+ 
+ 
+Beavis           1            10           19           28           37        
+Morgan      2b 1>43           SB2          643/gdp      S                      
+                              7                                                
+Jones       cf   4/L        4>W          6>4            46/f                   
+Guerrero    3b   4/L          4            k            54/f                   
+Lezcano     rf 2>k            W.1-2        7          9>S                      
+Kennedy     1b   k            64/f.2-3   7>4/L          9                      
+Carter      c    9            5/fl         S            S.1-2                  
+Paciorek    lf 3>8          5>e6/th.B-1    k            S.2-3;1-2              
+Thon        ss   S/B          S.1-2        7            k                      
+Bannister   p    k            36/f.2-3                                         
+ Thompson   ph                           8>3                                   
+ Leal       p                                                                  
+ Campbell   p                                                                  
+ Leonard    ph                                          k                      
+ 
+ 
+Slayers          1            10           19           28           37        
+Cedeno      cf 1>9            S.2-H;1-3    S            S.2-H        Campbell  
+                                                                     63        
+Roenicke    lf   4            k            9            k                      
+Brunansky   rf   7            8            HR.1-H       S.1-2                  
+Evans, Da   ss 2>43         4>2/fl         k            8                      
+Wathan      c    9            63         6>63         8>Leal                   
+                                                        8                      
+Brett       3b   k            S            53           S                      
+Wockenfuss  1b 3>W            W.1-2        7            S.1-2                  
+Whitaker    2b   W.1-2        9          7>W            S.2-H;1-2              
+Whitson     p    k          5>31           14/SH.1-2    note 1                 
+ 
+ 1: S.2XH(92);1-3 
+ 
+ 
+Beavis        IN OUT ER               Slayers       IN OUT ER               
+Bannister      1  31  4  L  0-1       Whitson        1  36  0  W  1-0       
+Leal          32  36  1                                                     
+Campbell      37  37  0                                                     
+.
+
+
+Series 6 1/17/1983 -- Game 1 of 1,  Dodger Stadium                
+ 
+                     1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+82 Slayers           0  0  0  1  1  0  3  1  0     6 12  2    11  0
+82 Beavis            0  2  0  0  0  0  2  0  0     4  8  1     9  0
+ 
+Slayers        AB  R  H BI   AVG       Beavis         AB  R  H BI   AVG
+Evans, Da   ss  3  1  2  1  .190       Morgan      2b  5  0  1  1  .192       
+ Aguayo     ss  0  0  0  0  .000       Jones       cf  5  1  2  1  .333       
+Roenicke    rf  4  0  1  1  .130       Guerrero    3b  2  1  1  0  .182       
+Brett       3b  4  1  0  0  .240       Lezcano     rf  4  0  1  2  .227       
+Lynn        cf  5  2  3  0  .300       Kennedy     1b  4  0  0  0  .208       
+Zisk        1b  5  1  3  4  .364       Carter      c   4  1  2  0  .391       
+Dwyer       lf  2  0  1  0  .176       Paciorek    lf  3  1  1  0  .227       
+ Brunansky  lf  2  0  1  0  .429       Thon        ss  3  0  0  0  .188       
+ Moffitt    p   0  0  0  0  .000        Leal       p   0  0  0  0  .000       
+ Cedeno     ph  0  0  0  0  .600        Thompson   ph  1  0  0  0  .250       
+ Reed,R     p   0  0  0  0  .000        Washington ss  0  0  0  0  .375       
+Whitt       c   5  0  1  0  .125       Clancy      p   2  0  0  0  .000       
+Whitaker    2b  5  1  0  0  .238        Royster    ss  1  0  0  0  .375       
+Lea         p   3  0  0  0  .286        Leonard    ph  1  0  0  0  .000       
+ Wockenfuss lf  1  0  0  0  .200        Vande Berg p   0  0  0  0  .000       
+               39  6 12  6                            35  4  8  4             
+ 
+Slayers              INN  H  R ER BB  K PCH STR   ERA
+Lea        W  2-0    6.2  7  4  2  4  1 117  68  2.45
+Moffitt              1.1  1  0  0  0  0  17  11  0.00
+Reed,R     S  2      1.0  0  0  0  1  0  19  11  0.00
+                     9.0  8  4  2  5  1 153  90 
+ 
+Beavis               INN  H  R ER BB  K PCH STR   ERA
+Clancy     L  0-2    6.2 10  5  5  2  5 121  75  9.90
+Leal                 1.1  1  1  0  1  0  21  16  6.75
+Vande Berg           1.0  1  0  0  1  1  19  12  3.00
+                     9.0 12  6  5  4  6 161 103 
+ 
+SUN: Brunansky inserted at lf in the 4th
+     Wockenfuss inserted at lf in the 7th
+     Aguayo inserted at ss in the 8th
+     Cedeno batted for Moffitt in the 9th
+BMB: Royster inserted at ss in the 7th
+     Thompson batted for Leal in the 8th
+     Leonard batted for Royster in the 8th
+     Washington inserted at ss in the 9th
+ 
+E-Lynn, Whitaker, Royster. 2B-Lynn, Brunansky. HR-Evans, Da(1), Zisk(1). 
+K-Evans, Da, Roenicke, Lynn, Whitaker, Lea 2, Paciorek. BB-Evans, Da 2, 
+Brett, Cedeno, Guerrero 3, Lezcano, Paciorek. SF-Roenicke. WP-Lea, Reed,R. 
+GWRBI: Zisk      
+Temperature: 50, Sky: clear, Wind: in from left at 4 MPH.
+.Series 6 1/17/1983 -- Game 1 of 1,  Dodger Stadium                
+ 
+                     1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+82 Slayers           0  0  0  1  1  0  3  1  0     6 12  2    11  0
+82 Beavis            0  2  0  0  0  0  2  0  0     4  8  1     9  0
+ 
+ 
+Slayers          1            10           19           28           37        
+Evans, Da   ss 1>S            W            HR         7>k            W.2-3;1-2 
+ Aguayo     ss                                                                 
+Roenicke    rf   8            k            S            43           note 1    
+Brett       3b   9          4>63           9            W            7         
+Lynn        cf   9            D            S.1-2        S.1-3      9>Vande Berg
+                                                                     k         
+Zisk        1b 2>7            S.2-H        9            HR.3-H;1-H   S         
+Dwyer       lf   8            S.1-2                                            
+ Brunansky  lf                           6>D            Leal                   
+                                                        7                      
+ Moffitt    p                                                                  
+ Cedeno     ph                                                       W.1-2     
+ Reed,R     p                                                                  
+Whitt       c    3/g          8            6          8>S            13.2-3;1-2
+Whitaker    2b 3>k(23)        8            63           16/f         8         
+Lea         p    k          5>63           k                                   
+ Wockenfuss lf                                          e6.1-2;B-1             
+ 
+ 1: 8/SF.3-H;2-3 
+ 
+ 
+Beavis           1            10           19           28           37        
+Morgan      2b 1>7            S.3-H;1-2    6            9          9>Reed,R    
+                                                                     43        
+Jones       cf   43           note 1       63           S.1X3(85)    143       
+Guerrero    3b   S            W          5>9            W.1-2        W         
+Lezcano     rf   W.1-2        3/g          9            wp.2-3;1-2   wp.1-2    
+                                                        note 2       4/L       
+Kennedy     1b   9          3>8            3/L          Moffitt                
+                                                        2/fl                   
+Carter      c  2>S+e8.B-2     8          6>7          8>S                      
+Paciorek    lf   S.2-3        W            k            43.1-2                 
+Thon        ss   5            64/f         7                                   
+ Leal       p                                                                  
+ Thompson   ph                                          3/g.2-3                
+ Washington ss                                                                 
+Clancy      p    4/L        4>8                                                
+ Royster    ss                           7>e4.B-1                              
+ Leonard    ph                                          43                     
+ Vande Berg p                                                                  
+ 
+ 1: S.2-H;1-3;B-2  2: S.3-H;2-H;B-2 
+ 
+ 
+Slayers       IN OUT ER               Beavis        IN OUT ER               
+Lea            1  31  2  W  2-0       Clancy         1  32  5  L  0-2       
+Moffitt       32  36  0               Leal          33  39  0               
+Reed,R        37  40  0  S  2         Vande Berg    40  44  0               
+.
+

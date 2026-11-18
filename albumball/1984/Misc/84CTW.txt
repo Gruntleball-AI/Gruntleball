@@ -1,0 +1,815 @@
+   	 	 	 	 	 	
+					
+> INTERNATIONAL DIVISION > CHINA TRUST WHALES
+
+  » EASTERN DIVISION
+  » WESTERN DIVISION
+    » Directory, Constitution, Record Book, etc.
+	
+
+             DMB League Batting Statistics:  1984 ChinaTrust Whales
+                                        
+ 
+ NAME         AVG   OBP   SPC   G  AB   H 2B 3B HR   R RBI  BB   K HB IW  SB CS
+ 
+ Murphy,Da   .312  .391  .581  66 260  81 21  8 11  53  45  32  51  2  0   2  0 
+cMurphy,Da   .292  .360  .527 157 624 182 40 10 29 104  93  65 144  3  3  11  5 
+ Concepcion  .308  .351  .393  74 107  33  3  0  2  19  13   5  20  2  0  10  1 
+nParrish     .299  .329  .464 125 502 150 35  3 14  52  76  19 100  5  2   1  2 
+ Vukovich    .296  .390  .357 101 115  34  3  2  0  10  12  19  18  0  3   0  0 
+ Murray      .293  .387  .435 161 618 181 26  7 16  89  81  96  99  2 10   4  1 
+ Raines      .286  .370  .389 162 619 177 31  9  5 103  50  86  79  1  2  56 24 
+rRussell     .284  .352  .505  43 109  31  8  2  4  11  19  12  44  0  0   0  0 
+nRice        .278  .319  .459  90 331  92 10  1 16  42  42  19  56  1  1   1  0 
+ Teufel      .278  .356  .455 115 209  58 10  0  9  34  26  25  34  1  3   0  0 
+rSantana     .274  .351  .345  36  84  23  6  0  0   5   8  11  13  0  0   1  0 
+ Downing     .272  .344  .510 152 578 157 36  0 34  92 106  65  83  4  0   1  2 
+ Murphy,Dw   .271  .375  .467 143 443 120 10  1 25  79  91  76  80  1  6   2  1 
+ Randolph    .252  .349  .302 139 497 125 13  3  2  74  33  74  54  2  0   5  2 
+ Schroeder   .251  .276  .456  75 215  54  6  1 12  28  28   5  53  3  0   0  0 
+nPagliarulo  .250  .400 1.000   3   4   1  0  0  1   2   2   1   1  0  0   0  0 
+ Moreland    .236  .289  .323  93 297  70 11  0  5  27  37  22  55  1  3   1  1 
+ Schmidt     .222  .287  .438  36 144  32  3  2  8  19  19  12  40  1  0   0  0 
+cSchmidt     .249  .327  .463 143 547 136 22  7 27  92  82  64 125  2  0   3  2 
+ Matuszek    .219  .359  .594  41  32   7  1  1  3   9   9   7   7  0  1   0  0 
+nDavis,M     .143  .143  .190  11  21   3  1  0  0   0   0   0   4  0  0   0  1 
+ Lowry       .137  .185  .196  22  51   7  0  0  1   3   5   3  16  0  0   0  0 
+ 
+ Schatzeder  .353  .421  .471  14  17   6  2  0  0   2   2   2   3  0  0   0  0 
+cSchatzeder  .343  .395  .400  27  35  12  2  0  0   2   3   3   7  0  0   0  0 
+ Stanley     .222  .263  .222  51  18   4  0  0  0   2   1   1   7  0  0   0  0 
+ Butcher     .216  .241  .255  22  51  11  2  0  0   2   2   2  14  0  0   0  0 
+ Zahn        .211  .253  .225  30  71  15  1  0  0   5   5   3  15  1  0   0  0 
+ Carlton     .171  .189  .171  16  35   6  0  0  0   0   3   1  11  0  0   0  0 
+rTibbs       .158  .158  .184  22  38   6  1  0  0   2   3   0   6  0  0   0  0 
+ Smithson    .148  .179  .185  11  27   4  1  0  0   1   2   0   8  1  0   0  0 
+cSmithson    .159  .172  .175  28  63  10  1  0  0   1   4   0  18  1  0   0  0 
+nBedrosian   .143  .143  .286  42   7   1  1  0  0   0   1   0   1  0  0   0  0 
+ Allen       .143  .143  .143  14   7   1  0  0  0   0   0   0   2  0  0   0  0 
+cAllen       .235  .235  .235  54  17   4  0  0  0   1   0   0   4  0  0   0  0 
+ Camp        .125  .125  .125   5   8   1  0  0  0   0   0   0   4  0  0   0  0 
+nHough       .114  .149  .114  22  44   5  0  0  0   1   2   2  14  0  0   1  0 
+ Davis       .111  .143  .148  10  27   3  1  0  0   1   0   1   9  0  0   0  0 
+cDavis       .105  .133  .123  26  57   6  1  0  0   1   1   1  21  1  0   0  0 
+ Honeycutt   .109  .109  .109  32  55   6  0  0  0   0   1   0  20  0  0   1  2 
+ Caudill     .000  .000  .000  23   4   0  0  0  0   0   0   0   2  0  0   0  0 
+cCaudill     .000  .000  .000  63   9   0  0  0  0   0   0   0   3  0  0   0  0 
+ Dawley      .000  .000  .000  59   6   0  0  0  0   0   0   0   4  0  0   0  0 
+ Waddell     .000  .000  .000  61   4   0  0  0  0   0   0   0   2  0  0   0  0 
+ Stanton     .000  .000  .000  39   3   0  0  0  0   0   0   0   1  0  0   0  0 
+
+ Team Total  .266  .337  .412 162    1505    40    767     601     28     86
+                                 5658    243   168     724    1030    31     37
+             DMB League Batting Statistics:  1984 ChinaTrust Whales
+                                        
+ 
+ NAME         GS  SH  SF  GDP  CI  GW     RC   RC27    ISO   TAVG    TB CHS LHS
+ 
+ Murphy,Da    66   0   0    3   0   3   61.3    9.1   .269  1.027   151   2  15
+cMurphy,Da   157   0   2   11   0   8  118.9    7.0   .236   .891   329   2  15
+ Concepcion   20   1   0    1   0   0   16.4    5.7   .084   .776    42   0   5
+nParrish     123   0   3   24   1  11   67.4    4.8   .165   .683   233   7  11
+ Vukovich     15   0   2    1   0   3   17.7    5.7   .061   .732    41   0   3
+ Murray      161   0   4    5   0  12  112.2    6.8   .142   .837   269   1  14
+ Raines      162   0   8    2   0   6   98.8    5.6   .103   .821   241   3  15
+rRussell      22   0   1    1   0   4   20.2    6.8   .220   .848    55   3   4
+nRice         88   0   0   11   0   4   45.3    4.9   .181   .692   152   2   6
+ Teufel       44   0   1    4   0   4   34.4    6.0   .177   .781    95   3   6
+rSantana      19   0   2    4   0   1   10.3    4.2   .071   .631    29   0   3
+ Downing     150   1  10   20   0  13   99.0    5.9   .239   .824   295   9  11
+ Murphy,Dw   110   0   5   11   0   9   80.7    6.4   .196   .854   207   8   9
+ Randolph    132   5   3   11   0   6   57.1    3.9   .050   .600   150   0   9
+ Schroeder    48   0   2    5   0   5   25.6    4.1   .205   .639    98   0   4
+nPagliarulo    1   0   0    0   0   0    1.7   15.3   .750  1.667     4   1   1
+ Moreland     86   0   2    7   0   2   27.1    3.1   .088   .511    96   0   5
+ Schmidt      36   0   0    4   0   4   17.3    4.0   .215   .655    63   2   3
+cSchmidt     140   0   4   15   0  14   82.1    5.1   .214   .752   253   2  12
+ Matuszek      0   0   0    0   0   1    7.4    8.0   .375  1.040    19   0   3
+nDavis,M       3   0   0    0   0   0    0.4    0.5   .048   .211     4   0   2
+ Lowry        10   0   0    2   0   1    1.6    0.9   .059   .283    10   0   3
+ 
+ Schatzeder    8   1   0    1   0   1    3.2    6.6   .118   .833     8   1   1
+cSchatzeder   16   3   0    1   0   2    5.6    5.6   .057   .708    14   1   2
+ Stanley       0   0   0    2   0   0    0.7    1.1   .000   .313     4   0   2
+ Butcher      22   0   1    0   0   0    3.4    2.2   .039   .375    13   0   2
+ Zahn         30   1   0    1   0   0    4.2    1.9   .014   .351    16   1   5
+ Carlton      16   1   1    0   0   0    1.3    1.2   .000   .241     6   0   3
+rTibbs        14   0   0    3   0   0    0.6    0.4   .026   .200     7   0   2
+ Smithson     11   1   0    0   0   0    1.0    1.1   .037   .261     5   0   2
+cSmithson     28   4   0    0   0   0    2.2    1.0   .016   .226    11   0   2
+nBedrosian     1   0   0    0   0   0    0.3    1.3   .143   .333     2   0   1
+ Allen         2   0   0    2   0   0   -0.1   -0.5   .000   .125     1   0   1
+cAllen         4   0   0    2   0   0    0.5    0.8   .000   .267     4   0   2
+ Camp          3   0   0    0   0   0    0.1    0.5   .000   .143     1   1   1
+nHough        22   1   1    1   0   0    0.9    0.6   .000   .200     5   1   2
+ Davis        10   1   0    4   0   0    0.0    0.0   .037   .179     4   0   2
+cDavis        26   2   1    5   0   0    0.4    0.2   .018   .161     7   0   2
+ Honeycutt    23   5   0    3   0   0    0.2    0.1   .000   .130     6   0   1
+ Caudill       0   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+cCaudill       0   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+ Dawley        0   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+ Waddell       0   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+ Stanton       0   0   0    1   0   0    0.0    0.0   .000   .000     0   0   0
+
+ Team Total  162  18  46  134   1  90  793.0    4.9   .146   .705  2332
+           DMB League Batting Splits:  1984 ChinaTrust Whales-- vsLHP
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Concepcion   .455  .500  .727    11    5    0    0    1    4    1    0   0   0
+ Randolph     .333  .441  .407   177   59    7    3    0   10   34    8   2   0
+rSantana      .328  .412  .397    58   19    4    0    0    5    9    5   0   1
+ Murphy,Da    .310  .400  .550   100   31    8    2    4   18   15   19   0   0
+cMurphy,Da    .292  .390  .585   195   57   14    2   13   36   31   36   0   1
+ Raines       .306  .352  .408   196   60   15    1    1   21   15   25   0   2
+ Teufel       .303  .375  .451   142   43    6    0    5   15   17   15   0   1
+ Lowry        .300  .300  .300    10    3    0    0    0    0    0    5   0   0
+rRussell      .300  .364  .467    30    9    5    0    0    3    3    7   0   0
+ Schroeder    .299  .341  .519    77   23    5    0    4   11    5   16   0   0
+nParrish      .291  .330  .453   172   50   10    0    6   27   10   29   0   0
+nRice         .289  .341  .430   114   33    4    0    4   14    9   11   0   0
+ Murray       .288  .380  .456   215   62   13    4    5   30   32   29   0   2
+ Downing      .243  .336  .379   206   50    7    0    7   25   30   23   0   2
+ Vukovich     .235  .350  .353    17    4    2    0    0    2    3    2   0   0
+nDavis,M      .200  .200  .200     5    1    0    0    0    0    0    2   0   0
+ Murphy,Dw    .193  .233  .337    83   16    3    0    3   14    5   28   0   2
+ Moreland     .190  .283  .305   105   20    3    0    3    9   14   21   0   1
+ Schmidt      .163  .265  .233    43    7    0    0    1    1    6   19   0   0
+cSchmidt      .200  .307  .346   130   26    2    1    5   15   21   48   0   2
+nPagliarulo   .000 1.000  .000     0    0    0    0    0    0    1    0   0   0
+ 
+ Allen        .500  .500  .500     2    1    0    0    0    0    0    1   0   0
+cAllen        .250  .250  .250     4    1    0    0    0    0    0    1   0   0
+ Smithson     .429  .429  .571     7    3    1    0    0    0    0    2   0   0
+cSmithson     .273  .273  .364    11    3    1    0    0    0    0    5   1   0
+ Carlton      .333  .308  .333    12    4    0    0    0    2    0    3   0   1
+ Zahn         .259  .259  .296    27    7    1    0    0    4    0    4   1   0
+ Stanley      .250  .250  .250     4    1    0    0    0    0    0    1   0   0
+ Schatzeder   .250  .400  .500     4    1    1    0    0    0    1    1   1   0
+cSchatzeder   .273  .385  .364    11    3    1    0    0    0    2    3   1   0
+ Butcher      .214  .214  .214    14    3    0    0    0    0    0    3   0   0
+nBedrosian    .200  .200  .400     5    1    1    0    0    1    0    1   0   0
+ Honeycutt    .190  .190  .190    21    4    0    0    0    1    0    9   1   0
+ Davis        .100  .100  .100    10    1    0    0    0    0    0    3   0   0
+cDavis        .038  .037  .038    26    1    0    0    0    1    0   10   0   1
+nHough        .071  .125  .071    14    1    0    0    0    1    1    4   0   1
+ Caudill      .000  .000  .000     1    0    0    0    0    0    0    0   0   0
+cCaudill      .000  .000  .000     3    0    0    0    0    0    0    0   0   0
+ Camp         .000  .000  .000     3    0    0    0    0    0    0    2   0   0
+ Waddell      .000  .000  .000     2    0    0    0    0    0    0    0   0   0
+rTibbs        .000  .000  .000     8    0    0    0    0    0    0    1   0   0
+ Dawley       .000  .000  .000     2    0    0    0    0    0    0    1   0   0
+ Stanton      .000  .000  .000     2    0    0    0    0    0    0    1   0   0
+ 
+ Team Total   .275  .345  .405  1899  522   96   10   44  218  211  301   5  13
+           DMB League Batting Splits:  1984 ChinaTrust Whales-- vsRHP
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Murphy,Da    .313  .385  .600   160   50   13    6    7   27   17   32   0   0
+cMurphy,Da    .291  .345  .501   429  125   26    8   16   57   34  108   0   1
+ Vukovich     .306  .397  .357    98   30    1    2    0   10   16   16   0   2
+nParrish      .303  .329  .470   330  100   25    3    8   49    9   71   0   3
+ Murray       .295  .391  .424   403  119   13    3   11   51   64   70   0   2
+ Concepcion   .292  .333  .354    96   28    3    0    1    9    4   20   1   0
+ Murphy,Dw    .289  .405  .497   360  104    7    1   22   77   71   52   0   3
+ Downing      .288  .348  .583   372  107   29    0   27   81   35   60   1   8
+rRussell      .278  .348  .519    79   22    3    2    4   16    9   37   0   1
+ Raines       .277  .377  .381   423  117   16    8    4   29   71   54   0   6
+nRice         .272  .307  .475   217   59    6    1   12   28   10   45   0   0
+ Moreland     .260  .292  .333   192   50    8    0    2   28    8   34   0   1
+nPagliarulo   .250  .250 1.000     4    1    0    0    1    2    0    1   0   0
+ Schmidt      .248  .296  .525   101   25    3    2    7   18    6   21   0   0
+cSchmidt      .264  .334  .499   417  110   20    6   22   67   43   77   0   2
+ Schroeder    .225  .238  .420   138   31    1    1    8   17    0   37   0   2
+ Teufel       .224  .316  .463    67   15    4    0    4   11    8   19   0   0
+ Matuszek     .219  .359  .594    32    7    1    1    3    9    7    7   0   0
+ Randolph     .206  .296  .244   320   66    6    0    2   23   40   46   3   3
+rSantana      .154  .207  .231    26    4    2    0    0    3    2    8   0   1
+nDavis,M      .125  .125  .188    16    2    1    0    0    0    0    2   0   0
+ Lowry        .098  .159  .171    41    4    0    0    1    5    3   11   0   0
+ 
+ Schatzeder   .385  .429  .462    13    5    1    0    0    2    1    2   0   0
+cSchatzeder   .375  .400  .417    24    9    1    0    0    3    1    4   2   0
+ Butcher      .216  .250  .270    37    8    2    0    0    2    2   11   0   1
+ Stanley      .214  .267  .214    14    3    0    0    0    1    1    6   0   0
+rTibbs        .200  .200  .233    30    6    1    0    0    3    0    5   0   0
+ Camp         .200  .200  .200     5    1    0    0    0    0    0    2   0   0
+ Zahn         .182  .250  .182    44    8    0    0    0    1    3   11   0   0
+nHough        .133  .161  .133    30    4    0    0    0    1    1   10   1   0
+ Davis        .118  .167  .176    17    2    1    0    0    0    1    6   1   0
+cDavis        .161  .212  .194    31    5    1    0    0    0    1   11   2   0
+ Carlton      .087  .125  .087    23    2    0    0    0    1    1    8   1   0
+ Honeycutt    .059  .059  .059    34    2    0    0    0    0    0   11   4   0
+ Smithson     .050  .095  .050    20    1    0    0    0    2    0    6   1   0
+cSmithson     .135  .151  .135    52    7    0    0    0    4    0   13   3   0
+ Caudill      .000  .000  .000     3    0    0    0    0    0    0    2   0   0
+cCaudill      .000  .000  .000     6    0    0    0    0    0    0    3   0   0
+ Dawley       .000  .000  .000     4    0    0    0    0    0    0    3   0   0
+ Waddell      .000  .000  .000     2    0    0    0    0    0    0    2   0   0
+ Stanton      .000  .000  .000     1    0    0    0    0    0    0    0   0   0
+ Allen        .000  .000  .000     5    0    0    0    0    0    0    1   0   0
+cAllen        .231  .231  .231    13    3    0    0    0    0    0    3   0   0
+nBedrosian    .000  .000  .000     2    0    0    0    0    0    0    0   0   0
+ 
+ Team Total   .262  .332  .416  3759  983  147   30  124  506  390  729  13  33
+     DMB League Games Started by Position:  1984 ChinaTrust Whales-- vsLHP
+                                        
+ 
+ NAME           C   1B   2B   3B   SS   LF   CF   RF
+ 
+ Downing        0    0    0    0    0   51    0    0
+ Moreland      29    1    0    1    0    0    0    0
+ Murray         0   51    0    0    0    0    0    0
+nParrish        0    0    0   42    0    0    0    0
+ Raines         0    0    0    0    0    0   52    0
+ Randolph       0    0   43    0    0    0    0    0
+nRice           0    0    0    0    0    0    0   32
+rRussell        5    0    0    0    0    0    0    0
+rSantana        0    0    0    0   17    0    0    0
+ Schroeder     18    0    0    0    0    0    0    0
+ Teufel         0    0    9    0   35    0    0    0
+ Vukovich       0    0    0    0    0    1    0    0
+ Murphy,Da      0    0    0    0    0    0    0   20
+CMurphy,Da      0    0    0    0    0    0   27   20
+ Schmidt        0    0    0    9    0    0    0    0
+CSchmidt        0    0    0   33    0    0    0    0
+ 
+ Team Total    52   52   52   52   52   52   52   52
+     DMB League Games Started by Position:  1984 ChinaTrust Whales-- vsRHP
+                                        
+ 
+ NAME           C   1B   2B   3B   SS   LF   CF   RF
+ 
+ Concepcion     0    0    0    1   19    0    0    0
+ Downing        0    0    0    0    0   99    0    0
+ Lowry         10    0    0    0    0    0    0    0
+ Moreland      55    0    0    0    0    0    0    0
+ Murphy,Dw      0    0    0    0    0    0  110    0
+ Murray         0  110    0    0    0    0    0    0
+nPagliarulo     0    0    0    1    0    0    0    0
+nParrish        0    0    0   81    0    0    0    0
+ Raines         0    0  110    0    0    0    0    0
+ Randolph       0    0    0    0   89    0    0    0
+nRice           0    0    0    0    0    0    0   56
+rRussell       15    0    0    0    0    2    0    0
+rSantana        0    0    0    0    2    0    0    0
+ Schroeder     30    0    0    0    0    0    0    0
+ Vukovich       0    0    0    0    0    6    0    8
+ Murphy,Da      0    0    0    0    0    0    0   46
+CMurphy,Da      0    0    0    0    0    0   51   59
+nDavis,M        0    0    0    0    0    3    0    0
+ Schmidt        0    0    0   27    0    0    0    0
+CSchmidt        0    0    0  107    0    0    0    0
+ 
+ Team Total   110  110  110  110  110  110  110  110
+            DMB League Pitching Statistics:  1984 ChinaTrust Whales
+                                        
+ 
+ NAME         ERA  W  L  S   G GS CG SH    IP   H   R  ER  BB   K   BF HR WP DP
+ 
+ Smithson    2.31  5  3  0  11 11  2  2  81.2  62  23  21  19  43  325  7  1  6
+cSmithson    3.09  8 10  0  28 28  2  2 195.1 183  84  67  40 126  808 23  2 10
+ Caudill     2.36  0  2  6  23  0  0  0  34.1  32  10   9   8  32  137  4  0  3
+cCaudill     3.11  5  7 19  63  0  0  0  84.0  77  32  29  22  90  345 10  0  3
+ Camp        2.70  2  2  0   5  3  0  0  23.1  18   9   7  17   9   96  2  0  9
+ Zahn        2.89 14  6  0  30 30  8  4 189.2 187  66  61  39  75  772  7  1 18
+ Davis       2.96  5  1  0  10 10  4  0  73.0  67  27  24  24  30  304  4  4  9
+cDavis       4.32 11  7  0  26 26  4  0 162.2 173  83  78  62  86  715 12  5 17
+ Dawley      3.09  7  1  3  59  0  0  0  81.2  77  30  28  21  38  344  7  0  2
+ Stanley     3.13  4  4  5  51  0  0  0  97.2  93  36  34  12  51  392  9  2  9
+ Schatzeder  3.14  3  6  1  14  8  2  1  57.1  54  22  20  13  36  244  5  2  4
+cSchatzeder  2.91  9  9  1  27 16  4  2 120.2 115  46  39  35  69  517  5  4  8
+ Honeycutt   3.24  9  5  0  31 23  4  3 155.2 147  64  56  44  75  630 12  1 22
+ Waddell     3.25  8  2  3  61  0  0  0  80.1  59  30  29  29  52  326 10  0  3
+ Butcher     3.54  7  8  0  22 22  2  1 137.1 150  62  54  43  66  590  7  3 10
+nBedrosian   3.61  6  8 13  42  1  0  0  62.1  63  30  25  20  66  262 10  3  4
+rTibbs       3.77  5  5  0  22 14  2  1 102.2 108  43  43  30  53  428  3  4 15
+ Allen       3.81  4  1  0  14  2  0  0  26.0  21  11  11  11  18  109  3  2  0
+cAllen       3.57  6  7  4  54  4  0  0  98.1  96  47  39  44  58  423  8  5  8
+ Stanton     3.83  1  2 10  39  0  0  0  54.0  63  23  23  19  56  240  3  5  4
+ Carlton     4.13  5  4  0  16 16  1  0  89.1 106  53  41  34  58  398  8  4 11
+nHough       4.92  7 10  0  22 22  2  1 122.2 129  72  67  37  90  529 13  4  5
+
+ Team Total  3.39    70    162    27   1469.0     611     420     6126    36
+                  92    41    162    18      1436     553     848     114   134
+            DMB League Pitching Statistics:  1984 ChinaTrust Whales
+                                        
+ 
+ NAME          IW HBP  WP  BK  CI   H/9  BB/9   R/9   K/9  HR/9
+ 
+ Smithson       0   3   1   1   0   6.8   2.1   9.3   4.7   0.8
+cSmithson       2   7   2   3   0   8.4   1.8  10.6   5.8   1.1
+ Caudill        1   0   0   0   0   8.4   2.1  10.5   8.4   1.0
+cCaudill        2   2   0   0   0   8.3   2.4  10.8   9.6   1.1
+ Camp           1   0   0   0   0   6.9   6.6  13.5   3.5   0.8
+ Zahn           0   3   1   0   0   8.9   1.9  10.9   3.6   0.3
+ Davis          0   1   4   1   0   8.3   3.0  11.3   3.7   0.5
+cDavis          0   7   5   2   0   9.6   3.4  13.4   4.8   0.7
+ Dawley         0   2   0   3   1   8.5   2.3  11.0   4.2   0.8
+ Stanley        1   1   2   0   0   8.6   1.1   9.8   4.7   0.8
+ Schatzeder     1   2   2   0   0   8.5   2.0  10.8   5.7   0.8
+cSchatzeder     1   3   4   1   0   8.6   2.6  11.4   5.1   0.4
+ Honeycutt      0   1   1   1   0   8.5   2.5  11.1   4.3   0.7
+ Waddell        1   1   0   0   0   6.6   3.2  10.0   5.8   1.1
+ Butcher        0   4   3   0   0   9.8   2.8  12.9   4.3   0.5
+nBedrosian      1   0   3   0   0   9.1   2.9  12.0   9.5   1.4
+rTibbs          0   1   4   0   0   9.5   2.6  12.2   4.6   0.3
+ Allen          0   1   2   0   0   7.3   3.8  11.4   6.2   1.0
+cAllen          1   2   5   0   0   8.8   4.0  13.0   5.3   0.7
+ Stanton        1   5   5   1   0  10.5   3.2  14.5   9.3   0.5
+ Carlton        1   1   4   3   0  10.7   3.4  14.2   5.8   0.8
+nHough          0   2   4   2   0   9.5   2.7  12.3   6.6   1.0
+
+ Team Total     8  28  36  12   1   8.8   2.6  11.5   5.2   0.7
+            DMB League Pitching Statistics:  1984 ChinaTrust Whales
+                                        
+ 
+ NAME         AVG   OBP   SPC   BF   AB    H  2B  3B  HR   TB  SH  SF
+ 
+ Smithson    .205  .259  .315  325  302   62  10   1   7   95   1   0
+cSmithson    .242  .286  .373  808  756  183  26   2  23  282   4   1
+ Caudill     .252  .292  .417  137  127   32   7   1   4   53   0   2
+cCaudill     .244  .293  .386  345  316   77  13   1  10  122   0   5
+ Camp        .231  .368  .346   96   78   18   1   1   2   27   1   0
+ Zahn        .260  .299  .349  772  720  187  35   4   7  251   6   4
+ Davis       .243  .304  .333  304  276   67  13   0   4   92   1   2
+cDavis       .272  .341  .394  715  637  173  32   5  12  251   5   4
+ Dawley      .245  .292  .357  344  314   77   8   3   7  112   1   5
+ Stanley     .250  .272  .376  392  372   93  16   2   9  140   3   4
+ Schatzeder  .239  .286  .345  244  226   54   7   1   5   78   3   0
+cSchatzeder  .245  .300  .332  517  470  115  18   4   5  156   7   2
+ Honeycutt   .253  .306  .362  630  580  147  23   2  12  210   2   3
+ Waddell     .201  .275  .350  326  294   59   8   3  10  103   2   0
+ Butcher     .282  .336  .363  590  531  150  22   0   7  193   4   8
+nBedrosian   .265  .318  .450  262  238   63  14   0  10  107   1   3
+rTibbs       .276  .327  .363  428  391  108  15   5   3  142   3   3
+ Allen       .221  .303  .358  109   95   21   2   1   3   34   0   2
+cAllen       .260  .340  .369  423  369   96  12   2   8  136   5   3
+ Stanton     .297  .366  .420  240  212   63  13   2   3   89   2   2
+ Carlton     .294  .355  .427  398  361  106  20   2   8  154   1   1
+nHough       .267  .321  .404  529  483  129  21   3  13  195   6   1
+
+ Team Total  .256  .309  .371      5600      235     114       37
+                              6126      1436      31     2075      40
+            DMB League Pitching Statistics:  1984 ChinaTrust Whales
+                                        
+ 
+ NAME          GS  CG   CG% SHo  QS   QS%   RS RS/G  RL RLS   RL%
+ 
+ Smithson      11   2  .182   2   8  .727   42  3.8   5   0  .000
+cSmithson      28   2  .071   2  17  .607  100  3.6  13   4  .308
+ Caudill        0   0  .000   0   0  .000    0  0.0   4   0  .000
+cCaudill        0   0  .000   0   0  .000    0  0.0   7   1  .143
+ Camp           3   0  .000   0   3 1.000   14  4.7   6   1  .167
+ Zahn          30   8  .267   4  16  .533  150  5.0  18   4  .222
+ Davis         10   4  .400   0   7  .700   46  4.6   7   3  .429
+cDavis         26   4  .154   0  13  .500  117  4.5  16   7  .438
+ Dawley         0   0  .000   0   0  .000    0  0.0  14   3  .214
+ Stanley        0   0  .000   0   0  .000    0  0.0  14   2  .143
+ Schatzeder     8   2  .250   1   6  .750   43  5.4   8   3  .375
+cSchatzeder    16   4  .250   2  10  .625   73  4.6  13   6  .462
+ Honeycutt     23   4  .174   3  13  .565  122  5.3  17   4  .235
+ Waddell        0   0  .000   0   0  .000    0  0.0  16   4  .250
+ Butcher       22   2  .091   1  10  .455   80  3.6  19   7  .368
+nBedrosian      1   0  .000   0   0  .000    3  3.0   5   2  .400
+rTibbs         14   2  .143   1   8  .571   65  4.6  13   9  .692
+ Allen          2   0  .000   0   2 1.000    8  4.0   5   3  .600
+cAllen          4   0  .000   0   3  .750   18  4.5  14   5  .357
+ Stanton        0   0  .000   0   0  .000    0  0.0  15   2  .133
+ Carlton       16   1  .063   0   7  .438   91  5.7  13   8  .615
+nHough         22   2  .091   1   9  .409  103  4.7  18   6  .333
+
+ Team Total   162      .167      89        767      197      .310
+                   27        18      .549       4.7      61
+            DMB League Pitching Statistics:  1984 ChinaTrust Whales
+                                        
+ 
+ NAME         SvO  Sv   Sv%  BSv  BSv%  IR  IRS   IR%    G  RA   RA%  GF   GF%
+ 
+ Smithson       0   0  .000    0  .000   0    0  .000   11   0  .000   0  .000
+cSmithson       0   0  .000    0  .000   0    0  .000   28   0  .000   0  .000
+ Caudill       12   6  .500    3  .250  20    4  .200   23  23 1.000  12  .522
+cCaudill       32  19  .594    8  .250  30    5  .167   63  63 1.000  41  .651
+ Camp           0   0  .000    0  .000   0    0  .000    5   2  .400   2 1.000
+ Zahn           0   0  .000    0  .000   0    0  .000   30   0  .000   0  .000
+ Davis          0   0  .000    0  .000   0    0  .000   10   0  .000   0  .000
+cDavis          0   0  .000    0  .000   0    0  .000   26   0  .000   0  .000
+ Dawley        11   3  .273    3  .273  34   11  .324   59  59 1.000  21  .356
+ Stanley       10   5  .500    1  .100  47   18  .383   51  51 1.000  11  .216
+ Schatzeder     5   1  .200    1  .200   5    0  .000   14   6  .429   2  .333
+cSchatzeder     6   1  .167    2  .333   7    2  .286   27  11  .407   4  .364
+ Honeycutt      1   0  .000    0  .000   4    0  .000   31   8  .258   5  .625
+ Waddell       15   3  .200    3  .200  40    8  .200   61  61 1.000  21  .344
+ Butcher        0   0  .000    0  .000   0    0  .000   22   0  .000   0  .000
+nBedrosian     21  13  .619    7  .333  22   11  .500   42  41  .976  29  .707
+rTibbs          0   0  .000    0  .000   4    2  .500   22   8  .364   8 1.000
+ Allen          2   0  .000    1  .500   6    2  .333   14  12  .857   7  .583
+cAllen         13   4  .308    4  .308  32   11  .344   54  50  .926  22  .440
+ Stanton       16  10  .625    3  .188  15    5  .333   39  39 1.000  17  .436
+ Carlton        0   0  .000    0  .000   0    0  .000   16   0  .000   0  .000
+nHough          0   0  .000    0  .000   0    0  .000   22   0  .000   0  .000
+
+ Team Total    93      .441       .237       61        472      .657      .435
+                   41         22       197       .310      310       135
+          DMB League Pitching Splits:  1984 ChinaTrust Whales-- vsLHB
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Honeycutt    .122  .137  .122   115   14    0    0    0    5    1   24   1   0
+ Smithson     .177  .235  .304   158   28    6    1    4   15   12   17   0   0
+cSmithson     .238  .280  .392   357   85   15    2   12   43   21   40   1   0
+ Stanley      .243  .280  .331   181   44    8    1    2   17   10   24   1   2
+ Schatzeder   .250  .294  .250    48   12    0    0    0    1    3   10   0   0
+cSchatzeder   .317  .363  .337   104   33    2    0    0    7    8   17   1   1
+ Camp         .257  .366  .343    35    9    0    0    1    5    6    0   1   0
+ Waddell      .259  .358  .336   116   30    2    2    1    8   18   16   1   0
+ Dawley       .268  .316  .359   142   38    3    2    2   16   10   17   1   4
+ Zahn         .276  .308  .350   123   34    5    2    0    9    6   13   0   1
+ Carlton      .278  .330  .378    90   25    3    0    2    9    6   22   0   0
+nHough        .284  .346  .401   282   80    8    2    7   33   27   47   4   0
+ Davis        .287  .344  .385   143   41    8    0    2   12   12   14   1   1
+cDavis        .302  .377  .426   331  100   20    3    5   36   40   51   3   2
+ Butcher      .296  .345  .392   311   92   15    0    5   35   25   40   3   5
+ Allen        .318  .388  .500    44   14    2    0    2    4    5    6   0   0
+cAllen        .339  .437  .464   168   57    9    0    4   25   30   22   1   1
+ Stanton      .320  .390  .447   103   33    6    2    1   12   11   30   1   2
+nBedrosian    .323  .393  .500   130   42   11    0    4   16   17   22   0   3
+rTibbs        .340  .391  .433   215   73    6    4    2   19   20   21   1   3
+ Caudill      .438  .500  .646    48   21    5    1    1    6    6    8   0   0
+cCaudill      .323  .403  .472   127   41    8    1    3   12   17   25   0   0
+ 
+ Team Total   .276  .330  .377  2284  630   88   17   36  222  195  331  15  21
+          DMB League Pitching Splits:  1984 ChinaTrust Whales-- vsRHB
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Allen        .137  .233  .235    51    7    0    1    1    5    6   12   0   2
+cAllen        .194  .251  .289   201   39    3    2    4   23   14   36   4   2
+ Caudill      .139  .157  .278    79   11    2    0    3    8    2   24   0   2
+cCaudill      .190  .214  .328   189   36    5    0    7   22    5   65   0   5
+ Waddell      .163  .216  .360   178   29    6    1    9   24   11   36   1   0
+nBedrosian    .194  .216  .389   108   21    3    0    6   20    3   44   1   0
+ Davis        .195  .260  .278   133   26    5    0    2    9   12   16   0   1
+cDavis        .239  .301  .359   306   73   12    2    7   36   22   35   2   2
+rTibbs        .199  .246  .278   176   35    9    1    1   13   10   32   2   0
+ Camp         .209  .370  .349    43    9    1    1    1    3   11    9   0   0
+ Dawley       .227  .272  .355   172   39    5    1    5   20   11   21   0   1
+ Schatzeder   .236  .284  .371   178   42    7    1    5   17   10   26   3   0
+cSchatzeder   .224  .282  .331   366   82   16    4    5   31   27   52   6   1
+ Smithson     .236  .286  .326   144   34    4    0    3    8    7   26   1   0
+cSmithson     .246  .291  .356   399   98   11    0   11   34   19   86   3   1
+nHough        .244  .285  .408   201   49   13    1    6   31   10   43   2   1
+ Zahn         .256  .297  .348   597  153   30    2    7   49   33   62   6   3
+ Stanley      .257  .265  .419   191   49    8    1    7   32    2   27   2   2
+ Butcher      .264  .324  .323   220   58    7    0    2   19   18   26   1   3
+ Stanton      .275  .342  .394   109   30    7    0    2   12    8   26   1   0
+ Honeycutt    .286  .344  .422   465  133   23    2   12   55   43   51   1   3
+ Carlton      .299  .363  .443   271   81   17    2    6   32   28   36   1   1
+ 
+ Team Total   .243  .292  .366  3316  806  147   14   78  357  225  517  22  19
+            DMB League Fielding Statistics:  1984 ChinaTrust Whales
+                                        
+ 
+POS NAME             G    GS    PO     A     E    DP    TC     PCT   PB
+ 
+p   Zahn            30    30    11    23     0     0    34   1.000
+    Honeycutt       31    23     9    20     2     2    31    .935
+    Stanley         51     0    11    18     0     2    29   1.000
+    Carlton         16    16    12     8     2     2    22    .909
+    Butcher         22    22     6    13     3     3    22    .864
+   nHough           22     0     6    15     1     0    22    .955
+   rTibbs           22    14     7    11     0     1    18   1.000
+    Dawley          59     0     6    10     0     0    16   1.000
+    Smithson        11    11     5     8     0     0    13   1.000
+   cSmithson        28    28    16    22     1     1    39    .974
+    Davis           10    10     8     4     1     0    13    .923
+   cDavis           26    26    13    14     7     1    34    .794
+    Waddell         61     0     6     6     0     0    12   1.000
+    Schatzeder      14     8     1     4     5     0    10    .500
+   cSchatzeder      27    16     5    13     9     0    27    .667
+   nBedrosian       42     0     0     9     0     0     9   1.000
+    Stanton         39     0     1     6     0     1     7   1.000
+    Allen           14     2     2     2     0     0     4   1.000
+   cAllen           54     4     4    16     0     0    20   1.000
+    Camp             5     3     2     1     1     1     4    .750
+    Caudill         23     0     0     0     0     0     0    .000
+   cCaudill         63     0     3     1     0     0     4   1.000
+                   472   139    93   158    15    12   266    .944
+ 
+c   Moreland        86    84   425    25     7     2   457    .985    0
+    Schroeder       58    48   282    24     7     2   313    .978    2
+   rRussell         26    20   125     9     0     0   134   1.000    0
+    Lowry           16    10    64     8     1     0    73    .986    0
+                   186   162   896    66    15     4   977    .985    2
+ 
+1b  Murray         161   161  1455    99    12   135  1566    .992
+    Moreland         1     1    12     0     0     3    12   1.000
+    Matuszek         2     0     1     0     0     0     1   1.000
+                   164   162  1468    99    12   138  1579    .992
+ 
+2b  Raines         111   110   201   317    15    61   533    .972
+    Randolph        44    43   105   163     3    43   271    .989
+    Teufel          57     9    43    52     1     8    96    .990
+                   212   162   349   532    19   112   900    .979
+ 
+3b nParrish        125     0    96   241    18    26   355    .949
+    Schmidt         36    36    33    64     2     4    99    .980
+   cSchmidt        140   140   109   251    17    22   377    .955
+   nPagliarulo       3     0     2     2     1     0     5    .800
+    Moreland         2     1     1     4     0     2     5   1.000
+    Concepcion       2     1     0     1     0     0     1   1.000
+                   168    38   132   312    21    32   465    .955
+            DMB League Fielding Statistics:  1984 ChinaTrust Whales
+                                        
+ 
+POS NAME             G    GS    PO     A     E    DP    TC     PCT   PB
+ 
+ss  Randolph        91    89   123   259    20    45   402    .950
+    Teufel          36    35    48   112     3    25   163    .982
+    Concepcion      62    19    40    95     4    14   139    .971
+   rSantana         23    19    27    64     3    12    94    .968
+                   212   162   238   530    30    96   798    .962
+ 
+lf  Downing        151   150   362    19     0     0   381   1.000
+    Vukovich        11     7    25     0     0     0    25   1.000
+   rRussell          2     2    10     0     0     0    10   1.000
+   nDavis,M          4     3     5     1     0     0     6   1.000
+                   168   162   402    20     0     0   422   1.000
+ 
+cf  Murphy,Dw      115   110   321    16     0     3   337   1.000
+    Raines          52    52   145    12     1     1   158    .994
+    Vukovich         1     0     0     0     0     0     0    .000
+   nDavis,M          1     0     0     0     0     0     0    .000
+                   169   162   466    28     1     4   495    .998
+ 
+rf nRice            88     0   174     9     5     0   188    .973
+    Murphy,Da       66    66   147     6     5     1   158    .968
+   cMurphy,Da       79    79   182     7     5     1   194    .974
+    Vukovich        40     8    40     2     0     1    42   1.000
+    Murphy,Dw        4     0     1     0     0     0     1   1.000
+    Moreland         1     0     1     0     0     0     1   1.000
+   nDavis,M          1     0     0     0     0     0     0    .000
+                   200    74   363    17    10     2   390    .974
+ 
+    Team Total     162   162  4407  1762   123   147  6292    .980    2
+                     Game Results:  1984 ChinaTrust Whales
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 4/ 1/1984   @BMB   L  0-6      Hough       Hough                   O'Neal      
+ 4/ 2/1984   @BMB   W  2-0      Zahn        Zahn        Bedrosian   Williams    
+ 4/ 3/1984   @BMB   W  6-3  10  Butcher     Dawley      Stanton     Clemens     
+ 4/ 5/1984   @BBG   W  3-2      Carlton     Bedrosian   Stanton     Hershiser   
+ 4/ 6/1984   @BBG   W  2-1      Hough       Hough       Bedrosian   Welch       
+ 4/ 7/1984    SUN   L  4-6      Zahn        Stanley                 Tudor       
+ 4/ 8/1984    FER   W  5-1      Butcher     Butcher                 Boyd        
+ 4/ 9/1984    FER   W  5-2      Carlton     Carlton                 Boddicker   
+ 4/10/1984    FER   W  4-3  11  Tibbs       Waddell                 Andujar     
+ 4/12/1984    CIN   L  0-1      Hough       Hough                   Smithson    
+ 4/13/1984    CIN   L  3-5      Zahn        Zahn                    Browning    
+ 4/14/1984    TEW   L  1-4      Butcher     Butcher                 Darling     
+ 4/15/1984   @JJJ   L  3-4      Carlton     Waddell                 Guidry      
+ 4/16/1984   @JJJ   L  5-7      Tibbs       Bedrosian               Leibrandt   
+ 4/17/1984   @JJJ   W  4-0      Hough       Hough                   Rijo        
+ 4/18/1984   @BAR   L  4-6      Zahn        Stanton                 Stieb       
+ 4/19/1984   @BAR   W  3-2  10  Butcher     Stanton                 Blyleven    
+ 4/20/1984   @BAR   W  7-5      Carlton     Carlton     Bedrosian   Black       
+ 4/21/1984   @GCP   W  4-3      Honeycutt   Honeycutt   Bedrosian   Darwin      
+ 4/22/1984    SUN   W  9-8  10  Hough       Dawley                  Perez       
+ 4/23/1984    GCP   L  1-3      Zahn        Zahn                    Reuss       
+ 4/24/1984    GCP   L  2-4      Butcher     Butcher                 Berenguer   
+ 4/25/1984    BBG   L  3-4      Carlton     Bedrosian               Hershiser   
+ 4/26/1984   @A51   W 12-3      Tibbs       Tibbs                   Niekro      
+ 4/27/1984   @A51   L  2-6      Hough       Hough                   Trout       
+ 4/28/1984   @A51   W  5-0      Zahn        Zahn                    Sanderson   
+ 4/29/1984   @JJJ   W  7-0      Butcher     Butcher                 Gullickson  
+ 4/30/1984   @JJJ   W  5-4      Carlton     Carlton     Stanton     Guidry      
+ 5/ 1/1984    BBG   W  2-1      Honeycutt   Honeycutt   Bedrosian   Welch       
+ 5/ 2/1984    BMB   W  7-6  11  Hough       Waddell                 Nipper      
+ 5/ 3/1984    BMB   L  3-6      Zahn        Bedrosian               Williams    
+ 5/ 4/1984   @CIN   L  6-7      Butcher     Bedrosian               Fernandez   
+ 5/ 5/1984    JJJ   L  2-4      Carlton     Carlton                 Guidry      
+ 5/ 6/1984    JJJ   W  3-2  10  Honeycutt   Bedrosian               Leibrandt   
+ 5/ 7/1984    JJJ   L  1-5      Hough       Hough                   Rijo        
+ 5/ 8/1984   @EVN   W  4-3      Tibbs       Waddell     Bedrosian   Seaver      
+ 5/12/1984    BBG   L  3-6      Hough       Hough                   Scott,M     
+ 5/13/1984    FER   W  3-1      Tibbs       Tibbs       Bedrosian   Sutton      
+ 5/14/1984    FER   L  0-7      Butcher     Butcher                 Boddicker   
+ 5/15/1984    FER   L  3-6      Carlton     Carlton                 Andujar     
+ 5/16/1984   @TEW   W  4-2      Honeycutt   Honeycutt   Stanton     Rasmussen   
+ 5/17/1984   @TEW   W  7-4      Hough       Hough       Dawley      Ryan        
+ 5/18/1984   @TEW   W  5-3      Tibbs       Tibbs       Bedrosian   Witt        
+ 5/19/1984    SUN   W  4-1      Butcher     Bedrosian               Tudor       
+ 5/20/1984    SUN   L  0-1      Zahn        Zahn                    Show        
+ 5/21/1984    SUN   W 10-0      Honeycutt   Honeycutt               Candelaria  
+ 5/22/1984    BBG   W  5-3      Hough       Stanley     Bedrosian   Scott,M     
+ 5/23/1984    BBG   L  1-5      Tibbs       Tibbs                   Reuschel    
+ 5/24/1984    BBG   L  1-5      Butcher     Butcher                 Viola       
+ 5/25/1984   @BAR   W  6-0      Zahn        Zahn                    Black       
+ 5/26/1984   @BAR   L  1-3  13  Honeycutt   Bedrosian               Morris      
+ 5/27/1984   @BAR   W  7-5      Hough       Hough       Waddell     Eckersley   
+                     Game Results:  1984 ChinaTrust Whales
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 5/28/1984   @BAR   W  7-6  11  Tibbs       Bedrosian   Dawley      Stieb       
+ 5/29/1984    GAR   W  5-3      Butcher     Butcher                 Stewart     
+ 5/30/1984    GAR   L  1-4      Zahn        Zahn                    Young       
+ 5/31/1984    GAR   L  4-6      Honeycutt   Honeycutt               Flanagan    
+ 6/ 1/1984   @EVN   W  4-3  10  Hough       Dawley      Bedrosian   Rawley      
+ 6/ 2/1984   @EVN   W 10-4      Carlton     Stanley     Stanton     Petry       
+ 6/ 3/1984   @EVN   L  2-3  11  Butcher     Bedrosian               Moore       
+ 6/ 4/1984   @GPC   W  8-6      Zahn        Waddell     Bedrosian   Pena        
+ 6/ 5/1984   @GPC   L  4-6      Tibbs       Tibbs                   Knepper     
+ 6/ 6/1984   @GPC   W  5-4      Hough       Hough       Dawley      Gooden      
+ 6/ 7/1984    EVN   W 14-4      Carlton     Carlton                 Petry       
+ 6/ 8/1984    EVN   L  0-6      Butcher     Butcher                 Moore       
+ 6/ 9/1984    EVN   W  4-3      Zahn        Waddell     Bedrosian   Seaver      
+ 6/10/1984    CEN   L  6-7      Tibbs       Tibbs                   Davis,M     
+ 6/11/1984    CEN   W  5-2      Hough       Hough                   Cowley      
+ 6/12/1984    CEN   L  5-7      Carlton     Waddell                 Niekro      
+ 6/13/1984   @CIN   L  0-2      Butcher     Butcher                 Schatzeder  
+ 6/14/1984   @CIN   L  2-5      Zahn        Zahn                    DeLeon      
+ 6/15/1984   @CIN   W 11-3      Honeycutt   Honeycutt               Soto        
+ 6/16/1984    CEN   L  0-2      Hough       Hough                   Davis,M     
+ 6/17/1984    CEN   L  6-7      Carlton     Carlton                 Niekro      
+ 6/18/1984    CEN   W  8-5      Butcher     Butcher     Waddell     Koosman     
+ 6/19/1984    CEN   W  6-0      Zahn        Zahn                    McGregor    
+ 6/20/1984    A51   L  1-3      Honeycutt   Stanley                 Trout       
+ 6/21/1984    A51   L  5-6      Hough       Hough                   Sanderson   
+ 6/22/1984    A51   W  6-0      Carlton     Carlton                 Tanana      
+ 6/23/1984   @GPC   L  1-5      Butcher     Butcher                 Rhoden      
+ 6/24/1984   @GPC   W 10-5      Zahn        Stanley                 Gooden      
+ 6/25/1984   @GPC   L  3-5      Bedrosian   Bedrosian               Mason       
+ 6/27/1984   @FER   L  3-4      Hough       Hough                   Boyd        
+ 6/28/1984   @FER   L  4-7      Honeycutt   Honeycutt               Sutton      
+ 7/ 2/1984    TEW   L 10-11     Hough       Hough                   Ojeda       
+ 7/ 3/1984    GCP   L  3-9  10  Honeycutt   Stanton                 Reuss       
+ 7/ 4/1984    GCP   W  7-6  11  Carlton     Bedrosian               Berenguer   
+ 7/ 5/1984    GCP   W  4-2      Zahn        Zahn        Bedrosian   Barker      
+ 7/ 6/1984   @SUN   L  2-5      Butcher     Butcher                 Show        
+ 7/ 7/1984   @SUN   W  6-1      Hough       Hough       Stanley     Candelaria  
+ 7/ 8/1984   @SUN   W  9-1      Honeycutt   Honeycutt               Perez       
+ 7/ 9/1984   @BMB   W  9-5  11  Carlton     Bedrosian               Gubicza     
+ 7/10/1984   @BMB   W  5-4      Zahn        Dawley      Stanton     Nipper      
+ 7/11/1984   @BMB   L  5-6      Butcher     Bedrosian               Denny       
+ 7/12/1984   @CEN   L  4-7      Hough       Hough                   McGregor    
+ 7/13/1984   @CEN   L  3-10     Honeycutt   Honeycutt               Krukow      
+ 7/14/1984   @CEN   L  4-5      Zahn        Zahn                    McWilliams  
+ 7/15/1984   @SUN   W  4-1      Butcher     Butcher     Stanton     Tudor       
+ 7/16/1984   @SUN   W  3-0      Tibbs       Tibbs       Stanton     Show        
+ 7/17/1984   @EVN   W 14-8      Hough       Stanley                 Robinson    
+ 7/18/1984   @GAR   W  6-0      Honeycutt   Honeycutt               Young       
+ 7/19/1984   @GAR   W  9-2      Zahn        Zahn                    Hurst       
+ 7/20/1984   @GAR   W  8-5      Butcher     Butcher     Stanley     Stewart     
+ 7/21/1984    BAR   W  8-0      Tibbs       Tibbs                   Black       
+ 7/22/1984    BAR   W  7-3      Davis       Davis                   Morris      
+                     Game Results:  1984 ChinaTrust Whales
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 7/23/1984    BAR   W  2-1      Zahn        Zahn        Stanley     Blyleven    
+ 7/24/1984   @GCP   W 15-3      Schatzeder  Schatzeder              Darwin      
+ 7/25/1984   @GCP   W  4-2      Honeycutt   Honeycutt   Stanley     Martinez,D  
+ 7/26/1984   @GCP   W  3-2      Smithson    Smithson    Caudill     Beattie     
+ 7/27/1984   @BBG   W  6-2      Davis       Davis                   Hershiser   
+ 7/28/1984   @BBG   W  5-4      Zahn        Zahn        Caudill     Viola       
+ 7/29/1984   @BBG   W  5-0      Schatzeder  Schatzeder              Welch       
+ 7/30/1984   @CIN   W  6-0      Honeycutt   Honeycutt               DeLeon      
+ 7/31/1984   @CIN   W  3-1      Smithson    Smithson    Caudill     Soto        
+ 8/ 2/1984   @TEW   L  5-6      Davis       Stanley                 Darling     
+ 8/ 3/1984   @TEW   L  3-4      Zahn        Stanley                 Gross,K     
+ 8/ 4/1984    TEW   L  0-3      Schatzeder  Schatzeder              Ryan        
+ 8/ 5/1984    GPC   W 10-9  13  Honeycutt   Camp                    Thurmond    
+ 8/ 6/1984    GPC   W  4-3      Zahn        Zahn        Stanton     Pena        
+ 8/ 7/1984    GPC   W  3-0      Smithson    Smithson                Mahler      
+ 8/ 8/1984   @A51   W  6-4      Davis       Davis       Stanton     Valenzuela  
+ 8/ 9/1984   @A51   W  7-3  11  Schatzeder  Allen                   Trout       
+ 8/10/1984   @A51   W  9-4      Honeycutt   Allen                   Clancy      
+ 8/11/1984   @A51   L  8-9  12  Zahn        Camp                    Tanana      
+ 8/12/1984    JJJ   W  7-0      Smithson    Smithson                Guidry      
+ 8/13/1984    JJJ   W  3-2      Davis       Davis                   Farr        
+ 8/14/1984    JJJ   L  2-3      Schatzeder  Schatzeder              Hawkins     
+ 8/18/1984    BAR   L  0-5      Davis       Davis                   Stieb       
+ 8/19/1984    BAR   L  0-3      Smithson    Smithson                Black       
+ 8/20/1984    BAR   L  2-5      Honeycutt   Honeycutt               Morris      
+ 8/21/1984    EVN   W  6-1      Zahn        Zahn                    Smith       
+ 8/22/1984    EVN   W  6-5      Camp        Allen                   Robinson    
+ 8/23/1984   @EVN   W  8-2      Davis       Davis                   Petry       
+ 8/24/1984    GPC   L  5-6  10  Smithson    Caudill                 Pena        
+ 8/25/1984    GPC   W  7-4      Honeycutt   Waddell     Stanley     Mahler      
+ 8/26/1984    GPC   W  5-3      Zahn        Zahn        Caudill     Gooden      
+ 8/27/1984    GPC   L  1-4      Camp        Camp                    Mason       
+ 8/28/1984    A51   L  1-2  11  Davis       Schatzeder              Trout       
+ 8/29/1984    A51   L  5-6      Smithson    Caudill                 Clancy      
+ 8/30/1984    A51   L  7-11     Honeycutt   Dawley                  Tanana      
+ 8/31/1984    TEW   W  4-2      Zahn        Zahn        Schatzeder  Ojeda       
+ 9/ 1/1984    TEW   L  4-5      Schatzeder  Schatzeder              Darling     
+ 9/ 2/1984    TEW   L  3-6      Honeycutt   Honeycutt               Gross,K     
+ 9/ 3/1984   @GAR   L  3-5      Carlton     Carlton                 Diaz        
+ 9/ 4/1984   @GAR   W  7-4      Zahn        Zahn                    Terrell     
+ 9/ 5/1984   @GCP   W  9-2      Smithson    Smithson                Young       
+ 9/ 6/1984   @FER   L  2-5      Tibbs       Tibbs                   Boddicker   
+ 9/ 7/1984   @FER   L  5-6      Davis       Schatzeder              Sutcliffe   
+ 9/ 8/1984   @FER   W 15-7      Zahn        Dawley                  Andujar     
+ 9/ 9/1984    CIN   W  4-3      Butcher     Waddell                 DeLeon      
+ 9/10/1984    CIN   L  1-3      Smithson    Smithson                Soto        
+ 9/11/1984    CIN   L  1-6      Tibbs       Tibbs                   Hough       
+ 9/14/1984    SUN   L  2-4      Smithson    Smithson                Perez       
+ 9/15/1984   @CEN   W  5-1      Davis       Dawley                  McWilliams  
+ 9/16/1984   @CEN   W  6-3      Butcher     Butcher     Caudill     Niekro      
+ 9/17/1984   @CEN   W  7-3      Camp        Camp        Waddell     Krukow      
+ 9/18/1984    BMB   W  4-2      Smithson    Dawley      Caudill     Nipper      
+                     Game Results:  1984 ChinaTrust Whales
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 9/19/1984    BMB   L  2-8      Allen       Allen                   Castillo    
+ 9/20/1984    BMB   L  4-7      Schatzeder  Schatzeder              Williams    
+ 9/24/1984    GAR   W  9-4      Honeycutt   Waddell                 Terrell     
+ 9/25/1984    GAR   W  6-0      Allen       Allen                   Terrell     
+ 9/26/1984    GAR   W 10-0      Zahn        Zahn                    Flanagan    
+ 9/27/1984   @GCP   W  6-0      Schatzeder  Schatzeder              Darwin      
+                       Injury Log: 1984 ChinaTrust Whales
+                                        
+ 
+-- Date -- #  Player      Cause                 Length
+ 
+ 4/ 9/1984    Moreland    Collision on bases      22
+ 4/23/1984    Rice        General                  0
+ 5/ 3/1984    Zahn        General                  5
+ 5/15/1984    Carlton     General                 10
+ 6/ 1/1984    Parrish     General                  0
+ 6/ 8/1984    Stanley     General                  2
+ 6/20/1984    Honeycutt   General                  5
+ 6/25/1984    Moreland    Collision in field      19
+ 6/28/1984    Concepcion  Hit by pitch            30
+ 7/13/1984    Pagliarulo  General                  2
+ 8/11/1984    Randolph    General                  3
+ 8/11/1984    Downing     General                  2
+ 9/15/1984    Davis       General                 10
+ 9/16/1984    Downing     General                  2
+              DMB League Transaction Log:  1984 ChinaTrust Whales
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+ 5/15/1984  CTW    DL           Steve Carlton         effective  5/16/1984  
+ 5/15/1984  CTW    Promote      Rick Camp           
+ 5/18/1984  CTW    Promote      Len Matuszek        
+ 5/18/1984  CTW    Farm         John Russell        
+ 5/30/1984  CTW    Farm         Rick Camp           
+ 5/30/1984  CTW    Activate     Steve Carlton       
+ 6/25/1984  CTW    Promote      John Russell        
+ 6/25/1984  CTW    DL           Keith Moreland        effective  6/26/1984  
+ 7/ 7/1984  CTW    Promote      Mike Pagliarulo     
+ 7/ 7/1984  CTW    DL           Onix Concepcion       effective  6/29/1984  
+ 7/12/1984  CTW    Acquire      Dale Murphy           from GAR
+ 7/12/1984  CTW    Acquire      Neil Allen            from GAR
+ 7/12/1984  CTW    TradeAway    Jim Rice              to GAR
+ 7/12/1984  CTW    TradeAway    Steve Bedrosian       to GAR
+ 7/14/1984  CTW    Farm         John Russell        
+ 7/14/1984  CTW    Activate     Keith Moreland      
+ 7/20/1984  CTW    Acquire      Bill Caudill          from CIN
+ 7/20/1984  CTW    Acquire      Mike Davis            from CIN
+ 7/20/1984  CTW    Acquire      Storm Davis           from CIN
+ 7/20/1984  CTW    Acquire      Dan Schatzeder        from CIN
+ 7/20/1984  CTW    Acquire      Mike Smithson         from CIN
+ 7/20/1984  CTW    TradeAway    Charlie Hough         to CIN
+ 7/20/1984  CTW    TradeAway    Mike Pagliarulo       to CIN
+ 7/20/1984  CTW    Farm         Neil Allen          
+ 7/20/1984  CTW    Farm         Len Matuszek        
+ 7/20/1984  CTW    Farm         Steve Carlton       
+ 8/ 3/1984  CTW    Farm         John Butcher        
+ 8/ 3/1984  CTW    Farm         Bill Schroeder      
+ 8/ 3/1984  CTW    Promote      Dwight Lowry        
+ 8/ 3/1984  CTW    Farm         Jay Tibbs           
+ 8/ 3/1984  CTW    Release      Neil Allen          
+ 8/ 3/1984  CTW    Release      Rick Camp           
+ 8/ 3/1984  CTW    Sign         Neil Allen          
+ 8/ 3/1984  CTW    Sign         Rick Camp           
+ 8/14/1984  CTW    Acquire      Mike Schmidt          from CEN
+ 8/14/1984  CTW    TradeAway    Larry Parrish         to CEN
+ 8/14/1984  CTW    TradeAway    Mike Davis            to CEN
+ 8/17/1984  CTW    Activate     Onix Concepcion     
+ 8/31/1984  CTW    Farm         Rafael Santana      
+ 8/31/1984  CTW    Promote      Steve Carlton       
+ 8/31/1984  CTW    Promote      Jay Tibbs           
+ 8/31/1984  CTW    Promote      John Butcher        
+ 8/31/1984  CTW    Promote      Len Matuszek        
+ 8/31/1984  CTW    Promote      Bill Schroeder      
+ 9/11/1984  CTW    Farm         Jay Tibbs           
+
+
+ 
+							
+							

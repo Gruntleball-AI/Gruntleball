@@ -1,0 +1,669 @@
+The Combat Rock League
+
+Baraboo Goitermen
+
+             DMB League Batting Statistics:  1982 Baraboo GoiterMen
+                                        
+ 
+ NAME         AVG   OBP   SPC   G  AB   H 2B 3B HR   R RBI  BB   K HB IW  SB CS
+ 
+ Aikens      .276  .348  .381 154 478 132 30  1  6  54  34  52  79  2 10   0  0 
+ Barfield    .222  .264  .297 107 333  74  4  0  7  32  29  18  86  2  1   0  2 
+ Bench       .229  .289  .348  77 201  46  9  0  5  13  21  17  34  0  0   1  0 
+rBergman     .321  .367  .431  79 137  44  3  3  2  18  13  10  16  0  0   1  1 
+ Berra       .238  .277  .340 138 391  93 23  1  5  31  29  17  66  4  0   1  2 
+ Bochte      .271  .352  .299  68 144  39  4  0  0   6  14  18  25  1  1   0  1 
+rBoggs       .339  .382  .381  89 381 129 13  0  1  43  19  27  31  1  0   0  0 
+ Dybzinski   .264  .323  .313 108 182  48  7  1  0  19  15  14  27  3  0   0  0 
+ Edwards     .235  .278  .353   7  17   4  2  0  0   0   1   1   5  0  0   0  0 
+rFranco      .306  .324  .306  11  36  11  0  0  0   2   7   1   3  0  0   0  1 
+rGwynn       .287  .336  .416  65 202  58 15  4  1  24  27  15  24  1  0   6  4 
+rHayes       .243  .276  .346 147 564 137 20  4 10  58  79  26  77  4  0  22  9 
+ Iorg        .195  .254  .233  86 236  46  9  0  0  16  16  19  26  0  1   0  0 
+ Johnson     .272  .356  .435  97  92  25  3  0  4   8  14  11  21  1  0   1  7 
+ Matthews    .250  .307  .378 150 569 142 23  1 16  63  66  47 117  1  2   4  3 
+rMattingly   .176  .176  .176   7  17   3  0  0  0   1   0   0   3  0  0   0  0 
+ Morales     .316  .391  .388  40  98  31  1  0  2  10   4  12   8  0  1   2  0 
+ Oester      .222  .278  .263  92  99  22  4  0  0   8   5   8  12  0  0   0  0 
+ Ray         .249  .277  .328 162 680 169 28  4  6  80  36  28  44  0  1  10  4 
+ Scioscia    .195  .262  .283 102 272  53 10  1  4  22  21  25  28  1  0   1  0 
+rVirgil      .213  .274  .352  46 108  23  9  0  2   7  14   9  28  0  0   0  0 
+ 
+rAlexander   .185  .185  .185  15  27   5  0  0  0   3   2   0   8  0  0   0  0 
+ Blue        .155  .167  .172  27  58   9  1  0  0   2   5   1  12  0  0   0  1 
+ Chiffer     .000  .000  .000  28   2   0  0  0  0   0   0   0   2  0  0   0  0 
+rDravecky    .188  .188  .188  45  32   6  0  0  0   1   1   0   8  0  0   0  0 
+rGarrelts   1.000 1.000 1.000   2   1   1  0  0  0   0   0   0   0  0  0   0  0 
+ Hickey      .000  .000  .000  25   2   0  0  0  0   0   0   0   1  0  0   0  0 
+ John        .132  .154  .132  47  38   5  0  0  0   2   3   1  10  0  0   0  0 
+rLaCoss      .182  .182  .182  78  11   2  0  0  0   0   0   0   1  0  0   0  0 
+ O'Connor    .000  .000  .000  18   5   0  0  0  0   0   0   0   2  0  0   0  0 
+ Scott       .239  .239  .304  27  46  11  3  0  0   3  10   0  12  0  0   0  0 
+ Slaton      .091  .091  .091   7  11   1  0  0  0   0   0   0   6  0  0   0  0 
+rSmith       .000  .000  .000  57   5   0  0  0  0   0   0   0   1  0  0   0  0 
+rTidrow      .000  .000  .000  68  12   0  0  0  0   0   0   0   3  0  0   0  0 
+rViola       .109  .128  .109  22  46   5  0  0  0   5   2   1  19  0  0   0  0 
+rWelch       .143  .171  .169  38  77  11  2  0  0   4   6   2  25  1  0   0  0 
+
+ Team Total  .247  .295  .332 162    1385    20    535     380     22     49
+                                 5610    223    71     493     870    17     35
+           DMB League Batting Splits:  1982 Baraboo GoiterMen-- vsLHP
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Aikens       .165  .225  .237   139   23    7    0    1    6   10   33   0   1
+ Barfield     .198  .237  .292   202   40    1    0    6   21   10   52   0   2
+ Bench        .250  .317  .393   112   28    7    0    3   14   11   15   0   0
+rBergman      .071  .133  .286    14    1    0    0    1    2    1    4   0   0
+ Berra        .257  .278  .349   175   45   13    0    1   11    4   28   1   0
+ Bochte       .235  .289  .259    81   19    2    0    0   10    6   19   0   2
+rBoggs        .317  .358  .338   142   45    3    0    0    8    8   19   0   0
+ Dybzinski    .154  .195  .179    39    6    1    0    0    4    1    4   0   0
+ Edwards      .286  .333  .429    14    4    2    0    0    1    1    4   0   0
+rFranco       .000  .000  .000    10    0    0    0    0    0    0    1   0   0
+rGwynn        .360  .360  .400    25    9    1    0    0    4    0    4   0   0
+rHayes        .245  .276  .319   188   46    5    3    1   17    4   39   4   0
+ Iorg         .257  .278  .286    35    9    1    0    0    3    1    6   0   0
+ Johnson      .295  .382  .487    78   23    3    0    4   14   10   17   2   0
+ Matthews     .268  .298  .433   164   44    9    0    6   22    7   31   0   0
+rMattingly    .000  .000  .000     6    0    0    0    0    0    0    3   0   0
+ Morales      .371  .443  .468    62   23    0    0    2    4    8    5   0   0
+ Oester       .233  .324  .300    30    7    2    0    0    1    4    3   1   0
+ Ray          .240  .273  .299   221   53   13    0    0    6   10   21   2   0
+ Scioscia     .089  .106  .111    45    4    1    0    0    2    1   10   1   1
+rVirgil       .154  .241  .212    52    8    3    0    0    3    6   10   0   0
+ 
+rAlexander    .250  .250  .250    12    3    0    0    0    1    0    3   0   0
+ Blue         .227  .217  .227    22    5    0    0    0    3    0    5   0   1
+ Chiffer      .000  .000  .000     1    0    0    0    0    0    0    1   0   0
+rDravecky     .200  .200  .200    10    2    0    0    0    0    0    1   1   0
+ John         .167  .211  .167    18    3    0    0    0    1    1    3   0   0
+rLaCoss       .400  .400  .400     5    2    0    0    0    0    0    1   0   0
+ O'Connor     .000  .000  .000     2    0    0    0    0    0    0    1   0   0
+ Scott        .286  .286  .429    14    4    2    0    0    3    0    5   0   0
+ Slaton       .000  .000  .000     3    0    0    0    0    0    0    2   0   0
+rSmith        .000  .000  .000     2    0    0    0    0    0    0    0   0   0
+rTidrow       .000  .000  .000     2    0    0    0    0    0    0    1   0   0
+rViola        .067  .125  .067    15    1    0    0    0    0    1   10   0   0
+rWelch        .071  .156  .071    28    2    0    0    0    1    2   10   1   1
+ 
+ Team Total   .233  .274  .313  1968  459   76    3   25  162  107  371  13   8
+           DMB League Batting Splits:  1982 Baraboo GoiterMen-- vsRHP
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Aikens       .322  .396  .440   339  109   23    1    5   28   42   46   0   2
+ Barfield     .260  .305  .305   131   34    3    0    1    8    8   34   1   1
+ Bench        .202  .253  .292    89   18    2    0    2    7    6   19   0   0
+rBergman      .350  .394  .447   123   43    3    3    1   11    9   12   0   0
+ Berra        .222  .276  .333   216   48   10    1    4   18   13   38   1   0
+ Bochte       .317  .427  .349    63   20    2    0    0    4   12    6   0   0
+rBoggs        .351  .396  .406   239   84   10    0    1   11   19   12   1   2
+ Dybzinski    .294  .356  .350   143   42    6    1    0   11   13   23   0   2
+ Edwards      .000  .000  .000     3    0    0    0    0    0    0    1   0   0
+rFranco       .423  .444  .423    26   11    0    0    0    7    1    2   0   0
+rGwynn        .277  .333  .418   177   49   14    4    1   23   15   20   2   2
+rHayes        .242  .276  .359   376   91   15    1    9   62   22   38   1  11
+ Iorg         .184  .250  .224   201   37    8    0    0   13   18   20   1   1
+ Johnson      .143  .200  .143    14    2    0    0    0    0    1    4   0   0
+ Matthews     .242  .311  .356   405   98   14    1   10   44   40   86   0   1
+rMattingly    .273  .273  .273    11    3    0    0    0    0    0    0   0   0
+ Morales      .222  .300  .250    36    8    1    0    0    0    4    3   0   0
+ Oester       .217  .257  .246    69   15    2    0    0    4    4    9   0   1
+ Ray          .253  .280  .342   459  116   15    4    6   30   18   23   4   2
+ Scioscia     .216  .290  .317   227   49    9    1    4   19   24   18   0   3
+rVirgil       .268  .305  .482    56   15    6    0    2   11    3   18   1   0
+ 
+rAlexander    .133  .133  .133    15    2    0    0    0    1    0    5   1   0
+ Blue         .111  .135  .139    36    4    1    0    0    2    1    7   0   0
+ Chiffer      .000  .000  .000     1    0    0    0    0    0    0    1   1   0
+rDravecky     .182  .182  .182    22    4    0    0    0    1    0    7   0   0
+rGarrelts    1.000 1.000 1.000     1    1    0    0    0    0    0    0   0   0
+ Hickey       .000  .000  .000     2    0    0    0    0    0    0    1   0   0
+ John         .100  .100  .100    20    2    0    0    0    2    0    7   0   0
+rLaCoss       .000  .000  .000     6    0    0    0    0    0    0    0   0   0
+ O'Connor     .000  .000  .000     3    0    0    0    0    0    0    1   0   0
+ Scott        .219  .219  .250    32    7    1    0    0    7    0    7   1   0
+ Slaton       .125  .125  .125     8    1    0    0    0    0    0    4   1   0
+rSmith        .000  .000  .000     3    0    0    0    0    0    0    1   0   0
+rTidrow       .000  .000  .000    10    0    0    0    0    0    0    2   0   0
+rViola        .129  .129  .129    31    4    0    0    0    2    0    9   0   0
+rWelch        .184  .180  .224    49    9    2    0    0    5    0   15   3   1
+ 
+ Team Total   .254  .304  .342  3642  926  147   17   46  331  273  499  19  29
+     DMB League Games Started by Position:  1982 Baraboo GoiterMen-- vsLHP
+                                        
+ 
+ NAME           C   1B   2B   3B   SS   LF   CF   RF
+ 
+ Scioscia       7    0    0    0    0    0    0    0
+rVirgil        12    0    0    0    0    0    0    0
+ Aikens         0   26    0    0    0    0    0    0
+ Bench         34    0    0    0    0    0    0    0
+rBergman        0    0    0    0    0    0    0    0
+ Berra          0    0    0    0   50    0    0    0
+rBoggs          0    0    0   28    0    0    0    0
+ Dybzinski      0    0    0    0    1    0    0    0
+rFranco         0    0    0    0    2    0    0    0
+ Iorg           0    0    0    0    0    0    0    0
+ Johnson        0    0    0    0    0   11    5    0
+rMattingly      0    2    0    0    0    0    0    0
+ Oester         0    0    0    6    0    0    0    0
+ Ray            0    0   53    0    0    0    0    0
+ Barfield       0    0    0    0    0    0    0   53
+ Bochte         0   25    0    0    0    0    0    0
+rGwynn          0    0    0    0    0    0    0    0
+rHayes          0    0    0   19    0    0   28    0
+ Matthews       0    0    0    0    0   37    0    0
+ Morales        0    0    0    0    0    0   20    0
+ Edwards        0    0    0    0    0    5    0    0
+ 
+ Team Total    53   53   53   53   53   53   53   53
+     DMB League Games Started by Position:  1982 Baraboo GoiterMen-- vsRHP
+                                        
+ 
+ NAME           C   1B   2B   3B   SS   LF   CF   RF
+ 
+ Scioscia      84    0    0    0    0    0    0    0
+rVirgil        14    0    0    0    0    0    0    0
+ Aikens         0  104    0    0    0    0    0    0
+ Bench         11    0    0    0    0    0    0    0
+rBergman        0    0    0    0    0    0    0   18
+ Berra          0    0    0    0   47    0    0    0
+rBoggs          0    0    0   61    0    0    0    0
+ Dybzinski      0    0    0    0   53    0    0    0
+rFranco         0    0    0    0    9    0    0    0
+ Iorg           0    0    0   48    0    0    0    8
+ Johnson        0    0    0    0    0    0    0    0
+rMattingly      0    5    0    0    0    0    0    0
+ Oester         0    0    0    0    0    0    0    0
+ Ray            0    0  109    0    0    0    0    0
+ Barfield       0    0    0    0    0    5    9   21
+ Bochte         0    0    0    0    0    9    0    0
+rGwynn          0    0    0    0    0    0    0   53
+rHayes          0    0    0    0    0    0  100    0
+ Matthews       0    0    0    0    0   95    0    9
+ Morales        0    0    0    0    0    0    0    0
+ Edwards        0    0    0    0    0    0    0    0
+ 
+ Team Total   109  109  109  109  109  109  109  109
+            DMB League Pitching Statistics:  1982 Baraboo GoiterMen
+                                        
+ 
+ NAME         ERA  W  L  S   G GS CG SH    IP   H   R  ER  BB   K   BF HR WP DP
+ 
+rAlexander   6.98  3  7  0  14 14  0  0  68.1  93  56  53  16  40  310 18  0  2
+ Blue        2.00 11 10  0  27 26  3  3 175.2 132  47  39  59 113  700  9  4 12
+ Chiffer     3.00  0  1  7  28  0  0  0  39.0  28  16  13  18  26  166  4  0  2
+rDravecky    2.54  8 10 15  45 13  1  0 113.1 104  40  32  32  54  466 10  0 10
+rGarrelts   12.00  0  0  0   2  0  0  0   3.0   7   4   4   2   4   18  1  0  0
+ Hickey      1.99  4  3  3  25  0  0  0  31.2  37  13   7   6  24  138  1  0  1
+ John        4.05  6 11  0  47 18  4  0 153.1 184  80  69  20  69  643 12  3 19
+rLaCoss      3.99  4  3  2  78  0  0  0 121.2 126  62  54  66  54  525  8  9 30
+ O'Connor    2.92  1  1  0  18  0  0  0  37.0  31  15  12  16  26  157  4  0  2
+ Scott       5.36  4 17  0  27 26  0  0 131.0 157  94  78  64  53  605 21  0 15
+ Slaton      5.34  0  4  0   7  5  0  0  32.0  36  22  19  15  20  143  6  0  2
+rSmith       5.37  0  4  2  57  0  0  0  68.2  78  46  41  35  24  304  4  3 15
+rTidrow      3.26  2  4  0  68  0  0  0 110.1 123  47  40  24  63  469  6  0  9
+rViola       4.43  5 13  0  22 22  1  1 124.0 165  72  61  30  90  554 18  2  9
+rWelch       4.02 11 15  0  38 38  4  3 244.0 214 124 109  94 185 1033 30  5 13
+
+ Team Total  3.91   103    162    13   1453.0     738     497     6231    26
+                  59    29    162    13      1515     631     845     152   141
+ 
+ 
+ NAME          IW HBP  WP  BK  CI   H/9  BB/9   R/9   K/9  HR/9
+ 
+rAlexander      2   0   0  12   0  12.2   2.1  14.4   5.3   2.4
+ Blue           1   1   4   0   0   6.8   3.0   9.8   5.8   0.5
+ Chiffer        0   3   0   0   0   6.5   4.2  11.3   6.0   0.9
+rDravecky       3   1   0   1   0   8.3   2.5  10.9   4.3   0.8
+rGarrelts       0   1   0   0   0  21.0   6.0  30.0  12.0   3.0
+ Hickey         0   2   0   0   0  10.5   1.7  12.8   6.8   0.3
+ John           0   2   3   3   0  10.8   1.2  12.1   4.0   0.7
+rLaCoss         2   7   9   1   0   9.3   4.9  14.7   4.0   0.6
+ O'Connor       0   1   0   1   0   7.5   3.9  11.7   6.3   1.0
+ Scott          0   1   0   2   0  10.8   4.4  15.3   3.6   1.4
+ Slaton         0   0   0   0   0  10.1   4.2  14.3   5.6   1.7
+rSmith          0   0   3   5   0  10.2   4.6  14.8   3.1   0.5
+rTidrow         2   3   0   0   0  10.0   2.0  12.2   5.1   0.5
+rViola          0   0   2   0   0  12.0   2.2  14.2   6.5   1.3
+rWelch          0  11   5   2   0   7.9   3.5  11.8   6.8   1.1
+
+ Team Total    10  33  26  27   0   9.4   3.1  12.7   5.2   0.9
+            DMB League Pitching Statistics:  1982 Baraboo GoiterMen
+                                        
+ 
+ NAME         AVG   OBP   SPC   BF   AB    H  2B  3B  HR   TB  SH  SF
+ 
+rAlexander   .325  .355  .615  310  286   93  21   4  18  176   3   5
+ Blue        .210  .277  .302  700  629  132  25   3   9  190   6   5
+ Chiffer     .193  .295  .297  166  145   28   3   0   4   43   0   0
+rDravecky    .243  .296  .367  466  428  104  17   3  10  157   3   2
+rGarrelts    .467  .556  .867   18   15    7   3   0   1   13   0   0
+ Hickey      .289  .328  .359  138  128   37   6   0   1   46   1   1
+ John        .301  .323  .432  643  611  184  22  11  12  264   6   4
+rLaCoss      .289  .386  .392  525  436  126  21   0   8  171  10   6
+ O'Connor    .225  .306  .384  157  138   31   8   1   4   53   0   2
+ Scott       .297  .372  .473  605  529  157  28   1  21  250   8   3
+ Slaton      .288  .364  .464  143  125   36   4   0   6   58   3   0
+rSmith       .298  .374  .443  304  262   78  14   6   4  116   2   5
+rTidrow      .282  .323  .383  469  436  123  18   4   6  167   4   2
+rViola       .320  .353  .480  554  515  165  18   5  18  247   2   7
+rWelch       .237  .313  .395 1033  902  214  38   7  30  356  14  12
+
+ Team Total  .271  .331  .413      5585      246     152       62
+                              6231      1515      45     2307      54
+ 
+ 
+ NAME          GS  CG   CG% SHo  QS   QS%   RS RS/G  RL RLS   RL%
+ 
+rAlexander     14   0  .000   0   2  .143   64  4.6  10   3  .300
+ Blue          26   3  .115   3  18  .692   82  3.2   7   3  .429
+ Chiffer        0   0  .000   0   0  .000    0  0.0   6   0  .000
+rDravecky      13   1  .077   0   8  .615   38  2.9   6   1  .167
+rGarrelts       0   0  .000   0   0  .000    0  0.0   2   1  .500
+ Hickey         0   0  .000   0   0  .000    0  0.0   9   3  .333
+ John          18   4  .222   0  10  .556   53  2.9  13   4  .308
+rLaCoss         0   0  .000   0   0  .000    0  0.0  31  11  .355
+ O'Connor       0   0  .000   0   0  .000    0  0.0   6   0  .000
+ Scott         26   0  .000   0   8  .308   88  3.4  21  10  .476
+ Slaton         5   0  .000   0   3  .600   15  3.0   5   2  .400
+rSmith          0   0  .000   0   0  .000    0  0.0  27  11  .407
+rTidrow         0   0  .000   0   0  .000    0  0.0  28   5  .179
+rViola         22   1  .045   1   9  .409   65  3.0  20   9  .450
+rWelch         38   4  .105   3  22  .579  130  3.4  14   3  .214
+
+ Team Total   162      .080      80        535      205      .322
+                   13        13      .494       3.3      66
+            DMB League Pitching Statistics:  1982 Baraboo GoiterMen
+                                        
+ 
+ NAME         SvO  Sv   Sv%  BSv  BSv%  IR  IRS   IR%    G  RA   RA%  GF   GF%
+ 
+rAlexander      0   0  .000    0  .000   0    0  .000   14   0  .000   0  .000
+ Blue           0   0  .000    0  .000   0    0  .000   27   1  .037   0  .000
+ Chiffer       10   7  .700    2  .200  20    6  .300   28  28 1.000  15  .536
+rDravecky      19  15  .789    4  .211  19    5  .263   45  32  .711  28  .875
+rGarrelts       0   0  .000    0  .000   1    0  .000    2   2 1.000   0  .000
+ Hickey         8   3  .375    1  .125   9    1  .111   25  25 1.000  14  .560
+ John           0   0  .000    0  .000  17   10  .588   47  29  .617  12  .414
+rLaCoss        18   2  .111    6  .333  55   18  .327   78  78 1.000  31  .397
+ O'Connor       2   0  .000    0  .000   2    0  .000   18  18 1.000   4  .222
+ Scott          0   0  .000    0  .000   0    0  .000   27   1  .037   0  .000
+ Slaton         0   0  .000    0  .000   0    0  .000    7   2  .286   1  .500
+rSmith         12   2  .167    0  .000  30    8  .267   57  57 1.000  26  .456
+rTidrow         7   0  .000    3  .429  52   18  .346   68  68 1.000  18  .265
+rViola          0   0  .000    0  .000   0    0  .000   22   0  .000   0  .000
+rWelch          0   0  .000    0  .000   0    0  .000   38   0  .000   0  .000
+
+ Team Total    76      .382       .211       66        503      .678      .437
+                   29         16       205       .322      341       149
+          DMB League Pitching Splits:  1982 Baraboo GoiterMen-- vsLHB
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+rAlexander    .331  .357  .601   148   49    7    0   11   26    7   20   3   2
+ Blue         .200  .276  .231   130   26    4    0    0    3   13   23   1   1
+ Chiffer      .237  .366  .254    59   14    1    0    0    4   11   10   0   0
+rDravecky     .200  .256  .338    80   16    4    2    1    8    6   26   1   0
+rGarrelts     .000  .000  .000     5    0    0    0    0    0    0    2   0   0
+ Hickey       .231  .302  .256    39    9    1    0    0    1    3   10   0   0
+ John         .345  .374  .480   148   51    3    4    3   19    7   19   0   0
+rLaCoss       .328  .410  .423   201   66   10    0    3   37   29   21   1   3
+ O'Connor     .152  .282  .242    33    5    0    0    1    3    6   11   0   0
+ Scott        .310  .381  .527   258   80   14    0   14   44   30   16   1   2
+ Slaton       .308  .357  .500    78   24    3    0    4   11    6    8   2   0
+rSmith        .234  .287  .396   111   26    7    1    3   19    9   14   1   2
+rTidrow       .307  .348  .449   176   54   11    1    4   29   10   19   0   0
+rViola        .323  .326  .492   124   40    1    4    4   14    2   26   0   3
+rWelch        .277  .337  .422   419  116   14    4   13   59   41   54   9   6
+ 
+ Team Total   .287  .341  .434  2009  576   80   16   61  277  180  279  19  19
+          DMB League Pitching Splits:  1982 Baraboo GoiterMen-- vsRHB
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+rAlexander    .319  .353  .630   138   44   14    4    7   24    9   20   0   3
+ Blue         .212  .277  .321   499  106   21    3    9   36   46   90   5   4
+ Chiffer      .163  .242  .326    86   14    2    0    4   17    7   16   0   0
+rDravecky     .253  .305  .374   348   88   13    1    9   32   26   28   2   2
+rGarrelts     .700  .769 1.300    10    7    3    0    1    3    2    2   0   0
+ Hickey       .315  .340  .404    89   28    5    0    1   10    3   14   1   1
+ John         .287  .307  .417   463  133   19    7    9   60   13   50   6   4
+rLaCoss       .255  .367  .366   235   60   11    0    5   24   37   33   9   3
+ O'Connor     .248  .314  .429   105   26    8    1    3   12   10   15   0   2
+ Scott        .284  .363  .421   271   77   14    1    7   34   34   37   7   1
+ Slaton       .255  .375  .404    47   12    1    0    2    7    9   12   1   0
+rSmith        .344  .433  .477   151   52    7    5    1   22   26   10   1   3
+rTidrow       .265  .306  .338   260   69    7    3    2   28   14   44   4   2
+rViola        .320  .362  .476   391  125   17    1   14   46   28   64   2   4
+rWelch        .203  .293  .371   483   98   24    3   17   55   53  131   5   6
+ 
+ Team Total   .263  .321  .402  3576  939  166   29   91  410  317  566  43  35
+            DMB League Fielding Statistics:  1982 Baraboo GoiterMen
+                                        
+ 
+POS NAME             G    GS    PO     A     E    DP    TC     PCT   PB
+ 
+p  rWelch           38    38    16    32     3     0    51    .941
+    Blue            27    26    11    20     3     0    34    .912
+    John            47    18    14    19     1     0    34    .971
+    Scott           27    26     8    23     2     2    33    .939
+   rViola           22    22     9    14     4     1    27    .852
+   rLaCoss          78     0     5    16     2     2    23    .913
+   rDravecky        45    13    11    12     0     0    23   1.000
+   rTidrow          68     0     4    16     0     0    20   1.000
+   rAlexander       14    14     6     8     0     1    14   1.000
+   rSmith           57     0     3     7     3     3    13    .769
+    O'Connor        18     0     5     3     0     0     8   1.000
+    Hickey          25     0     3     5     0     0     8   1.000
+    Slaton           7     5     1     3     1     0     5    .800
+    Chiffer         28     0     1     4     0     0     5   1.000
+   rGarrelts         2     0     0     0     0     0     0    .000
+                   503   162    97   182    19     9   298    .936
+ 
+c   Scioscia        96    91   447    43     8     2   498    .984    7
+    Bench           68    45   294    26     7     1   327    .979    0
+   rVirgil          43    26   170    12     1     0   183    .995    4
+                   207   162   911    81    16     3  1008    .984   11
+ 
+1b  Aikens         136   130  1144   109     5   117  1258    .996
+    Bochte          30    25   254    23     0    23   277   1.000
+   rMattingly        7     7    57     1     0     2    58   1.000
+    Iorg             5     0    15     1     0     2    16   1.000
+   rBergman          6     0    14     1     0     2    15   1.000
+    Bench            1     0     2     0     0     0     2   1.000
+                   185   162  1486   135     5   146  1626    .997
+ 
+2b  Ray            162   162   329   504    18   116   851    .979
+    Oester          11     0     3     6     0     2     9   1.000
+   rHayes            1     0     1     0     0     0     1   1.000
+                   174   162   333   510    18   118   861    .979
+ 
+3b rBoggs           89    89    75   195    14    18   284    .951
+    Iorg            50    48    36    99     8     9   143    .944
+   rHayes           19    19    14    33     2     8    49    .959
+    Oester           8     6     1    12     0     1    13   1.000
+    Dybzinski        1     0     0     0     0     0     0    .000
+                   167   162   126   339    24    36   489    .951
+ 
+ss  Berra          114    97   157   331    21    66   509    .959
+    Dybzinski       91    54    91   180     9    37   280    .968
+   rFranco          11    11     8    26     1     4    35    .971
+    Oester          15     0    10    13     0     3    23   1.000
+                   231   162   266   550    31   110   847    .963
+            DMB League Fielding Statistics:  1982 Baraboo GoiterMen
+                                        
+ 
+POS NAME             G    GS    PO     A     E    DP    TC     PCT   PB
+ 
+lf  Matthews       134   132   297    14    11     5   322    .966
+    Johnson         43    11    43     1     0     0    44   1.000
+    Bochte          13     9    19     1     1     1    21    .952
+    Edwards          6     5    16     0     0     0    16   1.000
+    Barfield         7     5     6     0     0     0     6   1.000
+   rGwynn            1     0     2     0     0     0     2   1.000
+    Morales          1     0     0     0     0     0     0    .000
+                   205   162   383    16    12     6   411    .971
+ 
+cf rHayes          128   128   325    20     5     0   350    .986
+    Morales         27    20    54     3     1     1    58    .983
+    Barfield         9     9    22     1     0     0    23   1.000
+    Johnson         18     5    20     0     1     0    21    .952
+   rGwynn            2     0     3     0     0     0     3   1.000
+                   184   162   424    24     7     1   455    .985
+ 
+rf  Barfield        85    74   155     6    16     0   177    .910
+   rGwynn           56    53   102     8     2     1   112    .982
+   rBergman         25    18    34     4     2     2    40    .950
+    Matthews         9     9    20     0     0     0    20   1.000
+    Iorg             9     8    12     0     2     0    14    .857
+    Johnson          6     0     4     1     0     1     5   1.000
+   rHayes            5     0     4     0     0     0     4   1.000
+    Morales          1     0     2     0     0     0     2   1.000
+                   196   162   333    19    22     4   374    .941
+ 
+    Team Total     162   162  4359  1856   154   159  6369    .976   11
+                     Game Results:  1982 Baraboo GoiterMen
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 6/ 4/1999    JJJ   L  4-7      Welch       Welch                   Gullickson  
+ 6/ 5/1999    JJJ   L  0-3      Scott       LaCoss                  Guidry      
+ 6/ 6/1999    JJJ   L  1-4      Viola       Viola                   Zahn        
+ 6/ 7/1999    LON   W  6-3      Alexander   Alexander   Dravecky    Mahler      
+ 6/10/1999   @GCP   W  4-2      Welch       Welch       Smith       Montefusco  
+ 6/11/1999   @GCP   L  3-7      Scott       Scott                   Reuss       
+ 6/12/1999   @GCP   L  3-5      Viola       Viola                   Sarmiento   
+ 6/13/1999   @GCP   L  4-5      Alexander   Dravecky                Barker      
+ 6/14/1999   @GCP   L  1-14     Welch       Welch                   Beattie     
+ 6/15/1999   @GCP   W  6-5      Scott       Scott       Dravecky    Montefusco  
+ 6/16/1999   @CIN   L  1-5      Viola       Viola                   Righetti    
+ 6/17/1999   @CIN   L  1-5      Alexander   Alexander               Smithson    
+ 6/18/1999   @CIN   W  8-6      Welch       Dravecky                Davis       
+ 6/19/1999   @PAR   L  1-3      Scott       Tidrow                  Hoyt        
+ 6/20/1999   @PAR   W  3-1      Viola       Viola       Dravecky    Niekro, P   
+ 6/22/1999   @LON   W 13-2      Alexander   Alexander               Orosco      
+ 6/23/1999   @LON   W  4-2      Welch       Welch       Dravecky    Rhoden      
+ 6/24/1999   @LON   W  8-1      Scott       Scott                   Mahler      
+ 6/25/1999    CIN   L  2-5      Viola       Viola                   Soto        
+ 6/26/1999    CIN   L  2-10     Alexander   Alexander               Petry       
+ 6/27/1999    CIN   W  5-1      Welch       Welch       Dravecky    Berenyi     
+ 6/28/1999    SUN   L  1-12     Scott       Scott                   Lea         
+ 6/29/1999    SUN   L  2-6      Viola       Viola                   Candelaria  
+ 6/30/1999    SUN   W  5-4      Alexander   Alexander   Dravecky    Palmer, D   
+ 7/ 1/1999   @JJJ   W  4-2      Welch       Welch       Dravecky    Jenkins     
+ 7/ 2/1999   @JJJ   L  2-3      Scott       Scott                   Breining    
+ 7/ 3/1999   @JJJ   L  4-5      Viola       Viola                   Gullickson  
+ 7/ 4/1999    GCP   L  0-3      Alexander   Alexander               Berenguer   
+ 7/ 5/1999    GCP   L  3-8      Welch       Welch                   Holland     
+ 7/ 6/1999    GCP   L  1-15     Scott       Scott                   Reuss       
+ 7/ 7/1999   @NYH   L  2-7      Viola       Viola                   Ujdur       
+ 7/ 9/1999   @GCP   L  8-10     Alexander   Alexander               Barker      
+ 7/10/1999   @GCP   W  8-6  11  Welch       Dravecky                Berenguer   
+ 7/11/1999   @GCP   L  6-9      Scott       Scott                   Montefusco  
+ 7/13/1999    NYH   L  1-7      Viola       Viola                   Ujdur       
+ 7/14/1999    NYH   L  5-6  10  Alexander   Dravecky                Witt        
+ 7/16/1999    GCP   W  9-4      Welch       Welch                   Barker      
+ 7/17/1999    BMB   L  3-6      Scott       Scott                   Leal        
+ 7/18/1999    BMB   W  6-4      Viola       LaCoss      Dravecky    Denny       
+ 7/19/1999    BMB   L  4-14     Alexander   Alexander               Rogers      
+ 7/22/1999    BAR   L  0-8      Welch       Welch                   Tanana      
+ 7/23/1999    BAR   L  2-4      Scott       Scott                   Blyleven    
+ 7/24/1999   @JJJ   W  4-0      Viola       Viola                   Guidry      
+ 7/25/1999   @JJJ   L  6-7      Alexander   Dravecky                Zahn        
+ 7/26/1999   @JJJ   W  4-3      Welch       John        Dravecky    Jenkins     
+ 7/27/1999   @JJJ   L  4-7      Scott       Scott                   Breining    
+ 7/28/1999   @CEN   L  5-8      Viola       Smith                   Forsch, K   
+ 7/29/1999   @CEN   L  2-7      Alexander   Alexander               McWilliams  
+ 7/30/1999   @CEN   L  0-1      Welch       Welch                   Swan        
+ 8/ 3/1999   @JJJ   L  1-5      Scott       Scott                   Gullickson  
+ 8/ 4/1999   @JJJ   W  2-1      Viola       Viola       Dravecky    Guidry      
+ 8/ 6/1999    PAR   L  2-8      Alexander   Alexander               Flanagan    
+                     Game Results:  1982 Baraboo GoiterMen
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 8/ 7/1999    PAR   L  3-4      Welch       Welch                   Valenzuela  
+ 8/ 8/1999    PAR   L  1-5      Scott       Scott                   Hoyt        
+ 8/ 9/1999   @PAR   L  2-6      Viola       Viola                   Niekro, P   
+ 8/10/1999   @PAR   W  6-2      Alexander   LaCoss      Dravecky    Christnson  
+ 8/11/1999   @PAR   W  7-4  12  Welch       John                    Flanagan    
+ 8/13/1999   @CIN   L  1-3      Scott       Scott                   Soto        
+ 8/14/1999   @CIN   W 10-6      Viola       Viola                   Petry       
+ 8/15/1999   @CIN   W  5-3      Blue        Blue        Dravecky    Berenyi     
+ 8/17/1999    JJJ   W  6-5      Welch       Dravecky                Guidry      
+ 8/18/1999    JJJ   L  2-4      Scott       LaCoss                  Zahn        
+ 8/20/1999   @LDL   L  2-6      Viola       Viola                   Havens      
+ 8/21/1999   @LDL   W  4-0      Blue        Blue                    Gura        
+ 8/22/1999   @BOS   W  2-0      Welch       Welch                   Vuckovich   
+ 8/23/1999   @BOS   L  5-7      Scott       Scott                   Palmer      
+ 8/24/1999   @FER   W  6-5      Viola       Dravecky    Smith       Andujar     
+ 8/25/1999   @FER   L  0-3      Blue        Blue                    Sutton      
+ 8/26/1999   @FER   L  3-5      Welch       Smith                   Sutcliffe   
+ 8/27/1999   @LON   W  8-2      Scott       Scott                   Orosco      
+ 8/28/1999   @LON   L  3-8      Viola       Viola                   Rhoden      
+ 8/29/1999    LON   W  3-0      Blue        Blue                    Mahler      
+ 8/30/1999    SUN   L  2-3  10  Welch       Dravecky                Tudor       
+ 9/ 1/1999    CTW   L  5-6  12  Scott       Smith                   Laskey      
+ 9/ 2/1999    CTW   L  2-7      Viola       Viola                   Ruthven     
+ 9/ 3/1999    CEN   W  7-6  10  Blue        LaCoss                  McWilliams  
+ 9/ 4/1999    CEN   L  0-6      Welch       Welch                   Swan        
+ 9/ 5/1999   @FER   L  3-4      Scott       Scott                   Shirley     
+ 9/ 7/1999   @LDL   L  0-3      Viola       Viola                   Gura        
+ 9/ 8/1999   @LDL   W  6-2      Blue        Blue                    Eckersley   
+ 9/ 9/1999    BAR   L  5-6  12  Welch       Dravecky                Smith,B     
+ 9/10/1999    BAR   L  2-7      Scott       Scott                   Stieb       
+ 9/14/1999    BAR   W  3-1  10  Viola       Dravecky                Morris      
+ 9/15/1999    JJJ   W  3-0      Blue        Blue        Dravecky    Guidry      
+ 9/16/1999    JJJ   L  4-9      Welch       Welch                   Zahn        
+ 9/17/1999    JJJ   W  7-6      Scott       Scott       Dravecky    Jenkins     
+ 9/18/1999    JJJ   W  1-0      Viola       Viola       Dravecky    Dotson      
+ 9/19/1999    CEN   L  3-5      Blue        Blue                    Forsch, K   
+ 9/20/1999    CEN   L  9-14     Welch       Tidrow                  McWilliams  
+ 9/21/1999    CEN   L  1-4      Scott       Scott                   Swan        
+ 9/22/1999   @NYH   L  0-4      Dravecky    Dravecky                Lollar      
+ 9/23/1999   @NYH   W  3-0      Blue        Blue        LaCoss      Ujdur       
+ 9/24/1999   @NYH   W  8-2      Welch       Welch                   Witt        
+ 9/26/1999    CTW   W 10-5      Scott       Tidrow                  Barr        
+ 9/27/1999    CTW   L  0-5  10  Dravecky    Hickey                  Forsch, B   
+ 9/28/1999    PAR   L  2-4      Blue        Blue                    Flanagan    
+ 9/29/1999    PAR   W  5-0      Welch       Welch                   Valenzuela  
+ 9/30/1999    PAR   L  1-7      John        John                    Hoyt        
+10/ 1/1999    PAR   L  0-2      Dravecky    Dravecky                Niekro, P   
+10/ 2/1999   @SUN   L  4-7      Blue        Chiffer                 Candelaria  
+10/ 3/1999   @SUN   W  6-5      Welch       LaCoss      Hickey      Stuper      
+10/ 4/1999   @SUN   L  2-5      John        John                    Reed,R      
+10/ 5/1999   @BMB   L  2-4      Slaton      Slaton                  Rogers      
+10/ 6/1999   @BMB   L  1-2      Blue        Blue                    Clancy      
+                     Game Results:  1982 Baraboo GoiterMen
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+10/ 7/1999    FER   L  1-4      Welch       Welch                   Sutcliffe   
+10/ 8/1999    FER   W  5-4      John        John        LaCoss      Hammaker    
+10/ 9/1999   @BMB   L  6-8      Dravecky    LaCoss                  Denny       
+10/10/1999   @BMB   L  1-3      Blue        Smith                   Rogers      
+10/11/1999   @BMB   L  2-4  12  Welch       Hickey                  Clancy      
+10/12/1999    LDL   L  1-2      John        John                    Caldwell    
+10/13/1999    LDL   L  3-5  15  Dravecky    Hickey                  McGregor    
+10/14/1999    LDL   L  2-4      Blue        Blue                    Seaver      
+10/16/1999    CIN   W  4-3  10  Welch       Hickey                  Righetti    
+10/17/1999    CIN   L  1-2  10  John        John                    Falcone     
+10/19/1999   @BAR   L  3-10     Dravecky    Dravecky                Darwin      
+10/20/1999   @SUN   L  3-9      Blue        Blue                    Proly       
+10/21/1999   @SUN   L  0-11     Welch       Welch                   Whitson     
+10/22/1999    BOS   W 10-1      John        John                    Robinson,D  
+10/23/1999    BOS   W  4-1      Dravecky    Dravecky                Martinez,D  
+10/26/1999   @PAR   L  2-3      Blue        Blue                    Niekro, P   
+10/27/1999   @PAR   W  1-0      Welch       Welch       Chiffer     Christnson  
+10/28/1999   @PAR   L  2-3      John        John                    Valenzuela  
+10/29/1999   @PAR   W  8-5      Dravecky    Dravecky                Hoyt        
+10/30/1999   @CTW   W  9-2      Blue        Blue                    Hough       
+10/31/1999   @CTW   L  0-5      Welch       Welch                   Hurst       
+11/ 1/1999   @CTW   L  1-3      John        John                    Krukow      
+11/ 2/1999    BMB   W  7-1      Dravecky    O'Connor                Rogers      
+11/ 4/1999    GCP   W  3-2  11  Blue        Hickey                  Montefusco  
+11/ 5/1999    GCP   L  2-4      Welch       Welch                   Reuss       
+11/ 6/1999    GCP   W  6-5      John        Tidrow      Chiffer     Sarmiento   
+11/ 7/1999    PAR   L  2-3      Dravecky    Dravecky                Valenzuela  
+11/ 8/1999    PAR   W  8-2      Blue        Blue        Hickey      Hoyt        
+11/10/1999    GCP   L  1-13     Welch       Welch                   Montefusco  
+11/11/1999    GCP   W  6-4      John        John                    Reuss       
+11/12/1999   @CEN   L  0-5      Dravecky    Dravecky                Niekro,J    
+11/16/1999   @BAR   L  0-1      Blue        Blue                    Darwin      
+11/17/1999   @BAR   L  2-5      Welch       Welch                   Black       
+11/18/1999   @BAR   L  1-6      John        John                    Stieb       
+11/22/1999   @BOS   W  2-1      Dravecky    Dravecky    Chiffer     Martinez,D  
+11/23/1999   @BOS   W  1-0      Blue        Blue                    Carlton     
+11/24/1999   @BOS   W  1-0      Welch       Welch       Chiffer     LaPoint     
+11/25/1999    BOS   L  0-9      John        John                    Palmer      
+11/26/1999    BOS   L  3-4  15  Dravecky    Tidrow                  Robinson,D  
+11/28/1999    NYH   W  5-2      Blue        Blue        Chiffer     Wilcox      
+11/29/1999    NYH   W  1-0      Welch       Welch                   Ryan        
+11/30/1999    NYH   L  3-8      John        John                    Lollar      
+12/ 1/1999   @CIN   L  7-8      Slaton      Slaton                  Falcone     
+12/ 2/1999   @CIN   W  3-0      Blue        Blue        Hickey      Martin      
+12/ 3/1999   @CIN   L  1-2      Welch       Welch                   Soto        
+12/ 5/1999    LON   W  4-2      John        Hickey      Chiffer     Bird        
+12/ 6/1999    LON   W  4-3  12  Slaton      Hickey                  Rhoden      
+12/ 9/1999    LDL   L  2-4      Blue        Blue                    Honeycutt   
+12/10/1999    LDL   L  5-8      Scott       Scott                   Eckersley   
+12/11/1999   @CTW   L  2-3      John        John                    Hurst       
+12/12/1999   @CTW   L  1-13     Slaton      Slaton                  Hough       
+12/13/1999    FER   L  2-3  11  Blue        Tidrow                  Sutcliffe   
+                     Game Results:  1982 Baraboo GoiterMen
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+12/14/1999    FER   L  2-6      John        John                    Hammaker    
+12/15/1999    FER   L  3-4  13  John        Slaton                  Andujar     
+12/16/1999    CIN   L  1-3      Slaton      O'Connor                Soto        
+12/17/1999    CIN   L  0-1      Blue        Blue                    Petry       
+12/18/1999    CIN   L  0-5      Scott       Scott                   Falcone     
+12/19/1999    CIN   W  3-1      John        John        Chiffer     Righetti    
+                       Injury Log: 1982 Baraboo GoiterMen
+                                        
+ 
+-- Date -- #  Player      Cause                 Length
+ 
+ 6/18/1999    Welch       Rain delay               0
+ 7/ 2/1999    Oester      General                  2
+ 8/10/1999    Dybzinski   General                  0
+10/ 1/1999    Dravecky    General                  5
+10/10/1999    Smith       General                  8
+10/14/1999    Scioscia    Collision in field      24
+10/23/1999    Iorg        General                  1
+10/26/1999    Hayes       General                  0
+11/ 4/1999    Berra       General                  2
+11/16/1999    Blue        General                  0
+              DMB League Transaction Log:  1982 Baraboo GoiterMen
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+ 6/13/1999  BBG    Farm         Don Mattingly       
+ 6/14/1999  BBG    Farm         Scott Garrelts      
+ 6/15/1999  BBG    Promote      Dave Bergman        
+ 6/15/1999  BBG    Promote      Kevin Hickey        
+ 6/18/1999  BBG    Farm         Julio Franco        
+ 6/18/1999  BBG    Promote      Dane Iorg           
+ 8/11/1999  BBG    Farm         Doyle Alexander     
+ 8/11/1999  BBG    Promote      Vida Blue           
+ 8/20/1999  BBG    Promote      Johnny Bench        
+ 8/20/1999  BBG    Farm         Ozzie Virgil        
+ 9/ 3/1999  BBG    Promote      Bruce Bochte        
+ 9/ 3/1999  BBG    Farm         Tony Gwynn          
+ 9/20/1999  BBG    Farm         Wade Boggs          
+ 9/20/1999  BBG    Farm         Frank Viola         
+ 9/20/1999  BBG    Promote      Jerry Morales       
+ 9/20/1999  BBG    Promote      Jim Slaton          
+ 9/26/1999  BBG    Farm         Mike Scott          
+ 9/26/1999  BBG    Promote      Floyd Chiffer       
+10/22/1999  BBG    Promote      Ozzie Virgil        
+10/22/1999  BBG    Promote      Jack O'Connor       
+10/22/1999  BBG    Promote      Mike Scott          
+10/22/1999  BBG    Farm         Dave Bergman        
+10/22/1999  BBG    DL           Mike Scioscia         effective 10/15/1999  
+10/22/1999  BBG    Farm         Mike LaCoss         
+11/ 3/1999  BBG    Farm         Ozzie Virgil        
+11/21/1999  BBG    Activate     Mike Scioscia       
+11/26/1999  BBG    Farm         Dave Dravecky       
+12/ 1/1999  BBG    Farm         Von Hayes           
+12/ 3/1999  BBG    Sign         Dan Briggs          
+12/ 3/1999  BBG    Release      Dan Briggs          
+12/ 3/1999  BBG    Sign         Dave Edwards        
+12/ 3/1999  BBG    Farm         Bob Welch           
+12/ 3/1999  BBG    Farm         Dave Smith          
+12/13/1999  BBG    Farm         Dick Tidrow         
+
+

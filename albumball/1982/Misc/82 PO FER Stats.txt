@@ -1,0 +1,323 @@
+The Combat Rock League
+
+Ferdinand Magellans
+
+            DMB League Batting Statistics:  1982 Ferdinand Magellans
+                                        
+ 
+ NAME         AVG   OBP   SPC   G  AB   H 2B 3B HR   R RBI  BB   K HB IW  SB CS
+ 
+ Piniella   1.000 1.000 1.000   1   1   1  0  0  0   1   0   0   0  0  0   0  0 
+ Gamble      .400  .500  .600   4   5   2  1  0  0   0   0   0   2  1  0   0  0 
+ Grich       .389  .421  .722   4  18   7  1  1  1   2   2   0   4  1  0   0  0 
+ Hernandez   .353  .421  .882   4  17   6  0  0  3   4   6   2   2  0  0   0  0 
+ Wallach     .333  .375  .333   4  15   5  0  0  0   0   0   1   1  0  0   0  0 
+ Carew       .286  .333  .357   3  14   4  1  0  0   0   0   1   1  0  0   0  0 
+ Thomas      .278  .316  .722   4  18   5  2  0  2   2   3   1   2  0  0   0  0 
+ Money       .250  .250  .250   4   4   1  0  0  0   0   0   0   2  0  0   0  0 
+ Simmons     .235  .235  .294   4  17   4  1  0  0   1   0   0   2  0  0   0  0 
+ Kemp        .083  .154  .083   3  12   1  0  0  0   0   0   1   2  0  0   0  0 
+ Ripken      .077  .250  .077   4  13   1  0  0  0   2   1   3   4  0  0   0  0 
+ Lefebvre    .000  .000  .000   2   1   0  0  0  0   1   0   0   0  0  0   0  0 
+ Maddox      .000  .000  .000   2   1   0  0  0  0   0   0   0   0  0  0   0  0 
+ Brouhard    .000  .000  .000   2   4   0  0  0  0   0   0   0   0  0  0   0  0 
+ 
+rScherrer    .000  .000  .000   1   2   0  0  0  0   0   0   0   0  0  0   0  0 
+ Shirley     .000  .000  .000   3   0   0  0  0  0   0   0   0   0  0  0   0  0 
+ McClure     .000  .000  .000   1   0   0  0  0  0   0   0   0   0  0  0   0  0 
+rSambito     .000  .000  .000   1   0   0  0  0  0   0   0   0   0  0  0   0  0 
+ Jackson     .000  .000  .000   1   0   0  0  0  0   0   0   0   0  0  0   0  0 
+ Sutton      .000  .000  .000   1   1   0  0  0  0   0   0   0   0  0  0   0  0 
+ Sutcliffe   .000  .000  .000   1   3   0  0  0  0   0   0   0   1  0  0   0  0 
+ Burgmeier   .000  .000  .000   1   0   0  0  0  0   0   0   0   0  0  0   0  0 
+ Andujar     .000  .000  .000   1   2   0  0  0  0   0   0   0   0  0  0   0  0 
+
+ Team Total  .250  .302  .426   4      37     1     13       9      2      0
+                                  148      6     6      12      23     0      0
+.            DMB League Batting Statistics:  1982 Ferdinand Magellans
+                                        
+ 
+ NAME         GS  SH  SF  GDP  CI  GW     RC   RC27    ISO   TAVG    TB CHS LHS
+ 
+ Piniella      0   0   0    0   0   0    1.0    0.0   .000   .000     1   1   1
+ Gamble        1   0   0    0   0   0    1.6   14.7   .200  1.333     3   0   2
+ Grich         4   0   0    2   0   0    4.2    8.7   .333  1.077    13   4   4
+ Hernandez     4   0   0    1   0   0    5.7   12.9   .529  1.417    15   4   4
+ Wallach       4   0   0    0   0   0    2.0    5.3   .000   .600     5   0   3
+ Carew         3   0   0    0   0   0    1.8    4.7   .071   .600     5   2   2
+ Thomas        4   0   0    0   0   0    4.2    8.7   .444  1.077    13   4   4
+ Money         0   0   0    0   0   0    0.3    2.3   .000   .333     1   0   1
+ Simmons       4   0   0    1   0   0    0.9    1.7   .059   .357     5   0   2
+ Kemp          3   0   0    0   0   0    0.2    0.5   .000   .182     1   1   1
+ Ripken        4   0   0    1   0   0    0.3    0.7   .000   .308     1   0   1
+ Lefebvre      0   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+ Maddox        0   0   0    1   0   0    0.0    0.0   .000   .000     0   0   0
+ Brouhard      1   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+ 
+rScherrer      1   0   0    1   0   0    0.0    0.0   .000   .000     0   0   0
+ Shirley       0   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+ McClure       0   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+rSambito       0   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+ Jackson       0   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+ Sutton        1   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+ Sutcliffe     1   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+ Burgmeier     0   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+ Andujar       1   0   0    1   0   0    0.0    0.0   .000   .000     0   0   0
+
+ Team Total    4   0   0    8   0   0   16.6    3.8   .176   .622    63
+.          DMB League Batting Splits:  1982 Ferdinand Magellans-- vsLHP
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Money        .500  .500  .500     2    1    0    0    0    0    0    1   0   0
+ Wallach      .500  .500  .500     6    3    0    0    0    0    0    0   0   0
+ Gamble       .500  .667  .500     2    1    0    0    0    0    0    1   0   0
+ Simmons      .400  .400  .400     5    2    0    0    0    0    0    1   0   0
+ Thomas       .333  .333 1.333     6    2    0    0    2    2    0    1   0   0
+ Hernandez    .250  .250 1.000     4    1    0    0    1    1    0    1   0   0
+ Grich        .200  .200  .400     5    1    1    0    0    0    0    2   0   0
+ Brouhard     .000  .000  .000     3    0    0    0    0    0    0    0   0   0
+ Ripken       .000  .000  .000     4    0    0    0    0    0    0    1   0   0
+ Kemp         .000  .000  .000     2    0    0    0    0    0    0    0   0   0
+ 
+rScherrer     .000  .000  .000     2    0    0    0    0    0    0    0   0   0
+ 
+ Team Total   .268  .286  .512    41   11    1    0    3    3    0    8   0   0
+.          DMB League Batting Splits:  1982 Ferdinand Magellans-- vsRHP
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Piniella    1.000 1.000 1.000     1    1    0    0    0    0    0    0   0   0
+ Grich        .462  .500  .846    13    6    0    1    1    2    0    2   0   0
+ Hernandez    .385  .467  .846    13    5    0    0    2    5    2    1   0   0
+ Gamble       .333  .333  .667     3    1    1    0    0    0    0    1   0   0
+ Carew        .286  .333  .357    14    4    1    0    0    0    1    1   0   0
+ Thomas       .250  .308  .417    12    3    2    0    0    1    1    1   0   0
+ Wallach      .222  .300  .222     9    2    0    0    0    0    1    1   0   0
+ Simmons      .167  .167  .250    12    2    1    0    0    0    0    1   0   0
+ Ripken       .111  .333  .111     9    1    0    0    0    1    3    3   0   0
+ Kemp         .100  .182  .100    10    1    0    0    0    0    1    2   0   0
+ Lefebvre     .000  .000  .000     1    0    0    0    0    0    0    0   0   0
+ Brouhard     .000  .000  .000     1    0    0    0    0    0    0    0   0   0
+ Money        .000  .000  .000     2    0    0    0    0    0    0    1   0   0
+ Maddox       .000  .000  .000     1    0    0    0    0    0    0    0   0   0
+ 
+ Sutton       .000  .000  .000     1    0    0    0    0    0    0    0   0   0
+ Sutcliffe    .000  .000  .000     3    0    0    0    0    0    0    1   0   0
+ Andujar      .000  .000  .000     2    0    0    0    0    0    0    0   0   0
+ 
+ Team Total   .243  .308  .393   107   26    5    1    3    9    9   15   0   0
+.    DMB League Games Started by Position:  1982 Ferdinand Magellans-- vsLHP
+                                        
+ 
+ NAME           C   1B   2B   3B   SS   LF   CF   RF   DH
+ 
+ Simmons        1    0    0    0    0    0    0    0    0
+ Grich          0    0    1    0    0    0    0    0    0
+ Hernandez      0    1    0    0    0    0    0    0    0
+ Ripken         0    0    0    0    1    0    0    0    0
+ Wallach        0    0    0    1    0    0    0    0    0
+ Brouhard       0    0    0    0    0    1    0    0    0
+ Gamble         0    0    0    0    0    0    0    1    0
+ Thomas         0    0    0    0    0    0    1    0    0
+ 
+ Team Total     1    1    1    1    1    1    1    1    0
+.    DMB League Games Started by Position:  1982 Ferdinand Magellans-- vsRHP
+                                        
+ 
+ NAME           C   1B   2B   3B   SS   LF   CF   RF   DH
+ 
+ Simmons        3    0    0    0    0    0    0    0    0
+ Carew          0    3    0    0    0    0    0    0    0
+ Grich          0    0    3    0    0    0    0    0    0
+ Hernandez      0    0    0    0    0    3    0    0    0
+ Ripken         0    0    0    0    3    0    0    0    0
+ Wallach        0    0    0    3    0    0    0    0    0
+ Kemp           0    0    0    0    0    0    0    3    0
+ Thomas         0    0    0    0    0    0    3    0    0
+ 
+ Team Total     3    3    3    3    3    3    3    3    0
+.           DMB League Pitching Statistics:  1982 Ferdinand Magellans
+                                        
+ 
+ NAME         ERA  W  L  S   G GS CG SH    IP   H   R  ER  BB   K   BF HR WP DP
+ 
+ McClure     0.00  0  0  0   1  0  0  0   1.0   0   0   0   1   1    4  0  0  0
+ Burgmeier   0.00  0  0  0   1  0  0  0   2.0   1   0   0   1   0    8  0  0  0
+rSambito     0.00  0  0  0   1  0  0  0   2.0   0   0   0   2   0    7  0  0  1
+ Sutcliffe   3.38  0  0  0   1  1  0  0   8.0   7   4   3   2   2   35  2  1  1
+rScherrer    5.63  0  1  0   1  1  0  0   8.0   9   5   5   1   5   33  1  0  1
+ Sutton      6.00  0  1  0   1  1  0  0   6.0   6   4   4   2   5   27  2  0  1
+ Shirley     9.00  0  0  0   3  0  0  0   5.0   4   5   5   4   3   21  2  0  0
+ Andujar     9.00  0  1  0   1  1  0  0   6.0   4   6   6   5   5   27  1  1  0
+ Jackson    27.00  0  1  0   1  0  0  0   0.1   2   2   1   1   0    4  0  0  0
+
+ Team Total  5.63     4      4     0     38.1      26      19      166     2
+                   0     0      4     0        33      24      21       8     4
+ 
+ 
+ NAME          IW HBP  WP  BK  CI   H/9  BB/9   R/9   K/9  HR/9
+ 
+ McClure        0   0   0   0   0   0.0   9.0   9.0   9.0   0.0
+ Burgmeier      1   0   0   0   0   4.5   4.5   9.0   0.0   0.0
+rSambito        1   0   0   0   0   0.0   9.0   9.0   0.0   0.0
+ Sutcliffe      0   0   1   0   0   7.9   2.3  10.1   2.3   2.3
+rScherrer       0   0   0   1   0  10.1   1.1  11.3   5.6   1.1
+ Sutton         0   0   0   0   0   9.0   3.0  12.0   7.5   3.0
+ Shirley        0   0   0   0   0   7.2   7.2  14.4   5.4   3.6
+ Andujar        0   0   1   0   0   6.0   7.5  13.5   7.5   1.5
+ Jackson        1   0   0   0   0  54.0  27.0  81.0   0.0   0.0
+
+ Team Total     3   0   2   1   0   7.7   4.5  12.2   4.9   1.9
+ 
+ 
+ NAME         AVG   OBP   SPC   BF   AB    H  2B  3B  HR   TB  SH  SF
+ 
+ McClure     .000  .250  .000    4    3    0   0   0   0    0   0   0
+ Burgmeier   .143  .250  .143    8    7    1   0   0   0    1   0   0
+rSambito     .000  .286  .000    7    5    0   0   0   0    0   0   0
+ Sutcliffe   .212  .257  .394   35   33    7   0   0   2   13   0   0
+rScherrer    .281  .303  .531   33   32    9   1   2   1   17   0   0
+ Sutton      .240  .296  .520   27   25    6   1   0   2   13   0   0
+ Shirley     .235  .381  .706   21   17    4   0   1   2   12   0   0
+ Andujar     .182  .333  .364   27   22    4   1   0   1    8   0   0
+ Jackson    1.000 1.000 1.000    4    2    2   0   0   0    2   1   0
+
+ Team Total  .226  .315  .452       146        3       8        1
+                               166        33       3       66       0
+.           DMB League Pitching Statistics:  1982 Ferdinand Magellans
+                                        
+ 
+ NAME          GS  CG   CG% SHo  QS   QS%   RS RS/G  RL RLS   RL%
+ 
+ McClure        0   0  .000   0   0  .000    0  0.0   0   0  .000
+ Burgmeier      0   0  .000   0   0  .000    0  0.0   0   0  .000
+rSambito        0   0  .000   0   0  .000    0  0.0   0   0  .000
+ Sutcliffe      1   0  .000   0   1 1.000    5  5.0   0   0  .000
+rScherrer       1   0  .000   0   0  .000    2  2.0   0   0  .000
+ Sutton         1   0  .000   0   0  .000    1  1.0   0   0  .000
+ Shirley        0   0  .000   0   0  .000    0  0.0   0   0  .000
+ Andujar        1   0  .000   0   0  .000    5  5.0   0   0  .000
+ Jackson        0   0  .000   0   0  .000    0  0.0   0   0  .000
+
+ Team Total     4      .000       1         13        0      .000
+                    0         0      .250       3.3       0
+ 
+ 
+ NAME         SvO  Sv   Sv%  BSv  BSv%  IR  IRS   IR%    G  RA   RA%  GF   GF%
+ 
+ McClure        0   0  .000    0  .000   0    0  .000    1   1 1.000   1 1.000
+ Burgmeier      0   0  .000    0  .000   0    0  .000    1   1 1.000   0  .000
+rSambito        0   0  .000    0  .000   0    0  .000    1   1 1.000   0  .000
+ Sutcliffe      0   0  .000    0  .000   0    0  .000    1   0  .000   0  .000
+rScherrer       0   0  .000    0  .000   0    0  .000    1   0  .000   0  .000
+ Sutton         0   0  .000    0  .000   0    0  .000    1   0  .000   0  .000
+ Shirley        0   0  .000    0  .000   0    0  .000    3   3 1.000   2  .667
+ Andujar        0   0  .000    0  .000   0    0  .000    1   0  .000   0  .000
+ Jackson        1   0  .000    1 1.000   0    0  .000    1   1 1.000   1 1.000
+
+ Team Total     1      .000      1.000        0         11      .636      .571
+                    0          1         0       .000        7         4
+.         DMB League Pitching Splits:  1982 Ferdinand Magellans-- vsLHB
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ McClure      .000  .000  .000     2    0    0    0    0    0    0    1   0   0
+rSambito      .000  .500  .000     1    0    0    0    0    0    1    0   0   0
+ Shirley      .167  .286  .167     6    1    0    0    0    1    1    3   0   0
+rScherrer     .200  .273  .200    10    2    0    0    0    1    1    5   0   0
+ Sutton       .250  .333  .250     8    2    0    0    0    0    1    1   0   0
+ Andujar      .286  .500  .714     7    2    0    0    1    4    3    0   0   0
+ Burgmeier    .333  .333  .333     3    1    0    0    0    0    0    0   0   0
+ Sutcliffe    .333  .385  .333    12    4    0    0    0    0    1    0   0   0
+ Jackson     1.000 1.000 1.000     1    1    0    0    0    1    1    0   1   0
+ 
+ Team Total   .260  .367  .320    50   13    0    0    1    7    9   10   1   0
+.         DMB League Pitching Splits:  1982 Ferdinand Magellans-- vsRHB
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ McClure      .000  .500  .000     1    0    0    0    0    0    1    0   0   0
+ Burgmeier    .000  .200  .000     4    0    0    0    0    0    1    0   0   0
+rSambito      .000  .200  .000     4    0    0    0    0    0    1    0   0   0
+ Andujar      .133  .235  .200    15    2    1    0    0    1    2    5   0   0
+ Sutcliffe    .143  .182  .429    21    3    0    0    2    3    1    2   0   0
+ Sutton       .235  .278  .647    17    4    1    0    2    4    1    4   0   0
+ Shirley      .273  .429 1.000    11    3    0    1    2    4    3    0   0   0
+rScherrer     .318  .318  .682    22    7    1    2    1    4    0    0   0   0
+ Jackson     1.000 1.000 1.000     1    1    0    0    0    0    0    0   0   0
+ 
+ Team Total   .208  .283  .521    96   20    3    3    7   16   10   11   0   0
+.           DMB League Fielding Statistics:  1982 Ferdinand Magellans
+                                        
+ 
+POS NAME             G    GS    PO     A     E    DP    TC     PCT   PB
+ 
+p  rScherrer         1     1     0     1     0     0     1   1.000
+    Burgmeier        1     0     1     0     0     0     1   1.000
+    Jackson          1     0     0     1     0     0     1   1.000
+    McClure          1     0     0     0     0     0     0    .000
+   rSambito          1     0     0     0     0     0     0    .000
+    Andujar          1     1     0     0     0     0     0    .000
+    Shirley          3     0     0     0     0     0     0    .000
+    Sutcliffe        1     1     0     0     0     0     0    .000
+    Sutton           1     1     0     0     0     0     0    .000
+                    11     4     1     2     0     0     3   1.000
+ 
+c   Simmons          4     4    21     1     0     0    22   1.000    0
+                     4     4    21     1     0     0    22   1.000    0
+ 
+1b  Carew            3     3    31     3     1     3    35    .971
+    Hernandez        1     1    11     0     0     1    11   1.000
+                     4     4    42     3     1     4    46    .978
+ 
+2b  Grich            4     4     9    17     1     3    27    .963
+                     4     4     9    17     1     3    27    .963
+ 
+3b  Wallach          4     4     7     8     1     0    16    .938
+    Lefebvre         1     0     1     0     0     0     1   1.000
+                     5     4     8     8     1     0    17    .941
+ 
+ss  Ripken           4     4    10    14     1     4    25    .960
+                     4     4    10    14     1     4    25    .960
+ 
+lf  Hernandez        3     3     4     0     1     0     5    .800
+    Brouhard         1     1     2     0     0     0     2   1.000
+                     4     4     6     0     1     0     7    .857
+ 
+cf  Thomas           4     4     8     0     0     0     8   1.000
+    Maddox           1     0     0     0     0     0     0    .000
+                     5     4     8     0     0     0     8   1.000
+ 
+rf  Kemp             3     3     8     1     2     0    11    .818
+    Gamble           1     1     2     0     0     0     2   1.000
+                     4     4    10     1     2     0    13    .846
+ 
+    Team Total       4     4   115    46     7     4   168    .958    0
+.                    Game Results:  1982 Ferdinand Magellans
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+12/30/1982   @BMB   L  5-8      Andujar     Andujar                 Rogers      
+12/31/1982   @BMB   L  5-6  13  Sutcliffe   Jackson                 Clancy      
+ 1/ 2/1983    BMB   L  2-5      Scherrer    Scherrer                Bannister   
+ 1/ 3/1983    BMB   L  1-7      Sutton      Sutton                  Stoddard    
+.                      Injury Log: 1982 Ferdinand Magellans
+                                        
+ 
+-- Date -- #  Player      Cause                 Length
+ 
+.             DMB League Transaction Log:  1982 Ferdinand Magellans
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+12/31/1982  FER    Farm         Joe Sambito         
+ 1/ 2/1983  FER    Farm         Bill Scherrer       
+.                 
+

@@ -1,0 +1,704 @@
+The Combat Rock League
+
+Ferdinand Magellans
+
+            DMB League Batting Statistics:  1982 Ferdinand Magellans
+                                        
+ 
+ NAME         AVG   OBP   SPC   G  AB   H 2B 3B HR   R RBI  BB   K HB IW  SB CS
+ 
+ Brouhard    .400  .413  .533  30  90  36  6  0  2   3   4   2   6  0  1   0  2 
+ Burroughs   .273  .250  .636   9  11   3  1  0  1   1   2   0   2  0  0   0  0 
+cBurroughs   .242  .308  .425  68 153  37  7  0  7  15  23  15  28  0  1   0  0 
+ Carew       .326  .387  .408 114 282  92 19  2  0  45  24  28  26  0  1   6  2 
+ Gamble      .241  .340  .408 121 294  71 13  0 12  41  49  46  59  1  0   3  2 
+ Grich       .278  .370  .457 132 475 132 41  4 12  70  68  64 136  6  1   1  0 
+ Hall        .242  .257  .379  19  66  16  1  4  0   7   5   1  14  1  0   0  0 
+ Hernandez   .284  .369  .367 153 619 176 30  6  3 103  38  81  83  4  1  20  6 
+ Kemp        .283  .358  .444 134 378 107 16  0 15  59  55  44  55  1  2   2  0 
+ Lefebvre    .163  .255  .239  53  92  15  4  0  1   9   8  11  26  1  1   0  0 
+ Maddox      .284  .315  .398  96  88  25  7  0  1  11   6   4  14  0  2   0  0 
+ May         .207  .429  .414  12  29   6  0  0  2   4   6  12  10  0  0   0  0 
+cMay         .233  .404  .372  23  43  10  0  0  2   4   7  13  12  0  0   0  0 
+ Money       .297  .350  .560 105 259  77 13  5 15  43  37  22  53  0  1   1  0 
+ Piniella    .327  .339  .439  51 107  35  9  0  1  10  16   1   7  2  0   0  0 
+ Ripken      .231  .285  .398 161 618 143 24  8 21  76  79  47 135  2  1   1  4 
+ Simmons     .299  .330  .476 144 529 158 41  1 17  48  66  27  60  0  1   0  0 
+ Thomas      .253  .337  .486 155 597 151 40  0 33  98 104  74 175  4  0   0  1 
+ Wallach     .273  .323  .480 160 564 154 28  4 27  75  90  42  96  4  9   2  2 
+ 
+rAase        .200  .200  .400  26   5   1  1  0  0   0   0   0   4  0  0   0  0 
+ Andujar     .126  .156  .138  35  87  11  1  0  0   4   5   3  29  0  0   0  0 
+dBoddicker   .200  .200  .200   6   5   1  0  0  0   1   0   0   3  0  0   0  0 
+ Boyd        .000  .000  .000   3   3   0  0  0  0   0   0   0   1  0  0   0  0 
+ Burgmeier   .333  .333  .333  62   6   2  0  0  0   0   1   0   2  0  0   0  0 
+ Hammaker    .000  .000  .000  22  47   0  0  0  0   0   1   0  19  0  0   0  0 
+rHolman      .500  .500  .600   4  10   5  1  0  0   2   1   0   0  0  0   0  0 
+ Jackson     .500  .500  .500  61   6   3  0  0  0   1   1   0   2  0  0   0  0 
+rLahti       .000  .000  .000  12   0   0  0  0  0   0   0   0   0  0  0   0  0 
+ May         .188  .188  .250  39  16   3  1  0  0   0   3   0   4  0  0   0  0 
+ McClure     .000  .000  .000  21   3   0  0  0  0   0   0   0   0  0  0   0  0 
+rMcGaffigan 1.000 1.000 1.000   7   1   1  0  0  0   0   0   0   0  0  0   0  0 
+ Murray      .333  .333  .333  55   3   1  0  0  0   0   1   0   0  0  0   0  0 
+rSambito     .000  .333  .000  10   2   0  0  0  0   0   0   0   1  1  0   0  0 
+rScherrer    .000  .000  .000   3   8   0  0  0  0   0   0   0   5  0  0   0  0 
+ Shirley     .158  .158  .211  37  38   6  2  0  0   1   4   0   9  0  0   0  0 
+ Sutcliffe   .188  .188  .225  35  80  15  0  0  1   2   5   0  13  0  0   0  0 
+ Sutton      .205  .214  .253  35  83  17  4  0  0   8   2   1  29  0  0   0  0 
+ 
+ Others      .252  .331  .450  59 131  33  5  0  7  15  20  14  22  2  0   0  0
+
+ Team Total  .266  .329  .423 162    1496    34    737     524     29     36
+                                 5632    308   171     701    1100    21     19
+          DMB League Batting Splits:  1982 Ferdinand Magellans-- vsLHP
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Brouhard     .388  .402  .529    85   33    6    0    2    4    2    6   1   0
+ Burroughs    .286  .250  .429     7    2    1    0    0    1    0    1   0   1
+cBurroughs    .268  .314  .392    97   26    6    0    2   14    7   19   0   1
+ Carew        .250  .348  .250    20    5    0    0    0    4    3    2   1   0
+ Gamble       .371  .511  .600    35   13    2    0    2    5    9    8   0   0
+ Grich        .239  .321  .393   117   28   10    1    2   15   13   33   1   0
+ Hall         .200  .200  .200     5    1    0    0    0    0    0    3   0   0
+ Hernandez    .280  .362  .360   186   52   12    0    1    9   20   25   0   0
+ Kemp         .385  .429  .500    26   10    0    0    1    3    2    4   0   0
+ Lefebvre     .267  .361  .333    30    8    2    0    0    2    5    8   0   1
+ Maddox       .207  .258  .310    29    6    3    0    0    0    2    6   1   0
+ May          .217  .472  .478    23    5    0    0    2    5   12    9   0   1
+cMay          .208  .459  .458    24    5    0    0    2    5   12    9   0   1
+ Money        .214  .333  .381    84   18    7    2    1    7   15   20   0   0
+ Piniella     .362  .367  .517    58   21    6    0    1    9    1    3   0   1
+ Ripken       .230  .280  .466   178   41    9    0   11   34   12   34   0   2
+ Simmons      .257  .294  .424   144   37    6    0    6   15    8   23   0   1
+ Thomas       .315  .431  .605   162   51   17    0   10   35   32   44   0   1
+ Wallach      .325  .370  .644   160   52   11    2   12   34   14   24   0   6
+ 
+rAase         .000  .000  .000     2    0    0    0    0    0    0    2   0   0
+ Andujar      .057  .057  .057    35    2    0    0    0    2    0   14   2   0
+dBoddicker    .000  .000  .000     2    0    0    0    0    0    0    1   0   0
+ Boyd         .000  .000  .000     1    0    0    0    0    0    0    0   0   0
+ Burgmeier    .250  .250  .250     4    1    0    0    0    0    0    1   0   0
+ Hammaker     .000  .000  .000    17    0    0    0    0    0    0    9   0   0
+rHolman       .000  .000  .000     2    0    0    0    0    0    0    0   0   0
+ Jackson      .000  .000  .000     0    0    0    0    0    0    0    0   1   0
+ May          .250  .250  .250     4    1    0    0    0    0    0    1   0   0
+ McClure      .000  .000  .000     0    0    0    0    0    0    0    0   1   0
+ Murray       .000  .000  .000     1    0    0    0    0    0    0    0   0   0
+rSambito      .000  .333  .000     2    0    0    0    0    0    0    1   0   0
+rScherrer     .000  .000  .000     6    0    0    0    0    0    0    5   0   0
+ Shirley      .250  .250  .500     4    1    1    0    0    0    0    1   0   0
+ Sutcliffe    .111  .111  .111    18    2    0    0    0    0    0    1   1   0
+ Sutton       .000  .000  .000    25    0    0    0    0    0    0   10   1   0
+ 
+ Others       .260  .345  .462   104   27    3    0    6   16   12   18   0   1
+ 
+ Team Total   .265  .333  .440  1576  417   96    5   57  200  162  317  10  15
+          DMB League Batting Splits:  1982 Ferdinand Magellans-- vsRHP
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Brouhard     .600  .600  .600     5    3    0    0    0    0    0    0   0   0
+ Burroughs    .250  .250 1.000     4    1    0    0    1    1    0    1   0   0
+cBurroughs    .196  .297  .482    56   11    1    0    5    9    8    9   0   0
+ Carew        .332  .390  .420   262   87   19    2    0   20   25   24   4   0
+ Gamble       .224  .315  .382   259   58   11    0   10   44   37   51   0   6
+ Grich        .291  .386  .478   358  104   31    3   10   53   51  103   3   1
+ Hall         .246  .262  .393    61   15    1    4    0    5    1   11   0   2
+ Hernandez    .286  .371  .370   433  124   18    6    2   29   61   58   0   4
+ Kemp         .276  .353  .440   352   97   16    0   14   52   42   51   0   2
+ Lefebvre     .113  .200  .194    62    7    2    0    1    6    6   18   1   1
+ Maddox       .322  .344  .441    59   19    4    0    1    6    2    8   0   0
+ May          .167  .167  .167     6    1    0    0    0    1    0    1   0   0
+cMay          .263  .300  .263    19    5    0    0    0    2    1    3   0   0
+ Money        .337  .359  .646   175   59    6    3   14   30    7   33   1   2
+ Piniella     .286  .308  .347    49   14    3    0    0    7    0    4   0   1
+ Ripken       .232  .287  .370   440  102   15    8   10   45   35  101   0   4
+ Simmons      .314  .344  .496   385  121   35    1   11   51   19   37   0   3
+ Thomas       .230  .299  .441   435  100   23    0   23   69   42  131   0   3
+ Wallach      .252  .304  .416   404  102   17    2   15   56   28   72   1   3
+ 
+rAase         .333  .333  .667     3    1    1    0    0    0    0    2   1   0
+ Andujar      .173  .218  .192    52    9    1    0    0    3    3   15   1   0
+dBoddicker    .333  .333  .333     3    1    0    0    0    0    0    2   0   0
+ Boyd         .000  .000  .000     2    0    0    0    0    0    0    1   0   0
+ Burgmeier    .500  .500  .500     2    1    0    0    0    1    0    1   0   0
+ Hammaker     .000  .000  .000    30    0    0    0    0    1    0   10   0   1
+rHolman       .625  .625  .750     8    5    1    0    0    1    0    0   1   0
+ Jackson      .500  .500  .500     6    3    0    0    0    1    0    2   0   0
+ May          .167  .167  .250    12    2    1    0    0    3    0    3   1   0
+ McClure      .000  .000  .000     3    0    0    0    0    0    0    0   0   0
+rMcGaffigan  1.000 1.000 1.000     1    1    0    0    0    0    0    0   0   0
+ Murray       .500  .500  .500     2    1    0    0    0    1    0    0   0   0
+rScherrer     .000  .000  .000     2    0    0    0    0    0    0    0   0   0
+ Shirley      .147  .147  .176    34    5    1    0    0    4    0    8   2   0
+ Sutcliffe    .210  .210  .258    62   13    0    0    1    5    0   12   2   0
+ Sutton       .293  .305  .362    58   17    4    0    0    2    1   19   3   0
+ 
+ Others       .222  .276  .407    27    6    2    0    1    4    2    4   0   0
+ 
+ Team Total   .266  .325  .417  4056 1079  212   29  114  501  362  783  21  33
+    DMB League Games Started by Position:  1982 Ferdinand Magellans-- vsLHP
+                                        
+ 
+ NAME           C   1B   2B   3B   SS   LF   CF   RF
+ 
+ Lefebvre       6    0    0    0    0    0    0    0
+ Simmons       43    0    0    0    0    0    0    0
+ Carew          0    0    0    0    0    0    0    0
+ Grich          0    0   28    0    0    0    0    0
+ Hernandez      0    0    0    0    0   48    0    0
+ Money          0    0   21    0    0    0    0    0
+ Ripken         0    0    0    0   49    0    0    0
+ Wallach        0    0    0   49    0    0    0    0
+ Brouhard       0    0    0    0    0    0    0   26
+ Gamble         0    0    0    0    0    0    0    0
+ Hall           0    0    0    0    0    0    0    0
+ Kemp           0    0    0    0    0    0    0    0
+ Maddox         0    0    0    0    0    1    4    0
+ Piniella       0    0    0    0    0    0    0   23
+ Thomas         0    0    0    0    0    0   45    0
+ Burroughs      0    0    0    0    0    0    0    0
+CBurroughs      0    0    0    0    0    0    0   28
+ May            0   11    0    0    0    0    0    0
+CMay            0   11    0    0    0    0    0    0
+ 
+ Others         0   38    0    0    0    0    0    0
+ 
+ Team Total    49   49   49   49   49   49   49   49
+    DMB League Games Started by Position:  1982 Ferdinand Magellans-- vsRHP
+                                        
+ 
+ NAME           C   1B   2B   3B   SS   LF   CF   RF
+ 
+ Lefebvre      13    0    0    2    0    0    0    0
+ Simmons       98    0    0    0    0    0    0    0
+ Carew          0   57    0    0    0    0    0    0
+ Grich          0    0   90    0    0    0    0    0
+ Hernandez      0   56    0    0    0   48    0    0
+ Money          2    0   23    1    1    0    0    0
+ Ripken         0    0    0    0  112    0    0    0
+ Wallach        0    0    0  110    0    0    0    0
+ Brouhard       0    0    0    0    0    0    0    0
+ Gamble         0    0    0    0    0    0    0   65
+ Hall           0    0    0    0    0    0    0   19
+ Kemp           0    0    0    0    0   64    0   29
+ Maddox         0    0    0    0    0    1    4    0
+ Piniella       0    0    0    0    0    0    0    0
+ Thomas         0    0    0    0    0    0  109    0
+ Burroughs      0    0    0    0    0    0    0    0
+CBurroughs      0    0    0    0    0    0    0    0
+ May            0    0    0    0    0    0    0    0
+CMay            0    1    0    0    0    0    0    0
+ 
+ Team Total   113  113  113  113  113  113  113  113
+           DMB League Pitching Statistics:  1982 Ferdinand Magellans
+                                        
+ 
+ NAME         ERA  W  L  S   G GS CG SH    IP   H   R  ER  BB   K   BF HR WP DP
+ 
+rAase        3.23  2  2  0  26  0  0  0  47.1  53  24  17  18  48  214  4  4  5
+ Andujar     3.78 16 12  0  35 35  8  1 236.0 238 114  99  43 122  987 11  2 16
+dBoddicker   4.71  1  3  0   6  4  0  0  21.0  27  13  11  13  19   98  0  0  3
+ Boyd        1.00  1  0  1   3  1  0  0   9.0   7   1   1   3   4   35  1  1  1
+ Burgmeier   1.15  4  2 13  62  0  0  0  78.1  54  13  10  19  55  301  1  0  9
+ Hammaker    4.65  6  9  0  22 22  2  0 124.0 154  69  64  23  83  538 13  5 13
+rHolman      1.45  2  1  0   4  4  1  0  31.0  25   6   5  11  17  124  1  0  0
+ Jackson     2.76 11  3 17  61  0  0  0  84.2  67  29  26  27  71  354  5  2  4
+rLahti       7.71  0  1  0  12  0  0  0  16.1  25  15  14   4   5   78  3  1  2
+ May         3.91  3  3  0  39  4  0  0  78.1  82  36  34  16  68  327  2  0  2
+ McClure     2.59  1  0  1  21  0  0  0  31.1  27  12   9   9  29  130  3  2  5
+rMcGaffigan  0.66  2  0  0   7  0  0  0  13.2   8   4   1   2   8   52  0  0  0
+ Murray      2.31  5  3  1  55  0  0  0  58.1  59  17  15  13  44  239  3  2  7
+rSambito     0.63  0  0  7  10  0  0  0  14.1   7   1   1   0   6   50  0  0  0
+rScherrer    2.86  1  1  0   3  3  0  0  22.0  18   7   7   1  12   84  0  0  1
+ Shirley     4.01  7 11  0  37 19  0  0 139.0 125  67  62  62  81  593  9  1  9
+ Sutcliffe   3.30 17  9  0  35 35  4  1 218.1 186  95  80  81 163  907 17  7 10
+ Sutton      3.43 15  8  0  35 35  6  2 236.1 236  96  90  55 189  976 29  1 23
+
+ Team Total  3.37    68    162    21   1459.1     619     400     6087    28
+                  94    40    162     7      1398     546    1024     102   110
+ 
+ 
+ NAME          IW HBP  WP  BK  CI   H/9  BB/9   R/9   K/9  HR/9
+ 
+rAase           1   0   4   0   0  10.1   3.4  13.5   9.1   0.8
+ Andujar        1   5   2   1   0   9.1   1.6  10.9   4.7   0.4
+dBoddicker      1   0   0   0   0  11.6   5.6  17.1   8.1   0.0
+ Boyd           1   0   1   0   0   7.0   3.0  10.0   4.0   1.0
+ Burgmeier      3   2   0   1   0   6.2   2.2   8.6   6.3   0.1
+ Hammaker       0   1   5   2   0  11.2   1.7  12.9   6.0   0.9
+rHolman         0   0   0   0   0   7.3   3.2  10.5   4.9   0.3
+ Jackson        3   8   2   0   0   7.1   2.9  10.8   7.5   0.5
+rLahti          0   1   1   0   0  13.8   2.2  16.5   2.8   1.7
+ May            2   2   0   0   0   9.4   1.8  11.5   7.8   0.2
+ McClure        1   1   2   2   0   7.8   2.6  10.6   8.3   0.9
+rMcGaffigan     1   0   0   0   0   5.3   1.3   6.6   5.3   0.0
+ Murray         2   0   2   0   0   9.1   2.0  11.1   6.8   0.5
+rSambito        0   0   0   0   0   4.4   0.0   4.4   3.8   0.0
+rScherrer       1   0   0   0   0   7.4   0.4   7.8   4.9   0.0
+ Shirley        7   1   1   2   0   8.1   4.0  12.2   5.2   0.6
+ Sutcliffe      0   1   7   1   0   7.7   3.3  11.0   6.7   0.7
+ Sutton         2   2   1   0   0   9.0   2.1  11.2   7.2   1.1
+
+ Team Total    26  24  28   9   0   8.6   2.5  11.2   6.3   0.6
+           DMB League Pitching Statistics:  1982 Ferdinand Magellans
+                                        
+ 
+ NAME         AVG   OBP   SPC   BF   AB    H  2B  3B  HR   TB  SH  SF
+ 
+rAase        .282  .333  .415  214  188   53  11   1   4   78   1   7
+ Andujar     .257  .292  .356  987  927  238  51   4  11  330   9   3
+dBoddicker   .321  .412  .381   98   84   27   5   0   0   32   1   0
+ Boyd        .219  .286  .375   35   32    7   2   0   1   12   0   0
+ Burgmeier   .196  .252  .247  301  275   54  11   0   1   68   3   2
+ Hammaker    .304  .333  .438  538  507  154  25   2  13  222   3   4
+rHolman      .223  .293  .277  124  112   25   3   0   1   31   1   0
+ Jackson     .213  .289  .330  354  315   67  10   6   5  104   1   3
+rLahti       .342  .385  .562   78   73   25   3   2   3   41   0   0
+ May         .271  .310  .363  327  303   82  20   1   2  110   4   2
+ McClure     .229  .285  .364  130  118   27   5   1   3   43   0   2
+rMcGaffigan  .170  .196  .213   52   47    8   2   0   0   10   1   2
+ Murray      .263  .304  .357  239  224   59  12   0   3   80   2   0
+rSambito     .143  .140  .184   50   49    7   2   0   0    9   0   1
+rScherrer    .220  .226  .280   84   82   18   3   1   0   23   0   1
+ Shirley     .240  .320  .354  593  520  125  26   3   9  184   6   4
+ Sutcliffe   .230  .297  .340  907  810  186  24   7  17  275   5  10
+ Sutton      .259  .301  .416  976  911  236  44   6  29  379   3   5
+
+ Team Total  .251  .301  .364      5577      259     102       40
+                              6087      1398      34     2031      46
+ 
+ 
+ NAME          GS  CG   CG% SHo  QS   QS%   RS RS/G  RL RLS   RL%
+ 
+rAase           0   0  .000   0   0  .000    0  0.0   8   1  .125
+ Andujar       35   8  .229   1  21  .600  154  4.4  25  12  .480
+dBoddicker      4   0  .000   0   1  .250   10  2.5   3   0  .000
+ Boyd           1   0  .000   0   1 1.000    5  5.0   1   0  .000
+ Burgmeier      0   0  .000   0   0  .000    0  0.0  10   2  .200
+ Hammaker      22   2  .091   0  10  .455   91  4.1  18   5  .278
+rHolman         4   1  .250   0   4 1.000   19  4.8   0   0  .000
+ Jackson        0   0  .000   0   0  .000    0  0.0  12   3  .250
+rLahti          0   0  .000   0   0  .000    0  0.0   4   3  .750
+ May            4   0  .000   0   2  .500   31  7.8  11   6  .545
+ McClure        0   0  .000   0   0  .000    0  0.0   4   2  .500
+rMcGaffigan     0   0  .000   0   0  .000    0  0.0   0   0  .000
+ Murray         0   0  .000   0   0  .000    0  0.0  19   5  .263
+rSambito        0   0  .000   0   0  .000    0  0.0   0   0  .000
+rScherrer       3   0  .000   0   2  .667    9  3.0   1   0  .000
+ Shirley       19   0  .000   0   9  .474   69  3.6  10   6  .600
+ Sutcliffe     35   4  .114   1  24  .686  173  4.9  21  13  .619
+ Sutton        35   6  .171   2  23  .657  176  5.0  17   6  .353
+
+ Team Total   162      .130      97        737      164      .390
+                   21         7      .599       4.5      64
+           DMB League Pitching Statistics:  1982 Ferdinand Magellans
+                                        
+ 
+ NAME         SvO  Sv   Sv%  BSv  BSv%  IR  IRS   IR%    G  RA   RA%  GF   GF%
+ 
+rAase           1   0  .000    0  .000  26   14  .538   26  26 1.000   5  .192
+ Andujar        0   0  .000    0  .000   0    0  .000   35   0  .000   0  .000
+dBoddicker      0   0  .000    0  .000   4    3  .750    6   2  .333   2 1.000
+ Boyd           1   1 1.000    0  .000   1    1 1.000    3   2  .667   2 1.000
+ Burgmeier     24  13  .542    3  .125  39   13  .333   62  62 1.000  39  .629
+ Hammaker       0   0  .000    0  .000   0    0  .000   22   0  .000   0  .000
+rHolman         0   0  .000    0  .000   0    0  .000    4   0  .000   0  .000
+ Jackson       29  17  .586    8  .276  24    8  .333   61  61 1.000  43  .705
+rLahti          0   0  .000    0  .000   4    2  .500   12  12 1.000   4  .333
+ May            3   0  .000    0  .000  16    6  .375   39  35  .897   5  .143
+ McClure        1   1 1.000    0  .000   8    3  .375   21  21 1.000   6  .286
+rMcGaffigan     3   0  .000    2  .667   4    4 1.000    7   7 1.000   4  .571
+ Murray        12   1  .083    0  .000  24    5  .208   55  55 1.000  19  .345
+rSambito        7   7 1.000    0  .000   4    2  .500   10  10 1.000   8  .800
+rScherrer       0   0  .000    0  .000   0    0  .000    3   0  .000   0  .000
+ Shirley        1   0  .000    0  .000  10    3  .300   37  18  .486   4  .222
+ Sutcliffe      0   0  .000    0  .000   0    0  .000   35   0  .000   0  .000
+ Sutton         0   0  .000    0  .000   0    0  .000   35   0  .000   0  .000
+
+ Team Total    82      .488       .159       64        473      .658      .453
+                   40         13       164       .390      311       141
+         DMB League Pitching Splits:  1982 Ferdinand Magellans-- vsLHB
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+rAase         .278  .337  .389    72   20    3    1    1    9    8   18   0   3
+ Andujar      .259  .295  .326   479  124   17    3    3   42   25   39   4   1
+dBoddicker    .407  .590  .444    27   11    1    0    0    6   12    5   0   0
+ Boyd         .167  .375  .167     6    1    0    0    0    0    2    0   0   0
+ Burgmeier    .095  .111  .124   105   10    0    0    1    7    1   34   1   1
+ Hammaker     .264  .278  .453   106   28    5    0    5   15    2   31   0   0
+rHolman       .288  .333  .322    59   17    2    0    0    5    4    9   1   0
+ Jackson      .202  .252  .303   119   24    3    3    1   10    8   17   0   3
+rLahti        .346  .414  .769    26    9    1    2    2    3    2    1   0   0
+ May          .229  .280  .271    70   16    0    0    1    9    4   20   1   0
+ McClure      .135  .179  .216    37    5    0    0    1    4    2   15   0   0
+rMcGaffigan   .300  .318  .400    20    6    2    0    0    6    1    5   0   1
+ Murray       .315  .365  .461    89   28    4    0    3   12    7   10   2   0
+rSambito      .278  .278  .333    18    5    1    0    0    1    0    6   0   0
+rScherrer     .192  .192  .192    26    5    0    0    0    1    0    7   0   0
+ Shirley      .231  .316  .331   121   28    6    0    2   11   14   26   1   0
+ Sutcliffe    .211  .293  .287   407   86    5    4    6   27   48   93   2   4
+ Sutton       .235  .289  .378   447  105   18    5   12   43   35   90   1   2
+ 
+ Team Total   .236  .290  .334  2234  528   68   18   38  211  175  426  13  15
+         DMB League Pitching Splits:  1982 Ferdinand Magellans-- vsRHB
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+rAase         .284  .331  .431   116   33    8    0    3   23   10   30   1   4
+ Andujar      .254  .290  .388   448  114   34    1    8   54   18   83   5   2
+dBoddicker    .281  .293  .351    57   16    4    0    0    8    1   14   1   0
+ Boyd         .231  .259  .423    26    6    2    0    1    2    1    4   0   0
+ Burgmeier    .259  .332  .324   170   44   11    0    0   12   18   21   2   1
+ Hammaker     .314  .347  .434   401  126   20    2    8   46   21   52   3   4
+rHolman       .151  .250  .226    53    8    1    0    1    1    7    8   0   0
+ Jackson      .219  .311  .347   196   43    7    3    4   21   19   54   1   0
+rLahti        .340  .367  .447    47   16    2    0    1   10    2    4   0   0
+ May          .283  .319  .391   233   66   20    1    1   27   12   48   3   2
+ McClure      .272  .330  .432    81   22    5    1    2    8    7   14   0   2
+rMcGaffigan   .074  .103  .074    27    2    0    0    0    2    1    3   1   1
+ Murray       .230  .262  .289   135   31    8    0    0    5    6   34   0   0
+rSambito      .065  .063  .097    31    2    1    0    0    2    0    0   0   1
+rScherrer     .232  .241  .321    56   13    3    1    0    6    1    5   0   1
+ Shirley      .243  .322  .361   399   97   20    3    7   47   48   55   5   4
+ Sutcliffe    .248  .301  .392   403  100   19    3   11   49   33   70   3   6
+ Sutton       .282  .313  .453   464  131   26    1   17   46   20   99   2   3
+ 
+ Team Total   .260  .305  .384  3343  870  191   16   64  369  225  598  27  31
+           DMB League Fielding Statistics:  1982 Ferdinand Magellans
+                                        
+ 
+POS NAME             G    GS    PO     A     E    DP    TC     PCT   PB
+ 
+p   Andujar         35    35    17    33     4     1    54    .926
+    Sutton          35    35     7    21     0     1    28   1.000
+    Hammaker        22    22     9    16     1     1    26    .962
+    Sutcliffe       35    35     8    18     0     0    26   1.000
+    Shirley         37    19     5    16     2     1    23    .913
+    Burgmeier       62     0     1    11     0     1    12   1.000
+    May             39     4     2     8     1     0    11    .909
+   rAase            26     0     2     6     1     1     9    .889
+    Murray          55     0     3     5     0     0     8   1.000
+   rLahti           12     0     0     5     1     0     6    .833
+   rScherrer         3     3     3     3     0     0     6   1.000
+   dBoddicker        6     4     1     4     1     2     6    .833
+    Jackson         61     0     1     4     0     1     5   1.000
+   rMcGaffigan       7     0     4     1     0     0     5   1.000
+   rHolman           4     4     1     4     0     0     5   1.000
+    McClure         21     0     1     2     1     2     4    .750
+    Boyd             3     1     0     2     0     0     2   1.000
+   rSambito         10     0     0     1     0     0     1   1.000
+                   473   162    65   160    12    11   237    .949
+ 
+c   Simmons        144   141   920    63     9     2   992    .991    6
+    Lefebvre        35    19   146    10     1     1   157    .994    0
+    Money            2     2     9     1     0     0    10   1.000    0
+                   181   162  1075    74    10     3  1159    .991    6
+ 
+1b  Carew           66    57   477    32     8    33   517    .985
+    Hernandez       56    56   470    33     2    41   505    .996
+    May             11    11   102     8     2    10   112    .982
+   cMay             13    12   113     9     2    11   124    .984
+    Kemp            15     0    25     0     0     3    25   1.000
+    Money            1     0     1     0     0     0     1   1.000
+    Others          42    38   302    14     6    26   322    .981
+                   191   162  1377    87    18   113  1482    .988
+ 
+2b  Grich          118   118   232   343     8    63   583    .986
+    Money           44    44    86   121     3    25   210    .986
+                   162   162   318   464    11    88   793    .986
+ 
+3b  Wallach        160   159    98   263    20    29   381    .948
+    Money           20     1     6     8     0     0    14   1.000
+    Lefebvre         3     2     1     3     0     1     4   1.000
+    Gamble           1     0     1     1     0     0     2   1.000
+                   184   162   106   275    20    30   401    .950
+ 
+ss  Ripken         161   161   225   526    25    80   776    .968
+    Money            1     1     3     2     0     0     5   1.000
+    Wallach          2     0     0     4     1     0     5    .800
+                   164   162   228   532    26    80   786    .967
+           DMB League Fielding Statistics:  1982 Ferdinand Magellans
+                                        
+ 
+POS NAME             G    GS    PO     A     E    DP    TC     PCT   PB
+ 
+lf  Hernandez       96    96   220     9     3     1   232    .987
+    Kemp            64    64   144     3     2     0   149    .987
+    Maddox          15     2    20     0     0     0    20   1.000
+    Gamble           2     0     0     0     0     0     0    .000
+    Lefebvre         1     0     0     0     0     0     0    .000
+    Others          11     0     4     0     0     0     4   1.000
+                   189   162   388    12     5     1   405    .988
+ 
+cf  Thomas         154   154   422    22     6     3   450    .987
+    Maddox          41     8    37     1     1     0    39    .974
+    Lefebvre         1     0     0     0     0     0     0    .000
+                   196   162   459    23     7     3   489    .986
+ 
+rf  Gamble          78    65   149     1     6     0   156    .962
+    Kemp            35    29    68     5     1     2    74    .986
+    Brouhard        29    26    48     4     4     1    56    .929
+    Piniella        27    23    52     3     0     1    55   1.000
+    Hall            19    19    30     3     1     2    34    .971
+    Maddox          16     0     8     0     0     0     8   1.000
+    Burroughs        2     0     3     0     1     0     4    .750
+   cBurroughs       31    28    68     2     4     0    74    .946
+    Lefebvre         2     0     3     0     0     0     3   1.000
+    Hernandez        1     0     1     0     0     0     1   1.000
+                   209   162   362    16    13     6   391    .967
+ 
+    Team Total     162   162  4378  1643   122   123  6143    .980    6
+                    Game Results:  1982 Ferdinand Magellans
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 6/ 4/1999    BOS   W 10-9      Andujar     Murray      Jackson     Carlton     
+ 6/ 5/1999    BOS   W  4-3      Sutton      Sutton                  Vuckovich   
+ 6/ 6/1999    BOS   W  9-5      Sutcliffe   Sutcliffe               Palmer      
+ 6/ 8/1999   @LON   L  3-5      Hammaker    Hammaker                Knepper     
+ 6/ 9/1999   @LON   L  0-1      Shirley     Shirley                 Camp        
+ 6/10/1999    LON   W 10-4      Andujar     Andujar                 Koosman     
+ 6/11/1999    LON   W 19-5      Sutton      Sutton                  Rhoden      
+ 6/12/1999    LON   W  4-3      Sutcliffe   Burgmeier               Mahler      
+ 6/13/1999   @BMB   W  5-4      Hammaker    Burgmeier   Jackson     Bannister   
+ 6/14/1999   @BMB   W  4-2      Shirley     Shirley     Jackson     Leal        
+ 6/15/1999   @BMB   W  3-2      Andujar     Andujar     Jackson     Denny       
+ 6/17/1999    CTW   W  9-1      Sutton      Sutton                  Laskey      
+ 6/18/1999    CTW   W  6-1      Sutcliffe   Sutcliffe               Ruthven     
+ 6/19/1999   @NYH   L  6-7      Hammaker    Murray                  Hawkins     
+ 6/20/1999   @NYH   L  4-5  10  Shirley     Jackson                 Wilcox      
+ 6/21/1999   @NYH   W  8-3      Andujar     Andujar     Jackson     Ryan        
+ 6/23/1999    BMB   W  4-3      Sutton      Jackson                 Rogers      
+ 6/24/1999    BMB   W 10-7      Sutcliffe   Sutcliffe               Clancy      
+ 6/25/1999    CEN   L  1-11     Hammaker    Hammaker                Niekro,J    
+ 6/26/1999    CEN   W  7-1      Andujar     Andujar                 Sanderson   
+ 6/27/1999    CEN   W  5-3  14  Sutton      McClure                 Forsch, K   
+ 6/29/1999    BOS   L  4-5      Sutcliffe   Sutcliffe               Palmer      
+ 6/30/1999    BOS   W  4-2      Hammaker    Hammaker                Robinson,D  
+ 7/ 1/1999   @BOS   W  5-1      Andujar     Andujar                 Martinez,D  
+ 7/ 2/1999   @BOS   W  8-7      Sutton      Murray      Jackson     Carlton     
+ 7/ 3/1999   @BOS   W  6-3      Sutcliffe   Sutcliffe   Jackson     Vuckovich   
+ 7/ 4/1999   @LON   W  3-2      Hammaker    Hammaker    Burgmeier   Rhoden      
+ 7/ 5/1999   @LON   L  2-4      Shirley     Shirley                 Mahler      
+ 7/ 6/1999   @LON   W  4-1      Andujar     Andujar                 Knepper     
+ 7/ 7/1999    JJJ   W  7-5      Sutton      Sutton      Jackson     Jenkins     
+ 7/ 8/1999    JJJ   W  5-3      Sutcliffe   Jackson                 Gullickson  
+ 7/10/1999    LON   L  3-8      Hammaker    Hammaker                Rhoden      
+ 7/11/1999    BMB   L  6-7      Andujar     Burgmeier               Bannister   
+ 7/12/1999    BMB   W  7-6      Sutton      Jackson                 Leal        
+ 7/13/1999   @JJJ   W  5-3      Sutcliffe   Sutcliffe   Jackson     Gullickson  
+ 7/14/1999   @JJJ   L  2-7      Hammaker    Hammaker                Guidry      
+ 7/17/1999   @CIN   W 11-3      Andujar     Andujar                 Petry       
+ 7/18/1999   @CIN   W  7-1      Sutton      Sutton                  Berenyi     
+ 7/19/1999   @CIN   L  7-8      Sutcliffe   Sutcliffe               Righetti    
+ 7/20/1999   @BAR   L  5-6  12  Hammaker    Aase                    Stieb       
+ 7/21/1999   @BAR   L  5-6      Shirley     Shirley                 Morris      
+ 7/23/1999    NYH   W  7-5  11  Andujar     Jackson                 Ryan        
+ 7/24/1999   @SUN   L  0-1      Sutton      Sutton                  Palmer, D   
+ 7/25/1999   @SUN   W  2-1      Sutcliffe   Sutcliffe   Burgmeier   Tudor       
+ 7/26/1999    CEN   L  2-3      Hammaker    Hammaker                Niekro,J    
+ 7/27/1999    CEN   L  0-3      Shirley     Shirley                 Sanderson   
+ 7/28/1999    GCP   W  3-1      Andujar     Andujar                 Reuss       
+ 7/29/1999    GCP   L  5-12     Sutton      Sutton                  Sarmiento   
+ 7/31/1999   @BAR   W  5-4      Sutcliffe   Murray      Burgmeier   Tanana      
+ 8/ 1/1999   @BAR   L  2-3  10  Hammaker    Lahti                   Blyleven    
+ 8/ 3/1999   @SUN   W  2-0      Shirley     Shirley     Jackson     Tudor       
+ 8/ 4/1999   @SUN   W  4-2      Andujar     Andujar                 Show        
+                    Game Results:  1982 Ferdinand Magellans
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 8/ 5/1999   @SUN   W  6-5      Sutton      Aase        Burgmeier   Lea         
+ 8/ 6/1999    NYH   L  4-5      Sutcliffe   Sutcliffe               Witt        
+ 8/ 7/1999    NYH   W  9-5      May         May                     Wilcox      
+ 8/ 8/1999    NYH   L  8-11     Shirley     Shirley                 Ryan        
+ 8/ 9/1999    LDL   L  9-13     Andujar     Andujar                 Gura        
+ 8/10/1999    LDL   W  2-1      Sutton      Sutton      Burgmeier   Eckersley   
+ 8/11/1999    LDL   W 11-4      Sutcliffe   Sutcliffe               Caldwell    
+ 8/12/1999    CTW   L  1-8      Hammaker    Hammaker                Barr        
+ 8/13/1999    CTW   W  6-2      Shirley     Shirley                 Laskey      
+ 8/14/1999   @NYH   L  1-4      Andujar     Andujar                 Ryan        
+ 8/15/1999   @NYH   W  2-1      Sutton      Sutton      Burgmeier   Lollar      
+ 8/16/1999    SUN   W  6-3      Sutcliffe   Sutcliffe               Candelaria  
+ 8/17/1999    SUN   W  7-6  10  Hammaker    Jackson                 Stuper      
+ 8/18/1999    SUN   W 13-5      Shirley     Shirley                 Tudor       
+ 8/19/1999    NYH   L  1-5      Andujar     Andujar                 Wilcox      
+ 8/20/1999    NYH   L  4-7      Sutton      Murray                  Ryan        
+ 8/21/1999    NYH   L  3-11     Sutcliffe   Sutcliffe               Lollar      
+ 8/22/1999    PAR   L  1-3      Hammaker    Hammaker                Niekro, P   
+ 8/23/1999    PAR   W  8-2      Shirley     Shirley                 Christnson  
+ 8/24/1999    BBG   L  5-6      Andujar     Andujar                 Viola       
+ 8/25/1999    BBG   W  3-0      Sutton      Sutton                  Blue        
+ 8/26/1999    BBG   W  5-3      Sutcliffe   Sutcliffe   Jackson     Welch       
+ 8/30/1999    BOS   W  7-1      May         Jackson                 Robinson,D  
+ 8/31/1999    BOS   L  1-2      Shirley     Shirley                 Martinez,D  
+ 9/ 1/1999    BOS   L  4-8      Andujar     Andujar                 Carlton     
+ 9/ 2/1999    BOS   W  6-1      Sutton      Sutton                  Vuckovich   
+ 9/ 3/1999   @GCP   W  2-1      Sutcliffe   Sutcliffe   Jackson     Montefusco  
+ 9/ 4/1999   @GCP   L  2-3      Hammaker    Hammaker                Reuss       
+ 9/ 5/1999    BBG   W  4-3      Shirley     Aase        Burgmeier   Scott       
+ 9/ 8/1999   @CEN   L  1-3      Andujar     Andujar                 Forsch, K   
+ 9/15/1999    SUN   W  6-5      Sutton      May         Jackson     Reed,R      
+ 9/17/1999   @CEN   W  6-2      Sutcliffe   Jackson                 Niekro,J    
+ 9/18/1999   @CEN   L  7-10     May         Aase                    Sanderson   
+ 9/19/1999   @GCP   L  3-6      Andujar     Andujar                 Barker      
+ 9/20/1999   @GCP   L  2-7      Sutton      Sutton                  Beattie     
+ 9/21/1999   @GCP   L  8-11     Sutcliffe   Sutcliffe               Montefusco  
+ 9/22/1999    JJJ   W  5-3      Hammaker    Hammaker    Burgmeier   Jenkins     
+ 9/23/1999    JJJ   L  2-4      Boddicker   Boddicker               Dotson      
+ 9/25/1999   @CEN   L  6-7  11  Andujar     May                     McWilliams  
+ 9/26/1999   @CEN   W 11-5      Sutton      Sutton                  Swan        
+ 9/27/1999   @CEN   W  2-0      Sutcliffe   Sutcliffe               Niekro,J    
+ 9/28/1999   @LDL   W  2-1      Hammaker    Hammaker    Jackson     Gura        
+ 9/30/1999   @BMB   L  2-3      Andujar     Andujar                 Denny       
+10/ 2/1999   @BOS   L  4-10     Sutton      Sutton                  Vuckovich   
+10/ 3/1999   @BOS   L  1-3      Sutcliffe   Sutcliffe               Palmer      
+10/ 4/1999   @BOS   W 14-1      Hammaker    Shirley     Murray      Robinson,D  
+10/ 5/1999    CIN   L  1-3      Andujar     Andujar                 Righetti    
+10/ 6/1999    CIN   L  0-2      Sutton      Sutton                  Falcone     
+10/ 7/1999   @BBG   W  4-1      Sutcliffe   Sutcliffe   Jackson     Welch       
+10/ 8/1999   @BBG   L  4-5      Hammaker    Hammaker                John        
+10/ 9/1999    CIN   L  4-6      Boddicker   Boddicker               Berenyi     
+10/10/1999    CIN   W  4-2      Andujar     Andujar     Burgmeier   Righetti    
+                    Game Results:  1982 Ferdinand Magellans
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+10/11/1999    CIN   W  6-4      Sutton      Sutton      Burgmeier   Falcone     
+10/13/1999   @NYH   L  3-9      Sutcliffe   Sutcliffe               Ujdur       
+10/14/1999   @NYH   W  7-5      Hammaker    Hammaker    Burgmeier   Witt        
+10/15/1999   @CTW   W  2-1      Andujar     Andujar     Jackson     Krukow      
+10/16/1999   @CTW   W  5-4  13  Sutton      May         McClure     Laskey      
+10/17/1999   @CTW   L  1-3      Sutcliffe   Shirley                 Hough       
+10/23/1999   @PAR   L  3-5      Andujar     Andujar                 Hoyt        
+10/24/1999   @BOS   L  2-4      Sutton      Murray                  Carlton     
+10/25/1999   @BOS   W  7-3      Sutcliffe   Sutcliffe               Vuckovich   
+10/26/1999    LDL   W  4-3      Holman      Jackson                 Eckersley   
+10/27/1999    LDL   W  3-1      Boddicker   Boddicker   Jackson     Caldwell    
+10/28/1999    BMB   W  3-2      Andujar     Andujar                 Rogers      
+10/29/1999    BMB   L  3-4  11  Sutton      Jackson                 Bannister   
+10/30/1999    CEN   W 11-3      Sutcliffe   Sutcliffe               Sanderson   
+10/31/1999    CEN   W  7-1      Holman      Holman                  Forsch, K   
+11/ 1/1999    CEN   L  3-5      Shirley     Shirley                 McWilliams  
+11/ 3/1999   @CIN   L  2-3      Andujar     Burgmeier               Soto        
+11/ 4/1999    BMB   W  8-4      Sutton      Murray                  Clancy      
+11/ 5/1999    BMB   W  4-1      Sutcliffe   Sutcliffe               Bannister   
+11/ 6/1999    BMB   W  8-2      Holman      Holman                  Rogers      
+11/ 7/1999   @LDL   L  1-4      Boddicker   Boddicker               Eckersley   
+11/ 8/1999   @LDL   L  2-5      Andujar     Andujar                 Caldwell    
+11/ 9/1999   @LDL   L  0-6      Sutton      Sutton                  McGregor    
+11/10/1999   @BMB   L  0-2      Sutcliffe   Sutcliffe               Rogers      
+11/11/1999   @BMB   L  0-1      Holman      Holman                  Bannister   
+11/12/1999    GCP   L  0-8      Shirley     Shirley                 Sarmiento   
+11/13/1999    GCP   W  4-0      Andujar     Andujar                 Barker      
+11/14/1999   @BOS   W 13-0      Sutton      Sutton                  Robinson,D  
+11/19/1999    BAR   W  7-6  17  Andujar     Burgmeier               Morris      
+11/20/1999    BAR   W  4-3      Sutton      Sutton      Sambito     Tanana      
+11/21/1999    BAR   W  5-4  10  Sutcliffe   McGaffigan              Burns       
+11/22/1999    PAR   L  1-3      Scherrer    Scherrer                Valenzuela  
+11/23/1999    PAR   W  3-2      Shirley     Jackson                 Hoyt        
+11/24/1999    PAR   W  6-5      Andujar     Andujar     Sambito     Niekro, P   
+11/25/1999   @PAR   W  5-1      Sutton      Sutton                  Christnson  
+11/26/1999   @PAR   W  3-1      Sutcliffe   Sutcliffe   Sambito     Flanagan    
+11/27/1999   @PAR   W  3-2  10  Scherrer    McGaffigan  Sambito     Valenzuela  
+11/28/1999   @JJJ   W  5-3      Shirley     Shirley     Sambito     Gullickson  
+11/29/1999   @JJJ   W  3-1      Andujar     Andujar                 Guidry      
+11/30/1999   @JJJ   W  6-0      Sutton      Sutton                  Zahn        
+12/ 1/1999   @CEN   W 12-6      Sutcliffe   Burgmeier   Sambito     Krukow      
+12/ 2/1999   @CEN   W  5-4      Scherrer    Scherrer    Sambito     Swan        
+12/ 3/1999   @CEN   L  1-2      Shirley     Shirley                 Niekro,J    
+12/ 4/1999   @BMB   L  2-6      Andujar     Andujar                 Rogers      
+12/ 5/1999   @BMB   L  1-2  11  Sutton      Jackson                 Bannister   
+12/ 6/1999   @BMB   L  2-3      Sutcliffe   Sutcliffe               Stoddard    
+12/ 7/1999    BAR   L  0-4      Shirley     Shirley                 Stieb       
+12/ 8/1999    BAR   L  8-10     May         May                     Morris      
+12/ 9/1999   @NYH   W  1-0      Andujar     Andujar     Burgmeier   Wilcox      
+12/10/1999   @NYH   L  0-1      Sutton      Sutton                  Ryan        
+12/11/1999    CEN   W  4-2      Sutcliffe   Sutcliffe   Burgmeier   Sanderson   
+12/13/1999   @BBG   W  3-2  11  Sutcliffe   Jackson                 Blue        
+                    Game Results:  1982 Ferdinand Magellans
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+12/14/1999   @BBG   W  6-2      Hammaker    Hammaker                John        
+12/15/1999   @BBG   W  4-3  13  Andujar     Jackson     Boyd        John        
+12/16/1999   @CTW   L  2-3      Sutton      Sutton                  Hough       
+12/17/1999   @CTW   L  3-4      Sutcliffe   May                     Laskey      
+12/18/1999    NYH   W  5-1      Boyd        Boyd                    Witt        
+12/19/1999    NYH   W  6-3      Hammaker    Murray                  Burris      
+                      Injury Log: 1982 Ferdinand Magellans
+                                        
+ 
+-- Date -- #  Player      Cause                 Length
+ 
+ 6/ 6/1999    Kemp        General                  0
+ 6/13/1999    Murray      General                  0
+ 6/24/1999    May         General                 12
+ 6/26/1999    Murray      General                  0
+ 6/29/1999    Murray      Rain delay               0
+ 7/ 7/1999    Kemp        General                  1
+ 7/11/1999    Hernandez   General                  0
+ 7/17/1999    Simmons     General                  3
+ 7/20/1999    Maddox      General                  0
+ 7/23/1999    McClure     General                  7
+ 7/29/1999    Gamble      General                  0
+ 8/ 3/1999    Shirley     Rain delay               0
+ 8/ 8/1999    Jackson     General                  0
+ 8/16/1999    Ripken      General                  0
+ 8/24/1999    Hernandez   General                  1
+ 8/25/1999    Simmons     General                  0
+10/ 4/1999    Hammaker    Rain delay               0
+10/16/1999    Grich       General                  0
+10/17/1999    Sutcliffe   General                  0
+11/12/1999    Boddicker   General                  9
+11/27/1999    Simmons     General                  1
+12/11/1999    Simmons     Collision in field      24
+12/16/1999    Ripken      General                  1
+             DMB League Transaction Log:  1982 Ferdinand Magellans
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+ 7/31/1999  FER    Farm         Bob McClure         
+ 7/31/1999  FER    Promote      Jeff Lahti          
+ 9/21/1999  FER    Farm         Don Aase            
+ 9/21/1999  FER    Farm         Jeff Lahti          
+ 9/21/1999  FER    Promote      Mike Boddicker      
+ 9/21/1999  FER    Promote      Bob McClure         
+ 9/21/1999  FER    Promote      Mark Brouhard       
+ 9/21/1999  FER    Farm         Lou Piniella        
+10/17/1999  FER    Farm         Atlee Hammaker      
+10/17/1999  FER    Promote      Scott Holman        
+11/11/1999  FER    Farm         Scott Holman        
+11/11/1999  FER    Promote      Bill Scherrer       
+11/12/1999  FER    TradeAway    Mike Ivie             to CTW
+11/12/1999  FER    TradeAway    Mike Young            to CTW
+11/12/1999  FER    Acquire      Jeff Burroughs        from CTW
+11/12/1999  FER    Acquire      Lee May               from CTW
+11/12/1999  FER    Farm         Bob McClure         
+11/12/1999  FER    Farm         Jeff Burroughs      
+11/12/1999  FER    Promote      Joe Sambito         
+11/12/1999  FER    DL           Mike Boddicker        effective 11/13/1999  
+11/12/1999  FER    Promote      Andy McGaffigan     
+11/14/1999  FER    Promote      Mel Hall            
+11/14/1999  FER    Promote      Jeff Burroughs      
+11/14/1999  FER    Promote      Lou Piniella        
+11/14/1999  FER    Promote      Atlee Hammaker      
+11/14/1999  FER    Promote      Bob McClure         
+11/14/1999  FER    Promote      Oil Can Boyd        
+12/ 3/1999  FER    Farm         Bill Scherrer       
+12/ 5/1999  FER    Farm         Joe Sambito         
+12/ 7/1999  FER    Farm         Andy McGaffigan     
+
+

@@ -1,0 +1,641 @@
+The Combat Rock League
+
+Jasper Jews for Jesus
+
+             DMB League Batting Statistics:  1982 Jasper Jews-Jesus
+                                        
+ 
+ NAME         AVG   OBP   SPC   G  AB   H 2B 3B HR   R RBI  BB   K HB IW  SB CS
+ 
+ Baker       .260  .327  .423 137 489 127 15  1 21  65  62  49  64  2  1  10  5 
+ Bannister   .283  .373  .378 129 307  87 11  0  6  36  28  40  48  4  2  16  6 
+rBarrett     .063  .059  .063   8  16   1  0  0  0   0   2   0   1  0  0   0  0 
+ Bochy       .000  .125  .000  18  14   0  0  0  0   2   0   2   5  0  0   0  0 
+ Cowens      .235  .316  .412  19  17   4  3  0  0   1   2   2   5  0  0   0  0 
+ Fischlin    .188  .278  .250  58  64  12  2  1  0   6   6   8  10  0  0   1  0 
+ Griffey     .214  .276  .290  94 262  56 11  0  3  27  22  23  45  0  0   6  0 
+ Harper      .190  .190  .286  20  21   4  2  0  0   4   2   0   1  0  0   0  0 
+ Hebner      .227  .293  .375  83 251  57  7  0 10  26  34  24  21  0  1   0  1 
+ Hrbek       .270  .303  .394 143 540 146 18  2 15  63  64  25  96  3  1   5  1 
+dLansford    .285  .349  .398  99 379 108 22  3  5  54  34  32  47  5  1   1  3 
+ Lemon       .278  .343  .443 127 474 132 27  3 15  67  39  34  84 14  2   2  0 
+rMoses       .294  .368  .510  17  51  15  5  3  0   8   8   5  10  1  2   4  0 
+ Oberkfell   .264  .299  .366 123 443 117 19  4  6  50  57  22  33  1  0  11  4 
+ Oglivie     .255  .307  .464 158 577 147 23  4 30  71  83  44 101  1  1   3  1 
+ Porter      .229  .345  .441 111 315  72 11  1 18  37  41  55  63  1  4   0  1 
+ Stearns     .221  .260  .298 117 262  58 12  1  2  22  27  12  33  2  1   7  4 
+ Yount       .288  .332  .443 162 639 184 39 12 12  85  72  45  87  2  9  17  7 
+ 
+ Boris       .000  .000  .000   1   0   0  0  0  0   0   0   0   0  0  0   0  0 
+ Breining    .222  .222  .222  65  18   4  0  0  0   0   3   0   4  0  0   0  0 
+ Clark       .154  .154  .308  66  13   2  2  0  0   1   1   0   5  0  0   0  0 
+ Dotson      .071  .161  .071  23  28   2  0  0  0   0   3   3  10  0  0   0  0 
+ Garber      .000  .000  .000  71   5   0  0  0  0   0   0   0   2  0  0   0  0 
+ Guidry      .078  .100  .078  36  77   6  0  0  0   2   2   2  27  0  0   2  0 
+ Gullickson  .162  .174  .176  36  68  11  1  0  0   4   3   1  26  0  0   0  0 
+ Jenkins     .151  .151  .170  27  53   8  1  0  0   4   0   0  19  0  0   0  0 
+rKeener      .000  .000  .000  24   0   0  0  0  0   0   0   0   0  0  0   0  0 
+rPrice       .385  .400  .385  40  13   5  0  0  0   0   3   0   0  1  0   0  0 
+ Schmidt     .200  .200  .267  65  15   3  1  0  0   1   2   0   1  0  0   0  0 
+ Zahn        .111  .135  .111  33  72   8  0  0  0   1   6   2  19  0  0   0  0 
+ 
+ Others      .283  .313  .370  36  46  13  1  0  1   5   3   2   6  0  1   1  0
+
+ Team Total  .251  .308  .384 162    1389    35    642     432     37     86
+                                 5529    233   144     609     873    26     33
+           DMB League Batting Splits:  1982 Jasper Jews-Jesus-- vsLHP
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Baker        .269  .343  .487   119   32    3    1    7   19   15    2   1   3
+ Bannister    .301  .408  .496   133   40    8    0    6   13   24   11   4   0
+rBarrett      .071  .067  .071    14    1    0    0    0    1    0    1   0   1
+ Bochy        .000  .000  .000     6    0    0    0    0    0    0    2   0   0
+ Cowens       .250  .357  .500    12    3    3    0    0    2    2    2   0   0
+ Fischlin     .290  .353  .323    31    9    1    0    0    1    3    2   1   0
+ Griffey      .208  .243  .257   101   21    2    0    1    8    5   18   0   1
+ Harper       .333  .333  .333     3    1    0    0    0    0    0    0   0   0
+ Hebner       .344  .403  .902    61   21    4    0   10   27    6    4   0   0
+ Hrbek        .273  .293  .322   183   50    6    0    1   14    2   44   0   0
+dLansford     .311  .348  .377   106   33    1    0    2   13    5   11   0   0
+ Lemon        .291  .333  .493   148   43    6    3    6   15   10   19   1   1
+rMoses        .067  .067  .133    15    1    1    0    0    0    0    4   0   0
+ Oberkfell    .155  .193  .226    84   13    6    0    0    6    4    9   0   0
+ Oglivie      .261  .284  .457   188   49   12    2    7   19    6   45   0   0
+ Porter       .174  .278  .246    69   12    2    0    1    7   10   27   0   0
+ Stearns      .214  .243  .245    98   21    3    0    0   11    4   15   2   1
+ Yount        .322  .383  .489   180   58   11    8    1   15   19   24   1   2
+ 
+ Breining     .000  .000  .000     4    0    0    0    0    0    0    2   2   0
+ Clark        .250  .250  .500     4    1    1    0    0    0    0    1   0   0
+ Dotson       .083  .154  .083    12    1    0    0    0    1    1    5   0   0
+ Garber       .000  .000  .000     2    0    0    0    0    0    0    1   2   0
+ Guidry       .067  .065  .067    30    2    0    0    0    1    0   10   1   1
+ Gullickson   .286  .286  .286    14    4    0    0    0    1    0    5   0   0
+ Jenkins      .125  .125  .125    16    2    0    0    0    0    0    5   0   0
+rPrice        .143  .125  .143     7    1    0    0    0    2    0    0   1   1
+ Schmidt      .000  .000  .000     5    0    0    0    0    0    0    1   0   0
+ Zahn         .105  .105  .105    19    2    0    0    0    2    0    3   1   0
+ 
+ Others       .316  .350  .421    38   12    1    0    1    3    2    4   0   0
+ 
+ Team Total   .254  .300  .388  1702  433   71   14   43  181  118  277  17  11
+           DMB League Batting Splits:  1982 Jasper Jews-Jesus-- vsRHP
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Baker        .257  .321  .403   370   95   12    0   14   43   34   62   1   2
+ Bannister    .270  .345  .287   174   47    3    0    0   15   16   37   5   0
+rBarrett      .000  .000  .000     2    0    0    0    0    1    0    0   0   0
+ Bochy        .000  .200  .000     8    0    0    0    0    0    2    3   0   0
+ Cowens       .200  .200  .200     5    1    0    0    0    0    0    3   0   0
+ Fischlin     .091  .211  .182    33    3    1    1    0    5    5    8   0   0
+ Griffey      .217  .296  .311   161   35    9    0    2   14   18   27   0   0
+ Harper       .167  .167  .278    18    3    2    0    0    2    0    1   0   0
+ Hebner       .189  .258  .205   190   36    3    0    0    7   18   17   0   1
+ Hrbek        .269  .308  .431   357   96   12    2   14   50   23   52   0   6
+dLansford     .275  .349  .407   273   75   21    3    3   21   27   36   0   0
+ Lemon        .273  .347  .420   326   89   21    0    9   24   24   65   0   2
+rMoses        .389  .476  .667    36   14    4    3    0    8    5    6   0   0
+ Oberkfell    .290  .324  .398   359  104   13    4    6   51   18   24   0   2
+ Oglivie      .252  .317  .468   389   98   11    2   23   64   38   56   0   4
+ Porter       .244  .363  .496   246   60    9    1   17   34   45   36   0   0
+ Stearns      .226  .270  .329   164   37    9    1    2   16    8   18   0   0
+ Yount        .275  .312  .425   459  126   28    4   11   57   26   63   1   7
+ 
+ Breining     .286  .286  .286    14    4    0    0    0    3    0    2   3   0
+ Clark        .111  .111  .222     9    1    1    0    0    1    0    4   0   0
+ Dotson       .063  .167  .063    16    1    0    0    0    2    2    5   0   0
+ Garber       .000  .000  .000     3    0    0    0    0    0    0    1   0   0
+ Guidry       .085  .122  .085    47    4    0    0    0    1    2   17   1   0
+ Gullickson   .130  .145  .148    54    7    1    0    0    2    1   21   5   0
+ Jenkins      .162  .162  .189    37    6    1    0    0    0    0   14   1   0
+rPrice        .667  .714  .667     6    4    0    0    0    1    0    0   0   0
+ Schmidt      .300  .300  .400    10    3    1    0    0    2    0    0   0   0
+ Zahn         .113  .145  .113    53    6    0    0    0    4    2   16   5   0
+ 
+ Others       .125  .125  .125     8    1    0    0    0    0    0    2   0   0
+ 
+ Team Total   .250  .309  .382  3827  956  162   21  101  428  314  596  22  24
+     DMB League Games Started by Position:  1982 Jasper Jews-Jesus-- vsLHP
+                                        
+ 
+ NAME           C   1B   2B   3B   SS   LF   CF   RF
+ 
+ Bochy          0    0    0    0    0    0    0    0
+ Harper         0    0    0    0    0    0    0    0
+ Porter        13    0    0    0    0    0    0    0
+ Stearns       32    0    0    0    0    0    0    0
+ Bannister      0    0   40    0    0    0    0    0
+rBarrett        0    0    6    0    0    0    0    0
+ Fischlin       2    0    1    0    0    0    0    0
+ Hebner         0    0    0    7    0    0    0    3
+ Hrbek          0   46    0    0    0    0    0    0
+dLansford       0    0    0   27    0    0    0    0
+ Oberkfell      0    0    0   13    0    0    0    0
+ Yount          0    0    0    0   47    0    0    0
+ Baker          0    0    0    0    0    0    0   27
+ Cowens         0    0    0    0    0    0    0    1
+ Griffey        0    0    0    0    0    0    9   16
+ Lemon          0    0    0    0    0    0   37    0
+rMoses          0    0    0    0    0    0    1    0
+ Oglivie        0    0    0    0    0   44    0    0
+ 
+ Others         0    1    0    0    0    3    0    0
+ 
+ Team Total    47   47   47   47   47   47   47   47
+     DMB League Games Started by Position:  1982 Jasper Jews-Jesus-- vsRHP
+                                        
+ 
+ NAME           C   1B   2B   3B   SS   LF   CF   RF
+ 
+ Bochy          0    0    0    0    0    0    0    0
+ Harper         0    0    0    0    0    0    0    0
+ Porter        80    0    0    0    0    0    0    0
+ Stearns       32    0    0    1    0    0    0    0
+ Bannister      0   21   17    0    0    2    0    1
+rBarrett        0    0    0    0    0    0    0    0
+ Fischlin       3    0    1    2    0    0    0    0
+ Hebner         0    5    0   44    0    0    0    0
+ Hrbek          0   89    0    0    0    0    0    0
+dLansford       0    0    0   68    0    0    0    0
+ Oberkfell      0    0   97    0    0    0    0    0
+ Yount          0    0    0    0  115    0    0    0
+ Baker          0    0    0    0    0    0    0  104
+ Cowens         0    0    0    0    0    0    0    0
+ Griffey        0    0    0    0    0    0   27    8
+ Lemon          0    0    0    0    0    0   79    2
+rMoses          0    0    0    0    0    0    9    0
+ Oglivie        0    0    0    0    0  113    0    0
+ 
+ Team Total   115  115  115  115  115  115  115  115
+            DMB League Pitching Statistics:  1982 Jasper Jews-Jesus
+                                        
+ 
+ NAME         ERA  W  L  S   G GS CG SH    IP   H   R  ER  BB   K   BF HR WP DP
+ 
+ Boris       9.00  0  1  0   1  0  0  0   1.0   1   1   1   0   1    4  1  0  0
+ Breining    3.35  5  5  4  64  4  2  0 142.1 159  57  53  27 104  599 11  0 15
+rCappuzello  0.00  0  0  0   0  0  0  0   0.0   0   0   0   0   0    0  0  0  0
+ Clark       2.21  5  4  2  66  0  0  0 102.0  75  32  25  33  71  411  1  2 14
+ Dotson      4.96  3  7  0  23 15  0  0  85.1 114  60  47  25  43  380 10  0 10
+ Garber      2.02 10  8 20  71  0  0  0  84.2  77  26  19  13  43  337  6  1 13
+ Guidry      3.60 11 14  0  36 36  4  2 225.0 225 102  90  70 184  946 19  7 20
+ Gullickson  5.06  8 18  0  36 36  3  1 204.2 240 133 115  62 159  914 32  8  7
+ Jenkins     4.89  5 11  0  26 25  0  0 152.2 175  93  83  39 105  664 16  2  3
+rKeener      7.97  3  4  2  24  0  0  0  20.1  24  20  18  28  22  110  2  0  2
+ LaRoChE     0.00  0  0  0   0  0  0  0   0.0   0   0   0   0   0    0  0  0  0
+rPrice       2.61  2  3  0  40  8  0  0  79.1  66  32  23  31  89  333  6  1  2
+ Schmidt     3.58  9  2  2  65  5  0  0 105.2 108  47  42  26  62  450  7  1  5
+rWright      0.00  0  0  0   0  0  0  0   0.0   0   0   0   0   0    0  0  0  0
+ Zahn        3.49 12 12  0  33 33  8  3 224.2 229  94  87  60 135  942 15  3 16
+
+ Team Total  3.80    89    162    17   1427.2     697     414     6090    25
+                  73    30    162     7      1493     603    1018     126   107
+ 
+ 
+ NAME          IW HBP  WP  BK  CI   H/9  BB/9   R/9   K/9  HR/9
+ 
+ Boris          0   0   0   0   0   9.0   0.0   9.0   9.0   9.0
+ Breining       1   2   0   2   0  10.1   1.7  11.9   6.6   0.7
+rCappuzello     0   0   0   0   0   0.0   0.0   0.0   0.0   0.0
+ Clark          1   0   2   0   0   6.6   2.9   9.5   6.3   0.1
+ Dotson         1   1   0   3   0  12.0   2.6  14.8   4.5   1.1
+ Garber         1   1   1   0   0   8.2   1.4   9.7   4.6   0.6
+ Guidry         1   7   7   4   0   9.0   2.8  12.1   7.4   0.8
+ Gullickson     2   4   8   4   0  10.6   2.7  13.5   7.0   1.4
+ Jenkins        1   2   2   1   0  10.3   2.3  12.7   6.2   0.9
+rKeener         0   0   0   1   0  10.6  12.4  23.0   9.7   0.9
+ LaRoChE        0   0   0   0   0   0.0   0.0   0.0   0.0   0.0
+rPrice          1   1   1   0   0   7.5   3.5  11.1  10.1   0.7
+ Schmidt        4   8   1   0   0   9.2   2.2  12.1   5.3   0.6
+rWright         0   0   0   0   0   0.0   0.0   0.0   0.0   0.0
+ Zahn           1   6   3   0   0   9.2   2.4  11.8   5.4   0.6
+
+ Team Total    14  32  25  15   0   9.4   2.6  12.2   6.4   0.8
+            DMB League Pitching Statistics:  1982 Jasper Jews-Jesus
+                                        
+ 
+ NAME         AVG   OBP   SPC   BF   AB    H  2B  3B  HR   TB  SH  SF
+ 
+ Boris       .250  .250 1.000    4    4    1   0   0   1    4   0   0
+ Breining    .282  .316  .410  599  563  159  37   1  11  231   4   3
+rCappuzello  .000  .000  .000    0    0    0   0   0   0    0   0   0
+ Clark       .202  .265  .263  411  372   75  16   2   1   98   4   2
+ Dotson      .332  .376  .501  380  343  114  26   1  10  172   8   3
+ Garber      .242  .272  .340  337  318   77   9   2   6  108   2   3
+ Guidry      .263  .322  .396  946  855  225  53   2  19  339   8   6
+ Gullickson  .287  .338  .449  914  836  240  31   4  32  375  10   2
+ Jenkins     .283  .326  .429  664  618  175  34   4  16  265   2   3
+rKeener      .300  .477  .400  110   80   24   2   0   2   32   1   1
+ LaRoChE     .000  .000  .000    0    0    0   0   0   0    0   0   0
+rPrice       .225  .298  .328  333  293   66   8   2   6   96   4   4
+ Schmidt     .265  .319  .385  450  408  108  16   6   7  157   5   3
+rWright      .000  .000  .000    0    0    0   0   0   0    0   0   0
+ Zahn        .266  .316  .384  942  862  229  49   4  15  331   9   5
+
+ Team Total  .269  .321  .398      5552      281     126       57
+                              6090      1493      28     2208      35
+ 
+ 
+ NAME          GS  CG   CG% SHo  QS   QS%   RS RS/G  RL RLS   RL%
+ 
+ Boris          0   0  .000   0   0  .000    0  0.0   0   0  .000
+ Breining       4   2  .500   0   4 1.000   18  4.5   8   2  .250
+rCappuzello     0   0  .000   0   0  .000    0  0.0   0   0  .000
+ Clark          0   0  .000   0   0  .000    0  0.0  12   7  .583
+ Dotson        15   0  .000   0   7  .467   79  5.3  19   7  .368
+ Garber         0   0  .000   0   0  .000    0  0.0   9   5  .556
+ Guidry        36   4  .111   2  23  .639  135  3.8  27   7  .259
+ Gullickson    36   3  .083   1  19  .528  130  3.6  23  10  .435
+ Jenkins       25   0  .000   0  10  .400  107  4.3  27  11  .407
+rKeener         0   0  .000   0   0  .000    0  0.0  22  11  .500
+ LaRoChE        0   0  .000   0   0  .000    0  0.0   0   0  .000
+rPrice          8   0  .000   0   4  .500   29  3.6  11   3  .273
+ Schmidt        5   0  .000   0   2  .400   22  4.4  19   7  .368
+rWright         0   0  .000   0   0  .000    0  0.0   0   0  .000
+ Zahn          33   8  .242   3  18  .545  122  3.7  15   9  .600
+
+ Team Total   162      .105      87        642      192      .411
+                   17         7      .537       4.0      79
+            DMB League Pitching Statistics:  1982 Jasper Jews-Jesus
+                                        
+ 
+ NAME         SvO  Sv   Sv%  BSv  BSv%  IR  IRS   IR%    G  RA   RA%  GF   GF%
+ 
+ Boris          0   0  .000    0  .000   0    0  .000    1   1 1.000   1 1.000
+ Breining       8   4  .500    3  .375  41   18  .439   64  60  .938  23  .383
+rCappuzello     0   0  .000    0  .000   0    0  .000    0   0  .000   0  .000
+ Clark          8   2  .250    1  .125  52   14  .269   66  66 1.000  19  .288
+ Dotson         1   0  .000    1 1.000   6    5  .833   23   8  .348   3  .375
+ Garber        28  20  .714    7  .250  51   20  .392   71  71 1.000  48  .676
+ Guidry         0   0  .000    0  .000   0    0  .000   36   0  .000   0  .000
+ Gullickson     0   0  .000    0  .000   0    0  .000   36   0  .000   0  .000
+ Jenkins        0   0  .000    0  .000   0    0  .000   26   1  .038   1 1.000
+rKeener         8   2  .250    1  .125   8    7  .875   24  24 1.000   6  .250
+ LaRoChE        0   0  .000    0  .000   0    0  .000    0   0  .000   0  .000
+rPrice          4   0  .000    1  .250  13    6  .462   40  32  .800  17  .531
+ Schmidt       14   2  .143    2  .143  21    9  .429   65  60  .923  27  .450
+rWright         0   0  .000    0  .000   0    0  .000    0   0  .000   0  .000
+ Zahn           0   0  .000    0  .000   0    0  .000   33   0  .000   0  .000
+
+ Team Total    71      .423       .225       79        485      .666      .449
+                   30         16       192       .411      323       145
+          DMB League Pitching Splits:  1982 Jasper Jews-Jesus-- vsLHB
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Boris        .000  .000  .000     2    0    0    0    0    0    0    1   0   0
+ Breining     .292  .322  .444   250   73   18    1    6   34   11   30   2   0
+rCappuzello   .000  .000  .000     0    0    0    0    0    0    0    0   0   0
+ Clark        .190  .248  .198   126   24    1    0    0    9   10   24   0   1
+ Dotson       .325  .368  .469   160   52    8    0    5   19   11   24   6   0
+ Garber       .224  .265  .276   156   35    3    1    1   14    8   20   1   1
+ Guidry       .295  .369  .452   210   62    9    0    8   28   22   41   4   1
+ Gullickson   .303  .351  .479   399  121   16    0   18   66   28   50   3   1
+ Jenkins      .303  .355  .427   307   93   22    2    4   39   23   33   0   0
+rKeener       .387  .545  .452    31   12    2    0    0    3   12    9   0   1
+ LaRoChE      .000  .000  .000     0    0    0    0    0    0    0    0   0   0
+rPrice        .205  .261  .217    83   17    1    0    0    9    6   24   2   2
+ Schmidt      .260  .328  .390   177   46    6    4    3   16   14   19   2   0
+rWright       .000  .000  .000     0    0    0    0    0    0    0    0   0   0
+ Zahn         .220  .282  .340   209   46   13    0    4   20   16   45   4   0
+ 
+ Team Total   .275  .327  .400  2110  581   99    8   49  257  161  320  24   7
+          DMB League Pitching Splits:  1982 Jasper Jews-Jesus-- vsRHB
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Boris        .500  .500 2.000     2    1    0    0    1    1    0    0   0   0
+ Breining     .275  .311  .383   313   86   19    0    5   35   16   74   2   3
+rCappuzello   .000  .000  .000     0    0    0    0    0    0    0    0   0   0
+ Clark        .207  .274  .297   246   51   15    2    1   25   23   47   4   1
+ Dotson       .339  .383  .530   183   62   18    1    5   35   14   19   2   3
+ Garber       .259  .278  .401   162   42    6    1    5   25    5   23   1   2
+ Guidry       .253  .306  .378   645  163   44    2   11   62   48  143   4   5
+ Gullickson   .272  .327  .421   437  119   15    4   14   52   34  109   7   1
+ Jenkins      .264  .297  .431   311   82   12    2   12   41   16   72   2   3
+rKeener       .245  .431  .367    49   12    0    0    2    9   16   13   1   0
+ LaRoChE      .000  .000  .000     0    0    0    0    0    0    0    0   0   0
+rPrice        .233  .312  .371   210   49    7    2    6   24   25   65   2   2
+ Schmidt      .268  .312  .381   231   62   10    2    4   29   12   43   3   3
+rWright       .000  .000  .000     0    0    0    0    0    0    0    0   0   0
+ Zahn         .280  .327  .398   653  183   36    4   11   64   44   90   5   5
+ 
+ Team Total   .265  .313  .397  3442  912  182   20   77  402  253  698  33  28
+            DMB League Fielding Statistics:  1982 Jasper Jews-Jesus
+                                        
+ 
+POS NAME             G    GS    PO     A     E    DP    TC     PCT   PB
+ 
+p   Gullickson      36    36    17    18     9     0    44    .795
+    Zahn            33    33     8    27     5     1    40    .875
+    Guidry          36    36    12    21     2     2    35    .943
+    Breining        64     4     9    22     0     3    31   1.000
+    Garber          71     0     9    14     3     0    26    .885
+    Schmidt         65     5     6    17     1     1    24    .958
+    Clark           66     0     8    14     1     1    23    .957
+    Jenkins         26    25     9    13     0     0    22   1.000
+   rPrice           40     8     6     7     2     0    15    .867
+    Dotson          23    15     5     8     1     1    14    .929
+   rKeener          24     0     3     3     1     0     7    .857
+    Boris            1     0     0     0     0     0     0    .000
+                   485   162    92   164    25     9   281    .911
+ 
+c   Porter         103    93   608    39     9     1   656    .986    5
+    Stearns         79    64   424    34     6     0   464    .987    0
+    Fischlin        14     5    42     2     1     0    45    .978    0
+    Bochy            1     0     0     0     0     0     0    .000    0
+                   197   162  1074    75    16     1  1165    .986    5
+ 
+1b  Hrbek          142   135  1200    94     9    93  1303    .993
+    Bannister       21    21   154    12     2     9   168    .988
+    Hebner           8     5    61     4     0     8    65   1.000
+    Bochy            2     0     0     0     0     0     0    .000
+    Others           2     1    15     1     0     0    16   1.000
+                   175   162  1430   111    11   110  1552    .993
+ 
+2b  Oberkfell      105    97   196   289     9    54   494    .982
+    Bannister       65    57   122   185     8    31   315    .975
+   rBarrett          8     6     9    24     1     1    34    .971
+    Fischlin        14     2     6    11     1     3    18    .944
+   dLansford         2     0     1     2     0     0     3   1.000
+    Hebner           1     0     0     0     0     0     0    .000
+                   195   162   334   511    19    89   864    .978
+ 
+3b dLansford        95    95    57   181    10    19   248    .960
+    Hebner          55    51    34    89     0    10   123   1.000
+    Oberkfell       15    13     5    29     0     1    34   1.000
+    Fischlin         4     2     1     1     1     0     3    .667
+    Stearns          4     1     1     2     0     1     3   1.000
+                   173   162    98   302    11    31   411    .973
+ 
+ss  Yount          162   162   214   535    29    74   778    .963
+    Fischlin         2     0     2     5     0     1     7   1.000
+                   164   162   216   540    29    75   785    .963
+ 
+lf  Oglivie        158   157   330    23     2     1   355    .994
+    Bannister        4     2     4     0     0     0     4   1.000
+    Harper           2     0     0     0     0     0     0    .000
+    Others           9     3    12     1     0     0    13   1.000
+                   173   162   346    24     2     1   372    .995
+            DMB League Fielding Statistics:  1982 Jasper Jews-Jesus
+                                        
+ 
+POS NAME             G    GS    PO     A     E    DP    TC     PCT   PB
+ 
+cf  Lemon          118   116   294     8     7     1   309    .977
+    Griffey         37    36    79     1     2     0    82    .976
+   rMoses           11    10    19     2     1     0    22    .955
+    Bannister        1     0     0     0     0     0     0    .000
+                   167   162   392    11    10     1   413    .976
+ 
+rf  Baker          134   131   233    13     7     1   253    .972
+    Griffey         27    24    56     3     4     1    63    .937
+    Hebner           4     3     5     1     0     0     6   1.000
+    Lemon            2     2     5     0     0     0     5   1.000
+    Cowens           3     1     1     1     0     0     2   1.000
+    Bannister        2     1     1     0     0     0     1   1.000
+                   172   162   301    18    11     2   330    .967
+ 
+    Team Total     162   162  4283  1756   134   117  6173    .978    5
+                     Game Results:  1982 Jasper Jews-Jesus
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 6/ 4/1999   @BBG   W  7-4      Gullickson  Gullickson  Garber      Welch       
+ 6/ 5/1999   @BBG   W  3-0      Guidry      Guidry                  Scott       
+ 6/ 6/1999   @BBG   W  4-1      Zahn        Zahn                    Viola       
+ 6/ 7/1999    CIN   W  8-3      Jenkins     Jenkins                 Righetti    
+ 6/ 8/1999    CIN   W  5-4      Breining    Breining    Garber      Smithson    
+ 6/ 9/1999    CIN   L  0-2      Gullickson  Gullickson              Soto        
+ 6/10/1999    PAR   W  3-2      Guidry      Schmidt                 Hoyt        
+ 6/11/1999    PAR   W  3-0      Zahn        Zahn                    Niekro, P   
+ 6/12/1999    PAR   W  5-3      Jenkins     Jenkins     Garber      Christnson  
+ 6/14/1999    PAR   L  5-8      Dotson      Dotson                  Flanagan    
+ 6/15/1999    PAR   L  2-7      Gullickson  Gullickson              Valenzuela  
+ 6/16/1999    GCP   W  4-2      Guidry      Guidry                  Reuss       
+ 6/17/1999    GCP   L  1-5      Zahn        Zahn                    Rawley      
+ 6/20/1999    BOS   W  3-2      Jenkins     Schmidt     Garber      Martinez,D  
+ 6/21/1999    BOS   W  7-5      Dotson      Schmidt                 Carlton     
+ 6/22/1999   @CTW   L  2-3  10  Gullickson  Garber                  Forsch, B   
+ 6/23/1999   @CTW   L  7-8      Guidry      Guidry                  Hough       
+ 6/24/1999   @CTW   L  4-5  10  Zahn        Garber                  Krukow      
+ 6/25/1999   @GCP   L  2-4      Jenkins     Jenkins                 Barker      
+ 6/26/1999   @GCP   L  2-8      Dotson      Dotson                  Beattie     
+ 6/28/1999    LDL   L  3-7      Gullickson  Gullickson              Seaver      
+ 6/29/1999    LDL   L  2-6      Guidry      Guidry                  Gura        
+ 6/30/1999    LDL   L  3-8      Zahn        Zahn                    Eckersley   
+ 7/ 1/1999    BBG   L  2-4      Jenkins     Jenkins                 Welch       
+ 7/ 2/1999    BBG   W  3-2      Breining    Breining                Scott       
+ 7/ 3/1999    BBG   W  5-4      Gullickson  Gullickson  Garber      Viola       
+ 7/ 4/1999   @PAR   W  5-0      Guidry      Guidry                  Hoyt        
+ 7/ 5/1999   @PAR   W  3-0      Zahn        Zahn                    Niekro, P   
+ 7/ 7/1999   @FER   L  5-7      Jenkins     Jenkins                 Sutton      
+ 7/ 8/1999   @FER   L  3-5      Gullickson  Garber                  Sutcliffe   
+ 7/ 9/1999    PAR   L  3-9      Guidry      Guidry                  Hoyt        
+ 7/10/1999    PAR   W  3-2      Zahn        Schmidt                 Niekro, P   
+ 7/11/1999    PAR   L  6-7      Jenkins     Garber                  Christnson  
+ 7/12/1999    PAR   L  1-5      Dotson      Dotson                  Flanagan    
+ 7/13/1999    FER   L  3-5      Gullickson  Gullickson              Sutcliffe   
+ 7/14/1999    FER   W  7-2      Guidry      Guidry                  Hammaker    
+ 7/16/1999   @BAR   L  1-3      Zahn        Zahn                    Stieb       
+ 7/17/1999    CEN   W  6-5      Jenkins     Garber                  Sanderson   
+ 7/18/1999    CEN   W  6-3      Gullickson  Gullickson  Garber      Forsch, K   
+ 7/19/1999    CEN   L  3-7      Guidry      Guidry                  McWilliams  
+ 7/20/1999    CIN   L  3-5      Zahn        Zahn                    Smithson    
+ 7/21/1999    CIN   W  6-5  11  Jenkins     Keener                  Soto        
+ 7/22/1999    CIN   W  3-2      Dotson      Garber                  Petry       
+ 7/23/1999    CIN   W  6-2      Gullickson  Gullickson              Berenyi     
+ 7/24/1999    BBG   L  0-4      Guidry      Guidry                  Viola       
+ 7/25/1999    BBG   W  7-6      Zahn        Clark       Garber      Alexander   
+ 7/26/1999    BBG   L  3-4      Jenkins     Jenkins                 Welch       
+ 7/27/1999    BBG   W  7-4      Breining    Breining    Keener      Scott       
+ 7/28/1999   @NYH   L  3-9      Gullickson  Schmidt                 Ryan        
+ 7/29/1999   @NYH   L  2-3      Guidry      Garber                  Lollar      
+ 7/30/1999   @NYH   W  4-2      Zahn        Zahn        Garber      Ujdur       
+ 7/31/1999    CIN   L  6-9      Jenkins     Jenkins                 Stewart     
+                     Game Results:  1982 Jasper Jews-Jesus
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 8/ 1/1999    CIN   L  0-3      Dotson      Dotson                  Soto        
+ 8/ 3/1999    BBG   W  5-1      Gullickson  Gullickson              Scott       
+ 8/ 4/1999    BBG   L  1-2      Guidry      Guidry                  Viola       
+ 8/ 6/1999   @CTW   L  2-9      Zahn        Zahn                    Hough       
+ 8/ 7/1999   @CTW   L  1-5      Jenkins     Jenkins                 Krukow      
+ 8/ 8/1999    CTW   L  2-11     Gullickson  Gullickson              Laskey      
+ 8/12/1999    GCP   W  3-2  10  Guidry      Garber                  Sarmiento   
+ 8/13/1999    GCP   L  5-8      Zahn        Zahn                    Barker      
+ 8/14/1999    GCP   L  2-4      Jenkins     Jenkins                 Beattie     
+ 8/15/1999    GCP   L  4-8      Gullickson  Keener                  Montefusco  
+ 8/17/1999   @BBG   L  5-6      Guidry      Clark                   Welch       
+ 8/18/1999   @BBG   W  4-2      Zahn        Zahn        Garber      Scott       
+ 8/19/1999   @BAR   W  3-2      Jenkins     Schmidt     Garber      Stieb       
+ 8/20/1999   @BAR   W  6-4  10  Gullickson  Breining                Morris      
+ 8/21/1999   @BAR   L  6-7      Guidry      Garber                  Black       
+ 8/22/1999   @BMB   W 13-1      Zahn        Zahn                    Denny       
+ 8/23/1999   @BMB   W  1-0      Jenkins     Jenkins     Garber      Rogers      
+ 8/25/1999   @BOS   L  2-3      Gullickson  Gullickson              Robinson,D  
+ 8/26/1999   @BOS   W  7-5      Guidry      Guidry      Garber      Martinez,D  
+ 8/27/1999   @CIN   W  4-0      Zahn        Zahn                    Berenyi     
+ 8/28/1999   @CIN   L  3-4      Jenkins     Jenkins                 Righetti    
+ 8/29/1999   @CIN   W 11-2      Dotson      Dotson                  Falcone     
+ 8/31/1999    LDL   L  2-7      Gullickson  Gullickson              Gura        
+ 9/ 1/1999    SUN   W  6-2      Guidry      Guidry                  Show        
+ 9/ 2/1999    SUN   W  2-1      Zahn        Zahn                    Lea         
+ 9/ 3/1999    NYH   W  4-3      Jenkins     Schmidt     Garber      Witt        
+ 9/ 4/1999    NYH   W  3-1      Breining    Breining                Wilcox      
+ 9/ 5/1999   @BOS   W  6-3      Gullickson  Gullickson  Schmidt     Martinez,D  
+ 9/ 6/1999   @BOS   L  2-3      Guidry      Guidry                  Carlton     
+ 9/ 9/1999    LON   L  1-6      Zahn        Zahn                    Mahler      
+ 9/10/1999    LON   L  2-6      Jenkins     Jenkins                 Rucker      
+ 9/14/1999    LON   W  8-0      Gullickson  Gullickson              Camp        
+ 9/15/1999   @BBG   L  0-3      Guidry      Guidry                  Blue        
+ 9/16/1999   @BBG   W  9-4      Zahn        Zahn        Clark       Welch       
+ 9/17/1999   @BBG   L  6-7      Jenkins     Jenkins                 Scott       
+ 9/18/1999   @BBG   L  0-1      Dotson      Dotson                  Viola       
+ 9/19/1999    NYH   L  4-9      Gullickson  Gullickson              Witt        
+ 9/20/1999    NYH   W  7-6      Guidry      Garber                  Wilcox      
+ 9/21/1999    NYH   W  3-2      Zahn        Zahn        Garber      Ryan        
+ 9/22/1999   @FER   L  3-5      Jenkins     Jenkins                 Hammaker    
+ 9/23/1999   @FER   W  4-2      Dotson      Dotson      Garber      Boddicker   
+ 9/26/1999    SUN   L  7-9      Gullickson  Clark                   Stuper      
+ 9/27/1999    SUN   W  6-2      Guidry      Price                   Reed,R      
+ 9/30/1999    BAR   W  6-5  11  Zahn        Schmidt                 Morris      
+10/ 1/1999    BAR   W  5-4      Jenkins     Jenkins     Keener      Tanana      
+10/ 2/1999   @LDL   L  4-5      Gullickson  Gullickson              McGregor    
+10/ 3/1999   @LDL   W 12-3      Guidry      Guidry      Breining    Seaver      
+10/ 4/1999   @LDL   L  2-4      Zahn        Zahn                    Gura        
+10/ 5/1999   @CEN   W  5-2      Jenkins     Clark       Garber      McWilliams  
+10/ 6/1999   @CEN   L  7-9      Dotson      Breining                Swan        
+10/ 7/1999   @PAR   L  2-3      Gullickson  Gullickson              Christnson  
+10/ 8/1999   @PAR   L  0-5      Guidry      Guidry                  Flanagan    
+                     Game Results:  1982 Jasper Jews-Jesus
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+10/ 9/1999   @CEN   W  4-1      Zahn        Zahn        Garber      Forsch, K   
+10/10/1999   @CEN   L  8-15     Jenkins     Garber                  McWilliams  
+10/11/1999   @CEN   L  2-5      Dotson      Dotson                  Swan        
+10/12/1999    BAR   W  4-3      Gullickson  Schmidt                 Morris      
+10/13/1999    BAR   W  2-1      Guidry      Garber                  Tanana      
+10/14/1999    BAR   W  6-5      Zahn        Garber                  Darwin      
+10/15/1999   @GCP   L  0-5      Price       Price                   Reuss       
+10/16/1999   @GCP   W 10-1      Dotson      Dotson      Schmidt     Sarmiento   
+10/17/1999   @GCP   L  1-7      Gullickson  Gullickson              Barker      
+10/18/1999   @LON   W  7-2      Guidry      Guidry                  Knepper     
+10/19/1999   @LON   L  3-6      Zahn        Zahn                    Camp        
+10/20/1999   @LDL   W  3-2  10  Price       Keener      Breining    Gura        
+10/21/1999   @LDL   W 11-6      Dotson      Schmidt                 Eckersley   
+10/22/1999    BMB   L  2-5      Gullickson  Gullickson              Denny       
+10/23/1999    BMB   L  0-1      Guidry      Guidry                  Rogers      
+10/28/1999    LON   L  3-9      Gullickson  Gullickson              Rhoden      
+10/29/1999    LON   W  3-2      Guidry      Guidry      Garber      Mahler      
+10/30/1999   @SUN   L  1-2      Zahn        Garber                  Proly       
+10/31/1999   @SUN   W  5-1      Jenkins     Jenkins                 Tudor       
+11/ 1/1999   @SUN   L  8-9      Dotson      Breining                Lea         
+11/ 3/1999    CEN   W  3-2      Gullickson  Garber                  Niekro,J    
+11/ 4/1999   @PAR   L  0-2      Guidry      Guidry                  Niekro, P   
+11/ 5/1999   @PAR   L  0-1      Zahn        Zahn                    Christnson  
+11/ 6/1999   @PAR   W  7-1      Price       Price                   Flanagan    
+11/10/1999   @PAR   L  1-4      Gullickson  Gullickson              Niekro, P   
+11/11/1999   @PAR   W  6-2      Guidry      Guidry                  Christnson  
+11/13/1999   @NYH   L  1-2  11  Zahn        Clark                   Lollar      
+11/17/1999   @LON   W  7-4      Gullickson  Garber      Clark       Koosman     
+11/18/1999   @LON   L  6-7  10  Guidry      Keener                  Bird        
+11/19/1999   @CIN   L  2-4      Zahn        Zahn                    Falcone     
+11/20/1999   @CIN   L  4-5      Price       Dotson                  Soto        
+11/21/1999   @CIN   L  1-5      Schmidt     Schmidt                 Petry       
+11/22/1999   @BMB   L  2-7      Gullickson  Gullickson              Rogers      
+11/23/1999   @BMB   L  6-9      Guidry      Keener                  Bannister   
+11/24/1999   @BMB   L  2-3  10  Zahn        Keener                  Leal        
+11/25/1999    BMB   L  3-8      Price       Price                   Stoddard    
+11/26/1999    BMB   W  6-5      Schmidt     Garber      Breining    Rogers      
+11/28/1999    FER   L  3-5      Gullickson  Gullickson              Shirley     
+11/29/1999    FER   L  1-3      Guidry      Guidry                  Andujar     
+11/30/1999    FER   L  0-6      Zahn        Zahn                    Sutton      
+12/ 1/1999    GCP   W  5-3      Price       Clark                   Rawley      
+12/ 2/1999    GCP   W  6-5      Schmidt     Clark                   Reuss       
+12/ 3/1999    GCP   W  3-1      Gullickson  Gullickson  Garber      Sarmiento   
+12/ 4/1999    CTW   W  6-3      Guidry      Guidry      Garber      Hough       
+12/ 5/1999    CTW   W  5-1      Zahn        Zahn                    Hurst       
+12/ 6/1999    CTW   W  2-1  10  Price       Garber                  Laskey      
+12/ 8/1999   @CIN   L  3-4      Gullickson  Breining                Soto        
+12/ 9/1999   @CIN   L  1-10     Guidry      Guidry                  Petry       
+12/10/1999   @CIN   W 11-9      Zahn        Keener                  Berenyi     
+12/11/1999   @SUN   L  5-10     Price       Price                   Tudor       
+12/12/1999   @SUN   W  7-4      Schmidt     Clark       Breining    Show        
+12/13/1999    BOS   L  0-6      Gullickson  Gullickson              Palmer      
+                     Game Results:  1982 Jasper Jews-Jesus
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+12/14/1999    BOS   L  2-3      Guidry      Guidry                  Robinson,D  
+12/15/1999    BOS   L  8-9      Dotson      Boris                   Martinez,D  
+12/16/1999   @GCP   L  7-8      Jenkins     Clark                   Montefusco  
+12/17/1999   @GCP   L  2-3  10  Schmidt     Breining                Rawley      
+12/18/1999   @GCP   L  6-9      Gullickson  Gullickson              Reuss       
+12/19/1999   @GCP   L  1-2  10  Guidry      Breining                Sarmiento   
+                       Injury Log: 1982 Jasper Jews-Jesus
+                                        
+ 
+-- Date -- #  Player      Cause                 Length
+ 
+ 6/10/1999    Hrbek       General                  0
+ 6/12/1999    Oberkfell   General                  4
+ 6/21/1999    Oglivie     General                  1
+ 7/12/1999    Breining    Rain delay               0
+ 7/18/1999    Oglivie     General                  2
+ 7/19/1999    Yount       General                  0
+ 7/28/1999    Porter      General                  7
+ 7/30/1999    Fischlin    Collision in field       3
+ 8/ 1/1999    Clark       General                  7
+ 8/14/1999    Oberkfell   Hit by pitch            25
+ 8/17/1999    Clark       General                 11
+ 8/20/1999    Baker       General                  0
+ 8/22/1999    Baker       General                  8
+ 8/25/1999    Lansford    General                  3
+ 9/ 6/1999    Hrbek       General                  5
+ 9/19/1999    Baker       Collision on bases      15
+10/ 1/1999    Stearns     Collision in field       3
+10/ 6/1999    Oberkfell   General                  5
+10/14/1999    Bannister   Hit by pitch             1
+10/22/1999    Lansford    Hit by pitch            31
+11/22/1999    Hebner      General                  3
+11/25/1999    Bannister   Hit by pitch             0
+11/30/1999    Griffey     General                  3
+12/ 8/1999    Bannister   General                  0
+              DMB League Transaction Log:  1982 Jasper Jews-Jesus
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+ 9/20/1999  JJJ    Farm         Alan Bannister      
+ 9/20/1999  JJJ    Farm         Chet Lemon          
+ 9/20/1999  JJJ    Promote      Marty Barrett       
+ 9/20/1999  JJJ    Promote      John Moses          
+10/ 8/1999  JJJ    Promote      Alan Bannister      
+10/ 8/1999  JJJ    Farm         Marty Barrett       
+10/ 8/1999  JJJ    Farm         Benny Ayala         
+10/ 8/1999  JJJ    Promote      Al Cowens           
+10/12/1999  JJJ    Farm         John Moses          
+10/12/1999  JJJ    Promote      Chet Lemon          
+10/24/1999  JJJ    DL           Carney Lansford       effective 10/23/1999  
+10/24/1999  JJJ    Promote      Bruce Bochy         
+11/10/1999  JJJ    TradeAway    Benny Ayala           to BMB
+11/14/1999  JJJ    Promote      Brian Harper        
+11/14/1999  JJJ    Promote      Paul Boris          
+11/14/1999  JJJ    Promote      Dave LaRoChE        
+12/11/1999  JJJ    Farm         Joe Price           
+12/15/1999  JJJ    Farm         Jeff Keener         
+
+

@@ -1,0 +1,735 @@
+The Combat Rock League
+
+Barcelona Brewers
+
+             DMB League Batting Statistics:  1982 Barcelona Brewers
+                                        
+ 
+ NAME         AVG   OBP   SPC   G  AB   H 2B 3B HR   R RBI  BB   K HB IW  SB CS
+ 
+ Ashby       .282  .340  .477 109 344  97  8  1 19  47  56  30  56  1  3   0  1 
+ Dawson      .276  .304  .483  23  87  24  3  0  5  13  12   0  13  4  0   6  2 
+cDawson      .288  .331  .473 135 520 150 30  3 20  87  65  21  87 16  1  39 12 
+ Driessen    .277  .369  .465  82 155  43  8  0  7  28  22  23  18  0  1   3  0 
+rFord        .178  .178  .342  19  73  13  3  0  3   5  10   0  17  0  0   0  0 
+ Gaetti      .219  .275  .406 113 315  69  9  1 16  43  40  24  64  2  0   2  1 
+ Geronimo    .167  .238  .222  20  18   3  1  0  0   3   5   2   3  0  0   0  0 
+ Gross       .273  .378  .355  84 220  60  4  1  4  33  24  37  29  1  0   1  2 
+ HendersonD  .283  .327  .479 103 290  82 17  2 12  33  60  19  59  1  2   2  2 
+ Jackson,Re  .194  .239  .252  28 103  20  3  0  1   8   9   6  36  0  0   0  1 
+cJackson,Re  .251  .336  .432 143 525 132 18  1 25  75  71  64 157  3  5   7  7 
+ Johnson, H  .273  .333  .350  91 143  39  2  0  3  18  16  14  37  0  3   9  1 
+rJohnstone   .224  .283  .367  15  49  11  1  0  2   5   5   3  10  1  0   0  0 
+ Lopes       .265  .323  .410 124 400 106 20  1 12  56  50  32  62  3  2  29  9 
+ Luzinski    .302  .333  .381  65  63  19  5  0  0   7   5   3  15  0  0   0  0 
+cLuzinski    .306  .353  .389 107 157  48 13  0  0  21  12  11  41  1  0   0  0 
+ Moore       .258  .299  .371  78 186  48 10  1  3  20  14   9  24  2  2   1  2 
+ Mumphrey    .311  .369  .429 115 389 121 27  5  3  50  58  38  45  0  5  12  3 
+dParker      .204  .284  .335  74 230  47 12  0  6  23  25  24  47  2  1   5  5 
+rPhillips    .206  .260  .294  31  68  14  4  1  0   6   4   4  18  1  0   2  0 
+ Smith,L     .289  .359  .403 142 561 162 33  5  7  85  55  59  79  3  0  60 19 
+ Smith,O     .234  .306  .311 129 411  96 26  0  2  48  36  43  28  1  1  19  7 
+ Thornton    .268  .348  .443 140 485 130 22  0 21  76  73  62  86  2  4   6  1 
+ Yeager      .326  .390  .472  30  89  29  6  2  1  13   9  10  13  0  0   0  0 
+cYeager      .296  .355  .440  43 125  37  8  2  2  15  13  12  15  0  0   0  0 
+ 
+ Armstrong   .000  .000  .000  74  10   0  0  0  0   0   1   0   3  0  0   0  0 
+rBlack       .136  .136  .182  39  22   3  1  0  0   0   1   0   8  0  0   0  0 
+rBlyleven    .300  .300  .300   4  10   3  0  0  0   0   1   0   3  0  0   0  0 
+ Burns       .158  .150  .158   9  19   3  0  0  0   1   3   0   6  0  0   0  0 
+rEichhorn    .231  .231  .231   7  13   3  0  0  0   2   0   0   3  0  0   0  0 
+ Fryman      .000 1.000  .000   1   0   0  0  0  0   0   0   0   0  1  0   0  0 
+cFryman     1.000 1.000 1.000   4   1   1  0  0  0   0   1   0   0  1  0   0  0 
+ Hernandez   .000  .000  .000  63   6   0  0  0  0   0   0   0   3  0  0   0  0 
+ Hood        .000  .000  .000   3   1   0  0  0  0   0   0   0   0  0  0   0  0 
+ Morris      .196  .198  .228  40  92  18  3  0  0   9  10   0  19  1  0   0  0 
+ Sanchez     .125  .125  .125  28   8   1  0  0  0   0   0   0   3  0  0   0  0 
+rSmith,B     .000  .000  .000  27  25   0  0  0  0   0   0   0   7  0  0   0  0 
+ Stieb       .204  .212  .233  41 103  21  3  0  0   9   6   1  32  0  0   1  1 
+rTanana      .160  .188  .198  33  81  13  3  0  0   3   6   3  26  0  0   1  0 
+ Tobik       .400  .400  .400  68   5   2  0  0  0   1   1   0   2  0  0   0  0 
+ 
+ Others      .247  .331  .310 127 429 106 11  2  4  63  45  53  54  3  0  19  3
+
+ Team Total  .255  .318  .379 162    1406    22    708     499     29    178
+                                 5503    245   131     662     928    24     60
+           DMB League Batting Splits:  1982 Barcelona Brewers-- vsLHP
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Ashby        .256  .273  .465    43   11    0    0    3    5    0    5   0   0
+ Dawson       .000  .000  .000     6    0    0    0    0    0    0    1   0   0
+cDawson       .229  .289  .359   131   30    6    1    3    8   11   23   0   0
+ Driessen     .150  .190  .300    20    3    0    0    1    2    1    3   0   0
+rFord         .214  .214  .411    56   12    2    0    3    9    0    8   0   0
+ Gaetti       .257  .306  .563   167   43    7    1   14   32   13   33   0   3
+ Geronimo     .167  .375  .167     6    1    0    0    0    2    2    2   0   0
+ Gross        .200  .304  .200    20    4    0    0    0    1    3    7   0   0
+ HendersonD   .262  .305  .530   164   43   13    2    9   30    9   35   0   0
+ Jackson,Re   .226  .250  .226    31    7    0    0    0    2    1   12   0   0
+cJackson,Re   .254  .308  .398   181   46    3    1    7   21   12   71   0   0
+ Johnson, H   .162  .195  .162    37    6    0    0    0    3    2   17   0   2
+rJohnstone    .265  .286  .471    34    9    1    0    2    5    0    6   0   0
+ Lopes        .358  .440  .512   123   44    8    1    3   15   18   15   0   0
+ Luzinski     .308  .308  .462    13    4    2    0    0    1    0    3   0   0
+cLuzinski     .328  .379  .426    61   20    6    0    0    4    5   15   0   0
+ Moore        .231  .286  .396    91   21    4    1    3    5    7   10   1   0
+ Mumphrey     .192  .241  .192    26    5    0    0    0    2    2    4   0   1
+dParker       .111  .111  .111    18    2    0    0    0    2    0    3   0   0
+rPhillips     .286  .375  .286     7    2    0    0    0    0    1    1   0   0
+ Smith,L      .266  .343  .351   188   50   11    1    1   10   21   20   3   0
+ Smith,O      .285  .332  .413   172   49   16    0    2   17   12   15   2   0
+ Thornton     .311  .405  .520   177   55   13    0    8   28   28   30   0   3
+ Yeager       .382  .456  .559    68   26    5    2    1    8   10   11   0   1
+cYeager       .360  .434  .558    86   31    7    2    2   11   12   11   0   1
+ 
+ Armstrong    .000  .000  .000     3    0    0    0    0    0    0    1   0   0
+rBlack        .182  .182  .273    11    2    1    0    0    1    0    5   1   0
+rBlyleven     .500  .500  .500     4    2    0    0    0    0    0    1   0   0
+ Burns        .000  .000  .000     0    0    0    0    0    1    0    0   0   1
+rEichhorn     .167  .167  .167     6    1    0    0    0    0    0    2   1   0
+ Hernandez    .000  .000  .000     2    0    0    0    0    0    0    0   0   0
+ Hood         .000  .000  .000     1    0    0    0    0    0    0    0   0   0
+ Morris       .194  .182  .258    31    6    2    0    0    5    0    5   5   2
+ Sanchez      .000  .000  .000     3    0    0    0    0    0    0    1   0   0
+rSmith,B      .000  .000  .000     5    0    0    0    0    0    0    2   0   0
+ Stieb        .238  .238  .286    42   10    2    0    0    4    0   14   3   0
+rTanana       .136  .130  .182    22    3    1    0    0    1    0   11   1   1
+ Tobik        .000  .000  .000     0    0    0    0    0    0    0    0   1   0
+ 
+ Others       .266  .323  .364   173   46    4    2    3   25   15   22   1   4
+ 
+ Team Total   .264  .316  .417  1770  467   92   10   53  216  145  305  19  18
+           DMB League Batting Splits:  1982 Barcelona Brewers-- vsRHP
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Ashby        .286  .348  .478   301   86    8    1   16   51   30   51   4   2
+ Dawson       .296  .326  .519    81   24    3    0    5   12    0   12   0   1
+cDawson       .308  .345  .512   389  120   24    2   17   57   10   64   2   8
+ Driessen     .296  .392  .489   135   40    8    0    6   20   22   15   0   1
+rFord         .059  .059  .118    17    1    1    0    0    1    0    9   0   0
+ Gaetti       .176  .241  .230   148   26    2    0    2    8   11   31   1   1
+ Geronimo     .167  .154  .250    12    2    1    0    0    3    0    1   0   1
+ Gross        .280  .386  .370   200   56    4    1    4   23   34   22   5   1
+ HendersonD   .310  .355  .413   126   39    4    0    3   30   10   24   0   2
+ Jackson,Re   .181  .234  .264    72   13    3    0    1    7    5   24   0   0
+cJackson,Re   .250  .349  .451   344   86   15    0   18   50   52   86   0   1
+ Johnson, H   .311  .381  .415   106   33    2    0    3   13   12   20   0   0
+rJohnstone    .133  .278  .133    15    2    0    0    0    0    3    4   0   0
+ Lopes        .224  .268  .365   277   62   12    0    9   35   14   47   0   1
+ Luzinski     .300  .340  .360    50   15    3    0    0    4    3   12   0   0
+cLuzinski     .292  .337  .365    96   28    7    0    0    8    6   26   0   1
+ Moore        .284  .313  .347    95   27    6    0    0    9    2   14   0   0
+ Mumphrey     .320  .378  .446   363  116   27    5    3   56   36   41   1   3
+dParker       .212  .297  .354   212   45   12    0    6   23   24   44   1   1
+rPhillips     .197  .246  .295    61   12    4    1    0    4    3   17   2   0
+ Smith,L      .300  .367  .429   373  112   22    4    6   45   38   59   4   1
+ Smith,O      .197  .288  .238   239   47   10    0    0   19   31   13   1   3
+ Thornton     .244  .314  .399   308   75    9    0   13   45   34   56   0   5
+ Yeager       .143  .143  .190    21    3    1    0    0    1    0    2   0   0
+cYeager       .154  .154  .179    39    6    1    0    0    2    0    4   0   0
+ 
+ Armstrong    .000  .000  .000     7    0    0    0    0    1    0    2   1   0
+rBlack        .091  .091  .091    11    1    0    0    0    0    0    3   3   0
+rBlyleven     .167  .167  .167     6    1    0    0    0    1    0    2   0   0
+ Burns        .158  .158  .158    19    3    0    0    0    2    0    6   0   0
+rEichhorn     .286  .286  .286     7    2    0    0    0    0    0    1   0   0
+ Fryman       .000 1.000  .000     0    0    0    0    0    0    0    0   0   0
+cFryman      1.000 1.000 1.000     1    1    0    0    0    1    0    0   0   0
+ Hernandez    .000  .000  .000     4    0    0    0    0    0    0    3   0   0
+ Morris       .197  .206  .213    61   12    1    0    0    5    0   14   2   1
+ Sanchez      .200  .200  .200     5    1    0    0    0    0    0    2   0   0
+rSmith,B      .000  .000  .000    20    0    0    0    0    0    0    5   2   0
+ Stieb        .180  .194  .197    61   11    1    0    0    2    1   18   6   0
+rTanana       .169  .210  .203    59   10    2    0    0    5    3   15   2   0
+ Tobik        .400  .400  .400     5    2    0    0    0    1    0    2   0   0
+ 
+ Others       .234  .333  .273   256   60    7    0    1   20   38   32   1   1
+ 
+ Team Total   .252  .315  .362  3733  939  153   12   78  446  354  623  36  25
+     DMB League Games Started by Position:  1982 Barcelona Brewers-- vsLHP
+                                        
+ 
+ NAME           C   1B   2B   3B   SS   LF   CF   RF
+ 
+ Ashby          3    0    0    0    0    0    0    0
+ Moore         30    0    0    0    0    0    0    0
+ Yeager        27    0    0    0    0    0    0    0
+CYeager        33    0    0    0    0    0    0    0
+ Driessen       0    0    0    0    0    0    0    0
+ Gaetti         0    0    0   60    0    0    0    0
+ Gross          0    0    0    0    0    0    0    0
+ Johnson, H     0    0    0    0    0    0   10    0
+ Lopes          0    0   10    0    1    0    0   24
+rPhillips       0    0    0    0    0    0    0    0
+ Smith,O        0    0    0    0   59    0    0    0
+ Thornton       0   60    0    0    0    0    0    0
+rFord           0    0    0    0    0    0    0   17
+ Geronimo       0    0    0    0    0    2    0    0
+ HendersonD     0    0    0    0    0    0   50    0
+rJohnstone      0    0    0    0    0    0    0   12
+ Mumphrey       0    0    0    0    0    0    0    0
+dParker         0    0    0    0    0    0    0    0
+ Smith,L        0    0    0    0    0   58    0    0
+ Luzinski       0    0    0    0    0    0    0    0
+CLuzinski       0   16    0    0    0    0    0    0
+ Dawson         0    0    0    0    0    0    0    0
+CDawson         0    0    0    0    0   13   22    0
+ Jackson,Re     0    0    0    0    0    0    0    7
+CJackson,Re     0    0    0    0    0    0    0   43
+ 
+ Others         0    0   50    0    0    0    0    0
+ 
+ Team Total    60   60   60   60   60   60   60   60
+     DMB League Games Started by Position:  1982 Barcelona Brewers-- vsRHP
+                                        
+ 
+ NAME           C   1B   2B   3B   SS   LF   CF   RF
+ 
+ Ashby         85    0    0    0    0    0    0    0
+ Moore         17    0    0    0    1    0    0    0
+ Yeager         0    0    0    0    0    0    0    0
+CYeager         6    0    0    0    0    0    0    0
+ Driessen       0   29    0    0    0    0    0    0
+ Gaetti         0    0    0   37    0    0    0    0
+ Gross          0    0    0   63    0    0    0    0
+ Johnson, H     0    0    0    2    0    3    0    2
+ Lopes          0    0   52    0   12    0    0    3
+rPhillips       0    0    0    0   24    0    0    0
+ Smith,O        0    0    0    0   65    0    0    0
+ Thornton       0   73    0    0    0    0    0    0
+rFord           0    0    0    0    0    0    0    0
+ Geronimo       0    0    0    0    0    0    0    1
+ HendersonD     0    0    0    0    0    0   15    3
+rJohnstone      0    0    0    0    0    0    0    0
+ Mumphrey       0    0    0    0    0   18   66   11
+dParker         0    0    0    0    0    0    0   61
+ Smith,L        0    0    0    0    0   81    0    0
+ Luzinski       0    0    0    0    0    0    0    0
+CLuzinski       0    4    0    0    0    0    0    0
+ Dawson         0    0    0    0    0    0   21    0
+CDawson         0    0    0    0    0   11   84    0
+ Jackson,Re     0    0    0    0    0    0    0   21
+CJackson,Re     0    0    0    0    0    0    0   94
+ 
+ Others         0    0   50    0    0    0    0    0
+ 
+ Team Total   102  102  102  102  102  102  102  102
+            DMB League Pitching Statistics:  1982 Barcelona Brewers
+                                        
+ 
+ NAME         ERA  W  L  S   G GS CG SH    IP   H   R  ER  BB   K   BF HR WP DP
+ 
+ Armstrong   3.52  5  8 19  74  0  0  0 102.1  99  43  40  41  69  441 12  6  6
+rBlack       3.06  3  4  3  39  5  0  0 100.0  76  37  34  33  65  404  6  2  7
+rBlyleven    2.22  1  1  0   4  4  0  0  24.1  18   7   6   8  20   97  1  1  1
+ Burns       4.11  2  3  0   9  9  1  0  50.1  53  25  23  24  26  218  5  0  4
+rEichhorn    5.50  4  2  0   7  7  0  0  34.1  46  24  21  13  21  157  6  5  0
+ Fryman      4.50  1  0  0   1  0  0  0   2.0   2   1   1   2   2   10  1  0  0
+cFryman      1.69  2  0  0   4  0  0  0   5.1   7   5   1   4   3   28  1  0  0
+ Hernandez   1.98  4  6 17  63  0  0  0  72.2  70  22  16  15  66  294  4  0  9
+ Hood        3.86  0  0  0   3  0  0  0   4.2   5   2   2   3   4   20  0  0  1
+ Morris      3.94 14 14  0  40 40  8  1 264.2 279 136 116  74 134 1115 32  6 21
+ Sanchez     3.94  4  1  0  28  0  0  0  45.2  39  23  20  22  25  198  2  0  4
+rSmith,B     2.63  6  5  2  27 10  2  0  92.1  90  31  27  16  64  371  8  3  4
+ Stieb       2.63 22 12  0  41 41 12  1 301.1 283 108  88  63 153 1223 21  0 25
+rTanana      2.56 15  7  0  33 33  7  4 217.2 211  75  62  37 135  889 14  0 17
+ Tobik       2.79  5  7  0  68  2  0  0  90.1  83  35  28  27  60  378  3  2  6
+ 
+ Others      3.45  4  2  1  16 11  0  0  62.2  75  27  24  19  49  275  3  0  4
+
+ Team Total  3.12    72    162    30   1465.1     596     397     6090    25
+                  90    42    162    12      1429     508     893     118   109
+ 
+ 
+ NAME          IW HBP  WP  BK  CI   H/9  BB/9   R/9   K/9  HR/9
+ 
+ Armstrong      2   5   6   2   0   8.7   3.6  12.8   6.1   1.1
+rBlack          1   6   2   6   0   6.8   3.0  10.4   5.8   0.5
+rBlyleven       0   0   1   0   0   6.7   3.0   9.6   7.4   0.4
+ Burns          3   1   0   0   0   9.5   4.3  13.9   4.6   0.9
+rEichhorn       0   0   5   0   0  12.1   3.4  15.5   5.5   1.6
+ Fryman         0   0   0   0   0   9.0   9.0  18.0   9.0   4.5
+cFryman         0   0   0   0   0  11.8   6.8  18.6   5.1   1.7
+ Hernandez      4   2   0   0   0   8.7   1.9  10.8   8.2   0.5
+ Hood           1   0   0   0   0   9.6   5.8  15.4   7.7   0.0
+ Morris         0   3   6   0   0   9.5   2.5  12.1   4.6   1.1
+ Sanchez        1   4   0   1   0   7.7   4.3  12.8   4.9   0.4
+rSmith,B        0   0   3   2   0   8.8   1.6  10.3   6.2   0.8
+ Stieb          0   3   0   2   0   8.5   1.9  10.4   4.6   0.6
+rTanana         4   4   0   1   0   8.7   1.5  10.4   5.6   0.6
+ Tobik          1   1   2   2   0   8.3   2.7  11.1   6.0   0.3
+ 
+ Others         0   2   0   0   0  10.8   2.7  13.8   7.0   0.4
+
+ Team Total    17  31  25  16   0   8.8   2.4  11.4   5.5   0.7
+            DMB League Pitching Statistics:  1982 Barcelona Brewers
+                                        
+ 
+ NAME         AVG   OBP   SPC   BF   AB    H  2B  3B  HR   TB  SH  SF
+ 
+ Armstrong   .253  .330  .393  441  392   99  17   1  12  154   1   2
+rBlack       .214  .287  .318  404  355   76  13   3   6  113   4   6
+rBlyleven    .209  .271  .302   97   86   18   5   0   1   26   1   2
+ Burns       .277  .359  .440  218  191   53  14   1   5   84   1   1
+rEichhorn    .329  .383  .550  157  140   46   9   2   6   77   3   1
+ Fryman      .250  .400  .625   10    8    2   0   0   1    5   0   0
+cFryman      .292  .393  .458   28   24    7   1   0   1   11   0   0
+ Hernandez   .255  .298  .343  294  274   70   6   3   4   94   2   1
+ Hood        .294  .400  .353   20   17    5   1   0   0    6   0   0
+ Morris      .274  .323  .430 1115 1019  279  49   7  32  438  12   7
+ Sanchez     .231  .332  .331  198  169   39  11   0   2   56   2   1
+rSmith,B     .256  .287  .375  371  352   90  18   0   8  132   2   1
+ Stieb       .246  .286  .330 1223 1150  283  30   2  21  380   4   3
+rTanana      .251  .285  .384  889  839  211  55   7  14  322   6   3
+ Tobik       .241  .294  .322  378  345   83  11   4   3  111   1   4
+ 
+ Others      .300  .352  .392  275  250   75  10   2   3   98   2   2
+
+ Team Total  .256  .307  .375      5587      249     118       41
+                              6090      1429      32     2096      34
+ 
+ 
+ NAME          GS  CG   CG% SHo  QS   QS%   RS RS/G  RL RLS   RL%
+ 
+ Armstrong      0   0  .000   0   0  .000    0  0.0  19   8  .421
+rBlack          5   0  .000   0   1  .200   20  4.0  16   5  .313
+rBlyleven       4   0  .000   0   2  .500   14  3.5   1   0  .000
+ Burns          9   1  .111   0   3  .333   34  3.8   7   3  .429
+rEichhorn       7   0  .000   0   3  .429   32  4.6   6   3  .500
+ Fryman         0   0  .000   0   0  .000    0  0.0   0   0  .000
+cFryman         0   0  .000   0   0  .000    0  0.0   1   0  .000
+ Hernandez      0   0  .000   0   0  .000    0  0.0   8   2  .250
+ Hood           0   0  .000   0   0  .000    0  0.0   4   2  .500
+ Morris        40   8  .200   1  19  .475  201  5.0  31  13  .419
+ Sanchez        0   0  .000   0   0  .000    0  0.0  17   5  .294
+rSmith,B       10   2  .200   0   7  .700   28  2.8   8   0  .000
+ Stieb         41  12  .293   1  29  .707  156  3.8  26  12  .462
+rTanana        33   7  .212   4  22  .667  163  4.9  19   5  .263
+ Tobik          2   0  .000   0   1  .500   11  5.5  25  10  .400
+ 
+ Others        11   0  .000   0   5  .455   49  4.5  16   5  .313
+
+ Team Total   162      .185      92        708      203      .360
+                   30        12      .568       4.4      73
+            DMB League Pitching Statistics:  1982 Barcelona Brewers
+                                        
+ 
+ NAME         SvO  Sv   Sv%  BSv  BSv%  IR  IRS   IR%    G  RA   RA%  GF   GF%
+ 
+ Armstrong     37  19  .514    9  .243  40   17  .425   74  74 1.000  41  .554
+rBlack          4   3  .750    0  .000  23    9  .391   39  34  .872  11  .324
+rBlyleven       0   0  .000    0  .000   0    0  .000    4   0  .000   0  .000
+ Burns          0   0  .000    0  .000   0    0  .000    9   0  .000   0  .000
+rEichhorn       0   0  .000    0  .000   0    0  .000    7   0  .000   0  .000
+ Fryman         1   0  .000    1 1.000   3    3 1.000    1   1 1.000   1 1.000
+cFryman         1   0  .000    1 1.000   4    3  .750    4   4 1.000   3  .750
+ Hernandez     28  17  .607    4  .143  41   14  .341   63  63 1.000  40  .635
+ Hood           3   0  .000    1  .333   4    1  .250    3   3 1.000   0  .000
+ Morris         0   0  .000    0  .000   0    0  .000   40   0  .000   0  .000
+ Sanchez        3   0  .000    0  .000  30   11  .367   28  28 1.000   5  .179
+rSmith,B        3   2  .667    1  .333  13    2  .154   27  17  .630   6  .353
+ Stieb          0   0  .000    0  .000   0    0  .000   41   0  .000   0  .000
+rTanana         0   0  .000    0  .000   0    0  .000   33   0  .000   0  .000
+ Tobik         20   0  .000    4  .200  45   16  .356   68  66  .971  25  .379
+ 
+ Others         1   1 1.000    0  .000   4    0  .000   16   5  .313   3  .600
+
+ Team Total   100      .420       .200       73        453      .642      .454
+                   42         20       203       .360      291       132
+          DMB League Pitching Splits:  1982 Barcelona Brewers-- vsLHB
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Armstrong    .273  .353  .370   165   45    8    1    2   14   21   27   1   1
+rBlack        .190  .246  .256   121   23    3    1    1   12    6   32   1   3
+rBlyleven     .204  .216  .265    49   10    3    0    0    2    1   13   0   1
+ Burns        .298  .333  .386    57   17    2    0    1    4    3    8   0   0
+rEichhorn     .286  .333  .571    84   24    2    2    6   15    6   15   1   0
+ Fryman       .000  .333  .000     2    0    0    0    0    0    1    1   0   0
+cFryman       .400  .500  .500    10    4    1    0    0    3    2    2   0   0
+ Hernandez    .221  .257  .279   104   23    3    0    1   10    4   31   0   0
+ Hood         .000  .167  .000     5    0    0    0    0    0    1    3   0   0
+ Morris       .241  .300  .405   482  116   17    4   18   56   42   54   3   2
+ Sanchez      .172  .308  .203    64   11    2    0    0    7   10   10   1   1
+rSmith,B      .233  .258  .373   150   35    9    0    4   15    5   32   2   0
+ Stieb        .240  .288  .311   530  127   12    1    8   46   37   73   1   3
+rTanana       .280  .313  .367   207   58   12    3    0   11    8   34   2   0
+ Tobik        .236  .299  .314   140   33    8    0    1   16   13   24   0   1
+ 
+ Others       .276  .339  .314   105   29    4    0    0    6   11   13   2   0
+ 
+ Team Total   .243  .296  .347  2265  551   85   12   42  214  169  370  14  12
+          DMB League Pitching Splits:  1982 Barcelona Brewers-- vsRHB
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Armstrong    .238  .312  .410   227   54    9    0   10   31   20   42   0   1
+rBlack        .226  .308  .350   234   53   10    2    5   26   27   33   3   3
+rBlyleven     .216  .333  .351    37    8    2    0    1    4    7    7   1   1
+ Burns        .269  .369  .463   134   36   12    1    4   16   21   18   1   1
+rEichhorn     .393  .453  .518    56   22    7    0    0    4    7    6   2   1
+ Fryman       .333  .429  .833     6    2    0    0    1    4    1    1   0   0
+cFryman       .214  .313  .429    14    3    0    0    1    4    2    1   0   0
+ Hernandez    .276  .322  .382   170   47    3    3    3   20   11   35   2   1
+ Hood         .417  .500  .500    12    5    1    0    0    1    2    1   0   0
+ Morris       .304  .343  .453   537  163   32    3   14   63   32   80   9   5
+ Sanchez      .267  .347  .410   105   28    9    0    2   20   12   15   1   0
+rSmith,B      .272  .308  .376   202   55    9    0    4   18   11   32   0   1
+ Stieb        .252  .285  .347   620  156   18    1   13   41   26   80   3   0
+rTanana       .242  .276  .389   632  153   43    4   14   54   29  101   4   3
+ Tobik        .244  .291  .327   205   50    3    4    2   23   14   36   1   3
+ 
+ Others       .317  .357  .448   145   46    6    2    3   14    8   36   0   2
+ 
+ Team Total   .264  .311  .394  3322  878  164   20   76  339  228  523  27  22
+            DMB League Fielding Statistics:  1982 Barcelona Brewers
+                                        
+ 
+POS NAME             G    GS    PO     A     E    DP    TC     PCT   PB
+ 
+p   Morris          40    40    19    42     3     4    64    .953
+    Stieb           41    41    25    33     3     2    61    .951
+   rTanana          33    33    14    24     2     1    40    .950
+   rBlack           39     5     6    11     3     1    20    .850
+   rSmith,B         27    10     4    13     0     0    17   1.000
+    Tobik           68     2     5     6     2     0    13    .846
+    Hernandez       63     0     3     9     0     1    12   1.000
+    Armstrong       74     0     3     7     0     0    10   1.000
+   rEichhorn         7     7     4     5     0     0     9   1.000
+    Sanchez         28     0     3     4     1     0     8    .875
+   rBlyleven         4     4     2     3     1     0     6    .833
+    Burns            9     9     2     1     0     0     3   1.000
+    Hood             3     0     1     0     0     0     1   1.000
+    Fryman           1     0     0     0     0     0     0    .000
+   cFryman           4     0     0     1     0     0     1   1.000
+    Others          16    11     6     6     0     0    12   1.000
+                   453   162    97   164    15     9   276    .946
+ 
+c   Ashby          106    88   552    43    13     0   608    .979    6
+    Moore           51    47   284    21     7     3   312    .978    0
+    Yeager          29    27   144    16     1     1   161    .994    0
+   cYeager          41    39   199    23     2     2   224    .991    0
+                   186   162   980    80    21     4  1081    .981    6
+ 
+1b  Thornton       135   133  1141    90     6    96  1237    .995
+    Driessen        47    29   281    30     0    15   311   1.000
+    Gross            1     0     1     0     0     1     1   1.000
+                   183   162  1423   120     6   112  1549    .996
+ 
+2b  Lopes           70    62   133   179     9    34   321    .972
+    Moore            7     0     5     3     0     1     8   1.000
+    Others         105   100   203   338    10    54   551    .982
+                   182   162   341   520    19    89   880    .978
+ 
+3b  Gaetti         103    97    75   185    10    16   270    .963
+    Gross           74    63    49   110     3     7   162    .981
+    Johnson, H      29     2     5    19     3     2    27    .889
+    Moore            8     0     0     1     0     0     1   1.000
+    Lopes            4     0     0     1     0     0     1   1.000
+    HendersonD       1     0     0     0     0     0     0    .000
+    Luzinski         1     0     0     0     0     0     0    .000
+   cLuzinski         1     0     0     0     0     0     0    .000
+                   220   162   129   316    16    25   461    .965
+ 
+ss  Smith,O        127   124   182   340    16    58   538    .970
+   rPhillips        29    24    33    79     8     7   120    .933
+    Lopes           14    13    18    33     2     7    53    .962
+    Gross           12     0     7     6     0     2    13   1.000
+    Gaetti           8     0     4     7     0     1    11   1.000
+    Moore            2     1     4     7     0     3    11   1.000
+    Others          12     0     5     7     2     2    14    .857
+                   204   162   253   479    28    80   760    .963
+            DMB League Fielding Statistics:  1982 Barcelona Brewers
+                                        
+ 
+POS NAME             G    GS    PO     A     E    DP    TC     PCT   PB
+ 
+lf  Smith,L        139   139   327    18     4     1   349    .989
+    Mumphrey        18    18    42     2     1     0    45    .978
+    Johnson, H       7     3    11     1     0     0    12   1.000
+    HendersonD       8     0     5     1     0     0     6   1.000
+    Geronimo         4     2     3     0     0     0     3   1.000
+   rJohnstone        1     0     0     0     0     0     0    .000
+    Gross            1     0     0     0     0     0     0    .000
+                   178   162   388    22     5     1   415    .988
+ 
+cf  HendersonD      79    65   159    16     2     0   177    .989
+    Mumphrey        68    66   163     7     3     0   173    .983
+    Dawson          21    21    71     4     0     1    75   1.000
+   cDawson         108   106   289    11     6     1   306    .980
+    Johnson, H      10    10    23     1     1     0    25    .960
+    Lopes            4     0     5     0     0     0     5   1.000
+    Geronimo         1     0     0     0     0     0     0    .000
+                   183   162   421    28     6     1   455    .987
+ 
+rf dParker          64    61   134     8     2     0   144    .986
+    Jackson,Re      28    28    66     4     1     0    71    .986
+   cJackson,Re     141   137   307    11    10     1   328    .970
+    Lopes           27    27    53     4     1     1    58    .983
+   rFord            18    17    32     3     0     0    35   1.000
+    Mumphrey        11    11    26     2     1     0    29    .966
+   rJohnstone       12    12    24     0     0     0    24   1.000
+    Johnson, H       9     2    14     3     1     1    18    .944
+    HendersonD       8     3     8     2     0     0    10   1.000
+    Geronimo         9     1     7     0     0     0     7   1.000
+                   186   162   364    26     6     2   396    .985
+ 
+    Team Total     162   162  4396  1755   122   118  6273    .981    6
+                     Game Results:  1982 Barcelona Brewers
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 6/ 4/1999   @LDL   L  1-3      Stieb       Stieb                   Gura        
+ 6/ 5/1999   @LDL   W 11-0      Morris      Morris                  Eckersley   
+ 6/ 6/1999   @LDL   W  7-3      Tanana      Tanana                  Caldwell    
+ 6/ 7/1999    SUN   W  7-3      Eichhorn    Eichhorn    Hernandez   Palmer, D   
+ 6/ 8/1999    SUN   W  6-3      Stieb       Stieb                   Tudor       
+ 6/ 9/1999    SUN   L  4-7      Morris      Morris                  Show        
+ 6/11/1999   @NYH   L  1-2      Smith,B     Smith,B                 Ryan        
+ 6/12/1999   @NYH   L  2-6      Eichhorn    Eichhorn                Lollar      
+ 6/13/1999   @CTW   W  4-3      Stieb       Stieb       Armstrong   Forsch, B   
+ 6/14/1999   @CTW   W 13-10     Morris      Black       Smith,B     Hough       
+ 6/15/1999   @CTW   L  5-6      Tanana      Tanana                  Krukow      
+ 6/16/1999   @CEN   L  7-10 14  Eichhorn    Smith,B                 Swan        
+ 6/17/1999   @CEN   W  6-3      Stieb       Stieb       Armstrong   Niekro,J    
+ 6/18/1999   @CEN   L  1-3      Morris      Morris                  Sanderson   
+ 6/19/1999    LON   W  4-3      Tanana      Tobik       Armstrong   Knepper     
+ 6/20/1999    LON   W  4-2      Eichhorn    Eichhorn    Armstrong   Koosman     
+ 6/22/1999    PAR   W  5-3      Stieb       Stieb       Hernandez   Christnson  
+ 6/23/1999    PAR   W  7-1      Morris      Morris                  Valenzuela  
+ 6/24/1999    PAR   L  1-3      Smith,B     Tobik                   Hoyt        
+ 6/25/1999   @PAR   W  5-4      Eichhorn    Eichhorn    Armstrong   Niekro, P   
+ 6/29/1999   @GCP   W  5-1      Stieb       Stieb                   Holland     
+ 6/30/1999   @GCP   W  8-3      Morris      Morris                  Reuss       
+ 7/ 2/1999    LDL   W  7-6      Tanana      Tanana      Hernandez   Caldwell    
+ 7/ 3/1999    LDL   L  8-9      Stieb       Hernandez               McGregor    
+ 7/ 4/1999    NYH   W  2-1  10  Morris      Hernandez               Wilcox      
+ 7/ 5/1999    NYH   L  0-3      Smith,B     Smith,B                 Ryan        
+ 7/ 6/1999    NYH   L  4-7      Eichhorn    Eichhorn                Lollar      
+ 7/ 9/1999   @NYH   W  5-3      Stieb       Stieb       Hernandez   Witt        
+ 7/10/1999   @NYH   L  8-9      Morris      Armstrong               Wilcox      
+ 7/11/1999   @LON   L  3-4      Tanana      Armstrong               Mahler      
+ 7/12/1999   @LON   W  3-1      Eichhorn    Eichhorn    Hernandez   Knepper     
+ 7/16/1999    JJJ   W  3-1      Stieb       Stieb                   Zahn        
+ 7/18/1999   @LON   W  9-2      Morris      Morris                  Knepper     
+ 7/19/1999   @LON   W  5-3      Tanana      Smith,B     Hernandez   Camp        
+ 7/20/1999    FER   W  6-5  12  Stieb       Black                   Hammaker    
+ 7/21/1999    FER   W  6-5      Morris      Smith,B     Armstrong   Shirley     
+ 7/22/1999   @BBG   W  8-0      Tanana      Tanana                  Welch       
+ 7/23/1999   @BBG   W  4-2      Blyleven    Blyleven    Armstrong   Scott       
+ 7/24/1999    BMB   W  4-1      Stieb       Stieb                   Rogers      
+ 7/25/1999    BMB   W  4-2      Morris      Morris                  Clancy      
+ 7/26/1999    NYH   L  1-2      Tanana      Tanana                  Witt        
+ 7/27/1999    NYH   L  4-7      Blyleven    Tobik                   Wilcox      
+ 7/29/1999   @LDL   W  6-2      Stieb       Stieb                   Gura        
+ 7/30/1999   @LDL   L  1-4      Morris      Morris                  Eckersley   
+ 7/31/1999    FER   L  4-5      Tanana      Armstrong               Sutcliffe   
+ 8/ 1/1999    FER   W  3-2  10  Blyleven    Armstrong               Hammaker    
+ 8/ 3/1999    BMB   L  2-4      Stieb       Stieb                   Rogers      
+ 8/ 4/1999    BMB   L  2-3      Morris      Morris                  Clancy      
+ 8/ 5/1999    BMB   W  4-1      Tanana      Tanana                  Bannister   
+ 8/ 6/1999   @LON   W  3-1      Smith,B     Smith,B                 Camp        
+ 8/ 7/1999   @LON   W  5-4  10  Stieb       Armstrong   Hernandez   Orosco      
+ 8/ 8/1999   @LON   L  1-2      Morris      Morris                  Rhoden      
+                     Game Results:  1982 Barcelona Brewers
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 8/ 9/1999   @BOS   W  7-0      Tanana      Tanana                  Martinez,D  
+ 8/10/1999   @BOS   L  3-4      Blyleven    Blyleven                Carlton     
+ 8/11/1999   @BOS   W  4-3      Stieb       Stieb       Hernandez   Vuckovich   
+ 8/13/1999   @CEN   L  4-6      Morris      Morris                  Sanderson   
+ 8/14/1999    CTW   W 12-0      Tanana      Smith,B     Black       Ruthven     
+ 8/15/1999    CTW   W  8-1      Stieb       Stieb                   Forsch, B   
+ 8/16/1999   @BMB   W  4-3      Morris      Morris      Armstrong   Bannister   
+ 8/17/1999   @BMB   L  3-4      Black       Black                   Leal        
+ 8/18/1999   @BMB   L  1-6      Burns       Burns                   Rogers      
+ 8/19/1999    JJJ   L  2-3      Stieb       Armstrong               Jenkins     
+ 8/20/1999    JJJ   L  4-6  10  Morris      Tobik                   Gullickson  
+ 8/21/1999    JJJ   W  7-6      Black       Armstrong   Smith,B     Guidry      
+ 8/22/1999   @SUN   W  6-4      Burns       Tobik                   Whitson     
+ 8/24/1999   @CTW   L  2-5      Stieb       Stieb                   Hough       
+ 8/25/1999   @CTW   W  5-4  13  Morris      Hernandez   Black       Krukow      
+ 8/26/1999   @CTW   W  5-4      Tanana      Tobik       Armstrong   Laskey      
+ 8/27/1999   @SUN   W  5-1      Smith,B     Smith,B     Hernandez   Lea         
+ 8/28/1999   @SUN   L  1-3      Stieb       Stieb                   Candelaria  
+ 8/29/1999   @SUN   L  4-5      Morris      Armstrong               Stuper      
+ 8/30/1999   @GCP   L  1-6      Tanana      Tanana                  Reuss       
+ 8/31/1999   @GCP   L  5-13     Smith,B     Tobik                   Rawley      
+ 9/ 1/1999   @CIN   L  0-1      Stieb       Stieb                   Berenyi     
+ 9/ 2/1999   @CIN   L  2-3      Morris      Tobik                   Righetti    
+ 9/ 3/1999    LDL   W  5-4      Tanana      Tanana      Hernandez   McGregor    
+ 9/ 4/1999    LDL   W  3-1      Smith,B     Smith,B     Hernandez   Seaver      
+ 9/ 5/1999   @CTW   W  6-4      Stieb       Stieb       Hernandez   Krukow      
+ 9/ 6/1999   @CTW   W  7-4      Morris      Morris                  Laskey      
+ 9/ 7/1999   @CTW   W  5-2      Tanana      Tanana      Hernandez   Ruthven     
+ 9/ 9/1999   @BBG   W  6-5  12  Smith,B     Black       Darwin      Welch       
+ 9/10/1999   @BBG   W  7-2      Stieb       Stieb                   Scott       
+ 9/14/1999   @BBG   L  1-3  10  Morris      Hernandez               Viola       
+ 9/16/1999   @BMB   L  1-3      Tanana      Tanana                  Clancy      
+ 9/19/1999    LDL   L  1-2      Smith,B     Smith,B                 Honeycutt   
+ 9/20/1999    LDL   W  4-2      Stieb       Stieb                   McGregor    
+ 9/21/1999    LDL   L  2-4      Morris      Morris                  Stewart     
+ 9/25/1999   @CIN   W  8-6  11  Tanana      Hernandez   Black       Falcone     
+ 9/26/1999   @CIN   L  3-5      Smith,B     Smith,B                 Soto        
+ 9/28/1999    BOS   W  5-3      Stieb       Darwin                  Robinson,D  
+ 9/30/1999   @JJJ   L  5-6  11  Morris      Tobik                   Zahn        
+10/ 1/1999   @JJJ   L  4-5      Tanana      Tanana                  Jenkins     
+10/ 2/1999    GCP   L  2-5      Darwin      Darwin                  Montefusco  
+10/ 3/1999    GCP   W  3-2      Stieb       Stieb       Armstrong   Reuss       
+10/ 4/1999    GCP   W  9-6      Morris      Morris                  Rawley      
+10/ 5/1999    LON   W  9-1      Tanana      Tanana                  Koosman     
+10/ 6/1999    LON   W  6-2      Darwin      Darwin                  Rhoden      
+10/ 7/1999    LON   W  2-1      Stieb       Stieb                   Mahler      
+10/ 8/1999    LON   L  2-9      Morris      Morris                  Knepper     
+10/ 9/1999    LON   W 10-5      Tanana      Tanana                  Camp        
+10/10/1999    LON   L  2-5      Darwin      Darwin                  Koosman     
+10/11/1999    LON   L  3-7      Stieb       Stieb                   Rhoden      
+10/12/1999   @JJJ   L  3-4      Morris      Morris                  Gullickson  
+10/13/1999   @JJJ   L  1-2      Tanana      Armstrong               Guidry      
+                     Game Results:  1982 Barcelona Brewers
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+10/14/1999   @JJJ   L  5-6      Darwin      Hernandez               Zahn        
+10/15/1999    CEN   L  2-8      Stieb       Stieb                   Castro      
+10/16/1999    CEN   L  2-8      Morris      Morris                  Swan        
+10/17/1999    CEN   W  2-1      Tanana      Tanana      Armstrong   Niekro,J    
+10/19/1999    BBG   W 10-3      Darwin      Darwin                  Dravecky    
+10/20/1999    GCP   W  1-0      Stieb       Stieb       Armstrong   Holland     
+10/21/1999    GCP   L  2-6      Morris      Morris                  Reuss       
+10/22/1999    SUN   L  0-4      Tanana      Tanana                  Lea         
+10/23/1999    SUN   W  3-2      Darwin      Armstrong   Hernandez   Candelaria  
+10/24/1999    SUN   L  1-3      Stieb       Stieb                   Anderson    
+10/25/1999    SUN   L  1-4      Morris      Morris                  Proly       
+10/26/1999   @BOS   W  4-0      Tanana      Tanana                  Palmer      
+10/27/1999   @BOS   W  6-2      Darwin      Sanchez                 Lerch       
+10/30/1999    CIN   L  1-2      Stieb       Hernandez               Petry       
+10/31/1999    CIN   W  8-6      Morris      Morris      Armstrong   Berenyi     
+11/ 1/1999    CIN   W  3-0      Tanana      Tanana                  Righetti    
+11/ 2/1999   @LON   W  6-4      Darwin      Armstrong   Hernandez   Rhoden      
+11/ 3/1999   @LON   L  3-8      Stieb       Stieb                   Mahler      
+11/ 4/1999    CTW   W  7-1      Morris      Morris                  Hurst       
+11/ 5/1999    CTW   L  4-9  12  Tanana      Hernandez               Krukow      
+11/ 7/1999    BOS   W  5-4  13  Darwin      Sanchez                 Palmer      
+11/ 8/1999    BOS   L  1-10     Stieb       Stieb                   Robinson,D  
+11/ 9/1999    BOS   W 13-5      Morris      Morris                  Martinez,D  
+11/10/1999    LDL   W  9-2      Tanana      Tanana                  Stewart     
+11/11/1999    LDL   L  3-4      Darwin      Tobik                   Gura        
+11/12/1999   @LDL   W  4-2      Burns       Burns       Armstrong   Eckersley   
+11/13/1999   @LDL   W  7-0      Stieb       Stieb                   Honeycutt   
+11/14/1999   @LDL   L  3-8      Morris      Morris                  Caldwell    
+11/15/1999   @LDL   W  3-2      Tanana      Hernandez               Gura        
+11/16/1999    BBG   W  1-0      Darwin      Darwin      Armstrong   Blue        
+11/17/1999    BBG   W  5-2      Black       Sanchez     Armstrong   Welch       
+11/18/1999    BBG   W  6-1      Stieb       Stieb                   John        
+11/19/1999   @FER   L  6-7  17  Morris      Black                   Andujar     
+11/20/1999   @FER   L  3-4      Tanana      Tanana                  Sutton      
+11/21/1999   @FER   L  4-5  10  Burns       Armstrong               Sutcliffe   
+11/22/1999   @SUN   L  3-5      Black       Black                   Lea         
+11/23/1999   @SUN   L  5-6      Stieb       Stieb                   Proly       
+11/24/1999   @SUN   W  8-2      Morris      Morris                  Stuper      
+11/26/1999    SUN   W  8-6      Tanana      Tanana      Armstrong   Show        
+11/27/1999    SUN   W  1-0      Burns       Burns       Armstrong   Anderson    
+12/ 1/1999    PAR   L  2-4      Black       Black                   Flanagan    
+12/ 2/1999    PAR   L  3-4      Stieb       Stieb                   Valenzuela  
+12/ 4/1999   @PAR   L  0-1      Morris      Morris                  Perry       
+12/ 5/1999   @PAR   L  2-3  10  Tanana      Armstrong               Niekro, P   
+12/ 6/1999   @PAR   L  0-1      Burns       Burns                   Christnson  
+12/ 7/1999   @FER   W  4-0      Stieb       Stieb                   Shirley     
+12/ 8/1999   @FER   W 10-8      Morris      Tobik       Armstrong   May         
+12/ 9/1999    CTW   W  9-1      Tanana      Tanana                  Laskey      
+12/10/1999    CTW   W  8-5      Burns       Sanchez                 Forsch, B   
+12/11/1999    CIN   L  6-7      Stieb       Hernandez               Righetti    
+12/12/1999    CIN   W  5-2      Morris      Morris                  Soto        
+12/13/1999    CTW   W  5-3      Tobik       Tobik       Hernandez   Laskey      
+                     Game Results:  1982 Barcelona Brewers
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+12/14/1999    CTW   L  7-8      Burns       Sanchez                 Forsch, B   
+12/15/1999    CTW   W  2-1      Stieb       Stieb                   Hurst       
+12/16/1999    CEN   W  7-2      Morris      Morris                  Smith,L     
+12/17/1999    CEN   W  6-5      Tobik       Fryman                  Forsch, K   
+12/18/1999   @SUN   L  3-5      Burns       Burns                   Anderson    
+12/19/1999   @SUN   W  1-0      Stieb       Stieb       Hernandez   Proly       
+                       Injury Log: 1982 Barcelona Brewers
+                                        
+ 
+-- Date -- #  Player      Cause                 Length
+ 
+ 6/ 8/1999    Johnstone   General                  2
+ 6/24/1999    Mumphrey    General                  0
+ 6/25/1999    Driessen    General                  2
+ 7/ 6/1999    HendersonD  Hit by pitch            25
+ 7/19/1999    Tanana      Rain delay               0
+ 8/14/1999    Tanana      General                 10
+ 8/20/1999    Armstrong   General                  0
+ 8/22/1999    Burns       General                  5
+ 9/ 3/1999    Armstrong   General                 11
+ 9/19/1999    Hernandez   General                  1
+ 9/21/1999    Thornton    General                  0
+10/14/1999    Sanchez     Rain delay               0
+10/14/1999    Tobik       General                 11
+10/14/1999    Moore       Collision on bases       7
+10/27/1999    Darwin      General                  5
+10/31/1999    Hernandez   General                  0
+11/ 5/1999    Parker      General                 23
+11/15/1999    Smith,L     General                  5
+11/22/1999    Smith,O     General                  0
+11/23/1999    Gross       General                  4
+12/ 5/1999    Moore       Collision in field      26
+12/13/1999    Mumphrey    General                  0
+              DMB League Transaction Log:  1982 Barcelona Brewers
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+ 7/ 8/1999  BAR    DL           Dave Henderson        effective  7/ 7/1999  
+ 7/ 8/1999  BAR    Farm         Jay Johnstone       
+ 7/ 8/1999  BAR    Promote      Dan Ford            
+ 7/ 8/1999  BAR    Promote      Howard Johnson      
+ 7/21/1999  BAR    Promote      Bert Blyleven       
+ 7/21/1999  BAR    Farm         Mark Eichhorn       
+ 8/10/1999  BAR    Activate     Dave Henderson      
+ 8/10/1999  BAR    Farm         Bert Blyleven       
+ 8/11/1999  BAR    TradeAway    Steve Yeager          to LDL
+ 8/11/1999  BAR    Acquire      Greg Luzinski         from LDL
+ 8/11/1999  BAR    Acquire      Woodie Fryman         from LDL
+ 8/25/1999  BAR    DL           Britt Burns           effective  8/23/1999  
+ 8/25/1999  BAR    Promote      Danny Darwin        
+ 9/ 7/1999  BAR    DL           Mike Armstrong        effective  9/ 4/1999  
+ 9/ 7/1999  BAR    Promote      Luis Sanchez        
+ 9/20/1999  BAR    Farm         Dan Ford            
+ 9/20/1999  BAR    Promote      Tony Phillips       
+ 9/26/1999  BAR    Farm         Bryn Smith          
+ 9/28/1999  BAR    Activate     Mike Armstrong      
+10/17/1999  BAR    Promote      Britt Burns         
+10/17/1999  BAR    Farm         Britt Burns         
+10/17/1999  BAR    DL           Dave Tobik          
+10/17/1999  BAR    Promote      Britt Burns         
+11/ 5/1999  BAR    DL           Dave Parker           effective 11/ 6/1999  
+11/ 5/1999  BAR    Activate     Dave Tobik          
+11/ 8/1999  BAR    Promote      Cesar Geronimo      
+11/ 8/1999  BAR    Farm         Tony Phillips       
+11/16/1999  BAR    TradeAway    Willie Randolph       to LDL
+11/16/1999  BAR    TradeAway    Danny Darwin          to LDL
+11/16/1999  BAR    Acquire      Andre Dawson          from LDL
+11/16/1999  BAR    Acquire      Steve Yeager          from LDL
+11/16/1999  BAR    Acquire      Reggie Jackson        from LDL
+11/16/1999  BAR    Promote      Don Hood            
+12/ 1/1999  BAR    Farm         Buddy Black         
+12/ 1/1999  BAR    Promote      Woodie Fryman       
+12/ 9/1999  BAR    Farm         Frank Tanana        
+
+

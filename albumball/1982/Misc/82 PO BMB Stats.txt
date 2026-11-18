@@ -1,0 +1,336 @@
+The Combat Rock League
+
+Butt Mountain Beavis
+
+           DMB League Batting Statistics:  1982 Butt Mountain Beavis
+                                        
+ 
+ NAME         AVG   OBP   SPC   G  AB   H 2B 3B HR   R RBI  BB   K HB IW  SB CS
+ 
+ Richards   1.000 1.000 1.000   3   1   1  0  0  0   0   0   0   0  0  0   0  0 
+ Royster     .500  .600 1.000   2   4   2  0  1  0   1   1   1   0  0  0   0  1 
+ Thon        .333  .400  .778   3   9   3  1  0  1   3   3   1   1  0  0   2  0 
+ Carter      .313  .389  .750   4  16   5  1  0  2   6   4   2   2  0  0   0  0 
+ Morgan      .308  .526  .308   4  13   4  0  0  0   3   2   6   1  0  0   1  0 
+ Jones       .250  .308  .500   3  12   3  0  0  1   2   3   1   3  0  0   0  0 
+ Kennedy     .250  .250  .250   4  16   4  0  0  0   1   1   0   4  0  0   0  0 
+ Lezcano     .222  .263  .500   4  18   4  0  1  1   3   3   1   2  0  0   0  0 
+ Paciorek    .200  .200  .533   4  15   3  0  1  1   3   2   0   2  0  0   0  0 
+ Washington  .143  .143  .571   3   7   1  0  0  1   1   2   0   0  0  0   0  0 
+ Guerrero    .133  .235  .400   4  15   2  1  0  1   2   1   2   2  0  0   0  0 
+ Ayala       .000 1.000  .000   1   0   0  0  0  0   0   0   1   0  0  1   0  0 
+ Sexton      .000  .333  .000   3   2   0  0  0  0   0   0   1   0  0  0   1  0 
+ Thompson    .000  .250  .000   3   3   0  0  0  0   1   0   1   0  0  1   0  0 
+ Leonard     .000  .000  .000   1   1   0  0  0  0   0   0   0   0  0  0   0  0 
+ Cruz        .000 1.000  .000   3   0   0  0  0  0   0   0   1   0  0  1   0  0 
+ 
+ Stanton    1.000 1.000 1.000   2   1   1  0  0  0   0   1   0   0  0  0   0  0 
+ Rogers      .000  .000  .000   1   1   0  0  0  0   0   0   0   0  0  0   0  0 
+ Campbell    .000  .000  .000   1   0   0  0  0  0   0   0   0   0  0  0   0  0 
+ Stoddard    .000  .000  .000   1   4   0  0  0  0   0   0   0   1  0  0   0  0 
+ Leal        .000  .000  .000   1   1   0  0  0  0   0   0   0   1  0  0   0  0 
+ Clancy      .000  .333  .000   1   2   0  0  0  0   0   0   1   0  0  0   0  0 
+ Caudill     .000  .000  .000   2   1   0  0  0  0   0   0   0   0  0  0   0  0 
+ Vande Berg  .000  .000  .000   2   0   0  0  0  0   0   0   0   0  0  0   0  0 
+ Bannister   .000  .000  .000   1   4   0  0  0  0   0   0   0   2  0  0   0  0 
+
+ Team Total  .226  .315  .452   4      33     3     26      19      0      4
+                                  146      3     8      23      21     3      1
+.           DMB League Batting Statistics:  1982 Butt Mountain Beavis
+                                        
+ 
+ NAME         GS  SH  SF  GDP  CI  GW     RC   RC27    ISO   TAVG    TB CHS LHS
+ 
+ Richards      0   1   0    0   0   0    0.8   20.5   .000   .000     1   1   1
+ Royster       1   0   0    0   0   0    1.7   15.3   .500  1.667     4   1   1
+ Thon          3   0   0    0   0   0    3.3   14.9   .444  1.667     7   2   2
+ Carter        4   0   0    1   0   0    4.2    9.4   .438  1.167    12   4   4
+ Morgan        4   0   0    0   0   1    3.2    9.6   .000  1.222     4   4   4
+ Jones         3   0   0    0   0   0    1.9    5.8   .250   .778     6   0   2
+ Kennedy       4   0   0    0   0   0    1.0    2.3   .000   .333     4   3   3
+ Lezcano       4   0   0    1   0   0    1.9    3.5   .278   .667     9   3   3
+ Paciorek      4   0   0    0   0   1    1.6    3.6   .333   .667     8   1   1
+ Washington    1   0   0    0   0   0    0.6    2.6   .429   .667     4   0   1
+ Guerrero      4   0   0    2   0   1    0.8    1.4   .267   .533     6   0   1
+ Ayala         0   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+ Sexton        0   0   0    0   0   0    0.3    3.5   .000  1.000     0   0   0
+ Thompson      0   0   0    0   0   0    0.0    0.0   .000   .333     0   0   0
+ Leonard       0   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+ Cruz          0   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+ 
+ Stanton       0   0   0    0   0   0    1.0    0.0   .000   .000     1   1   1
+ Rogers        1   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+ Campbell      0   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+ Stoddard      1   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+ Leal          0   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+ Clancy        1   0   0    0   0   0    0.1    1.2   .000   .500     0   0   0
+ Caudill       0   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+ Vande Berg    0   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+ Bannister     1   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+
+ Team Total    4   1   0    4   0   3   20.6    4.7   .226   .754    66
+.         DMB League Batting Splits:  1982 Butt Mountain Beavis-- vsLHP
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Thon        1.000 1.000 4.000     1    1    0    0    1    2    0    0   0   0
+ Richards    1.000 1.000 1.000     1    1    0    0    0    0    0    0   0   0
+ Royster      .500  .600 1.000     4    2    0    1    0    1    1    0   0   0
+ Kennedy      .333  .333  .333     6    2    0    0    0    1    0    3   0   0
+ Guerrero     .333  .429 1.000     6    2    1    0    1    1    1    0   0   0
+ Lezcano      .250  .333  .500     8    2    0    1    0    1    1    0   0   0
+ Paciorek     .200  .200  .600     5    1    0    1    0    0    0    0   0   0
+ Carter       .167  .286  .167     6    1    0    0    0    1    1    0   0   0
+ Morgan       .143  .333  .143     7    1    0    0    0    1    2    1   0   0
+ Washington   .143  .143  .571     7    1    0    0    1    2    0    0   0   0
+ Sexton       .000  .333  .000     2    0    0    0    0    0    1    0   0   0
+ Cruz         .000 1.000  .000     0    0    0    0    0    0    1    0   0   0
+ Jones        .000  .000  .000     3    0    0    0    0    0    0    3   0   0
+ Leonard      .000  .000  .000     1    0    0    0    0    0    0    0   0   0
+ Ayala        .000 1.000  .000     0    0    0    0    0    0    1    0   0   0
+ Thompson     .000  .000  .000     1    0    0    0    0    0    0    0   0   0
+ 
+ Caudill      .000  .000  .000     1    0    0    0    0    0    0    0   0   0
+ Stoddard     .000  .000  .000     1    0    0    0    0    0    0    0   0   0
+ Bannister    .000  .000  .000     4    0    0    0    0    0    0    2   0   0
+ 
+ Team Total   .219  .315  .469    64   14    1    3    3   10    9    9   0   0
+.         DMB League Batting Splits:  1982 Butt Mountain Beavis-- vsRHP
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Morgan       .500  .700  .500     6    3    0    0    0    1    4    0   0   0
+ Carter       .400  .455 1.100    10    4    1    0    2    3    1    2   0   0
+ Jones        .333  .400  .667     9    3    0    0    1    3    1    0   0   0
+ Thon         .250  .333  .375     8    2    1    0    0    1    1    1   0   0
+ Lezcano      .200  .200  .500    10    2    0    0    1    2    0    2   0   0
+ Paciorek     .200  .200  .500    10    2    0    0    1    2    0    2   0   0
+ Kennedy      .200  .200  .200    10    2    0    0    0    0    0    1   0   0
+ Guerrero     .000  .100  .000     9    0    0    0    0    0    1    2   0   0
+ Thompson     .000  .333  .000     2    0    0    0    0    0    1    0   0   0
+ Richards     .000  .000  .000     0    0    0    0    0    0    0    0   1   0
+ 
+ Stanton     1.000 1.000 1.000     1    1    0    0    0    1    0    0   0   0
+ Rogers       .000  .000  .000     1    0    0    0    0    0    0    0   0   0
+ Leal         .000  .000  .000     1    0    0    0    0    0    0    1   0   0
+ Stoddard     .000  .000  .000     3    0    0    0    0    0    0    1   0   0
+ Clancy       .000  .333  .000     2    0    0    0    0    0    1    0   0   0
+ 
+ Team Total   .232  .312  .439    82   19    2    0    5   13   10   12   1   0
+.    DMB League Games Started by Position:  1982 Butt Mountain Beavis-- vsLHP
+                                        
+ 
+ NAME           C   1B   2B   3B   SS   LF   CF   RF   DH
+ 
+ Washington     0    0    0    0    1    0    0    0    0
+ Carter         1    0    0    0    0    0    0    0    0
+ Kennedy        0    1    0    0    0    0    0    0    0
+ Guerrero       0    0    0    0    0    0    1    0    0
+ Morgan         0    0    1    0    0    0    0    0    0
+ Royster        0    0    0    1    0    0    0    0    0
+ Lezcano        0    0    0    0    0    0    0    1    0
+ Paciorek       0    0    0    0    0    1    0    0    0
+ 
+ Team Total     1    1    1    1    1    1    1    1    0
+.    DMB League Games Started by Position:  1982 Butt Mountain Beavis-- vsRHP
+                                        
+ 
+ NAME           C   1B   2B   3B   SS   LF   CF   RF   DH
+ 
+ Carter         3    0    0    0    0    0    0    0    0
+ Kennedy        0    3    0    0    0    0    0    0    0
+ Guerrero       0    0    0    3    0    0    0    0    0
+ Morgan         0    0    3    0    0    0    0    0    0
+ Thon           0    0    0    0    3    0    0    0    0
+ Jones          0    0    0    0    0    0    3    0    0
+ Lezcano        0    0    0    0    0    0    0    3    0
+ Paciorek       0    0    0    0    0    3    0    0    0
+ 
+ Team Total     3    3    3    3    3    3    3    3    0
+.           DMB League Pitching Statistics:  1982 Butt Mountain Beavis
+                                        
+ 
+ NAME         ERA  W  L  S   G GS CG SH    IP   H   R  ER  BB   K   BF HR WP DP
+ 
+ Campbell    0.00  0  0  0   1  0  0  0   2.0   2   1   0   1   4   10  0  0  0
+ Rogers      0.00  0  0  0   1  1  0  0   2.2   2   0   0   1   2   10  0  0  1
+ Stoddard    1.00  1  0  0   1  1  1  0   9.0   8   1   1   0   1   32  1  0  2
+ Bannister   2.16  1  0  0   1  1  0  0   8.1   8   2   2   0   6   31  2  0  3
+ Stanton     3.38  1  0  1   2  0  0  0   2.2   3   1   1   0   1   10  0  0  1
+ Vande Berg  3.38  0  0  0   2  0  0  0   2.2   3   1   1   0   2   11  1  0  0
+ Leal        3.86  1  0  0   1  0  0  0   2.1   2   1   1   2   1   10  0  0  0
+ Clancy      4.15  0  0  0   1  1  0  0   8.2   7   4   4   4   3   37  1  0  1
+ Caudill    10.80  0  0  1   2  0  0  0   1.2   2   2   2   1   3    8  1  0  0
+
+ Team Total  2.70     0      4     1     40.0      13       9      159     0
+                   4     2      4     0        37      12      23       6     8
+ 
+ 
+ NAME          IW HBP  WP  BK  CI   H/9  BB/9   R/9   K/9  HR/9
+ 
+ Campbell       0   0   0   0   0   9.0   4.5  13.5  18.0   0.0
+ Rogers         0   0   0   0   0   6.8   3.4  10.1   6.8   0.0
+ Stoddard       0   0   0   0   0   8.0   0.0   8.0   1.0   1.0
+ Bannister      0   1   0   0   0   8.6   0.0   9.7   6.5   2.2
+ Stanton        0   1   0   0   0  10.1   0.0  13.5   3.4   0.0
+ Vande Berg     0   0   0   0   0  10.1   0.0  10.1   6.8   3.4
+ Leal           0   0   0   0   0   7.7   7.7  15.4   3.9   0.0
+ Clancy         0   0   0   0   0   7.3   4.2  11.4   3.1   1.0
+ Caudill        0   0   0   0   0  10.8   5.4  16.2  16.2   5.4
+
+ Team Total     0   2   0   0   0   8.3   2.0  10.8   5.2   1.4
+ 
+ 
+ NAME         AVG   OBP   SPC   BF   AB    H  2B  3B  HR   TB  SH  SF
+ 
+ Campbell    .222  .300  .222   10    9    2   0   0   0    2   0   0
+ Rogers      .222  .300  .222   10    9    2   0   0   0    2   0   0
+ Stoddard    .250  .250  .406   32   32    8   2   0   1   13   0   0
+ Bannister   .267  .290  .500   31   30    8   1   0   2   15   0   0
+ Stanton     .333  .400  .333   10    9    3   0   0   0    3   0   0
+ Vande Berg  .273  .273  .545   11   11    3   0   0   1    6   0   0
+ Leal        .250  .400  .500   10    8    2   0   1   0    4   0   0
+ Clancy      .212  .297  .364   37   33    7   2   0   1   12   0   0
+ Caudill     .286  .375  .857    8    7    2   1   0   1    6   0   0
+
+ Team Total  .250  .302  .426       148        6       6        0
+                               159        37       1       63       0
+.           DMB League Pitching Statistics:  1982 Butt Mountain Beavis
+                                        
+ 
+ NAME          GS  CG   CG% SHo  QS   QS%   RS RS/G  RL RLS   RL%
+ 
+ Campbell       0   0  .000   0   0  .000    0  0.0   0   0  .000
+ Rogers         1   0  .000   0   0  .000    8  8.0   1   0  .000
+ Stoddard       1   1 1.000   0   1 1.000    7  7.0   0   0  .000
+ Bannister      1   0  .000   0   1 1.000    5  5.0   1   0  .000
+ Stanton        0   0  .000   0   0  .000    0  0.0   0   0  .000
+ Vande Berg     0   0  .000   0   0  .000    0  0.0   1   0  .000
+ Leal           0   0  .000   0   0  .000    0  0.0   0   0  .000
+ Clancy         1   0  .000   0   0  .000    6  6.0   1   0  .000
+ Caudill        0   0  .000   0   0  .000    0  0.0   0   0  .000
+
+ Team Total     4      .250       2         26        4      .000
+                    1         0      .500       6.5       0
+ 
+ 
+ NAME         SvO  Sv   Sv%  BSv  BSv%  IR  IRS   IR%    G  RA   RA%  GF   GF%
+ 
+ Campbell       1   0  .000    0  .000   0    0  .000    1   1 1.000   0  .000
+ Rogers         0   0  .000    0  .000   0    0  .000    1   0  .000   0  .000
+ Stoddard       0   0  .000    0  .000   0    0  .000    1   0  .000   0  .000
+ Bannister      0   0  .000    0  .000   0    0  .000    1   0  .000   0  .000
+ Stanton        1   1 1.000    0  .000   1    0  .000    2   2 1.000   2 1.000
+ Vande Berg     0   0  .000    0  .000   0    0  .000    2   2 1.000   0  .000
+ Leal           0   0  .000    0  .000   1    0  .000    1   1 1.000   0  .000
+ Clancy         0   0  .000    0  .000   0    0  .000    1   0  .000   0  .000
+ Caudill        1   1 1.000    0  .000   2    0  .000    2   2 1.000   1  .500
+
+ Team Total     3      .667       .000        0         12      .667      .375
+                    2          0         4       .000        8         3
+.         DMB League Pitching Splits:  1982 Butt Mountain Beavis-- vsLHB
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Vande Berg   .000  .000  .000     2    0    0    0    0    0    0    0   0   0
+ Caudill      .000  .250  .000     3    0    0    0    0    0    1    1   0   0
+ Leal         .000  .333  .000     4    0    0    0    0    0    2    1   0   0
+ Rogers       .167  .167  .167     6    1    0    0    0    0    0    1   0   0
+ Campbell     .250  .250  .250     4    1    0    0    0    0    0    1   0   0
+ Clancy       .250  .286  .500    20    5    2    0    1    4    1    2   0   0
+ Stanton      .250  .250  .250     4    1    0    0    0    0    0    1   0   0
+ Bannister    .250  .333  .625     8    2    0    0    1    1    0    2   0   0
+ Stoddard     .294  .294  .529    17    5    1    0    1    1    0    0   0   0
+ 
+ Team Total   .221  .274  .397    68   15    3    0    3    6    4    9   0   0
+.         DMB League Pitching Splits:  1982 Butt Mountain Beavis-- vsRHB
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Clancy       .154  .313  .154    13    2    0    0    0    0    3    1   0   0
+ Stoddard     .200  .200  .267    15    3    1    0    0    0    0    1   0   0
+ Campbell     .200  .333  .200     5    1    0    0    0    0    1    3   0   0
+ Bannister    .273  .273  .455    22    6    1    0    1    1    0    4   0   0
+ Vande Berg   .333  .333  .667     9    3    0    0    1    1    0    2   0   0
+ Rogers       .333  .500  .333     3    1    0    0    0    0    1    1   0   0
+ Stanton      .400  .500  .400     5    2    0    0    0    1    0    0   0   0
+ Caudill      .500  .500 1.500     4    2    1    0    1    2    0    2   0   0
+ Leal         .500  .500 1.000     4    2    0    1    0    1    0    0   0   0
+ 
+ Team Total   .275  .326  .450    80   22    3    1    3    6    5   14   0   0
+.           DMB League Fielding Statistics:  1982 Butt Mountain Beavis
+                                        
+ 
+POS NAME             G    GS    PO     A     E    DP    TC     PCT   PB
+ 
+p   Clancy           1     1     1     0     1     0     2    .500
+    Caudill          2     0     0     0     0     0     0    .000
+    Bannister        1     1     0     0     0     0     0    .000
+    Leal             1     0     0     0     0     0     0    .000
+    Campbell         1     0     0     0     0     0     0    .000
+    Rogers           1     1     0     0     0     0     0    .000
+    Stanton          2     0     0     0     0     0     0    .000
+    Stoddard         1     1     0     0     0     0     0    .000
+    Vande Berg       2     0     0     0     0     0     0    .000
+                    12     4     1     0     1     0     2    .500
+ 
+c   Carter           4     4    25     1     0     0    26   1.000    0
+                     4     4    25     1     0     0    26   1.000    0
+ 
+1b  Kennedy          4     4    33     1     0     6    34   1.000
+    Richards         3     0     7     0     0     2     7   1.000
+    Thompson         1     0     0     0     1     0     1    .000
+                     8     4    40     1     1     8    42    .976
+ 
+2b  Morgan           4     4    13    19     1     9    33    .970
+                     4     4    13    19     1     9    33    .970
+ 
+3b  Guerrero         3     3     2     5     0     1     7   1.000
+    Sexton           3     0     3     0     0     0     3   1.000
+    Royster          1     1     0     2     0     1     2   1.000
+                     7     4     5     7     0     2    12   1.000
+ 
+ss  Thon             3     3     2    13     0     3    15   1.000
+    Washington       3     1     2     8     0     3    10   1.000
+                     6     4     4    21     0     6    25   1.000
+ 
+lf  Paciorek         4     4     4     0     0     0     4   1.000
+    Cruz             3     0     2     0     0     0     2   1.000
+    Leonard          1     0     0     0     0     0     0    .000
+                     8     4     6     0     0     0     6   1.000
+ 
+cf  Jones            3     3     4     1     0     0     5   1.000
+    Guerrero         1     1     4     0     0     0     4   1.000
+    Thompson         2     0     2     0     0     0     2   1.000
+                     6     4    10     1     0     0    11   1.000
+ 
+rf  Lezcano          4     4    16     1     0     0    17   1.000
+                     4     4    16     1     0     0    17   1.000
+ 
+    Team Total       4     4   120    51     3     9   174    .983    0
+.                    Game Results:  1982 Butt Mountain Beavis
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+12/30/1982    FER   W  8-5      Rogers      Leal        Caudill     Andujar     
+12/31/1982    FER   W  6-5  13  Clancy      Stanton                 Sutcliffe   
+ 1/ 2/1983   @FER   W  5-2      Bannister   Bannister   Stanton     Scherrer    
+ 1/ 3/1983   @FER   W  7-1      Stoddard    Stoddard                Sutton      
+.                     Injury Log: 1982 Butt Mountain Beavis
+                                        
+ 
+-- Date -- #  Player      Cause                 Length
+ 
+12/30/1982    Rogers      General                  7
+.             DMB League Transaction Log:  1982 Butt Mountain Beavis
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+                
+

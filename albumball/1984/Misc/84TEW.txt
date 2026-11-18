@@ -1,0 +1,719 @@
+   	 	 	 	 	 	
+					
+> EASTERN DIVISION > TEWKSBURY BOBS
+
+  » WESTERN DIVISION
+  » INTERNATIONAL DIVISION
+    » Directory, Constitution, Record Book, etc.
+	
+
+              DMB League Batting Statistics:  1984 Tewksbury Bobs
+                                        
+ 
+ NAME         AVG   OBP   SPC   G  AB   H 2B 3B HR   R RBI  BB   K HB IW  SB CS
+ 
+rBradley     .381  .435  .429  23  21   8  1  0  0   3   1   2   0  0  2   0  0 
+ Almon       .333  .407  .625  12  24   8  4  0  1   5   3   3   2  0  0   2  0 
+rBell        .303  .336  .488 160 640 194 32  4 26  97  93  27 104  6  2  14  3 
+ Collins     .299  .360  .391  95 371 111 16  9  0  56  25  29  49  7  1  34 17 
+ Perconte    .296  .360  .346  95 280  83 10  2  0  43  26  24  26  5  2  14  3 
+ Herndon     .295  .337  .418  97 251  74 15  2  4  27  35  13  39  4  0   2  1 
+ Knicely     .294  .294  .412   4  17   5  0  1  0   0   2   0   1  0  0   0  0 
+rBosley      .294  .347  .358 106 109  32  2  1  1  15  13   9  29  0  0   5  3 
+ Parker      .285  .330  .386 139 523 149 22  2  9  65  70  36  70  0  2  13  4 
+ Easler      .284  .372  .437 123 426 121 14  3 15  60  68  63 105  0  8   0  1 
+ Sundberg    .283  .326  .436 103 321  91 23  4  6  35  44  22  58  0  0   1  1 
+rMcGee       .283  .319  .378 134 587 166 14  9  8  89  61  32  73  1  0  58 18 
+rAshby       .270  .322  .303  77 211  57  1  0  2  21  19  16  26  0  1   0  0 
+ Molitor     .262  .311  .310  14  42  11  2  0  0   1   5   3  12  0  0   0  0 
+ Bonnell     .260  .295  .359  62 181  47 10  1  2  20  20   9  27  0  0   1  0 
+ Davis,E     .257  .371  .443  54 167  43 12  2  5  30  20  29  43  1  0  16  4 
+ Ramirez     .226  .249  .283  98 279  63  9  2  1  12  24   8  39  1  0   6  4 
+ Oester      .225  .273  .278 132 435  98 13  2  2  32  27  28  96  1  1   4  1 
+rBrookens    .224  .279  .342 126 237  53 14  1  4  26  27  17  44  3  0   6  5 
+rDiaz        .213  .247  .258  35  89  19  1  0  1   7   3   4  19  0  0   0  0 
+rDavis,G     .188  .230  .232  22  69  13  3  0  0   6   4   4  10  0  0   0  0 
+ 
+rSchiraldi   .500  .500  .500  11   2   1  0  0  0   1   0   0   0  0  0   0  0 
+ Robinson    .375  .375  .375  64  16   6  0  0  0   1   3   0   1  0  0   0  0 
+rHesketh     .167  .167  .167  48   6   1  0  0  0   0   0   0   1  0  0   0  0 
+ Witt        .165  .191  .209  33  91  15  4  0  0   4   7   3  33  0  0   0  1 
+ Darling     .129  .151  .143  32  70   9  1  0  0   4   9   2  30  0  0   0  0 
+ Rasmussen   .122  .143  .122  20  41   5  0  0  0   3   4   1   9  0  0   0  0 
+ Bair        .111  .111  .111  22   9   1  0  0  0   0   0   0   2  0  0   0  0 
+rOjeda       .099  .131  .099  32  81   8  0  0  0   2   5   3  29  0  0   1  0 
+rRyan        .094  .108  .094  30  64   6  0  0  0   2   4   1  22  0  0   1  2 
+ Leal        .000  .000  .000   3   8   0  0  0  0   0   0   0   3  0  0   0  0 
+ Gross,K     .000  .000  .000  34  32   0  0  0  0   0   1   0  16  0  0   1  1 
+ Filson      .000  .000  .000  41   2   0  0  0  0   0   0   0   0  0  0   0  0 
+ Lopez       .000  .000  .000  58   2   0  0  0  0   0   0   0   1  0  0   0  0 
+rBest        .000  .000  .000   4   0   0  0  0  0   0   0   0   0  0  0   0  0 
+
+ Team Total  .263  .311  .363 162    1498    45    667     388     29    179
+                                 5704    223    87     623    1019    19     69
+              DMB League Batting Statistics:  1984 Tewksbury Bobs
+                                        
+ 
+ NAME         GS  SH  SF  GDP  CI  GW     RC   RC27    ISO   TAVG    TB CHS LHS
+ 
+rBradley       0   0   0    0   0   0    3.9    8.1   .048   .846     9   0   2
+ Almon         5   0   0    0   0   0    6.9   11.6   .292  1.250    15   3   3
+rBell        158   0   3   17   0   8  100.7    5.8   .184   .770   312  10  10
+ Collins      90   0   1    1   0   1   54.5    5.3   .092   .773   145   0  11
+ Perconte     70   4   2    2   0   1   38.9    5.0   .050   .693    97   0  10
+ Herndon      56   0   2    4   0   7   35.5    5.2   .124   .681   105   0  11
+ Knicely       4   0   0    0   0   1    2.1    4.6   .118   .583     7   3   3
+rBosley        5   0   0    0   0   1   14.2    4.8   .064   .663    39   3   4
+ Parker      136   0   1    6   0  12   68.2    4.8   .101   .654   202   0  13
+ Easler      107   1   5    5   0   6   73.1    6.2   .153   .801   186   1   8
+ Sundberg     84   6   4    5   0   7   45.9    5.0   .153   .691   140   0   8
+rMcGee       134   0   4   10   0   6   72.0    4.3   .095   .697   222   0  11
+rAshby        45   2   0    1   0   1   21.7    3.7   .033   .516    64   3   5
+ Molitor      11   1   0    1   0   0    4.0    3.3   .048   .500    13   2   4
+ Bonnell      43   3   0    3   0   1   19.1    3.7   .099   .547    65   0   4
+ Davis,E      44   0   0    1   0   4   31.1    6.5   .186   .930    74   7   7
+ Ramirez      79   0   1    3   0   6   19.1    2.3   .057   .422    79   3   5
+ Oester      125   1   2    4   0   7   34.5    2.7   .053   .450   121   0   8
+rBrookens     50   6   5    4   0   2   22.7    3.0   .118   .554    81   1   5
+rDiaz         29   0   0    2   0   0    5.4    2.0   .045   .375    23   2   4
+rDavis,G      21   1   1    1   0   0    3.9    1.8   .043   .351    16   0   4
+ 
+rSchiraldi     0   0   0    0   0   0    0.5   13.5   .000  1.000     1   0   1
+ Robinson      0   1   0    0   0   1    2.3    5.6   .000   .600     6   1   2
+rHesketh       0   0   0    1   0   0    0.0    0.0   .000   .167     1   0   1
+ Witt         33   3   0    2   0   0    3.3    1.1   .044   .278    19   1   2
+ Darling      32  11   1    0   0   1    2.2    0.8   .014   .197    10   1   3
+ Rasmussen    20   3   0    3   0   1    0.5    0.3   .000   .154     5   0   3
+ Bair          0   0   0    1   0   0    0.0    0.0   .000   .111     1   0   1
+rOjeda        32   4   0    0   0   1    1.4    0.5   .000   .164     8   0   2
+rRyan         30   4   0    0   0   0    0.6    0.3   .000   .133     6   0   2
+ Leal          3   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+ Gross,K      12   0   0    1   0   0   -0.0   -0.0   .000   .029     0   0   0
+ Filson        0   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+ Lopez         0   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+rBest          0   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+
+ Team Total  162  51  32   78   0  75  658.8    4.0   .101   .613  2072
+            DMB League Batting Splits:  1984 Tewksbury Bobs-- vsLHP
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Sundberg     .342  .398  .542   120   41   14    2    2   16   12   21   1   1
+ Collins      .315  .364  .380    92   29    4    1    0    8    3   21   0   0
+rBell         .297  .322  .487   195   58    8    1    9   30    7   25   0   2
+ Perconte     .296  .372  .333   108   32    4    0    0    5    8   13   2   0
+ Herndon      .289  .335  .416   173   50    9    2    3   20   10   23   0   0
+ Bonnell      .287  .328  .419   129   37    9    1    2   16    8   14   1   0
+ Almon        .286  .348  .524    21    6    2    0    1    2    2    1   0   0
+rMcGee        .282  .310  .491   163   46    2    4    8   25    6   27   0   1
+ Molitor      .278  .350  .278    18    5    0    0    0    1    2    0   1   0
+rBosley       .278  .278  .278    18    5    0    0    0    0    0    6   0   0
+rBrookens     .246  .281  .386   114   28    5    1    3   14    6   18   2   1
+ Parker       .237  .256  .305   118   28    2    0    2    6    3   31   0   0
+rDavis,G      .205  .262  .256    39    8    2    0    0    0    3    3   0   0
+ Davis,E      .200  .310  .320    25    5    1    1    0    1    4   11   0   0
+rAshby        .182  .182  .227    22    4    1    0    0    1    0    2   0   0
+ Ramirez      .176  .208  .216    51    9    0    1    0    3    2    7   0   0
+ Easler       .130  .259  .239    46    6    0    1    1    5    8   22   0   0
+ Oester       .128  .181  .141    78   10    1    0    0    0    5   17   0   0
+rDiaz         .043  .120  .043    23    1    0    0    0    0    2   12   0   0
+ Knicely      .000  .000  .000     7    0    0    0    0    0    0    1   0   0
+ 
+rSchiraldi   1.000 1.000 1.000     1    1    0    0    0    0    0    0   0   0
+ Robinson     .500  .500  .500     4    2    0    0    0    1    0    1   0   0
+ Rasmussen    .167  .167  .167    12    2    0    0    0    2    0    3   0   0
+rOjeda        .154  .267  .154    13    2    0    0    0    0    2    5   1   0
+ Witt         .115  .115  .115    26    3    0    0    0    2    0   12   1   0
+ Darling      .071  .071  .071    28    2    0    0    0    2    0   12   8   0
+rRyan         .000  .071  .000    13    0    0    0    0    0    1    5   0   0
+ Gross,K      .000  .000  .000    18    0    0    0    0    0    0    6   0   0
+ Bair         .000  .000  .000     2    0    0    0    0    0    0    0   0   0
+ Filson       .000  .000  .000     2    0    0    0    0    0    0    0   0   0
+ 
+ Team Total   .250  .291  .362  1679  420   64   15   31  160   94  319  17   5
+            DMB League Batting Splits:  1984 Tewksbury Bobs-- vsRHP
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Almon        .667  .750 1.333     3    2    2    0    0    1    1    1   0   0
+ Knicely      .500  .500  .700    10    5    0    1    0    2    0    0   0   0
+rBradley      .381  .435  .429    21    8    1    0    0    1    2    0   0   0
+ Herndon      .308  .341  .423    78   24    6    0    1   15    3   16   0   2
+rBell         .306  .342  .488   445  136   24    3   17   63   20   79   0   1
+ Easler       .303  .386  .461   380  115   14    2   14   63   55   83   1   5
+ Parker       .299  .351  .410   405  121   20    2    7   64   33   39   0   1
+rBosley       .297  .360  .374    91   27    2    1    1   13    9   23   0   0
+ Perconte     .297  .353  .355   172   51    6    2    0   21   16   13   2   2
+ Collins      .294  .359  .394   279   82   12    8    0   17   26   28   0   1
+rMcGee        .283  .322  .335   424  120   12    5    0   36   26   46   0   3
+rAshby        .280  .337  .312   189   53    0    0    2   18   16   24   2   0
+rDiaz         .273  .294  .333    66   18    1    0    1    3    2    7   0   0
+ Davis,E      .268  .381  .465   142   38   11    1    5   19   25   32   0   0
+ Molitor      .250  .280  .333    24    6    2    0    0    4    1   12   0   0
+ Sundberg     .249  .280  .373   201   50    9    2    4   28   10   37   5   3
+ Oester       .246  .292  .308   357   88   12    2    2   27   23   79   1   2
+ Ramirez      .237  .258  .298   228   54    9    1    1   21    6   32   0   1
+rBrookens     .203  .277  .301   123   25    9    0    1   13   11   26   4   4
+ Bonnell      .192  .208  .212    52   10    1    0    0    4    1   13   2   0
+rDavis,G      .167  .188  .200    30    5    1    0    0    4    1    7   1   1
+ 
+ Robinson     .333  .333  .333    12    4    0    0    0    2    0    0   1   0
+ Witt         .185  .221  .246    65   12    4    0    0    5    3   21   2   0
+ Darling      .167  .200  .190    42    7    1    0    0    7    2   18   3   1
+rHesketh      .167  .167  .167     6    1    0    0    0    0    0    1   0   0
+ Bair         .143  .143  .143     7    1    0    0    0    0    0    2   0   0
+rRyan         .118  .118  .118    51    6    0    0    0    4    0   17   4   0
+ Rasmussen    .103  .133  .103    29    3    0    0    0    2    1    6   3   0
+rOjeda        .088  .101  .088    68    6    0    0    0    5    1   24   3   0
+rSchiraldi    .000  .000  .000     1    0    0    0    0    0    0    0   0   0
+ Lopez        .000  .000  .000     2    0    0    0    0    0    0    1   0   0
+ Leal         .000  .000  .000     8    0    0    0    0    0    0    3   0   0
+ Gross,K      .000  .000  .000    14    0    0    0    0    1    0   10   0   0
+ 
+ Team Total   .268  .316  .364  4025 1078  159   30   56  463  294  700  34  27
+       DMB League Games Started by Position:  1984 Tewksbury Bobs-- vsLHP
+                                        
+ 
+ NAME           C   1B   2B   3B   SS   LF   CF   RF
+ 
+ Almon          0    5    0    0    0    0    0    0
+rAshby          2    0    0    0    0    0    0    0
+rBell           0    0    0   47    0    0    0    0
+ Bonnell        0   24    0    0    0    0   11    0
+rBrookens       0    0    0    0   33    0    0    0
+ Collins        0    0    0    0    0    0    0   21
+ Davis,E        0    0    0    0    0    0    0    5
+rDavis,G        0   13    0    0    0    0    0    0
+rDiaz           6    0    0    0    0    0    0    0
+ Herndon        0    0    0    0    0   47    0    0
+rMcGee          0    0    0    0    0    0   36    0
+ Molitor        0    5    0    0    0    0    0    0
+ Parker         0    0    0    0    0    0    0   21
+ Perconte       0    0   33    0    0    0    0    0
+ Ramirez        0    0    0    0    9    0    0    0
+ Sundberg      37    0    0    0    0    0    0    0
+ Oester         0    0   14    0    5    0    0    0
+ Knicely        2    0    0    0    0    0    0    0
+ 
+ Team Total    47   47   47   47   47   47   47   47
+       DMB League Games Started by Position:  1984 Tewksbury Bobs-- vsRHP
+                                        
+ 
+ NAME           C   1B   2B   3B   SS   LF   CF   RF
+ 
+rAshby         43    0    0    0    0    0    0    0
+rBell           0    0    0  109    0    2    0    0
+ Bonnell        0    0    0    0    0    8    0    0
+rBosley         0    0    0    0    0    5    0    0
+rBrookens       0    0    0    0   17    0    0    0
+ Collins        0    0    0    0    0   59   10    0
+ Davis,E        0    0    0    0    0   32    7    0
+rDavis,G        0    8    0    0    0    0    0    0
+rDiaz          23    0    0    0    0    0    0    0
+ Easler         0  107    0    0    0    0    0    0
+ Herndon        0    0    0    0    0    9    0    0
+rMcGee          0    0    0    0    0    0   98    0
+ Molitor        0    0    0    6    0    0    0    0
+ Parker         0    0    0    0    0    0    0  115
+ Perconte       0    0   37    0    0    0    0    0
+ Ramirez        0    0    0    0   70    0    0    0
+ Sundberg      47    0    0    0    0    0    0    0
+ Oester         0    0   78    0   28    0    0    0
+ Knicely        2    0    0    0    0    0    0    0
+ 
+ Team Total   115  115  115  115  115  115  115  115
+              DMB League Pitching Statistics:  1984 Tewksbury Bobs
+                                        
+ 
+ NAME         ERA  W  L  S   G GS CG SH    IP   H   R  ER  BB   K   BF HR WP DP
+ 
+rSchiraldi   1.59  0  0  0  11  0  0  0  17.0  10   3   3   8  14   67  1  1  2
+rHesketh     2.36  6  1  3  48  0  0  0  49.2  38  13  13  20  41  199  0  0  7
+ Witt        2.74 14 12  0  33 33  8  2 246.0 219  93  75  96 209 1040 20 10 22
+ Filson      3.20  3  1  2  41  0  0  0  56.1  47  21  20  32  36  246  8  0  4
+rBest        3.38  0  1  0   4  0  0  0   5.1   9   2   2   1   7   25  0  0  1
+rOjeda       3.47  9 14  0  32 32  9  1 233.2 211 104  90 106 149  999 18  0 13
+ Rasmussen   3.50  4  9  0  20 20  1  1 121.0 113  61  47  56  89  525  7  8 11
+rRyan        3.52  9 10  0  30 30  1  1 191.2 171  81  75  65 201  806 20  8 10
+ Gross,K     3.70  4  4  0  30 12  0  0 104.2 113  50  43  40  70  460  8  2 10
+ Darling     3.92 13 10  0  32 32  3  2 211.1 185 100  92 115 120  921 22  6 15
+ Robinson    4.18  8 11 28  62  0  0  0  90.1 104  45  42  34  84  405 11  8  3
+ Bair        4.21  1  1  2  22  0  0  0  36.1  39  20  17  15  24  156  3  1  5
+ Lopez       4.48  6  8  2  58  0  0  0  76.1  77  44  38  28  58  331  9  2  6
+ Leal        5.09  2  1  0   3  3  0  0  17.2  23  10  10   6  14   82  1  1  1
+
+ Team Total  3.50    83    162    22   1457.1     647     622     6262    47
+                  79    37    162     8      1359     567    1116     128   110
+ 
+ 
+ NAME          IW HBP  WP  BK  CI   H/9  BB/9   R/9   K/9  HR/9
+ 
+rSchiraldi      1   0   1   2   0   5.3   4.2   9.5   7.4   0.5
+rHesketh        4   0   0   4   0   6.9   3.6  10.5   7.4   0.0
+ Witt           3   4  10   3   0   8.0   3.5  11.7   7.6   0.7
+ Filson         4   3   0   0   0   7.5   5.1  13.1   5.8   1.3
+rBest           1   0   0   0   0  15.2   1.7  16.9  11.8   0.0
+rOjeda          2   3   0   2   0   8.1   4.1  12.3   5.7   0.7
+ Rasmussen      3   4   8   3   0   8.4   4.2  12.9   6.6   0.5
+rRyan           1   3   8   0   0   8.0   3.1  11.2   9.4   0.9
+ Gross,K        1   1   2   8   0   9.7   3.4  13.2   6.0   0.7
+ Darling        3   4   6   2   0   7.9   4.9  12.9   5.1   0.9
+ Robinson       3   3   8   0   0  10.4   3.4  14.0   8.4   1.1
+ Bair           0   0   1   0   0   9.7   3.7  13.4   5.9   0.7
+ Lopez          3   1   2   2   0   9.1   3.3  12.5   6.8   1.1
+ Leal           0   1   1   0   0  11.7   3.1  15.3   7.1   0.5
+
+ Team Total    29  27  47  26   0   8.4   3.8  12.4   6.9   0.8
+              DMB League Pitching Statistics:  1984 Tewksbury Bobs
+                                        
+ 
+ NAME         AVG   OBP   SPC   BF   AB    H  2B  3B  HR   TB  SH  SF
+ 
+rSchiraldi   .172  .269  .276   67   58   10   3   0   1   16   0   1
+rHesketh     .215  .291  .266  199  177   38   9   0   0   47   0   2
+ Witt        .234  .307  .353 1040  935  219  39   6  20  330   2   3
+ Filson      .228  .337  .398  246  206   47   9   1   8   82   3   2
+rBest        .375  .400  .458   25   24    9   2   0   0   11   0   0
+rOjeda       .242  .322  .355  999  873  211  33   6  18  310   6  11
+ Rasmussen   .246  .330  .383  525  459  113  28   7   7  176   1   5
+rRyan        .234  .298  .371  806  731  171  32   4  20  271   3   4
+ Gross,K     .278  .341  .388  460  407  113  11   5   8  158   8   4
+ Darling     .236  .333  .370  921  784  185  25   7  22  290   7  11
+ Robinson    .287  .351  .434  405  362  104  14   3  11  157   3   3
+ Bair        .283  .348  .428  156  138   39   7   2   3   59   1   2
+ Lopez       .259  .323  .404  331  297   77  14   1   9  120   3   2
+ Leal        .307  .366  .440   82   75   23   7   0   1   33   0   0
+
+ Team Total  .246  .323  .373      5526      233     128       37
+                              6262      1359      42     2060      50
+ 
+ 
+ NAME          GS  CG   CG% SHo  QS   QS%   RS RS/G  RL RLS   RL%
+ 
+rSchiraldi      0   0  .000   0   0  .000    0  0.0   1   0  .000
+rHesketh        0   0  .000   0   0  .000    0  0.0  17   6  .353
+ Witt          33   8  .242   2  25  .758  150  4.5  17   8  .471
+ Filson         0   0  .000   0   0  .000    0  0.0  15   3  .200
+rBest           0   0  .000   0   0  .000    0  0.0   4   0  .000
+rOjeda         32   9  .281   1  19  .594  123  3.8  23   8  .348
+ Rasmussen     20   1  .050   1  11  .550   76  3.8  16   8  .500
+rRyan          30   1  .033   1  22  .733  124  4.1  16   2  .125
+ Gross,K       12   0  .000   0   7  .583   40  3.3   7   2  .286
+ Darling       32   3  .094   2  20  .625  138  4.3  20   7  .350
+ Robinson       0   0  .000   0   0  .000    0  0.0  14   4  .286
+ Bair           0   0  .000   0   0  .000    0  0.0   6   4  .667
+ Lopez          0   0  .000   0   0  .000    0  0.0   7   3  .429
+ Leal           3   0  .000   0   2  .667   16  5.3   4   2  .500
+
+ Team Total   162      .136     106        667      167      .341
+                   22         8      .654       4.1      57
+              DMB League Pitching Statistics:  1984 Tewksbury Bobs
+                                        
+ 
+ NAME         SvO  Sv   Sv%  BSv  BSv%  IR  IRS   IR%    G  RA   RA%  GF   GF%
+ 
+rSchiraldi      0   0  .000    0  .000   5    2  .400   11  11 1.000   4  .364
+rHesketh       15   3  .200    3  .200  38   12  .316   48  48 1.000  21  .438
+ Witt           0   0  .000    0  .000   0    0  .000   33   0  .000   0  .000
+ Filson         6   2  .333    0  .000  26    6  .231   41  41 1.000  15  .366
+rBest           0   0  .000    0  .000   1    0  .000    4   4 1.000   2  .500
+rOjeda          0   0  .000    0  .000   0    0  .000   32   0  .000   0  .000
+ Rasmussen      0   0  .000    0  .000   0    0  .000   20   0  .000   0  .000
+rRyan           0   0  .000    0  .000   0    0  .000   30   0  .000   0  .000
+ Gross,K        0   0  .000    0  .000  13    6  .462   30  18  .600   7  .389
+ Darling        0   0  .000    0  .000   0    0  .000   32   0  .000   0  .000
+ Robinson      40  28  .700   11  .275  26   13  .500   62  62 1.000  48  .774
+ Bair           3   2  .667    0  .000  20    2  .100   22  22 1.000   8  .364
+ Lopez         14   2  .143    5  .357  38   16  .421   58  58 1.000  35  .603
+ Leal           0   0  .000    0  .000   0    0  .000    3   0  .000   0  .000
+
+ Team Total    78      .474       .244       57        426      .620      .530
+                   37         19       167       .341      264       140
+            DMB League Pitching Splits:  1984 Tewksbury Bobs-- vsLHB
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+rSchiraldi    .053  .208  .211    19    1    0    0    1    2    4    3   0   1
+ Filson       .152  .264  .266    79   12    1    1    2    7   10   13   0   0
+rHesketh      .190  .242  .190    58   11    0    0    0    5    4   17   0   0
+rRyan         .211  .268  .331   417   88   12    4   10   37   33  110   2   2
+rOjeda        .223  .271  .277   166   37    3    0    2   14   11   32   1   3
+ Darling      .251  .356  .358   419  105   16    7    5   36   68   54   3   5
+ Lopez        .254  .351  .386   114   29    6    0    3   22   17   16   2   0
+ Witt         .266  .339  .385   467  124   18    4   10   47   50   81   2   2
+ Robinson     .278  .362  .406   187   52    7    1    5   24   24   39   2   1
+ Rasmussen    .284  .360  .446    74   21    6    0    2   14   10   13   0   2
+ Gross,K      .297  .368  .429   219   65    5    3    6   25   25   31   4   2
+ Leal         .351  .415  .459    37   13    4    0    0    3    4    4   0   0
+ Bair         .377  .450  .547    53   20    2    2    1    5    7    7   0   0
+rBest         .500  .533  .643    14    7    2    0    0    1    1    5   0   0
+ 
+ Team Total   .252  .328  .367  2323  585   82   22   47  242  268  425  16  18
+            DMB League Pitching Splits:  1984 Tewksbury Bobs-- vsRHB
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+rBest         .200  .200  .200    10    2    0    0    0    1    0    2   0   0
+ Witt         .203  .275  .321   468   95   21    2   10   31   46  128   0   1
+ Darling      .219  .305  .384   365   80    9    0   17   50   47   66   4   6
+ Bair         .224  .284  .353    85   19    5    0    2   10    8   17   1   2
+rHesketh      .227  .314  .303   119   27    9    0    0   12   16   24   0   2
+rSchiraldi    .231  .302  .308    39    9    3    0    0    2    4   11   0   0
+ Rasmussen    .239  .324  .371   385   92   22    7    5   33   46   76   1   3
+rOjeda        .246  .334  .373   707  174   30    6   16   77   95  117   5   8
+ Gross,K      .255  .307  .340   188   48    6    2    2   25   15   39   4   2
+ Lopez        .262  .305  .415   183   48    8    1    6   30   11   42   1   2
+ Leal         .263  .317  .421    38   10    3    0    1    5    2   10   0   0
+rRyan         .264  .336  .424   314   83   20    0   10   39   32   91   1   2
+ Filson       .276  .382  .480   127   35    8    0    6   16   22   23   3   2
+ Robinson     .297  .339  .463   175   52    7    2    6   26   10   45   1   2
+ 
+ Team Total   .242  .315  .377  3203  774  151   20   81  357  354  691  21  32
+              DMB League Fielding Statistics:  1984 Tewksbury Bobs
+                                        
+ 
+POS NAME             G    GS    PO     A     E    DP    TC     PCT   PB
+ 
+p  rOjeda           32    32    16    28     1     0    45    .978
+    Witt            33    33    18    22     2     0    42    .952
+    Darling         32    32     9    27     0     2    36   1.000
+   rRyan            30    30    13     8     2     2    23    .913
+    Rasmussen       20    20     8    11     2     0    21    .905
+    Gross,K         30    12     1    15     2     3    18    .889
+    Filson          41     0     6     6     0     0    12   1.000
+    Bair            22     0     3     9     0     1    12   1.000
+    Robinson        62     0     4     8     0     1    12   1.000
+    Lopez           58     0     5     3     1     0     9    .889
+   rHesketh         48     0     1     6     1     2     8    .875
+   rSchiraldi       11     0     1     3     0     1     4   1.000
+   rBest             4     0     2     1     0     0     3   1.000
+    Leal             3     3     1     0     0     0     1   1.000
+                   426   162    88   147    11    12   246    .955
+ 
+c   Sundberg        94    84   558    35     2     1   595    .997    0
+   rAshby           61    45   361    20     1     0   382    .997   12
+   rDiaz            34    29   216    17     1     2   234    .996    5
+    Knicely          4     4    33     2     0     0    35   1.000    0
+   rBradley          3     0     3     0     0     0     3   1.000    0
+                   196   162  1171    74     4     3  1249    .997   17
+ 
+1b  Easler         119   107   800    60    13    81   873    .985
+    Bonnell         27    24   211    20     1    15   232    .996
+   rDavis,G         21    21   163    12     1    17   176    .994
+    Molitor          5     5    42     5     1     1    48    .979
+    Almon            7     5    42     3     1     1    46    .978
+    Collins          3     0     5     0     0     1     5   1.000
+                   182   162  1263   100    17   116  1380    .988
+ 
+2b  Oester          94    92   189   260    10    56   459    .978
+    Perconte        81    70   135   197     6    34   338    .982
+   rBrookens         9     0     5     8     0     2    13   1.000
+   rBell             1     0     1     1     0     0     2   1.000
+                   185   162   330   466    16    92   812    .980
+ 
+3b rBell           158   156    89   226    22    22   337    .935
+    Molitor          7     6     4     7     1     0    12    .917
+   rBrookens        26     0     2    10     0     0    12   1.000
+    Bonnell          1     0     0     1     0     0     1   1.000
+                   192   162    95   244    23    22   362    .936
+ 
+ss  Ramirez         86    79   101   215    25    47   341    .927
+   rBrookens        85    50    85   165    16    24   266    .940
+    Oester          33    33    53    77     8    14   138    .942
+   rBosley           3     0     1     1     0     0     2   1.000
+                   207   162   240   458    49    85   747    .934
+              DMB League Fielding Statistics:  1984 Tewksbury Bobs
+                                        
+ 
+POS NAME             G    GS    PO     A     E    DP    TC     PCT   PB
+ 
+lf  Collins         59    59   135     9     1     2   145    .993
+    Herndon         67    56   121     2     4     0   127    .969
+    Davis,E         36    32    85     3     3     0    91    .967
+   rBosley          11     5    19     0     1     0    20    .950
+    Bonnell         10     8    16     1     0     0    17   1.000
+   rBell             2     2     3     0     0     0     3   1.000
+   rBradley          2     0     0     0     0     0     0    .000
+                   187   162   379    15     9     2   403    .978
+ 
+cf rMcGee          134   134   410    14     3     2   427    .993
+    Bonnell         12    11    30     1     0     0    31   1.000
+    Davis,E          9     7    26     0     0     0    26   1.000
+    Collins         12    10    16     1     1     0    18    .944
+                   167   162   482    16     4     2   502    .992
+ 
+rf  Parker         136   136   257    12     6     2   275    .978
+    Collins         21    21    52     3     1     0    56    .982
+   rBosley          29     0    11     1     0     0    12   1.000
+    Davis,E          6     5     4     0     0     0     4   1.000
+    Bonnell          4     0     0     0     0     0     0    .000
+                   196   162   324    16     7     2   347    .980
+ 
+    Team Total     162   162  4372  1536   140   123  6048    .977   17
+                       Game Results:  1984 Tewksbury Bobs
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 4/ 1/1984    GPC   W  4-0      Ryan        Ryan                    Rhoden      
+ 4/ 2/1984    GPC   L  4-10     Witt        Witt                    Gooden      
+ 4/ 3/1984    GPC   L  1-2      Ojeda       Robinson                Mahler      
+ 4/ 4/1984   @CIN   L  3-4      Darling     Robinson                Fernandez   
+ 4/ 5/1984   @BMB   W  6-3      Rasmussen   Lopez       Robinson    Gubicza     
+ 4/ 6/1984   @BMB   L  0-3      Ryan        Ryan                    O'Neal      
+ 4/ 7/1984   @BMB   W  6-5      Witt        Robinson                Williams    
+ 4/ 8/1984   @CEN   W 11-4      Ojeda       Ojeda                   Krukow      
+ 4/ 9/1984   @CEN   W 11-4      Darling     Darling                 Davis,M     
+ 4/10/1984   @CEN   W  8-7      Rasmussen   Lopez       Robinson    Cowley      
+ 4/11/1984   @CIN   L  7-8      Ryan        Lopez                   Soto        
+ 4/12/1984   @BAR   W  6-4      Witt        Bair        Robinson    Howell      
+ 4/13/1984   @BAR   L  4-6      Ojeda       Ojeda                   Blyleven    
+ 4/14/1984   @CTW   W  4-1      Darling     Darling     Lopez       Butcher     
+ 4/15/1984   @FER   L  6-9      Rasmussen   Rasmussen               Andujar     
+ 4/16/1984   @FER   L  1-16     Ryan        Ryan                    Sutcliffe   
+ 4/17/1984   @FER   W  3-2      Witt        Lopez       Robinson    Boyd        
+ 4/18/1984   @SUN   L  2-3      Ojeda       Ojeda                   Lea         
+ 4/19/1984   @SUN   W  2-1      Darling     Darling     Robinson    Tudor       
+ 4/20/1984   @SUN   L  2-3      Rasmussen   Rasmussen               Show        
+ 4/21/1984   @CIN   W  5-2      Ryan        Ryan        Robinson    Soto        
+ 4/22/1984   @CIN   W  4-3      Witt        Robinson    Hesketh     Smithson    
+ 4/23/1984    CIN   L  4-6      Ojeda       Ojeda                   Davis       
+ 4/24/1984    CIN   L  2-3      Darling     Darling                 Fernandez   
+ 4/25/1984    CIN   W 13-4      Rasmussen   Rasmussen               Candiotti   
+ 4/26/1984    BBG   L  1-3      Ryan        Ryan                    Welch       
+ 4/27/1984    BBG   L  1-7      Witt        Witt                    Scott,M     
+ 4/28/1984    BBG   L  2-3      Ojeda       Ojeda                   Reuschel    
+ 4/29/1984   @FER   L  5-6      Darling     Darling                 Sutcliffe   
+ 4/30/1984   @FER   W  3-2      Rasmussen   Rasmussen   Robinson    Boyd        
+ 5/ 1/1984   @FER   L  5-6  11  Ryan        Bair                    Boddicker   
+ 5/ 2/1984   @GPC   W 10-5      Witt        Witt        Bair        Mahler      
+ 5/ 3/1984   @GPC   L  1-2      Ojeda       Lopez                   Thurmond    
+ 5/ 5/1984    FER   L  1-2      Darling     Darling                 Boddicker   
+ 5/ 6/1984    FER   L  2-6      Rasmussen   Rasmussen               Andujar     
+ 5/ 7/1984    FER   L  3-4      Ryan        Robinson                Sutcliffe   
+ 5/ 8/1984    FER   W  3-2      Witt        Witt        Robinson    Boyd        
+ 5/ 9/1984    JJJ   L  1-4      Ojeda       Ojeda                   Gullickson  
+ 5/10/1984    JJJ   W  5-4  10  Darling     Lopez                   Guidry      
+ 5/11/1984    JJJ   L  1-2      Rasmussen   Rasmussen               Leibrandt   
+ 5/12/1984   @GAR   W  5-1      Ryan        Ryan                    Hoyt        
+ 5/13/1984   @CEN   L  3-5      Witt        Witt                    McGregor    
+ 5/14/1984   @CEN   W  4-1      Ojeda       Ojeda       Lopez       Krukow      
+ 5/15/1984   @CEN   L  3-4  12  Darling     Filson                  Davis,M     
+ 5/16/1984    CTW   L  2-4      Rasmussen   Rasmussen               Honeycutt   
+ 5/17/1984    CTW   L  4-7      Ryan        Ryan                    Hough       
+ 5/18/1984    CTW   L  3-5      Witt        Witt                    Tibbs       
+ 5/19/1984   @GAR   W  3-0      Ojeda       Ojeda                   Nelson      
+ 5/20/1984   @GAR   W  3-0      Darling     Darling                 Valenzuela  
+ 5/21/1984   @GAR   W  8-3      Rasmussen   Rasmussen               Hurst       
+ 5/22/1984   @BMB   L  2-4      Ryan        Best                    Gubicza     
+ 5/23/1984   @BMB   W  3-1      Witt        Witt        Robinson    Nipper      
+                       Game Results:  1984 Tewksbury Bobs
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 5/24/1984   @BMB   L  6-7      Ojeda       Robinson                Denny       
+ 5/25/1984   @SUN   L  2-3      Darling     Darling                 Show        
+ 5/26/1984   @SUN   W  3-1  11  Gross,K     Robinson    Hesketh     Candelaria  
+ 5/27/1984   @SUN   W  4-1      Ryan        Ryan        Robinson    Perez       
+ 5/28/1984   @GAR   W  4-3  11  Witt        Robinson                Hurst       
+ 5/29/1984   @A51   L  2-4      Ojeda       Ojeda                   Valenzuela  
+ 5/30/1984   @A51   W  5-3      Darling     Darling     Robinson    Niekro      
+ 5/31/1984   @A51   L  1-6      Gross,K     Gross,K                 Trout       
+ 6/ 4/1984    EVN   L  1-5      Ryan        Ryan                    Seaver      
+ 6/ 5/1984    EVN   W  7-6      Witt        Filson                  Smith       
+ 6/ 6/1984    EVN   W  4-1      Ojeda       Ojeda                   Burns       
+ 6/10/1984    GCP   W 10-0      Darling     Darling                 Reuss       
+ 6/11/1984    GCP   W  4-3  11  Rasmussen   Robinson                Berenguer   
+ 6/12/1984    GCP   W  2-1  12  Ryan        Filson                  Barker      
+ 6/13/1984    BAR   W  6-2      Witt        Witt                    Black       
+ 6/14/1984    BAR   L  2-4      Ojeda       Ojeda                   Morris      
+ 6/15/1984    BAR   L  1-7      Darling     Darling                 Eckersley   
+ 6/16/1984   @GCP   L  1-4      Rasmussen   Rasmussen               Berenguer   
+ 6/17/1984   @GCP   W  3-2      Ryan        Ryan        Robinson    Martinez,D  
+ 6/18/1984   @GCP   W 11-10     Witt        Witt        Robinson    Darwin      
+ 6/19/1984   @GAR   W  4-2  11  Ojeda       Hesketh                 Stewart     
+ 6/20/1984   @BBG   W  8-5  10  Darling     Hesketh     Filson      Welch       
+ 6/21/1984   @BBG   L  2-6      Gross,K     Gross,K                 Scott,M     
+ 6/22/1984   @BBG   W  3-2  11  Ryan        Robinson                Saberhagen  
+ 6/23/1984    EVN   L  1-2      Witt        Witt                    Seaver      
+ 6/24/1984    EVN   W  2-1      Ojeda       Ojeda                   Smith       
+ 6/25/1984    BMB   L  3-10     Darling     Darling                 Langston    
+ 6/26/1984    BMB   L  0-6      Rasmussen   Rasmussen               Gubicza     
+ 6/27/1984    CEN   W 20-3      Ryan        Ryan                    McWilliams  
+ 6/28/1984    CEN   W 11-2      Witt        Witt                    Niekro      
+ 7/ 2/1984   @CTW   W 11-10     Ojeda       Ojeda       Filson      Hough       
+ 7/ 3/1984    CIN   L  7-8      Darling     Darling                 Schatzeder  
+ 7/ 4/1984    CIN   L  1-3      Rasmussen   Rasmussen               DeLeon      
+ 7/ 5/1984    CIN   W  4-3  12  Ryan        Hesketh                 Soto        
+ 7/ 6/1984    GAR   L  0-3      Witt        Witt                    Flanagan    
+ 7/ 7/1984    GAR   L  3-6      Ojeda       Ojeda                   Terrell     
+ 7/ 8/1984    GAR   W  7-2      Darling     Darling                 Young       
+ 7/ 9/1984    GPC   L  1-4      Gross,K     Gross,K                 Gooden      
+ 7/10/1984    GPC   W 10-2      Ryan        Ryan                    Mason       
+ 7/11/1984    GPC   W  2-1      Witt        Witt                    Thurmond    
+ 7/12/1984   @GCP   W  3-1  12  Ojeda       Robinson                Martinez,D  
+ 7/13/1984   @GCP   W  7-1      Darling     Darling                 Beattie     
+ 7/14/1984   @GCP   L  0-1      Rasmussen   Lopez                   Berenguer   
+ 7/15/1984    GAR   L  6-7      Ryan        Ryan                    Stewart     
+ 7/16/1984    GAR   W  5-1      Witt        Witt                    Flanagan    
+ 7/17/1984    GAR   W  3-2      Ojeda       Ojeda                   Terrell     
+ 7/18/1984    A51   W  6-5      Darling     Hesketh     Bair        Niekro      
+ 7/19/1984    A51   W  7-6      Gross,K     Gross,K     Robinson    Trout       
+ 7/20/1984    A51   L  3-7      Leal        Leal                    Sanderson   
+ 7/21/1984    SUN   W  4-3      Witt        Witt        Hesketh     Show        
+ 7/22/1984    SUN   L  2-4      Ojeda       Ojeda                   Candelaria  
+ 7/23/1984    SUN   L  3-6      Darling     Robinson                Perez       
+                       Game Results:  1984 Tewksbury Bobs
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 7/24/1984   @CIN   L  2-3  11  Gross,K     Robinson                Romanick    
+ 7/25/1984   @CIN   W  5-1      Leal        Leal                    DeLeon      
+ 7/26/1984   @CIN   L  2-4      Witt        Witt                    Soto        
+ 7/27/1984    BMB   L  8-10     Ojeda       Lopez                   Denny       
+ 7/28/1984    BMB   W  8-5      Darling     Filson      Robinson    Clemens     
+ 7/29/1984    BMB   W  3-2      Gross,K     Gross,K     Robinson    Langston    
+ 7/30/1984    BAR   W  8-3      Leal        Leal        Robinson    Morris      
+ 7/31/1984    BAR   W  6-1      Witt        Witt                    Blyleven    
+ 8/ 1/1984    BMB   L  0-3      Ojeda       Ojeda                   Denny       
+ 8/ 2/1984    CTW   W  6-5      Darling     Hesketh                 Davis       
+ 8/ 3/1984    CTW   W  4-3      Gross,K     Lopez                   Zahn        
+ 8/ 4/1984   @CTW   W  3-0      Ryan        Ryan        Robinson    Schatzeder  
+ 8/ 5/1984   @EVN   W 11-6      Witt        Witt                    Moore       
+ 8/ 6/1984   @EVN   L  6-9      Ojeda       Hesketh                 Seaver      
+ 8/ 7/1984   @EVN   L  2-6      Darling     Darling                 Robinson    
+ 8/ 8/1984    BBG   L  5-7      Gross,K     Robinson                Garrelts    
+ 8/ 9/1984    BBG   W  2-1      Ryan        Ryan        Robinson    Saberhagen  
+ 8/10/1984    BBG   W  6-5      Witt        Hesketh     Robinson    Dravecky    
+ 8/11/1984   @GAR   L  2-3      Ojeda       Ojeda                   Hoyt        
+ 8/12/1984    FER   L  2-7      Darling     Darling                 Boddicker   
+ 8/13/1984    FER   L  4-9      Rasmussen   Rasmussen               Sutcliffe   
+ 8/14/1984    FER   L  2-10     Ryan        Ryan                    Andujar     
+ 8/15/1984    JJJ   W  5-1      Witt        Witt                    Shirley     
+ 8/16/1984    JJJ   W  4-1      Ojeda       Ojeda       Robinson    Gullickson  
+ 8/17/1984    JJJ   W  2-1      Darling     Darling                 Guidry      
+ 8/18/1984    SUN   W  5-4  13  Rasmussen   Robinson                Show        
+ 8/19/1984    SUN   L  2-3      Ryan        Ryan                    Candelaria  
+ 8/24/1984   @EVN   L  2-4      Witt        Witt                    Moore       
+ 8/25/1984   @EVN   L  5-6      Ojeda       Ojeda                   Seaver      
+ 8/26/1984   @EVN   W  3-2      Darling     Darling     Robinson    Smith       
+ 8/28/1984   @BBG   L  4-7      Gross,K     Gross,K                 Saberhagen  
+ 8/29/1984   @BBG   L  3-5      Ryan        Ryan                    Alexander   
+ 8/30/1984    BMB   L  7-8      Witt        Witt                    Williams    
+ 8/31/1984   @CTW   L  2-4      Ojeda       Ojeda                   Zahn        
+ 9/ 1/1984   @CTW   W  5-4      Darling     Darling     Robinson    Schatzeder  
+ 9/ 2/1984   @CTW   W  6-3      Gross,K     Gross,K     Robinson    Honeycutt   
+ 9/ 3/1984    A51   L  9-11 10  Ryan        Robinson                Clancy      
+ 9/ 4/1984    A51   W  8-0      Witt        Witt                    Tanana      
+ 9/ 5/1984    BAR   L  4-10     Ojeda       Lopez                   Morris      
+ 9/ 6/1984    CEN   L  2-3  10  Darling     Lopez                   Koosman     
+ 9/ 7/1984    CEN   W  2-1      Gross,K     Gross,K     Robinson    McWilliams  
+ 9/ 8/1984    CEN   L  1-5      Ryan        Robinson                Niekro      
+ 9/ 9/1984   @BAR   L  1-2      Witt        Witt                    Morris      
+ 9/10/1984   @BAR   L  7-8      Ojeda       Robinson                Blyleven    
+ 9/11/1984   @BAR   L  3-5      Darling     Darling                 Stieb       
+ 9/12/1984   @JJJ   W  5-0      Rasmussen   Rasmussen               Farr        
+ 9/13/1984   @JJJ   L  1-3      Ryan        Ryan                    Power       
+ 9/15/1984    GCP   L  1-5      Witt        Witt                    Berenguer   
+ 9/16/1984    GCP   L  6-8      Ojeda       Ojeda                   Young       
+ 9/18/1984   @GPC   W  4-2      Darling     Darling     Robinson    Gooden      
+ 9/19/1984   @GPC   L  1-3      Rasmussen   Lopez                   Mason       
+ 9/20/1984   @GPC   L  5-6      Ryan        Robinson                Black       
+                       Game Results:  1984 Tewksbury Bobs
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 9/21/1984   @JJJ   W  3-0      Witt        Witt                    Farr        
+ 9/22/1984   @JJJ   W  4-1      Ojeda       Ojeda                   Power       
+ 9/23/1984   @JJJ   W  3-2      Darling     Darling     Robinson    Shirley     
+ 9/24/1984   @A51   L  4-5      Rasmussen   Lopez                   Clancy      
+ 9/25/1984   @A51   W  6-5  11  Ryan        Lopez       Robinson    Tanana      
+ 9/26/1984   @A51   L  1-2      Witt        Witt                    Niekro      
+                        Injury Log: 1984 Tewksbury Bobs
+                                        
+ 
+-- Date -- #  Player      Cause                 Length
+ 
+ 4/ 2/1984    Perconte    General                  0
+ 4/28/1984    Davis,E     General                  2
+ 5/11/1984    Lopez       Rain delay               0
+ 5/21/1984    Davis,G     General                  0
+ 5/26/1984    Bell        General                  0
+ 5/27/1984    Brookens    General                  0
+ 6/ 5/1984    Sundberg    General                  3
+ 6/16/1984    Schiraldi   General                  6
+ 6/20/1984    Perconte    General                  0
+ 7/14/1984    Rasmussen   General                 10
+ 7/15/1984    Ryan        General                 10
+ 7/20/1984    Diaz        Collision in field      27
+ 7/22/1984    Herndon     General                  0
+ 7/26/1984    Bell        General                  0
+ 7/31/1984    Sundberg    Collision on bases       1
+ 8/ 5/1984    Witt        Rain delay               0
+ 8/ 9/1984    Ramirez     General                  4
+ 8/14/1984    Bair        General                  0
+ 8/16/1984    Bell        General                  0
+ 8/18/1984    Rasmussen   General                 10
+ 9/15/1984    Collins     Hit by pitch            16
+                DMB League Transaction Log:  1984 Tewksbury Bobs
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+ 5/ 3/1984  TEW    Farm         Jack Perconte       
+ 5/ 3/1984  TEW    Farm         Paul Molitor        
+ 5/ 3/1984  TEW    Farm         Doug Bair           
+ 5/ 3/1984  TEW    Promote      Glenn Davis         
+ 5/ 3/1984  TEW    Promote      Rafael Ramirez      
+ 5/ 3/1984  TEW    Promote      Karl Best           
+ 5/17/1984  TEW    Farm         Eric Davis          
+ 5/17/1984  TEW    Promote      Dave Collins        
+ 5/21/1984  TEW    Farm         Glenn Davis         
+ 5/21/1984  TEW    Promote      Barry Bonnell       
+ 5/26/1984  TEW    Farm         Karl Best           
+ 5/26/1984  TEW    Promote      Calvin Schiraldi    
+ 6/ 5/1984  TEW    Farm         Scott Bradley       
+ 6/ 5/1984  TEW    Promote      Bo Diaz             
+ 6/16/1984  TEW    Farm         Alan Ashby          
+ 6/16/1984  TEW    Promote      Jack Perconte       
+ 7/16/1984  TEW    DL           Dennis Rasmussen      effective  7/15/1984  
+ 7/16/1984  TEW    Farm         Calvin Schiraldi    
+ 7/16/1984  TEW    Promote      Doug Bair           
+ 7/16/1984  TEW    Promote      Luis Leal           
+ 7/20/1984  TEW    Promote      Alan Ashby          
+ 7/20/1984  TEW    DL           Bo Diaz               effective  7/21/1984  
+ 8/ 1/1984  TEW    Promote      Dennis Rasmussen    
+ 8/ 1/1984  TEW    Farm         Luis Leal           
+ 8/16/1984  TEW    Activate     Bo Diaz             
+ 8/16/1984  TEW    Farm         Alan Ashby          
+ 8/18/1984  TEW    Farm         Joe Hesketh         
+ 8/20/1984  TEW    Promote      Bill Almon          
+ 8/26/1984  TEW    Farm         Willie McGee        
+ 8/26/1984  TEW    Promote      Glenn Davis         
+ 9/ 2/1984  TEW    Promote      Luis Leal           
+ 9/ 2/1984  TEW    Promote      Alan Ashby          
+ 9/ 2/1984  TEW    Promote      Paul Molitor        
+ 9/ 2/1984  TEW    Promote      Eric Davis          
+ 9/ 2/1984  TEW    Farm         Thad Bosley         
+ 9/16/1984  TEW    Farm         Tom Brookens        
+ 9/19/1984  TEW    Farm         Glenn Davis         
+ 9/22/1984  TEW    Farm         Bo Diaz             
+ 9/22/1984  TEW    Sign         Alan Knicely        
+ 9/22/1984  TEW    Farm         Bobby Ojeda         
+ 9/24/1984  TEW    Farm         Alan Ashby          
+ 9/25/1984  TEW    Farm         George Bell         
+ 9/25/1984  TEW    Farm         Dennis Rasmussen    
+ 9/25/1984  TEW    Farm         Nolan Ryan          
+ 9/25/1984  TEW    Promote      Dennis Rasmussen    
+
+
+ 
+							
+							

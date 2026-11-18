@@ -1,0 +1,750 @@
+   	 	 	 	 	 	
+					
+> WESTERN DIVISION > EVANSTON ENDORPHINS
+
+  » EASTERN DIVISION
+  » INTERNATIONAL DIVISION
+    » Directory, Constitution, Record Book, etc.
+	
+
+            DMB League Batting Statistics:  1984 Evanston Endorphins
+                                        
+ 
+ NAME         AVG   OBP   SPC   G  AB   H 2B 3B HR   R RBI  BB   K HB IW  SB CS
+ 
+rBass        .327  .341  .436 103 346 113 17  6  3  39  33   6  51  3  0  16  8 
+rGibson      .309  .386  .506 151 559 173 22 11 22  99  75  70 118  3 17  15  7 
+ Ward        .286  .328  .418 155 637 182 25  7 15  83  55  42 115  1  2   5  5 
+ Pena        .285  .331  .422 137 495 141 28  2 12  54  58  30  63  6  4   9  5 
+ White       .279  .324  .483 116 402 112 18  8 16  44  54  26  57  3  7   4  2 
+ Backman     .264  .337  .291  51 182  48  5  0  0  21   5  20  29  0  1  11  3 
+cBackman     .255  .333  .282 132 451 115 10  1  0  59  16  53  64  0  2  38 10 
+rNettles     .262  .370  .442 141 412 108  8  3 20  49  56  69  60  3  1   1  0 
+rBailor      .254  .277  .270  90 126  32  2  0  0   9  14   4   3  0  1   1  3 
+ Sconiers    .250  .350  .563  19  16   4  2  0  1   5   4   3   1  0  0   0  0 
+ Brooks      .247  .292  .346 155 578 143 18  3 11  52  75  36  84  3  1   2  4 
+rCedeno      .240  .276  .360 126 408  98 26  1  7  41  30  20  62  2  1  19  7 
+ Barnes      .240  .259  .520   7  25   6  1  0  2   4   4   1   4  0  0   0  0 
+ Upshaw      .230  .290  .386 149 575 132 24  3 20  67  62  46 101  3  0   2  1 
+ Rabb        .224  .257  .373  18  67  15  1  0  3   4   4   3  29  0  0   0  1 
+ Robertson   .209  .233  .229  90 153  32  3  0  0   9  11   4  26  1  0   0  1 
+rBochy       .202  .225  .354  46  99  20  5  2  2   6   8   3  26  0  0   1  0 
+rOrsulak     .179  .190  .231  44  78  14  2  1  0   6   3   1  10  0  0   6  1 
+ Skinner     .160  .222  .173  48  75  12  1  0  0   3   5   5  22  1  0   1  0 
+rCalderon    .138  .219  .276  28  29   4  1  0  1   3   2   3  10  0  0   1  1 
+rSalas       .100  .143  .100  18  20   2  0  0  0   0   0   1   3  0  0   0  0 
+ 
+ Agosto      .500  .500 1.000  42   2   1  1  0  0   0   1   0   0  0  0   0  0 
+rDayley      .333  .333  .333  12   3   1  0  0  0   1   0   0   0  0  0   0  0 
+ James       .200  .200  .200  65  10   2  0  0  0   0   1   0   5  0  0   0  0 
+cJames       .200  .200  .200  70  10   2  0  0  0   0   1   0   5  0  0   0  0 
+ Burns       .150  .143  .150  71  20   3  0  0  0   0   1   0   8  0  0   0  0 
+ Seaver      .136  .147  .136  30  66   9  0  0  0   1   1   1  17  0  0   1  0 
+ Robinson    .118  .115  .137  26  51   6  1  0  0   1   2   0  19  0  0   0  0 
+ Smith       .111  .111  .111  24  45   5  0  0  0   3   1   0  11  0  0   0  0 
+ Petry       .103  .119  .103  38  58   6  0  0  0   1   1   1  18  0  0   0  0 
+ Lamp        .091  .167  .182  55  11   1  1  0  0   1   0   1   2  0  0   0  0 
+ Moore       .076  .076  .091  30  66   5  1  0  0   2   3   0  22  0  0   1  0 
+ Rawley      .070  .091  .093  32  43   3  1  0  0   0   1   1  18  0  0   0  0 
+nSchatzeder  .000  .000  .000   5   0   0  0  0  0   0   0   0   0  0  0   0  0 
+ Lavelle     .000  .000  .000  64   8   0  0  0  0   0   0   0   5  0  0   0  0 
+rCampbell    .000  .000  .000  80   2   0  0  0  0   0   0   0   1  0  0   0  0 
+
+ Team Total  .253  .303  .379 162    1433    47    608     397     29     96
+                                 5667    214   135     570    1000    35     49
+            DMB League Batting Statistics:  1984 Evanston Endorphins
+                                        
+ 
+ NAME         GS  SH  SF  GDP  CI  GW     RC   RC27    ISO   TAVG    TB CHS LHS
+ 
+rBass         71   2   3    3   0   5   50.6    5.5   .110   .721   151  10  14
+rGibson      145   1   6    3   0   8  114.1    7.6   .197   .937   283   3  14
+ Ward        152   4   5   16   0   5   84.1    4.7   .132   .660   266   0  16
+ Pena        124   1   3   12   0   9   67.0    4.8   .137   .685   209   0  14
+ White       110   1   4   10   0   5   60.5    5.3   .204   .752   194   2  15
+ Backman      48   2   0    4   0   0   19.3    3.7   .027   .596    53   0   8
+cBackman     109   4   0   17   0   0   45.0    3.3   .027   .601   127   0   8
+rNettles     126   0   3    5   0   6   72.8    6.3   .180   .825   182   2   9
+rBailor       26   2   0    1   0   1    8.8    2.4   .016   .398    34   1   5
+ Sconiers      1   0   1    0   0   0    3.6    7.5   .313  1.000     9   0   1
+ Brooks      147   0   7   18   2   8   55.0    3.2   .099   .527   200   0   7
+rCedeno       97   0   4    5   0   3   40.9    3.4   .120   .584   147   0   7
+ Barnes        7   0   1    0   0   0    3.6    4.8   .280   .737    13   0   4
+ Upshaw      140   3   0    9   0   8   64.7    3.8   .157   .603   222   0   8
+ Rabb         18   0   0    0   0   0    6.3    3.2   .149   .528    25   1   3
+ Robertson    29   2   1    5   0   2    7.3    1.5   .020   .315    35   2   5
+rBochy        20   0   0    4   0   1    6.8    2.2   .152   .470    35   0   4
+rOrsulak      15   0   0    1   0   1    3.5    1.4   .051   .379    18   0   6
+ Skinner      17   0   0    6   0   1    2.2    0.9   .013   .290    13   4   4
+rCalderon      2   0   0    2   0   0    1.2    1.1   .138   .429     8   0   2
+rSalas         1   0   0    0   0   0    0.3    0.5   .000   .167     2   2   2
+ 
+ Agosto        0   1   0    0   0   0    0.8   11.3   .500  2.000     2   1   1
+rDayley        1   0   0    0   0   0    0.3    4.5   .000   .500     1   1   1
+ James         0   0   0    0   0   0    0.4    1.4   .000   .250     2   0   1
+cJames         0   0   0    0   0   0    0.4    1.4   .000   .250     2   0   1
+ Burns         4   0   1    1   0   0    0.3    0.5   .000   .167     3   0   1
+ Seaver       30   2   1    3   0   0    1.1    0.5   .000   .183     9   1   2
+ Robinson     26   1   1    2   0   1    0.6    0.3   .020   .149     7   1   1
+ Smith        22   4   0    0   0   0    0.7    0.4   .000   .125     5   0   2
+ Petry        29   3   0    1   0   0    0.8    0.4   .000   .132     6   1   2
+ Lamp          1   0   0    0   0   0    0.4    1.0   .091   .300     2   0   1
+ Moore        30   2   0    2   0   0    0.3    0.1   .015   .111     6   0   1
+ Rawley       19   1   0    0   0   0    0.4    0.3   .023   .125     4   0   1
+nSchatzeder    0   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+ Lavelle       0   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+rCampbell      0   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+
+ Team Total  162  32  41  113   2  64  642.8    3.9   .126   .607  2146
+          DMB League Batting Splits:  1984 Evanston Endorphins-- vsLHP
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Rabb         .417  .417 1.167    12    5    0    0    3    4    0    5   0   0
+rBailor       .350  .381  .350    60   21    0    0    0    7    3    0   1   0
+ Ward         .322  .364  .445   211   68   12    4    2   15   15   22   1   2
+rCedeno       .316  .377  .547    95   30   10    0    4   14   10   10   0   1
+ White        .311  .345  .556   135   42    3    3    8   19    8   10   0   2
+ Pena         .309  .358  .432   162   50    9    1    3   17   13   16   0   1
+rGibson       .291  .356  .467   199   58    6    1    9   24   21   67   1   2
+rBass         .291  .314  .405   148   43    8    0    3   13    3   19   1   2
+ Barnes       .250  .250  .250     4    1    0    0    0    0    0    0   0   0
+ Skinner      .250  .368  .250    16    4    0    0    0    2    3    5   0   0
+ Robertson    .224  .243  .239    67   15    1    0    0    5    2   14   0   1
+rCalderon     .222  .222  .667     9    2    1    0    1    1    0    1   0   0
+rBochy        .216  .256  .432    37    8    1    2    1    4    2    8   0   0
+ Backman      .211  .375  .263    38    8    2    0    0    1   10    9   1   0
+cBackman      .196  .366  .250    56   11    3    0    0    1   15   12   1   0
+ Brooks       .206  .274  .331   175   36    8    1    4   24   17   19   0   4
+ Sconiers     .200  .333  .200     5    1    0    0    0    0    1    1   0   0
+ Upshaw       .182  .230  .286   192   35    2    3    4   13    9   46   2   0
+rOrsulak      .176  .222  .176    17    3    0    0    0    0    1    3   0   0
+rNettles      .144  .263  .165    97   14    2    0    0    8   13   12   0   1
+rSalas        .000 1.000  .000     0    0    0    0    0    0    1    0   0   0
+ 
+ James        .250  .250  .250     4    1    0    0    0    1    0    2   0   0
+cJames        .250  .250  .250     4    1    0    0    0    1    0    2   0   0
+ Seaver       .211  .200  .211    19    4    0    0    0    1    0    3   0   1
+ Smith        .091  .091  .091    11    1    0    0    0    0    0    3   1   0
+ Petry        .083  .083  .083    24    2    0    0    0    0    0    7   1   0
+ Moore        .083  .083  .083    24    2    0    0    0    3    0    8   2   0
+ Rawley       .067  .067  .067    15    1    0    0    0    0    0    6   0   0
+ Robinson     .063  .063  .063    16    1    0    0    0    0    0    6   1   0
+ Lavelle      .000  .000  .000     4    0    0    0    0    0    0    2   0   0
+ Lamp         .000  .000  .000     3    0    0    0    0    0    0    2   0   0
+ Burns        .000  .000  .000     3    0    0    0    0    0    0    1   0   0
+rCampbell     .000  .000  .000     1    0    0    0    0    0    0    1   0   0
+ 
+ Team Total   .253  .303  .375  1803  456   65   15   42  176  132  308  12  17
+          DMB League Batting Splits:  1984 Evanston Endorphins-- vsRHP
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+rBass         .354  .361  .460   198   70    9    6    0   20    3   32   1   1
+rGibson       .319  .401  .528   360  115   16   10   13   51   49   51   0   4
+rNettles      .298  .402  .527   315   94    6    3   20   48   56   48   0   2
+ Backman      .278  .325  .299   144   40    3    0    0    4   10   20   1   0
+cBackman      .263  .328  .286   395  104    7    1    0   15   38   52   3   0
+ Pena         .273  .318  .417   333   91   19    1    9   41   17   47   1   2
+ Sconiers     .273  .357  .727    11    3    2    0    1    4    2    0   0   1
+ Ward         .268  .311  .404   426  114   13    3   13   40   27   93   3   3
+ Brooks       .266  .300  .352   403  107   10    2    7   51   19   65   0   3
+ White        .262  .314  .446   267   70   15    5    8   35   18   47   1   2
+ Upshaw       .253  .319  .436   383   97   22    0   16   49   37   55   1   0
+ Barnes       .238  .261  .571    21    5    1    0    2    4    1    4   0   1
+rCedeno       .217  .244  .304   313   68   16    1    3   16   10   52   0   3
+ Robertson    .198  .225  .221    86   17    2    0    0    6    2   12   2   0
+rBochy        .194  .206  .306    62   12    4    0    1    4    1   18   0   0
+ Rabb         .182  .224  .200    55   10    1    0    0    0    3   24   0   0
+rOrsulak      .180  .180  .246    61   11    2    1    0    3    0    7   0   0
+rBailor       .167  .179  .197    66   11    2    0    0    7    1    3   1   0
+ Skinner      .136  .177  .153    59    8    1    0    0    3    2   17   0   0
+rCalderon     .100  .217  .100    20    2    0    0    0    1    3    9   0   0
+rSalas        .100  .100  .100    20    2    0    0    0    0    0    3   0   0
+ 
+ Agosto       .500  .500 1.000     2    1    1    0    0    1    0    0   1   0
+rDayley       .333  .333  .333     3    1    0    0    0    0    0    0   0   0
+ Burns        .176  .167  .176    17    3    0    0    0    1    0    7   0   1
+ James        .167  .167  .167     6    1    0    0    0    0    0    3   0   0
+cJames        .167  .167  .167     6    1    0    0    0    0    0    3   0   0
+ Robinson     .143  .139  .171    35    5    1    0    0    2    0   13   0   1
+ Lamp         .125  .222  .250     8    1    1    0    0    0    1    0   0   0
+ Smith        .118  .118  .118    34    4    0    0    0    1    0    8   3   0
+ Petry        .118  .143  .118    34    4    0    0    0    1    1   11   2   0
+ Seaver       .106  .125  .106    47    5    0    0    0    0    1   14   2   0
+ Rawley       .071  .103  .107    28    2    1    0    0    1    1   12   1   0
+ Moore        .071  .071  .095    42    3    1    0    0    0    0   14   0   0
+ Lavelle      .000  .000  .000     4    0    0    0    0    0    0    3   0   0
+rCampbell     .000  .000  .000     1    0    0    0    0    0    0    0   0   0
+ 
+ Team Total   .253  .301  .380  3864  977  149   32   93  394  265  692  20  24
+    DMB League Games Started by Position:  1984 Evanston Endorphins-- vsLHP
+                                        
+ 
+ NAME           C   1B   2B   3B   SS   LF   CF   RF
+ 
+rBochy          6    0    0    0    0    0    0    0
+rBailor         0    0    3   11    1    0    0    0
+rBass           0    0    0    0    0    0   34    0
+ Brooks         0    0    0    2   44    0    0    0
+rCalderon       0    0    0    0    0    0    0    1
+rCedeno         0    5    0    0    0    1   18    0
+ Barnes         0    0    0    0    0    1    0    0
+rGibson         0    3    0    0    0    0    1   47
+rNettles        0    0    0   37    0    0    0    0
+rOrsulak        0    0    0    0    0    0    0    3
+ Pena          45    0    0    0    0    0    0    0
+ Rabb           0    0    0    0    0    0    0    3
+ Robertson      0    0    9    4    0    0    0    0
+ Sconiers       0    1    0    0    0    0    0    0
+ Skinner        3    0    0    0    0    0    0    0
+ Upshaw         0   45    0    0    0    0    0    0
+ Ward           0    0    0    0    0   52    1    0
+ White          0    0   42    0    0    0    0    0
+ Backman        0    0    0    0    9    0    0    0
+CBackman        0    0    0    0    9    0    0    0
+ 
+ Team Total    54   54   54   54   54   54   54   54
+    DMB League Games Started by Position:  1984 Evanston Endorphins-- vsRHP
+                                        
+ 
+ NAME           C   1B   2B   3B   SS   LF   CF   RF
+ 
+rBochy         14    0    0    0    0    0    0    0
+rBailor         0    0    0   11    0    0    0    0
+rBass           0    0    0    0    0    0   35    2
+ Brooks         0    0    0    1  100    0    0    0
+rCalderon       0    0    0    0    0    0    0    1
+rCedeno         0    3    0    0    0    0   65    5
+ Barnes         0    0    0    0    0    6    0    0
+rGibson         0    9    0    0    0    0    2   83
+rNettles        0    0    0   89    0    0    0    0
+rOrsulak        0    1    0    0    0    9    0    2
+ Pena          79    0    0    0    0    0    0    0
+ Rabb           0    0    0    0    0    0    0   15
+ Robertson      0    0    3    7    6    0    0    0
+rSalas          1    0    0    0    0    0    0    0
+ Skinner       14    0    0    0    0    0    0    0
+ Upshaw         0   95    0    0    0    0    0    0
+ Ward           0    0    0    0    0   93    6    0
+ White          0    0   68    0    0    0    0    0
+ Backman        0    0   37    0    2    0    0    0
+CBackman        0    0   98    0    2    0    0    0
+ 
+ Team Total   108  108  108  108  108  108  108  108
+           DMB League Pitching Statistics:  1984 Evanston Endorphins
+                                        
+ 
+ NAME         ERA  W  L  S   G GS CG SH    IP   H   R  ER  BB   K   BF HR WP DP
+ 
+nSchatzeder  0.00  1  0  0   5  0  0  0  10.2   9   1   0   1   7   43  0  0  0
+rCampbell    3.03  6 11  3  80  0  0  0  89.0  81  35  30  22  47  367  2  1  2
+ Seaver      3.05  8  7  0  30 30  5  2 198.0 187  74  67  50 112  818 19  5  9
+ Lavelle     3.50  3  3 13  64  0  0  0  79.2  78  32  31  25  65  331  6  0  6
+ Moore       3.88 11 10  0  30 30  4  3 185.1 182  91  80  64 147  798  6  4  8
+ Burns       3.89  6  8  1  71  4  0  0 108.2 113  55  47  52  95  484  5  3  6
+ Lamp        4.09  3  8  8  55  1  0  0  72.2  93  38  33  20  39  307  6  0 18
+ Robinson    4.25  8  9  0  26 26  0  0 139.2 150  71  66  53  86  614  7  5 11
+ James       4.32  0  2  9  65  0  0  0  77.0  85  40  37  36  74  346  3  4  3
+cJames       4.43  0  2  9  70  0  0  0  83.1  94  44  41  38  78  374  3  4  3
+ Rawley      4.37  4  6  1  32 19  1  1 127.2 145  67  62  52  68  566  8  9  5
+ Smith       4.51  6 13  0  22 22  1  0 135.2 155  72  68  35  73  594 11  2  8
+ Agosto      5.59  2  3  0  42  0  0  0  38.2  50  26  24  21  26  184  0  0  6
+ Petry       5.62  6 16  1  38 29  2  1 181.0 212 132 113  55 131  815 20  5  7
+rDayley      9.00  1  1  1  12  1  0  0  21.0  41  22  21   9   6  112  5  0  1
+
+ Team Total  4.17    97    162    13   1464.2     756     495     6379    38
+                  65    37    162     8      1581     679     976      98    90
+ 
+ 
+ NAME          IW HBP  WP  BK  CI   H/9  BB/9   R/9   K/9  HR/9
+ 
+nSchatzeder     0   0   0   0   0   7.6   0.8   8.4   5.9   0.0
+rCampbell       4   0   1   0   0   8.2   2.2  10.4   4.8   0.2
+ Seaver         0   5   5   0   0   8.5   2.3  11.0   5.1   0.9
+ Lavelle        7   0   0   0   0   8.8   2.8  11.6   7.3   0.7
+ Moore          4   4   4   6   0   8.8   3.1  12.1   7.1   0.3
+ Burns         10   3   3   0   0   9.4   4.3  13.9   7.9   0.4
+ Lamp           1   0   0   0   0  11.5   2.5  14.0   4.8   0.7
+ Robinson       9   5   5   3   0   9.7   3.4  13.4   5.5   0.5
+ James          1   3   4   2   1   9.9   4.2  14.5   8.6   0.4
+cJames          1   3   4   2   1  10.2   4.1  14.6   8.4   0.3
+ Rawley         6   2   9   0   0  10.2   3.7  14.0   4.8   0.6
+ Smith          0   4   2   1   0  10.3   2.3  12.9   4.8   0.7
+ Agosto         6   2   0   0   0  11.6   4.9  17.0   6.1   0.0
+ Petry          0   5   5   0   0  10.5   2.7  13.5   6.5   1.0
+rDayley         2   0   0   0   0  17.6   3.9  21.4   2.6   2.1
+
+ Team Total    50  33  38  12   1   9.7   3.0  13.0   6.0   0.6
+           DMB League Pitching Statistics:  1984 Evanston Endorphins
+                                        
+ 
+ NAME         AVG   OBP   SPC   BF   AB    H  2B  3B  HR   TB  SH  SF
+ 
+nSchatzeder  .225  .238  .250   43   40    9   1   0   0   10   1   1
+rCampbell    .238  .282  .300  367  340   81   7   4   2  102   2   3
+ Seaver      .248  .299  .361  818  753  187  22   3  19  272   8   2
+ Lavelle     .260  .313  .363  331  300   78   9   2   6  109   2   4
+ Moore       .252  .315  .355  798  722  182  48   4   6  256   4   4
+ Burns       .267  .350  .364  484  423  113  22   2   5  154   4   2
+ Lamp        .327  .370  .405  307  284   93   4   0   6  115   2   1
+ Robinson    .275  .341  .374  614  545  150  25   4   7  204   4   7
+ James       .280  .359  .391  346  304   85  21   2   3  119   0   2
+cJames       .286  .362  .395  374  329   94  23   2   3  130   0   3
+ Rawley      .288  .355  .416  566  503  145  32   4   8  209   6   3
+ Smith       .283  .328  .420  594  548  155  30   6  11  230   3   4
+ Agosto      .313  .397  .431  184  160   50  15   2   0   69   0   1
+ Petry       .284  .336  .430  815  747  212  41   4  20  321   5   3
+rDayley      .398  .446  .602  112  103   41   4   1   5   62   0   0
+
+ Team Total  .274  .333  .387      5772      281      98       41
+                              6379      1581      38     2232      37
+ 
+ 
+ NAME          GS  CG   CG% SHo  QS   QS%   RS RS/G  RL RLS   RL%
+ 
+nSchatzeder     0   0  .000   0   0  .000    0  0.0   0   0  .000
+rCampbell       0   0  .000   0   0  .000    0  0.0  23   8  .348
+ Seaver        30   5  .167   2  19  .633  101  3.4  17   7  .412
+ Lavelle        0   0  .000   0   0  .000    0  0.0  16   6  .375
+ Moore         30   4  .133   3  13  .433  119  4.0  23  14  .609
+ Burns          4   0  .000   0   2  .500    4  1.0  28  11  .393
+ Lamp           1   0  .000   0   0  .000    5  5.0  12   4  .333
+ Robinson      26   0  .000   0  10  .385  101  3.9  29   4  .138
+ James          0   0  .000   0   0  .000    0  0.0  28  11  .393
+cJames          0   0  .000   0   0  .000    0  0.0  31  11  .355
+ Rawley        19   1  .053   1   8  .421   91  4.8  17   5  .294
+ Smith         22   1  .045   0  12  .545   71  3.2  15   9  .600
+ Agosto         0   0  .000   0   0  .000    0  0.0  21   9  .429
+ Petry         29   2  .069   1  11  .379  109  3.8  23  14  .609
+rDayley         1   0  .000   0   0  .000    7  7.0   6   2  .333
+
+ Team Total   162      .080      75        608      258      .403
+                   13         8      .463       3.8     104
+           DMB League Pitching Statistics:  1984 Evanston Endorphins
+                                        
+ 
+ NAME         SvO  Sv   Sv%  BSv  BSv%  IR  IRS   IR%    G  RA   RA%  GF   GF%
+ 
+nSchatzeder     1   0  .000    1 1.000   2    2 1.000    5   5 1.000   2  .400
+rCampbell      30   3  .100    7  .233  39   16  .410   80  80 1.000  23  .287
+ Seaver         0   0  .000    0  .000   0    0  .000   30   0  .000   0  .000
+ Lavelle       29  13  .448    8  .276  46   14  .304   64  64 1.000  26  .406
+ Moore          0   0  .000    0  .000   0    0  .000   30   0  .000   0  .000
+ Burns         12   1  .083    1  .083  42   16  .381   71  67  .944  28  .418
+ Lamp          18   8  .444    3  .167  32    9  .281   55  54  .982  23  .426
+ Robinson       0   0  .000    0  .000   0    0  .000   26   0  .000   0  .000
+ James         18   9  .500    2  .111  43   19  .442   65  65 1.000  24  .369
+cJames         19   9  .474    3  .158  44   19  .432   70  70 1.000  25  .357
+ Rawley         2   1  .500    0  .000   5    2  .400   32  13  .406   8  .615
+ Smith          0   0  .000    0  .000   0    0  .000   22   0  .000   0  .000
+ Agosto         6   0  .000    2  .333  29   16  .552   42  42 1.000  13  .310
+ Petry          1   1 1.000    0  .000  10    3  .300   38   9  .237   1  .111
+rDayley         2   1  .500    0  .000  10    7  .700   12  11  .917   1  .091
+
+ Team Total   119      .311       .202      104        572      .717      .363
+                   37         24       258       .403      410       149
+         DMB League Pitching Splits:  1984 Evanston Endorphins-- vsLHB
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Agosto       .154  .191  .231    65   10    3    1    0    8    3   13   0   0
+ Lavelle      .169  .221  .191    89   15    2    0    0    8    6   25   0   0
+ Rawley       .185  .265  .304    92   17    5    0    2    8   10   21   2   0
+ Burns        .207  .256  .240   121   25    4    0    0   11    7   33   1   0
+rCampbell     .248  .313  .315   149   37    4    3    0   22   15    9   1   2
+ Petry        .262  .302  .375   397  104   17    2    8   55   23   66   2   1
+ Moore        .264  .340  .340   397  105   20    2    2   38   47   67   1   3
+ James        .271  .358  .349   129   35    4    0    2   10   15   34   0   1
+cJames        .293  .377  .364   140   41    4    0    2   13   17   37   0   2
+nSchatzeder   .278  .316  .278    18    5    0    0    0    0    1    5   1   0
+ Seaver       .278  .341  .398   374  104   12    3    9   36   33   58   1   1
+ Smith        .293  .342  .444   324   95   17    4    8   43   26   35   2   4
+ Lamp         .325  .392  .325   117   38    0    0    0    8   13    9   2   0
+ Robinson     .331  .407  .452   281   93   16    3    4   32   39   25   2   4
+rDayley       .393  .452  .393    28   11    0    0    0    6    3    1   0   0
+ 
+ Team Total   .269  .329  .364  2581  694  104   18   35  285  241  401  15  16
+         DMB League Pitching Splits:  1984 Evanston Endorphins-- vsRHB
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+nSchatzeder   .182  .174  .227    22    4    1    0    0    2    0    2   0   1
+ Robinson     .216  .266  .292   264   57    9    1    3   30   14   61   2   3
+ Seaver       .219  .256  .325   379   83   10    0   10   25   17   54   7   1
+rCampbell     .230  .256  .288   191   44    3    1    2   20    7   38   1   1
+ Moore        .237  .282  .372   325   77   28    2    4   30   17   80   3   1
+ Smith        .268  .308  .384   224   60   13    2    3   16    9   38   1   0
+ James        .286  .360  .423   175   50   17    2    1   31   21   40   0   1
+cJames        .280  .351  .418   189   53   19    2    1   32   21   41   0   1
+ Burns        .291  .385  .414   302   88   18    2    5   45   45   62   3   2
+ Lavelle      .299  .350  .436   211   63    7    2    6   31   19   40   2   4
+ Petry        .309  .373  .491   350  108   24    2   12   54   32   65   3   2
+ Rawley       .311  .376  .440   411  128   27    4    6   55   42   47   4   3
+ Lamp         .329  .354  .461   167   55    4    0    6   34    7   30   0   1
+rDayley       .400  .444  .680    75   30    4    1    5   20    6    5   0   0
+ Agosto       .421  .517  .568    95   40   12    1    0   23   18   13   0   1
+ 
+ Team Total   .278  .332  .405  3191  887  177   20   63  416  254  575  26  21
+           DMB League Fielding Statistics:  1984 Evanston Endorphins
+                                        
+ 
+POS NAME             G    GS    PO     A     E    DP    TC     PCT   PB
+ 
+p   Seaver          30    30    13    31     1     1    45    .978
+    Petry           38    29    14    16     0     1    30   1.000
+    Robinson        26    26    10    18     0     0    28   1.000
+    Moore           30    30     9    12     2     2    23    .913
+    Smith           22    22     7    11     2     0    20    .900
+    Rawley          32    19     4    14     1     0    19    .947
+    Burns           71     4     4    11     2     2    17    .882
+   rCampbell        80     0     5    10     0     0    15   1.000
+    Lamp            55     1     4     5     2     1    11    .818
+    Lavelle         64     0     2     6     3     1    11    .727
+    James           65     0     5     5     0     0    10   1.000
+   cJames           70     0     5     5     0     0    10   1.000
+    Agosto          42     0     4     5     0     0     9   1.000
+   rDayley          12     1     5     0     0     0     5   1.000
+   nSchatzeder       5     0     0     1     3     0     4    .250
+                   572   162    86   145    16     8   247    .935
+ 
+c   Pena           136   124   810    60     6     2   876    .993   11
+   rBochy           22    20   135     5     0     0   140   1.000    0
+    Skinner         22    17    87    11     2     0   100    .980    3
+   rSalas            1     1    14     0     1     0    15    .933    0
+                   181   162  1046    76     9     2  1131    .992   14
+ 
+1b  Upshaw         142   140  1194    97     7    85  1298    .995
+   rGibson          12    12    97     5     4     5   106    .962
+   rCedeno           9     8    75     3     1     3    79    .987
+   rOrsulak          1     1    11     1     0     1    12   1.000
+    Sconiers         1     1     7     0     0     0     7   1.000
+                   165   162  1384   106    12    94  1502    .992
+ 
+2b  White          113   110   218   372    14    56   604    .977
+    Backman         38    37    76   127     3    20   206    .985
+   cBackman        111    98   198   302     8    53   508    .984
+    Robertson       17    12    24    39     2     5    65    .969
+   rBailor           5     3     4     5     1     1    10    .900
+   rNettles          1     0     0     0     0     0     0    .000
+                   174   162   322   543    20    82   885    .977
+ 
+3b rNettles        137   126    96   218    17    20   331    .949
+   rBailor          28    22    11    28     4     2    43    .907
+    Brooks          28     3    10    19     2     2    31    .935
+    Robertson       11    11     8    14     3     4    25    .880
+   rSalas            1     0     0     1     0     0     1   1.000
+                   205   162   125   280    26    28   431    .940
+ 
+ss  Brooks         145   144   204   398    35    53   637    .945
+    Backman         11    11    10    30     1     5    41    .976
+   cBackman         13    11    11    32     1     5    44    .977
+   rBailor          41     1     8    27     1     5    36    .972
+    Robertson       12     6    14    20     1     0    35    .971
+                   209   162   236   475    38    63   749    .949
+           DMB League Fielding Statistics:  1984 Evanston Endorphins
+                                        
+ 
+POS NAME             G    GS    PO     A     E    DP    TC     PCT   PB
+ 
+lf  Ward           147   145   348    24     2     2   374    .995
+   rOrsulak         11     9    25     1     1     0    27    .963
+    Barnes           7     7    21     0     1     0    22    .955
+   rCedeno           3     1     2     0     0     0     2   1.000
+   rCalderon         1     0     1     0     0     0     1   1.000
+   rBass             4     0     1     0     0     0     1   1.000
+                   173   162   398    25     4     2   427    .991
+ 
+cf rBass            78    69   188    14     7     1   209    .967
+   rCedeno          85    83   189     9     3     1   201    .985
+    Ward            12     7    29     2     0     0    31   1.000
+   rGibson           3     3     7     0     0     0     7   1.000
+   rOrsulak          5     0     4     0     0     0     4   1.000
+   rCalderon         3     0     1     0     0     0     1   1.000
+                   186   162   418    25    10     2   453    .978
+ 
+rf rGibson         135   130   298    22    23     4   343    .933
+    Rabb            18    18    43     2     1     0    46    .978
+   rOrsulak          5     5    15     1     0     0    16   1.000
+   rCedeno          16     5    13     0     0     0    13   1.000
+   rCalderon         2     2     6     0     0     0     6   1.000
+   rBass             2     2     4     0     1     0     5    .800
+   rSalas            1     0     0     0     0     0     0    .000
+                   179   162   379    25    25     4   429    .942
+ 
+    Team Total     162   162  4394  1700   160   105  6254    .974   14
+                    Game Results:  1984 Evanston Endorphins
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 4/ 1/1984    SUN   W  8-3      Rawley      Schatzeder              Lea         
+ 4/ 2/1984    SUN   W  4-0      Seaver      Seaver                  Tudor       
+ 4/ 3/1984    SUN   W  4-2      Petry       Petry       Lavelle     Show        
+ 4/ 4/1984    SUN   L  4-7      Moore       Moore                   Candelaria  
+ 4/ 5/1984    BAR   W  3-1      Smith       Campbell    Lamp        Eckersley   
+ 4/ 6/1984    BAR   L  3-4      Burns       Burns                   Stieb       
+ 4/ 7/1984   @A51   L  4-7  11  Seaver      Lamp                    Trout       
+ 4/ 8/1984    BBG   L  4-5      Petry       Petry                   Reuschel    
+ 4/ 9/1984    BBG   L  0-3      Moore       Moore                   Viola       
+ 4/10/1984    BBG   L  5-7      Lamp        Campbell                Hershiser   
+ 4/11/1984    BBG   L  3-6      Moore       Moore                   Welch       
+ 4/12/1984    GCP   L  0-1      Seaver      Seaver                  Martinez,D  
+ 4/13/1984    GCP   W  4-3      Petry       Campbell    Lavelle     Reuss       
+ 4/14/1984    GCP   L  4-6  10  Moore       Lamp                    Berenguer   
+ 4/15/1984    GPC   W  8-0      Rawley      Rawley                  Pena        
+ 4/16/1984    GPC   W  3-2      Seaver      Agosto      Lavelle     Rhoden      
+ 4/17/1984    GPC   L  3-4  12  Petry       Agosto                  Knepper     
+ 4/18/1984    CIN   W  5-3      Moore       Moore       Lamp        Davis       
+ 4/19/1984    CIN   W  4-1      Smith       Smith       Lamp        Fernandez   
+ 4/20/1984    CIN   W  3-2  10  Rawley      Burns                   Candiotti   
+ 4/21/1984    CEN   W  4-3      Seaver      Lamp                    Cowley      
+ 4/22/1984   @A51   L  3-8      Petry       Petry                   Trout       
+ 4/23/1984   @CEN   L  0-7      Moore       Moore                   Koosman     
+ 4/24/1984   @CEN   W  8-2      Smith       Smith                   Krukow      
+ 4/25/1984   @BAR   L  2-3      Rawley      Campbell                Black       
+ 4/26/1984   @GAR   L  2-5      Robinson    Robinson                Forsch      
+ 4/27/1984   @GAR   W  3-1      Petry       Petry       Lavelle     Hoyt        
+ 4/28/1984   @GAR   W  6-5      Moore       Moore       Lamp        Hurst       
+ 4/29/1984    GPC   L  0-7      Smith       Smith                   Pena        
+ 4/30/1984    GPC   W  5-1      Rawley      Rawley                  Rhoden      
+ 5/ 1/1984   @BAR   L  3-4      Robinson    Agosto                  Morris      
+ 5/ 2/1984   @SUN   L  2-4      Petry       Petry                   Perez       
+ 5/ 3/1984   @SUN   L  0-9      Burns       Burns                   Lea         
+ 5/ 4/1984   @SUN   L  2-4      Smith       Smith                   Tudor       
+ 5/ 5/1984   @GPC   W  3-1      Rawley      Rawley      Lamp        Pena        
+ 5/ 6/1984   @GPC   W  9-3      Robinson    Robinson                Rhoden      
+ 5/ 7/1984   @GPC   L  4-10     Petry       Petry                   Gooden      
+ 5/ 8/1984    CTW   L  3-4      Seaver      Campbell                Tibbs       
+ 5/ 9/1984   @FER   L  3-11     Smith       Smith                   Boddicker   
+ 5/10/1984   @FER   L  4-14     Rawley      Rawley                  Andujar     
+ 5/11/1984   @FER   W  3-0      Robinson    Robinson    Lavelle     Sutcliffe   
+ 5/12/1984   @GCP   L  6-7      Petry       Dayley                  Martinez,D  
+ 5/13/1984   @BBG   L  0-9      Seaver      Seaver                  Reuschel    
+ 5/14/1984   @BBG   L  8-9      Smith       Smith                   Viola       
+ 5/15/1984   @BBG   L  1-4      Rawley      Rawley                  Hershiser   
+ 5/19/1984   @A51   W  3-1      Robinson    Robinson    Lamp        Tanana      
+ 5/20/1984   @A51   L  5-6  10  Petry       Lamp                    Stewart     
+ 5/21/1984   @A51   W  6-2      Seaver      Seaver                  Niekro      
+ 5/22/1984   @BAR   L  8-9  10  Rawley      Lamp                    Eckersley   
+ 5/23/1984   @BAR   W  8-3      Robinson    Robinson    James       Stieb       
+ 5/24/1984   @BAR   W  3-1      Moore       Campbell    Lamp        Blyleven    
+ 5/25/1984    CIN   L  2-3  11  Seaver      Burns                   Soto        
+                    Game Results:  1984 Evanston Endorphins
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 5/26/1984    CIN   W  6-4      Smith       Smith       Lavelle     Smithson    
+ 5/27/1984    CIN   L  0-4      Burns       Burns                   Davis       
+ 5/29/1984   @JJJ   L  2-4      Robinson    Robinson                Leibrandt   
+ 5/30/1984   @JJJ   L  1-8      Moore       Moore                   Rijo        
+ 5/31/1984   @JJJ   L  1-2      Seaver      Seaver                  Cox         
+ 6/ 1/1984    CTW   L  3-4  10  Rawley      Lamp                    Hough       
+ 6/ 2/1984    CTW   L  4-10     Petry       Petry                   Carlton     
+ 6/ 3/1984    CTW   W  3-2  11  Moore       Agosto                  Butcher     
+ 6/ 4/1984   @TEW   W  5-1      Seaver      Seaver      Campbell    Ryan        
+ 6/ 5/1984   @TEW   L  6-7      Smith       Lamp                    Witt        
+ 6/ 6/1984   @TEW   L  1-4      Burns       Burns                   Ojeda       
+ 6/ 7/1984   @CTW   L  4-14     Petry       Petry                   Carlton     
+ 6/ 8/1984   @CTW   W  6-0      Moore       Moore                   Butcher     
+ 6/ 9/1984   @CTW   L  3-4      Seaver      Campbell                Zahn        
+ 6/10/1984   @BMB   L  4-8      Rawley      Campbell                Langston    
+ 6/11/1984   @BMB   L  1-8      Petry       Petry                   Gubicza     
+ 6/12/1984   @BMB   L  6-7  10  Moore       Lamp                    Nipper      
+ 6/13/1984    GCP   L  3-6  15  Seaver      Burns                   Darwin      
+ 6/14/1984    GCP   W  5-3      Smith       Smith       Lavelle     Martinez,D  
+ 6/15/1984    GCP   L  7-9  16  Rawley      Burns                   Reuss       
+ 6/16/1984    BMB   L  6-11     Petry       Petry                   Gubicza     
+ 6/17/1984    BMB   L  2-4      Moore       Lavelle                 Nipper      
+ 6/18/1984    BMB   L  6-8      Seaver      Seaver                  Denny       
+ 6/19/1984   @BAR   L  1-4      Smith       Smith                   Stieb       
+ 6/20/1984    GAR   L  0-4      Robinson    Robinson                Flanagan    
+ 6/21/1984    GAR   W  3-2      Petry       Petry                   Terrell     
+ 6/22/1984    GAR   L  4-5      Moore       Moore                   Young       
+ 6/23/1984   @TEW   W  2-1      Seaver      Seaver      Lavelle     Witt        
+ 6/24/1984   @TEW   L  1-2      Smith       Smith                   Ojeda       
+ 6/26/1984    CEN   W  9-4      Robinson    Robinson                McGregor    
+ 6/27/1984   @BBG   L  3-4      Petry       Lavelle                 Scott,M     
+ 6/28/1984   @BBG   L  5-6      Moore       James                   Viola       
+ 7/ 2/1984   @BBG   L  1-4      Robinson    Campbell                Alexander   
+ 7/ 3/1984   @CEN   W  5-0      Petry       Petry                   McGregor    
+ 7/ 4/1984   @CEN   L  2-8      Moore       Moore                   McWilliams  
+ 7/ 5/1984   @CEN   L  2-3      Seaver      Agosto                  Niekro      
+ 7/ 6/1984    A51   W  5-1      Smith       Smith                   Tanana      
+ 7/ 7/1984    A51   W  6-5      Robinson    Burns                   Valenzuela  
+ 7/ 8/1984    A51   W  5-4      Petry       Petry       Lavelle     Niekro      
+ 7/ 9/1984    SUN   L  4-7  11  Moore       Lavelle                 Lea         
+ 7/10/1984    SUN   L  2-3  10  Seaver      Campbell                Tudor       
+ 7/11/1984    SUN   L  1-2  12  Smith       Lamp                    Show        
+ 7/12/1984    BMB   L  1-5      Robinson    Robinson                Clemens     
+ 7/13/1984    BMB   W  7-6      Petry       Burns                   Langston    
+ 7/14/1984    BMB   W  2-1      Moore       Moore       Lavelle     Gubicza     
+ 7/15/1984    A51   W  3-0      Seaver      Seaver                  Sanderson   
+ 7/16/1984    A51   L  1-6      Smith       Smith                   Tanana      
+ 7/17/1984    CTW   L  8-14     Robinson    Robinson                Hough       
+ 7/18/1984    JJJ   L  3-5      Petry       Petry                   Guidry      
+ 7/19/1984    JJJ   W  5-0      Moore       Moore                   Leibrandt   
+ 7/20/1984    JJJ   W  4-2      Seaver      Burns       James       Hawkins     
+ 7/21/1984   @CIN   W  7-5      Rawley      Rawley                  Soto        
+                    Game Results:  1984 Evanston Endorphins
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 7/22/1984   @CIN   W  7-5  12  Robinson    Lamp        Dayley      Hough       
+ 7/23/1984   @CIN   W  6-5  14  Petry       Burns       Campbell    Lollar      
+ 7/24/1984    CEN   W  4-3      Moore       Moore       Lamp        Niekro      
+ 7/25/1984    CEN   W  7-4      Dayley      Dayley      James       Krukow      
+ 7/26/1984    CEN   L  4-9      Rawley      Rawley                  McWilliams  
+ 7/27/1984    BAR   L  2-4      Robinson    Campbell                Blyleven    
+ 7/28/1984    BAR   L  2-7      Petry       Petry                   Stieb       
+ 7/29/1984    BAR   W  9-5      Moore       Moore                   Black       
+ 7/30/1984   @GCP   W  7-6      Seaver      Campbell    James       Martinez,D  
+ 7/31/1984   @GCP   L  1-2      Smith       Smith                   Beattie     
+ 8/ 1/1984   @GCP   W  4-3      Robinson    Robinson    Lavelle     Berenguer   
+ 8/ 4/1984    CEN   L  3-9      Petry       Petry                   McWilliams  
+ 8/ 5/1984    TEW   L  6-11     Moore       Moore                   Witt        
+ 8/ 6/1984    TEW   W  9-6      Seaver      Campbell    Burns       Ojeda       
+ 8/ 7/1984    TEW   W  6-2      Robinson    Robinson                Darling     
+ 8/ 8/1984   @GAR   L  2-7      Petry       Petry                   Hurst       
+ 8/ 9/1984   @GAR   L  0-2      Moore       Moore                   Flanagan    
+ 8/10/1984   @GAR   L  3-4  14  Seaver      Rawley                  Terrell     
+ 8/12/1984   @GPC   L  4-8      Robinson    Robinson                Mason       
+ 8/13/1984   @GPC   L  2-5      Petry       Petry                   Thurmond    
+ 8/14/1984   @GPC   L  6-10     Moore       Moore                   Pena        
+ 8/15/1984   @FER   L  1-2      Seaver      Campbell                Sutton      
+ 8/16/1984   @FER   W  6-5      Smith       Smith       James       Boddicker   
+ 8/17/1984   @FER   L  1-5      Robinson    Robinson                Sutcliffe   
+ 8/18/1984   @CIN   L  4-7      Petry       Petry                   Hough       
+ 8/19/1984   @CIN   W  7-4      Moore       Moore       James       Lollar      
+ 8/20/1984   @A51   W  7-5      Seaver      Campbell    James       Clancy      
+ 8/21/1984   @CTW   L  1-6      Smith       Smith                   Zahn        
+ 8/22/1984   @CTW   L  5-6      Robinson    James                   Camp        
+ 8/23/1984    CTW   L  2-8      Petry       Petry                   Davis       
+ 8/24/1984    TEW   W  4-2      Moore       Lamp        James       Witt        
+ 8/25/1984    TEW   W  6-5      Seaver      Seaver      Rawley      Ojeda       
+ 8/26/1984    TEW   L  2-3      Smith       Smith                   Darling     
+ 8/28/1984    GAR   L  3-6      Robinson    Robinson                Diaz        
+ 8/29/1984    GAR   W  5-1      Petry       Petry       Campbell    Terrell     
+ 9/ 3/1984    JJJ   W  3-2  12  Robinson    Lavelle                 Shirley     
+ 9/ 4/1984    JJJ   L  4-6      Petry       Petry                   Gullickson  
+ 9/ 5/1984    JJJ   L  6-7      Rawley      Burns                   Farr        
+ 9/ 6/1984    BBG   W  3-2      Seaver      Seaver                  Dravecky    
+ 9/ 7/1984    BBG   L  4-12     Smith       Smith                   Saberhagen  
+ 9/ 8/1984    BBG   L  1-5      Robinson    Campbell                Alexander   
+ 9/ 9/1984   @GCP   W  2-0      Moore       Moore                   Berenguer   
+ 9/10/1984   @GCP   W  8-6  11  Rawley      Lavelle     Petry       Young       
+ 9/11/1984   @GCP   L  1-3      Seaver      Seaver                  Darwin      
+ 9/12/1984    FER   L  2-8      Smith       Smith                   Andujar     
+ 9/13/1984    FER   L  0-3      Robinson    Robinson                Sutton      
+ 9/15/1984   @BMB   L  7-8      Moore       Campbell                Gubicza     
+ 9/16/1984   @BMB   L  3-5      Rawley      Rawley                  Johnson     
+ 9/18/1984   @SUN   W  3-2      Seaver      Seaver      Lavelle     Robinson    
+ 9/19/1984   @SUN   W  4-2      Robinson    Burns       Lavelle     Candelaria  
+ 9/20/1984   @SUN   W  3-1      Moore       Moore                   Perez       
+ 9/21/1984    FER   W  3-2  10  Rawley      Lavelle                 Sutton      
+                    Game Results:  1984 Evanston Endorphins
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 9/22/1984    FER   L  1-7      Seaver      Seaver                  Boddicker   
+ 9/23/1984    FER   L  1-7      Smith       Smith                   Sutcliffe   
+ 9/24/1984   @JJJ   W  6-1      Robinson    Robinson                Gullickson  
+ 9/25/1984   @JJJ   W  6-3      Moore       Moore       James       Farr        
+ 9/26/1984   @JJJ   L  4-6      Rawley      Rawley                  Power       
+ 9/27/1984   @JJJ   L  3-4      Seaver      Seaver                  Shirley     
+                      Injury Log: 1984 Evanston Endorphins
+                                        
+ 
+-- Date -- #  Player      Cause                 Length
+ 
+ 4/ 1/1984    Rawley      General                 10
+ 4/ 5/1984    Smith       General                  5
+ 4/10/1984    Nettles     General                  5
+ 4/14/1984    Campbell    General                  0
+ 4/21/1984    Seaver      General                 10
+ 4/28/1984    Moore       General                 10
+ 5/ 3/1984    Burns       General                  5
+ 5/10/1984    Upshaw      General                  2
+ 6/18/1984    White       General                  0
+ 6/23/1984    Upshaw      General                  5
+ 6/26/1984    Nettles     General                  1
+ 7/10/1984    Bochy       General                  1
+ 7/15/1984    Gibson      General                  0
+ 7/16/1984    Smith       Rain delay               0
+ 7/20/1984    Seaver      General                  5
+ 7/22/1984    James       General                  0
+ 7/26/1984    White       General                 16
+ 7/27/1984    Ward        General                  6
+ 8/20/1984    Seaver      General                  0
+ 8/24/1984    Moore       General                  5
+ 8/28/1984    Pena        General                  0
+ 9/19/1984    Robinson    Rain delay               0
+             DMB League Transaction Log:  1984 Evanston Endorphins
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+ 4/ 7/1984  EVN    Farm         Mark Salas          
+ 4/ 7/1984  EVN    Promote      Jeff Robinson       
+ 4/ 8/1984  EVN    Acquire      Bob James             from CIN
+ 4/ 8/1984  EVN    TradeAway    Dan Schatzeder        to CIN
+ 4/ 8/1984  EVN    TradeAway    Stew Cliburn          to CIN
+ 4/10/1984  EVN    Promote      Mark Salas          
+ 4/10/1984  EVN    Farm         Jeff Robinson       
+ 4/23/1984  EVN    DL           Tom Seaver            effective  4/22/1984  
+ 4/23/1984  EVN    Promote      Jeff Robinson       
+ 4/28/1984  EVN    DL           Mike Moore            effective  4/29/1984  
+ 4/28/1984  EVN    Promote      Ken Dayley          
+ 5/ 7/1984  EVN    Activate     Tom Seaver          
+ 5/ 7/1984  EVN    Farm         Mark Salas          
+ 5/22/1984  EVN    Promote      Mark Salas          
+ 5/22/1984  EVN    Activate     Mike Moore          
+ 5/22/1984  EVN    Farm         Dan Petry           
+ 5/22/1984  EVN    Farm         Ken Dayley          
+ 5/29/1984  EVN    Farm         Jeff Robinson       
+ 5/29/1984  EVN    Promote      Dan Petry           
+ 6/ 4/1984  EVN    Farm         Mark Salas          
+ 6/ 4/1984  EVN    Promote      Joel Skinner        
+ 6/19/1984  EVN    Farm         Shane Rawley        
+ 6/19/1984  EVN    Farm         Ivan Calderon       
+ 6/19/1984  EVN    Promote      Jeff Robinson       
+ 6/19/1984  EVN    Promote      Joe Orsulak         
+ 7/18/1984  EVN    Farm         Juan Agosto         
+ 7/18/1984  EVN    Farm         Bryn Smith          
+ 7/18/1984  EVN    Promote      Shane Rawley        
+ 7/18/1984  EVN    Promote      Ken Dayley          
+ 7/21/1984  EVN    TradeAway    Tom Foley             to CIN
+ 7/21/1984  EVN    TradeAway    Ron Davis             to CIN
+ 7/21/1984  EVN    Acquire      Wally Backman         from CIN
+ 7/21/1984  EVN    Farm         Andre Robertson     
+ 7/26/1984  EVN    DL           Frank White           effective  7/27/1984  
+ 7/26/1984  EVN    Farm         Ken Dayley          
+ 7/26/1984  EVN    Promote      Andre Robertson     
+ 7/26/1984  EVN    Promote      Bryn Smith          
+ 8/ 6/1984  EVN    Farm         Bob Bailor          
+ 8/ 6/1984  EVN    Promote      Daryl Sconiers      
+ 8/26/1984  EVN    Farm         Bruce Bochy         
+ 8/29/1984  EVN    Activate     Frank White         
+ 9/ 5/1984  EVN    Farm         Kevin Bass          
+ 9/ 6/1984  EVN    Farm         Joe Orsulak         
+ 9/ 6/1984  EVN    Promote      Ivan Calderon       
+ 9/ 6/1984  EVN    Promote      Johnny Rabb         
+ 9/10/1984  EVN    Farm         Ivan Calderon       
+ 9/10/1984  EVN    Promote      Juan Agosto         
+ 9/16/1984  EVN    Farm         Cesar Cedeno        
+ 9/20/1984  EVN    Farm         Kirk Gibson         
+ 9/20/1984  EVN    Sign         Skeeter Barnes      
+ 9/24/1984  EVN    Farm         Graig Nettles       
+ 9/24/1984  EVN    Farm         Bill Campbell       
+
+
+ 
+							
+							

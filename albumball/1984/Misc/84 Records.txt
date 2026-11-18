@@ -1,0 +1,111 @@
+   	 	 	 	 	 	
+					
+
+» BATTING
+» PITCHING
+» TEAM BATTING
+» TEAM PITCHING
+	
+BATTING 	GAME 	SEASON
+Batting Average 	  	.327 -- Willie Wilson, 1982, Hymies
+On-Base Percentage 	  	.389 -- Rickey Henderson, 1982, Perfectos
+Slugging Percentage 	  	.549 -- Pedro Guerrero, 1982, Beavis
+Hits 	6 -- Enos Cabell, 1983, Parsons 	216 -- Al Oliver, 1982, Atoms
+Runs 	4 -- done 28 times 	115 -- Dwight Evans, 1982, Perfectos
+Runs Batted In 	8 -- Ben Ogilve, 1982, Jews for Jesus;
+Chili Davis, 1982, Reds 	110 -- Pedro Guerrero, 1982, Beavis
+Doubles 	3 -- done 17 times 	50 -- Doug Decinces, 1982, Perfectos
+Triples 	2 -- done 22 times 	15 -- Willie Wilson, 1982, Hymies;
+Dwight Evans, 1982, Pefectos
+Home Runs 	3 -- done 6 times 	39 -- Greg Luzinski, 1983, Llamas/Reds
+Extra Base Hits 	  	81 -- Dwight Evans, 1982, Perfectos
+Stolen Bases 	4 -- Claudell Washington, 1982, Calling 	94 -- Rickey Henderson, 1982, Perfectos
+Caught Stealing 	2 -- done many times 	30 -- Rickey Henderson, 1982, Perfectos
+Brett Bulter, 1983, Parsons
+Walks 	13 -- done 4 times 	121 -- Mike Schmidt, 1983, Atoms
+Intentional Walks 	  	12 -- Ernie Whitt, 1983, Slayers
+Cecil Cooper, 1983, Parsons
+Strikeouts 	5 -- done 3 times 	180 -- Mike Schmidt, 1983, Atoms
+Sacrifice Hits 	3 -- done 4 times 	23 -- Eddie Milner, 1983, Reds
+Sacrifice Flies 	3 -- Paul Molitor, 1982, Hymies 	11 -- Roy Smalley, 1982, Atoms;
+Von Hayes, 1982, Goitermen
+Hit By Pitch 	8 -- done 4 times 	19 -- Toby Harrah, 1982, Perfectos
+Ground Into Double Plays 	  	33 -- Dave Winfield, 1983, Atoms
+Runs Created 	  	129.2 -- Dwight Evans, 1982, Perfectos
+Runs Created/27 outs 	  	7.92 -- Eddie Murray, 1983, Whales
+Isolated Power 	  	.253 -- Mike Schmidt, 1982, Perfectos
+Total Average 	  	.945 -- Rickey Henderson, 1982, Perfectos
+Total Bases 	15 -- Ben Ogilve, 1982, Jews for Jesus 	336 -- Dwight Evans, 1982, Perfectos
+At-Bats 	9 -- done 7 times 	687 -- Lou Whitaker, 1983, Slayers
+Plate Appearances 	  	754 -- Lou Whitaker, 1983, Slayers
+Hitting Streak 	  	23 -- Al Oliver, 1982, Atoms
+ 
+
+» TOP
+PITCHING 	GAME 	SEASON
+Earned Run Average 	  	2.00 -- Vida Blue, 1982, Goitermen
+Strikeouts 	16 -- Steve Carlton, 1982, Stranglers 	270 -- Mario Soto, 1982, Reds
+Walks 	9 -- Dave Stieb, 1983, Brewers 	116 -- Nolan Ryan, 1982, Hymies
+Wins 	  	23 -- Steve Rogers, 1982, Beavis
+Dave Stieb, 1983, Brewers
+Shutouts 	  	5 -- Mario Soto, 1982, Reds
+Larry McWilliams, 1983, Atoms
+Opp Batting Average 	  	.190 -- Tim Lollar, 1982, Hymies
+Opp On Base Percentage 	  	.258 -- Tim Lollar, 1982, Hymies
+Opp Slugging Percentage 	  	.280 -- Tim Lollar, 1982, Hymies
+Hits per 9 	  	6.08 -- Tim Lollar, 1982, Hymies
+Walks per 9 	  	1.11 -- Dennis Eckersley, 1982, Llamas
+Runners per 9 	  	9.12 -- Tim Lollar, 1982, Hymies
+Batters per game 	  	32.14 -- Joe Niekro, 1982, Atoms
+Strikeouts per 9 	  	10.06 -- Nolan Ryan, 1983, Bobs
+Home Runs per 9 	  	0.22 -- Jerry Koosman, 1982, Calling
+Doubles Allowed 	  	59 -- Fernando Valenzuela, 1982, Parsons
+Triples Allowed 	  	14 -- Dave Drevecky, 1983, Goitermen
+Home Runs Allowed 	  	38 -- Jack Morris, 1983, Brewers
+Extra Base Hits Allowed 	  	94 -- Fernando Valenzuela, 1982, Parsons
+Total Bases Allowed 	  	446 -- Jack Morris, 1983, Brewers
+Double Plays Induced 	  	32 -- John Denny, 1983, Beavis
+Appearances 	  	93 -- Doug Sisk, 1983, Dead Billy
+Innings Pitched 	10 -- done 4 times 	301.1 -- Dave Stieb, 1982, Brewers
+Batters Faced 	  	1223 -- Dave Stieb, 1982, Brewers
+Games Started 	  	43 -- Frank Viola, 1983, Goitermen
+Quality Starts 	  	29 -- Dave Stieb, 1982, Brewers
+29 -- Dave Stieb, 1983, Brewers
+Complete Games 	  	16 -- Lamar Hoyt, 1983, Parsons
+Saves 	  	41 -- Tom Niedenfuer, 1983, Slayers
+Games Finished 	  	61 -- Dan Quisenberry, 1983, Magellans
+Pitches 	157 -- Nolan Ryan, 1982, Hymies
+Nolan Ryan, 1983, Bobs 	 
+Game Score 	96 -- Dave Righetti, 1983, Reds (9 1 0 0 1 12) 	 
+ 
+
+» TOP
+TEAM BATTING 	GAME -- NINE INNINGS 	SEASON
+Batting Average 	  	.270 -- Atoms, 1982
+On-Base Percentage 	  	.339 -- Perfectos, 1982
+Slugging Percentage 	  	.429 -- Perfectos, 1982
+Runs 	19 -- Magellans, 1982 	785 -- Slayers, 1982
+Hits 	22 -- Slayers, 1982 	1540 -- Atoms, 1982
+Doubles 	  	308 -- Magellans, 1982
+Triples 	  	65 -- Perfectos, 1983
+Home Runs 	  	172 -- Slayers, 1983
+Walks 	  	611 -- Perfectos, 1982
+Strikeouts 	  	1137 -- Beavis, 1983
+Stolen Bases 	  	246 -- Reds, 1983
+Caught Stealing 	  	103 -- Reds, 1983
+
+» TOP
+TEAM PITCHING 	GAME -- NINE INNINGS 	SEASON
+ERA 	  	2.92 -- Slayers, 1983
+Saves 	  	56 -- Slayers, 1983
+Strikeouts 	  	1226 -- Reds, 1983
+AVG Allowed 	  	.231 -- Hymies, 1982
+OBP Allowed 	  	.295 -- Slayers, 1983
+Brewers, 1983
+SLG Allowed 	  	.344 -- Slayers, 1983
+Complete Games 	  	30 -- Brewers, 1982
+Whales, 1983
+Shutouts 	  	21 -- Slayers, 1983
+
+							
+							

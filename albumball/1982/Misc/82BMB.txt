@@ -1,0 +1,718 @@
+The Combat Rock League
+
+Butt Mountain Beavis
+
+           DMB League Batting Statistics:  1982 Butt Mountain Beavis
+                                        
+ 
+ NAME         AVG   OBP   SPC   G  AB   H 2B 3B HR   R RBI  BB   K HB IW  SB CS
+ 
+ Ayala       .000  .000  .000   1   1   0  0  0  0   0   0   0   0  0  0   0  0 
+cAyala       .277  .306  .362  37  47  13  1  0  1   5   3   2   6  0  1   1  0 
+ Bonnell     .281  .307  .344  44  96  27  4  1  0   5  13   4  11  0  0   0  0 
+ Carter      .287  .343  .471 149 567 163 36  1 22  81  84  47  67  4  1   2  0 
+ Cruz        .266  .324  .357 145 443 118 20  1  6  46  42  39  53  0  4  16  7 
+ Guerrero    .317  .368  .549 146 530 168 39  6 24  97 110  44  94  3  1  12  2 
+ Hill        .333  .429  .600  12  30  10  2  0  2   4   6   5   3  0  0   0  0 
+rJones       .252  .340  .396 118 404 102 17  1 13  70  46  52  83  2  0  11 10 
+rKennedy     .290  .315  .429 149 601 174 44  5 10  61  91  21 108  5  1   2  0 
+ Leonard     .267  .318  .450  82 258  69 15  1 10  36  39  17  75  3  3   8  7 
+ Lezcano     .275  .379  .438 141 491 135 24  4 16  89  61  77  88  7  2   0  1 
+rMorgan      .283  .384  .412 144 495 140 18  2 14 104  36  82  69  1  0  43  5 
+ Paciorek    .263  .311  .362  93 224  59 14  1  2  20  23  10  45  6  1   1  1 
+ Reynolds    .328  .382  .464  43 125  41  3  1  4  14  17  10   7  1  2   4  2 
+ Richards    .368  .400  .395  64  38  14  1  0  0   4   4   2   2  0  1   2  2 
+ Royster     .250  .303  .311  71 180  45  7  2  0  20  17  14  29  0  2   5  5 
+ Sexton      .228  .263  .228  67  92  21  0  0  0   3   5   5  18  0  2   6  0 
+rThompson    .364  .410  .403  72  77  28  3  0  0  11   9   6   4  0  1   0  2 
+ Thon        .281  .343  .385 138 423 119 20  6  4  47  51  39  54  1  1  31  5 
+ Washington  .211  .240  .300  46  90  19  2  0  2   8  11   4  12  0  0   1  0 
+cWashington  .218  .265  .333 112 303  66 12  1  7  40  32  20  33  0  0  11  0 
+ 
+ Bannister   .176  .195  .203  31  74  13  2  0  0   3   5   1  26  1  0   0  0 
+ Campbell    .000  .000  .000   1   0   0  0  0  0   0   0   0   0  0  0   0  0 
+cCampbell    .000  .000  .000   3   1   0  0  0  0   0   0   0   1  0  0   0  0 
+ Castillo    .000  .000  .000   2   1   0  0  0  0   0   0   0   1  0  0   0  0 
+ Caudill     .250  .250  .250  71   4   1  0  0  0   1   2   0   1  0  0   0  0 
+ Clancy      .116  .144  .128  33  86  10  1  0  0   4   3   2  29  1  0   1  0 
+ Denny       .116  .136  .116  21  43   5  0  0  0   0   3   1  11  0  0   0  0 
+ Frazier     .000  .143  .000  60   6   0  0  0  0   0   0   1   1  0  0   0  0 
+ Leal        .206  .239  .221  31  68  14  1  0  0   7   6   3  23  0  0   1  0 
+ Mirabella   .000  .000  .000   2   0   0  0  0  0   0   0   0   0  0  0   0  0 
+ Rogers      .073  .100  .083  38  96   7  1  0  0   4   4   2  29  1  0   0  0 
+ Romo        .000  .000  .000   2   0   0  0  0  0   0   0   0   0  0  0   0  0 
+ Stanton     .091  .091  .091  41  11   1  0  0  0   0   0   0   3  0  0   0  0 
+ Stoddard    .083  .083  .083   8  24   2  0  0  0   0   1   0   7  0  0   0  0 
+ Vande Berg  .000  .000  .000  68   2   0  0  0  0   0   0   0   2  0  0   0  0 
+ 
+ Others      .179  .200  .179  73  39   7  0  0  0   4   2   1   6  0  1   0  0
+
+ Team Total  .269  .329  .398 162    1512    32    743     489     36    146
+                                 5619    274   129     691     961    23     49
+         DMB League Batting Splits:  1982 Butt Mountain Beavis-- vsLHP
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Ayala        .000  .000  .000     1    0    0    0    0    0    0    0   0   0
+cAyala        .308  .341  .410    39   12    1    0    1    3    2    4   0   0
+ Bonnell      .262  .294  .313    80   21    2    1    0   11    4   11   1   1
+ Carter       .364  .414  .624   165   60   16    0    9   27   14   16   0   1
+ Cruz         .260  .285  .374   123   32    2    0    4   18    5   25   2   2
+ Guerrero     .246  .276  .439   114   28    7    0    5   23    5   15   1   3
+ Hill         .231  .286  .231    13    3    0    0    0    0    1    2   0   0
+rJones        .152  .222  .152    33    5    0    0    0    2    2    8   0   0
+rKennedy      .342  .371  .471   187   64   21    0    1   24    6   55   0   1
+ Leonard      .250  .320  .370   108   27    4    0    3   15   12   32   1   2
+ Lezcano      .337  .403  .549   184   62   10    4    7   21   21   30   1   1
+rMorgan       .231  .347  .449   147   34    3    1    9   18   26   22   0   0
+ Paciorek     .333  .373  .462    78   26    7    0    1    8    3   10   2   0
+ Reynolds     .333  .474  .333    15    5    0    0    0    4    4    2   0   0
+ Richards     .375  .375  .375     8    3    0    0    0    0    0    0   0   0
+ Royster      .266  .349  .319    94   25    3    1    0    6   12   14   1   0
+ Sexton       .286  .328  .286    56   16    0    0    0    3    4   12   1   1
+rThompson     .273  .333  .273    11    3    0    0    0    1    1    2   0   0
+ Thon         .345  .388  .407   113   39    7    0    0   15    8   11   1   0
+ Washington   .238  .269  .349    63   15    1    0    2    8    3    8   0   1
+cWashington   .269  .310  .475   160   43   10    1    7   22   10   15   0   1
+ 
+ Bannister    .167  .167  .167    18    3    0    0    0    1    0    6   1   0
+ Castillo     .000  .000  .000     1    0    0    0    0    0    0    1   0   0
+ Caudill      .000  .000  .000     1    0    0    0    0    0    0    0   0   0
+ Clancy       .067  .097  .067    30    2    0    0    0    0    1   10   0   0
+ Denny        .222  .222  .222    18    4    0    0    0    2    0    4   1   0
+ Frazier      .000 1.000  .000     0    0    0    0    0    0    1    0   0   0
+ Leal         .136  .136  .136    22    3    0    0    0    2    0    8   4   0
+ Rogers       .069  .069  .069    29    2    0    0    0    1    0    9   3   0
+ Stanton      .167  .167  .167     6    1    0    0    0    0    0    2   0   0
+ Stoddard     .100  .100  .100    10    1    0    0    0    1    0    3   0   0
+ Vande Berg   .000  .000  .000     1    0    0    0    0    0    0    1   0   0
+ 
+ Others       .167  .194  .167    30    5    0    0    0    2    1    4   0   0
+ 
+ Team Total   .278  .326  .403  1759  489   83    7   41  213  134  323  20  13
+         DMB League Batting Splits:  1982 Butt Mountain Beavis-- vsRHP
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Ayala        .000  .000  .000     0    0    0    0    0    0    0    0   0   0
+cAyala        .125  .125  .125     8    1    0    0    0    0    0    2   0   0
+ Bonnell      .375  .375  .500    16    6    2    0    0    2    0    0   0   0
+ Carter       .256  .314  .408   402  103   20    1   13   57   33   51   2   5
+ Cruz         .269  .338  .350   320   86   18    1    2   24   34   28   1   1
+ Guerrero     .337  .393  .579   416  140   32    6   19   87   39   79   2   4
+ Hill         .412  .524  .882    17    7    2    0    2    6    4    1   0   0
+rJones        .261  .350  .418   371   97   17    1   13   44   50   75   2   1
+rKennedy      .266  .290  .411   414  110   23    5    9   67   15   53   1   7
+ Leonard      .280  .316  .507   150   42   11    1    7   24    5   43   1   0
+ Lezcano      .238  .366  .371   307   73   14    0    9   40   56   58   1   2
+rMorgan       .305  .400  .397   348  106   15    1    5   18   56   47   0   2
+ Paciorek     .226  .278  .308   146   33    7    1    1   15    7   35   0   1
+ Reynolds     .327  .368  .482   110   36    3    1    4   13    6    5   1   0
+ Richards     .367  .406  .400    30   11    1    0    0    4    2    2   0   0
+ Royster      .233  .247  .302    86   20    4    1    0   11    2   15   3   1
+ Sexton       .139  .158  .139    36    5    0    0    0    2    1    6   0   1
+rThompson     .379  .423  .424    66   25    3    0    0    8    5    2   0   0
+ Thon         .258  .327  .377   310   80   13    6    4   36   31   43   2   1
+ Washington   .148  .172  .185    27    4    1    0    0    3    1    4   1   1
+cWashington   .161  .214  .175   143   23    2    0    0   10   10   18   3   1
+ 
+ Bannister    .179  .203  .214    56   10    2    0    0    4    1   20   5   1
+ Caudill      .333  .333  .333     3    1    0    0    0    2    0    1   0   0
+ Clancy       .143  .169  .161    56    8    1    0    0    3    1   19   3   1
+ Denny        .040  .077  .040    25    1    0    0    0    1    1    7   1   0
+ Frazier      .000  .000  .000     6    0    0    0    0    0    0    1   0   0
+ Leal         .239  .286  .261    46   11    1    0    0    4    3   15   1   0
+ Rogers       .075  .113  .090    67    5    1    0    0    3    2   20   4   1
+ Stanton      .000  .000  .000     5    0    0    0    0    0    0    1   0   0
+ Stoddard     .071  .071  .071    14    1    0    0    0    0    0    4   0   0
+ Vande Berg   .000  .000  .000     1    0    0    0    0    0    0    1   1   0
+ 
+ Others       .222  .200  .222     9    2    0    0    0    0    0    2   1   0
+ 
+ Team Total   .265  .327  .396  3860 1023  191   25   88  478  355  638  33  30
+    DMB League Games Started by Position:  1982 Butt Mountain Beavis-- vsLHP
+                                        
+ 
+ NAME           C   1B   2B   3B   SS   LF   CF   RF
+ 
+ Carter        23   20    0    0    0    0    0    0
+ Hill           2    0    0    0    0    0    0    0
+rKennedy       25   19    0    0    0    0    0    0
+ Washington     0    0    0    0   19    0    0    0
+CWashington     0    0    0    0   43    0    0    0
+ Guerrero       0    0    0   17    0    0    6    0
+rMorgan         0    0   32    0    0    0    0    0
+ Reynolds       0    1    0    0    0    0    0    0
+ Royster        0    0   17    6    2    0    0    0
+ Thon           0    0    1    0   27    0    0    0
+ Bonnell        0    1    0    8    0    0   14    0
+ Cruz           0    0    0    0    0   26    0    0
+rJones          0    0    0    0    0    0    0    0
+ Leonard        0    7    0    0    0    0   30    0
+ Lezcano        0    0    0    0    0    0    0   48
+ Paciorek       0    2    0    0    0   15    0    0
+ Richards       0    0    0    0    0    0    0    2
+rThompson       0    0    0    0    0    0    0    0
+ Sexton         0    0    0   19    2    0    0    0
+ Ayala          0    0    0    0    0    0    0    0
+CAyala          0    1    0    0    0    3    0    0
+ 
+ Others         0    0    0    0    0    9    0    0
+ 
+ Team Total    50   50   50   50   50   50   50   50
+    DMB League Games Started by Position:  1982 Butt Mountain Beavis-- vsRHP
+                                        
+ 
+ NAME           C   1B   2B   3B   SS   LF   CF   RF
+ 
+ Carter        98    2    0    0    0    0    0    0
+ Hill           5    0    0    0    0    0    0    0
+rKennedy        9   95    0    0    0    0    0    0
+ Washington     0    0    0    0    0    0    0    0
+CWashington     0    0    0    0   26    0    0    0
+ Guerrero       0    0    0  105    0    0    4    0
+rMorgan         0    0   87    0    0    0    0    0
+ Reynolds       0    0   12    0   23    0    0    0
+ Royster        0    0   12    4    0    0    0    0
+ Thon           0    0    1    0   87    0    0    0
+ Bonnell        0    0    0    0    0    0    0    0
+ Cruz           0    0    0    0    0   95    0    3
+rJones          0    0    0    0    0    0   98    0
+ Leonard        0    3    0    0    0    3   10   19
+ Lezcano        0    0    0    0    0    0    0   82
+ Paciorek       0   10    0    0    0   13    0    8
+ Richards       0    2    0    0    0    1    0    0
+rThompson       0    0    0    0    0    0    0    0
+ Sexton         0    0    0    3    2    0    0    0
+ Ayala          0    0    0    0    0    0    0    0
+CAyala          0    0    0    0    0    0    0    0
+ 
+ Team Total   112  112  112  112  112  112  112  112
+           DMB League Pitching Statistics:  1982 Butt Mountain Beavis
+                                        
+ 
+ NAME         ERA  W  L  S   G GS CG SH    IP   H   R  ER  BB   K   BF HR WP DP
+ 
+ Bannister   3.38 12  7  0  31 31  3  1 213.0 202  88  80  66 191  889 22  4 18
+ Campbell    0.00  0  0  0   1  0  0  0   0.1   1   0   0   0   0    2  0  0  0
+cCampbell    0.00  1  0  0   3  0  0  0   3.2   3   1   0   4   1   18  0  0  0
+ Castillo    5.14  0  0  0   2  0  0  0   7.0   8   4   4   4   6   32  1  0  1
+ Caudill     3.04  5  9 37  71  0  0  0  77.0  58  29  26  24  90  310 11  2  3
+ Clancy      3.00 17  8  0  33 33  7  0 243.0 230  87  81  56 141 1003 16  5 18
+ Denny       4.26  7  4  0  21 21  1  1 122.2 132  68  58  51  75  543 11  3  9
+ Frazier     4.44  6  3  2  60  0  0  0  79.0  83  42  39  38  59  352  5  1 15
+ Leal        3.61 14  7  0  31 31  1  1 204.2 196  90  82  58 110  852 13  1 18
+ Mirabella   0.00  1  0  0   2  0  0  0   1.1   1   0   0   0   0    5  0  0  0
+ Rogers      2.72 23 10  0  38 38 12  3 275.0 261  94  83  72 170 1138 17  1 28
+ Romo        2.45  0  0  0   2  0  0  0   3.2   4   1   1   1   3   16  0  0  1
+ Stanton     3.16  3  4  4  41  0  0  0  51.1  57  18  18  18  38  225  4  0  6
+ Stoddard    2.56  4  2  0   8  8  2  0  59.2  47  23  17  15  25  238  7  2  5
+ Vande Berg  2.19  7  3  4  68  0  0  0  70.0  50  17  17  21  57  264  3  2 15
+ 
+ Others      4.42  2  4  3  57  0  0  0  59.0  59  36  29  33  47  267  7  2  6
+
+ Team Total  3.28    61    162    26   1466.2     597     457     6136    23
+                 101    50    162    10      1389     535    1012     117   143
+ 
+ 
+ NAME          IW HBP  WP  BK  CI   H/9  BB/9   R/9   K/9  HR/9
+ 
+ Bannister      0   3   4   0   0   8.5   2.8  11.5   8.1   0.9
+ Campbell       0   0   0   0   0  27.0   0.0  27.0   0.0   0.0
+cCampbell       0   0   0   0   0   7.4   9.8  17.2   2.5   0.0
+ Castillo       0   0   0   0   0  10.3   5.1  15.4   7.7   1.3
+ Caudill        1   3   2   0   0   6.8   2.8   9.9  10.5   1.3
+ Clancy         0   3   5   0   0   8.5   2.1  10.7   5.2   0.6
+ Denny          1   5   3   3   0   9.7   3.7  13.8   5.5   0.8
+ Frazier        1   5   1   0   0   9.5   4.3  14.4   6.7   0.6
+ Leal           0   3   1   0   0   8.6   2.6  11.3   4.8   0.6
+ Mirabella      0   0   0   0   0   6.8   0.0   6.8   0.0   0.0
+ Rogers         0   8   1   0   0   8.5   2.4  11.2   5.6   0.6
+ Romo           1   0   0   0   0   9.8   2.5  12.3   7.4   0.0
+ Stanton        0   1   0   0   0  10.0   3.2  13.3   6.7   0.7
+ Stoddard       0   1   2   0   0   7.1   2.3   9.5   3.8   1.1
+ Vande Berg     0   2   2   3   0   6.4   2.7   9.4   7.3   0.4
+ 
+ Others         3   1   2   0   0   9.0   5.0  14.2   7.2   1.1
+
+ Team Total     7  35  23   6   0   8.5   2.8  11.5   6.2   0.7
+           DMB League Pitching Statistics:  1982 Butt Mountain Beavis
+                                        
+ 
+ NAME         AVG   OBP   SPC   BF   AB    H  2B  3B  HR   TB  SH  SF
+ 
+ Bannister   .252  .308  .387  889  802  202  38   2  22  310   9   9
+ Campbell    .500  .500  .500    2    2    1   0   0   0    1   0   0
+cCampbell    .214  .389  .286   18   14    3   1   0   0    4   0   0
+ Castillo    .286  .375  .500   32   28    8   3   0   1   14   0   0
+ Caudill     .205  .274  .360  310  283   58   9   1  11  102   0   0
+ Clancy      .246  .290  .350 1003  934  230  37   6  16  327   7   3
+ Denny       .272  .347  .375  543  485  132  15   1  11  182   1   1
+ Frazier     .274  .360  .380  352  303   83  11   3   5  115   2   4
+ Leal        .251  .304  .362  852  781  196  36   6  13  283   6   4
+ Mirabella   .200  .200  .200    5    5    1   0   0   0    1   0   0
+ Rogers      .250  .301  .335 1138 1045  261  30   4  17  350   6   7
+ Romo        .267  .313  .400   16   15    4   2   0   0    6   0   0
+ Stanton     .278  .339  .410  225  205   57  11   2   4   84   1   0
+ Stoddard    .213  .266  .357  238  221   47   7   2   7   79   1   0
+ Vande Berg  .212  .280  .284  264  236   50   6   1   3   67   3   2
+ 
+ Others      .257  .351  .391  267  230   59   8   1   7   90   2   1
+
+ Team Total  .249  .308  .361      5575      213     117       38
+                              6136      1389      29     2011      31
+ 
+ 
+ NAME          GS  CG   CG% SHo  QS   QS%   RS RS/G  RL RLS   RL%
+ 
+ Bannister     31   3  .097   1  17  .548  135  4.4  17   3  .176
+ Campbell       0   0  .000   0   0  .000    0  0.0   1   0  .000
+cCampbell       0   0  .000   0   0  .000    0  0.0   4   1  .250
+ Castillo       0   0  .000   0   0  .000    0  0.0   0   0  .000
+ Caudill        0   0  .000   0   0  .000    0  0.0   6   1  .167
+ Clancy        33   7  .212   0  24  .727  152  4.6  20   9  .450
+ Denny         21   1  .048   1  13  .619  116  5.5  11   4  .364
+ Frazier        0   0  .000   0   0  .000    0  0.0  31   6  .194
+ Leal          31   1  .032   1  21  .677  133  4.3  25  10  .400
+ Mirabella      0   0  .000   0   0  .000    0  0.0   0   0  .000
+ Rogers        38  12  .316   3  28  .737  168  4.4  19   5  .263
+ Romo           0   0  .000   0   0  .000    0  0.0   0   0  .000
+ Stanton        0   0  .000   0   0  .000    0  0.0  11   2  .182
+ Stoddard       8   2  .250   0   5  .625   39  4.9   2   0  .000
+ Vande Berg     0   0  .000   0   0  .000    0  0.0  20   3  .150
+ 
+ Others         0   0  .000   0   0  .000    0  0.0  33  11  .333
+
+ Team Total   162      .160     108        743      196      .276
+                   26        10      .667       4.6      54
+           DMB League Pitching Statistics:  1982 Butt Mountain Beavis
+                                        
+ 
+ NAME         SvO  Sv   Sv%  BSv  BSv%  IR  IRS   IR%    G  RA   RA%  GF   GF%
+ 
+ Bannister      0   0  .000    0  .000   0    0  .000   31   0  .000   0  .000
+ Campbell       1   0  .000    0  .000   0    0  .000    1   1 1.000   0  .000
+cCampbell       1   0  .000    0  .000   1    1 1.000    3   3 1.000   1  .333
+ Castillo       0   0  .000    0  .000   0    0  .000    2   2 1.000   1  .500
+ Caudill       45  37  .822    8  .178  49    5  .102   71  71 1.000  60  .845
+ Clancy         0   0  .000    0  .000   0    0  .000   33   0  .000   0  .000
+ Denny          0   0  .000    0  .000   0    0  .000   21   0  .000   0  .000
+ Frazier       16   2  .125    4  .250  48   20  .417   60  60 1.000  12  .200
+ Leal           0   0  .000    0  .000   0    0  .000   31   0  .000   0  .000
+ Mirabella      0   0  .000    0  .000   2    0  .000    2   2 1.000   2 1.000
+ Rogers         0   0  .000    0  .000   0    0  .000   38   0  .000   0  .000
+ Romo           0   0  .000    0  .000   2    0  .000    2   2 1.000   2 1.000
+ Stanton        8   4  .500    0  .000  19    7  .368   41  41 1.000  21  .512
+ Stoddard       0   0  .000    0  .000   0    0  .000    8   0  .000   0  .000
+ Vande Berg    23   4  .174    1  .043  36    6  .167   68  68 1.000  22  .324
+ 
+ Others        13   3  .231    3  .231  40   16  .400   57  57 1.000  16  .281
+
+ Team Total   106      .472       .151       54        466      .652      .447
+                   50         16       196       .276      304       136
+         DMB League Pitching Splits:  1982 Butt Mountain Beavis-- vsLHB
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Bannister    .280  .311  .399   143   40    2    0    5   19    7   31   2   1
+ Campbell     .000  .000  .000     0    0    0    0    0    0    0    0   0   0
+cCampbell     .143  .250  .286     7    1    1    0    0    0    1    0   0   0
+ Castillo     .250  .308  .333    12    3    1    0    0    1    1    5   0   0
+ Caudill      .134  .247  .228   127   17    3    0    3    9   19   39   0   0
+ Clancy       .267  .300  .385   480  128   25    4    8   44   24   65   3   2
+ Denny        .266  .337  .355   259   69    6    1    5   30   28   36   1   1
+ Frazier      .310  .393  .452   126   39    5    2    3   30   20   16   1   4
+ Leal         .259  .332  .364   382   99   15    2    7   35   40   52   1   1
+ Mirabella    .000  .000  .000     1    0    0    0    0    0    0    0   0   0
+ Rogers       .233  .302  .323   527  123   18    1    9   47   50   70   3   3
+ Romo         .600  .667 1.000     5    3    2    0    0    1    1    1   0   0
+ Stanton      .256  .287  .422    90   23    7    1    2   13    4   13   1   0
+ Stoddard     .306  .333  .510    98   30    4    2    4    9    4    8   0   0
+ Vande Berg   .190  .229  .266    79   15    3    0    1    5    4   10   0   0
+ 
+ Others       .264  .375  .322    87   23    2    0    1   14   15   25   0   1
+ 
+ Team Total   .253  .313  .362  2416  612   93   13   48  257  217  371  12  13
+         DMB League Pitching Splits:  1982 Butt Mountain Beavis-- vsRHB
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Bannister    .246  .307  .384   659  162   36    2   17   63   59  160   7   8
+ Campbell     .500  .500  .500     2    1    0    0    0    0    0    0   0   0
+cCampbell     .286  .500  .286     7    2    0    0    0    1    3    1   0   0
+ Castillo     .313  .421  .625    16    5    2    0    1    2    3    1   0   0
+ Caudill      .263  .299  .468   156   41    6    1    8   21    5   51   0   0
+ Clancy       .225  .280  .313   454  102   12    2    8   31   32   76   4   1
+ Denny        .279  .358  .398   226   63    9    0    6   29   23   39   0   0
+ Frazier      .249  .335  .328   177   44    6    1    2   22   18   43   1   0
+ Leal         .243  .276  .361   399   97   21    4    6   39   18   58   5   3
+ Mirabella    .250  .250  .250     4    1    0    0    0    0    0    0   0   0
+ Rogers       .266  .301  .347   518  138   12    3    8   38   22  100   3   4
+ Romo         .100  .100  .100    10    1    0    0    0    0    0    2   0   0
+ Stanton      .296  .377  .400   115   34    4    1    2   10   14   25   0   0
+ Stoddard     .138  .215  .236   123   17    3    0    3   11   11   17   1   0
+ Vande Berg   .223  .303  .293   157   35    3    1    2   13   17   47   3   2
+ 
+ Others       .252  .331  .434   143   36    6    1    6   25   18   22   2   0
+ 
+ Team Total   .246  .301  .360  3159  777  120   16   69  304  240  641  26  18
+           DMB League Fielding Statistics:  1982 Butt Mountain Beavis
+                                        
+ 
+POS NAME             G    GS    PO     A     E    DP    TC     PCT   PB
+ 
+p   Clancy          33    33    15    29     1     1    45    .978
+    Rogers          38    38    13    27     4     2    44    .909
+    Leal            31    31    16    24     1     1    41    .976
+    Bannister       31    31    11    24     4     1    39    .897
+    Denny           21    21     7    18     0     2    25   1.000
+    Frazier         60     0     4     9     2     2    15    .867
+    Vande Berg      68     0     1    13     0     3    14   1.000
+    Stanton         41     0     3     7     1     0    11    .909
+    Stoddard         8     8     2     5     0     0     7   1.000
+    Caudill         71     0     2     2     1     0     5    .800
+    Romo             2     0     0     0     0     0     0    .000
+    Castillo         2     0     0     0     0     0     0    .000
+    Mirabella        2     0     0     0     0     0     0    .000
+    Campbell         1     0     0     0     0     0     0    .000
+   cCampbell         3     0     1     1     0     0     2   1.000
+    Others          57     0     2     2     0     1     4   1.000
+                   466   162    76   160    14    13   250    .944
+ 
+c   Carter         122   121   795    69     1     3   865    .999    0
+   rKennedy         34    34   209    15     0     0   224   1.000    2
+    Hill            10     7    63     3     0     0    66   1.000    2
+                   166   162  1067    87     1     3  1155    .999    4
+ 
+1b rKennedy        115   114   892    69     9   108   970    .991
+    Carter          22    22   188     9     5    16   202    .975
+    Paciorek        15    12    93     6     1     6   100    .990
+    Leonard         10    10    89     3     1    11    93    .989
+    Richards        47     2    76     7     0     2    83   1.000
+    Guerrero         2     0    10     1     0     0    11   1.000
+    Bonnell          1     1     6     2     1     1     9    .889
+    Reynolds         1     1     7     0     0     0     7   1.000
+   rThompson         1     0     4     0     0     2     4   1.000
+                   214   162  1365    97    17   146  1479    .989
+ 
+2b rMorgan         134   119   245   384     9    94   638    .986
+    Royster         30    29    61    90     9    19   160    .944
+    Reynolds        12    12    20    32     1     7    53    .981
+    Thon             3     2    11     8     3     2    22    .864
+                   179   162   337   514    22   122   873    .975
+ 
+3b  Guerrero       126   122   103   200    21    23   324    .935
+    Sexton          43    22    21    47     3     8    71    .958
+    Royster         18    10     7    21     1     3    29    .966
+    Bonnell         11     8     5    14     0     2    19   1.000
+    Reynolds         2     0     1     1     0     0     2   1.000
+    Thon             1     0     1     1     0     0     2   1.000
+    Hill             1     0     0     1     0     0     1   1.000
+    Paciorek         1     0     0     1     0     0     1   1.000
+   rMorgan           1     0     0     0     0     0     0    .000
+                   204   162   138   286    25    36   449    .944
+           DMB League Fielding Statistics:  1982 Butt Mountain Beavis
+                                        
+ 
+POS NAME             G    GS    PO     A     E    DP    TC     PCT   PB
+ 
+ss  Thon           133   114   182   369    18    88   569    .968
+    Washington      41    19    36    76    15    11   127    .882
+   cWashington     102    69   101   242    25    37   368    .932
+    Reynolds        23    23    28    50     7     5    85    .918
+    Sexton          19     4     9    20     2     3    31    .935
+    Royster         10     2     5     7     1     0    13    .923
+                   226   162   260   522    43   107   825    .948
+ 
+lf  Cruz           136   121   282    15    15     2   312    .952
+    Paciorek        34    28    57     1     0     0    58   1.000
+   rThompson         8     0     9     0     0     0     9   1.000
+    Leonard          5     3     4     0     0     0     4   1.000
+    Richards         1     1     2     0     0     0     2   1.000
+    Royster          1     0     0     0     0     0     0    .000
+    Others           9     9    19     0     1     0    20    .950
+                   194   162   373    16    16     2   405    .960
+ 
+cf rJones          109    98   259    13     5     1   277    .982
+    Leonard         44    40   103     4     3     1   110    .973
+    Bonnell         23    14    38     1     0     0    39   1.000
+    Guerrero        17    10    27     0     0     0    27   1.000
+   rThompson         5     0     1     1     0     0     2   1.000
+    Richards         1     0     1     0     0     0     1   1.000
+                   199   162   429    19     8     2   456    .982
+ 
+rf  Lezcano        135   130   291    13     2     3   306    .993
+    Leonard         19    19    43     4     2     2    49    .959
+    Paciorek         8     8     7     1     1     0     9    .889
+    Cruz             3     3     7     0     1     0     8    .875
+    Richards         2     2     4     0     0     0     4   1.000
+   rThompson         1     0     3     0     0     0     3   1.000
+                   168   162   355    18     6     5   379    .984
+ 
+    Team Total     162   162  4400  1719   152   160  6271    .976    4
+                    Game Results:  1982 Butt Mountain Beavis
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 6/ 5/1999   @SUN   W  7-4  12  Rogers      Frazier     Schrom      Lea         
+ 6/ 6/1999   @SUN   L  1-6      Clancy      Clancy                  Candelaria  
+ 6/ 7/1999   @NYH   W  2-1      Bannister   Bannister   Caudill     Ujdur       
+ 6/ 8/1999   @NYH   W  6-5      Leal        Leal        Caudill     Witt        
+ 6/ 9/1999   @NYH   W  9-8  12  Denny       Martinez,T  Caudill     Wilcox      
+ 6/11/1999    SUN   L  2-3      Rogers      Rogers                  Lea         
+ 6/12/1999    SUN   W 12-1      Clancy      Clancy                  Candelaria  
+ 6/13/1999    FER   L  4-5      Bannister   Caudill                 Hammaker    
+ 6/14/1999    FER   L  2-4      Leal        Leal                    Shirley     
+ 6/15/1999    FER   L  2-3      Denny       Denny                   Andujar     
+ 6/16/1999    LDL   W  2-1      Rogers      Rogers                  McGregor    
+ 6/17/1999    LDL   L  0-3      Clancy      Clancy                  Seaver      
+ 6/19/1999   @CEN   L  8-9      Bannister   Caudill                 Forsch, K   
+ 6/20/1999   @CEN   L  3-4      Leal        Caudill                 McWilliams  
+ 6/21/1999   @CEN   W  4-3      Denny       Denny       Caudill     Castro      
+ 6/23/1999   @FER   L  3-4      Rogers      Caudill                 Sutton      
+ 6/24/1999   @FER   L  7-10     Clancy      Clancy                  Sutcliffe   
+ 6/25/1999    BOS   W  8-5      Bannister   Bannister   Vande Berg  Martinez,D  
+ 6/26/1999    BOS   L  1-7      Leal        Leal                    Carlton     
+ 6/27/1999    BOS   W  5-4      Denny       Vande Berg  Caudill     Vuckovich   
+ 7/ 4/1999   @SUN   L  2-3      Rogers      Vande Berg              Lea         
+ 7/ 5/1999   @SUN   L  4-7  11  Clancy      Martinez,T              Candelaria  
+ 7/ 6/1999   @SUN   L  5-9      Bannister   Bannister               Palmer, D   
+ 7/ 7/1999    CIN   W  4-1      Leal        Leal        Caudill     Soto        
+ 7/ 8/1999    CIN   W 11-3      Denny       Denny       Caudill     Petry       
+ 7/ 9/1999    SUN   W  9-5      Rogers      Rogers                  Lea         
+ 7/10/1999    SUN   L  1-4      Clancy      Clancy                  Candelaria  
+ 7/11/1999   @FER   W  7-6      Bannister   Frazier     Caudill     Andujar     
+ 7/12/1999   @FER   L  6-7      Leal        Caudill                 Sutton      
+ 7/13/1999   @CIN   W  7-5      Denny       Denny       Caudill     Smithson    
+ 7/14/1999   @CIN   L  9-11     Rogers      Martinez,T              Soto        
+ 7/15/1999    NYH   W 11-5      Clancy      Clancy                  Wilcox      
+ 7/16/1999    NYH   L  3-4      Bannister   Bannister               Ryan        
+ 7/17/1999   @BBG   W  6-3      Leal        Leal        Caudill     Scott       
+ 7/18/1999   @BBG   L  4-6      Denny       Frazier                 Viola       
+ 7/19/1999   @BBG   W 14-4      Rogers      Rogers                  Alexander   
+ 7/20/1999   @CTW   L  4-6      Clancy      Frazier                 Krukow      
+ 7/21/1999   @CTW   L  6-8      Bannister   Bannister               Laskey      
+ 7/22/1999    CEN   W  2-0      Leal        Leal                    Sanderson   
+ 7/23/1999    CEN   W  5-4  13  Denny       Stanton                 Forsch, K   
+ 7/24/1999   @BAR   L  1-4      Rogers      Rogers                  Stieb       
+ 7/25/1999   @BAR   L  2-4      Clancy      Clancy                  Morris      
+ 7/26/1999    BOS   L  3-5      Bannister   Stanton                 Carlton     
+ 7/27/1999    BOS   W  5-3      Leal        Leal        Caudill     Vuckovich   
+ 7/28/1999    PAR   W  6-3      Denny       Frazier     Caudill     Valenzuela  
+ 7/29/1999    PAR   L  0-2      Rogers      Rogers                  Hoyt        
+ 7/30/1999    PAR   W  3-2      Clancy      Clancy      Caudill     Niekro, P   
+ 8/ 1/1999   @CTW   W  2-0      Bannister   Bannister   Caudill     Hough       
+ 8/ 2/1999   @CTW   L  3-6      Leal        Caudill                 Krukow      
+ 8/ 3/1999   @BAR   W  4-2      Rogers      Rogers                  Stieb       
+ 8/ 4/1999   @BAR   W  3-2      Clancy      Clancy      Caudill     Morris      
+ 8/ 5/1999   @BAR   L  1-4      Bannister   Bannister               Tanana      
+                    Game Results:  1982 Butt Mountain Beavis
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 8/ 6/1999    CEN   W  3-0      Leal        Leal        Caudill     Niekro,J    
+ 8/ 7/1999    CEN   W  7-6      Denny       Vande Berg  Caudill     Sanderson   
+ 8/ 8/1999    CEN   W  8-3      Rogers      Rogers                  Forsch, K   
+ 8/ 9/1999    LON   W  6-4      Clancy      Clancy      Caudill     Mahler      
+ 8/10/1999    LON   W  7-1      Bannister   Bannister               Knepper     
+ 8/11/1999    LON   L  3-4  10  Leal        Caudill                 Camp        
+ 8/12/1999    LDL   W  6-0      Denny       Denny                   McGregor    
+ 8/13/1999    LDL   W 14-0      Rogers      Rogers                  Havens      
+ 8/14/1999   @CEN   W  6-5  10  Clancy      Caudill                 Forsch, K   
+ 8/16/1999    BAR   L  3-4      Bannister   Frazier                 Morris      
+ 8/17/1999    BAR   W  4-3      Leal        Leal        Caudill     Black       
+ 8/18/1999    BAR   W  6-1      Rogers      Rogers      Caudill     Burns       
+ 8/19/1999    CEN   W  7-2      Clancy      Clancy                  Sanderson   
+ 8/20/1999    CEN   W  4-0      Bannister   Bannister               Forsch, K   
+ 8/21/1999    CEN   W  3-1      Leal        Leal        Caudill     Niekro,J    
+ 8/22/1999    JJJ   L  1-13     Denny       Denny                   Zahn        
+ 8/23/1999    JJJ   L  0-1      Rogers      Rogers                  Jenkins     
+ 8/24/1999    GCP   W  4-2      Clancy      Clancy      Stanton     Montefusco  
+ 8/25/1999    GCP   W  3-2      Bannister   Bannister   Vande Berg  Reuss       
+ 8/26/1999    GCP   L  5-9      Leal        Leal                    Rawley      
+ 8/28/1999    NYH   W  4-1      Rogers      Rogers                  Ujdur       
+ 8/29/1999    NYH   L  4-9      Clancy      Clancy                  Witt        
+ 9/ 3/1999   @PAR   W  6-1      Rogers      Rogers                  Christnson  
+ 9/ 4/1999   @PAR   L  2-3      Clancy      Clancy                  Valenzuela  
+ 9/ 5/1999    GCP   W  9-4      Bannister   Bannister   Frazier     Sarmiento   
+ 9/ 7/1999   @BOS   W  6-5  12  Leal        Caudill     Martinez,T  Vuckovich   
+ 9/ 9/1999    NYH   L  1-4      Rogers      Rogers                  Witt        
+ 9/10/1999    NYH   W 10-2      Clancy      Clancy                  Wilcox      
+ 9/14/1999    NYH   W  4-3      Rogers      Rogers                  Ryan        
+ 9/16/1999    BAR   W  3-1      Clancy      Clancy                  Tanana      
+ 9/17/1999   @BOS   L  4-5      Bannister   Bannister               Palmer      
+ 9/18/1999   @BOS   W  9-5      Leal        Vande Berg              Robinson,D  
+ 9/19/1999   @PAR   W  4-3      Rogers      Rogers      Caudill     Valenzuela  
+ 9/20/1999   @PAR   W  5-2      Clancy      Clancy      Caudill     Hoyt        
+ 9/21/1999   @PAR   W  5-2      Bannister   Bannister   Martinez,T  Matlack     
+ 9/22/1999    CIN   L  4-7      Leal        Leal                    Berenyi     
+ 9/23/1999    CIN   L  4-5      Denny       Denny                   Righetti    
+ 9/25/1999   @BOS   W  4-3      Rogers      Rogers      Caudill     Carlton     
+ 9/26/1999   @BOS   W 11-2      Clancy      Clancy                  Vuckovich   
+ 9/27/1999   @BOS   W  4-2      Bannister   Bannister   Caudill     Palmer      
+ 9/28/1999   @LON   W  6-2      Leal        Leal                    Koosman     
+ 9/30/1999    FER   W  3-2      Denny       Vande Berg              Andujar     
+10/ 5/1999    BBG   W  4-2      Rogers      Rogers                  Slaton      
+10/ 6/1999    BBG   W  2-1      Clancy      Clancy                  Blue        
+10/ 7/1999    NYH   W  4-3  10  Bannister   Caudill                 Ujdur       
+10/ 8/1999    NYH   W 15-1      Leal        Leal                    Witt        
+10/ 9/1999    BBG   W  8-6      Denny       Frazier     Caudill     Dravecky    
+10/10/1999    BBG   W  3-1      Rogers      Rogers      Caudill     Blue        
+10/11/1999    BBG   W  4-2  12  Clancy      Stanton                 Welch       
+10/12/1999   @CEN   W  9-4  12  Stoddard    Vande Berg              Niekro,J    
+10/13/1999   @CEN   L  4-9      Bannister   Martinez,T              Sanderson   
+10/14/1999   @CEN   L  0-2      Leal        Stanton                 Forsch, K   
+                    Game Results:  1982 Butt Mountain Beavis
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+10/15/1999   @LDL   L  3-4  13  Denny       Stanton                 Gura        
+10/16/1999   @LDL   L  4-10     Rogers      Rogers                  Eckersley   
+10/17/1999   @LDL   W  6-2      Clancy      Clancy                  Caldwell    
+10/18/1999   @NYH   L  2-4      Stoddard    Stoddard                Ujdur       
+10/19/1999   @NYH   W  2-1  12  Bannister   Vande Berg  Stanton     Witt        
+10/20/1999   @NYH   W 12-6      Leal        Frazier                 Wilcox      
+10/22/1999   @JJJ   W  5-2      Denny       Denny       Stanton     Gullickson  
+10/23/1999   @JJJ   W  1-0      Rogers      Rogers                  Guidry      
+10/26/1999    LON   L  5-6      Clancy      Caudill                 Camp        
+10/27/1999    LON   W  4-2      Stoddard    Frazier     Caudill     Koosman     
+10/28/1999   @FER   L  2-3      Rogers      Rogers                  Andujar     
+10/29/1999   @FER   W  4-3  11  Bannister   Caudill                 Sutton      
+10/30/1999    BOS   L  4-6      Leal        Leal                    Carlton     
+10/31/1999    BOS   W  9-8  11  Denny       Martinez,T              Vuckovich   
+11/ 2/1999   @BBG   L  1-7      Rogers      Rogers                  Dravecky    
+11/ 4/1999   @FER   L  4-8      Clancy      Vande Berg              Sutton      
+11/ 5/1999   @FER   L  1-4      Bannister   Bannister               Sutcliffe   
+11/ 6/1999   @FER   L  2-8      Rogers      Rogers                  Holman      
+11/ 7/1999   @LON   W  2-1      Leal        Leal        Frazier     Rhoden      
+11/ 8/1999   @LON   W  3-2      Denny       Denny       Stanton     Mahler      
+11/ 9/1999   @LON   L  6-8      Clancy      Martinez,T              Knepper     
+11/10/1999    FER   W  2-0      Rogers      Rogers                  Sutcliffe   
+11/11/1999    FER   W  1-0      Bannister   Bannister               Holman      
+11/12/1999    PAR   L  2-3  14  Leal        Stanton                 Valenzuela  
+11/14/1999   @GCP   L  3-4      Rogers      Rogers                  Beattie     
+11/15/1999   @GCP   L  4-11     Denny       Denny                   Holland     
+11/16/1999   @NYH   W  2-1      Clancy      Clancy                  Ryan        
+11/17/1999   @NYH   W  8-2      Bannister   Bannister               Lollar      
+11/18/1999   @NYH   W  6-4      Rogers      Rogers      Caudill     Hawkins     
+11/19/1999    CTW   W  3-2      Leal        Leal        Caudill     Hurst       
+11/20/1999    CTW   W 10-2      Denny       Denny                   Terrell     
+11/21/1999    CTW   W  3-1      Clancy      Clancy      Caudill     Hough       
+11/22/1999    JJJ   W  7-2      Rogers      Rogers                  Gullickson  
+11/23/1999    JJJ   W  9-6      Bannister   Stanton     Caudill     Guidry      
+11/24/1999    JJJ   W  3-2  10  Leal        Caudill                 Zahn        
+11/25/1999   @JJJ   W  8-3      Stoddard    Stoddard                Price       
+11/26/1999   @JJJ   L  5-6      Rogers      Vande Berg              Schmidt     
+11/28/1999   @CIN   L  1-2      Clancy      Clancy                  Falcone     
+11/29/1999   @CIN   L  2-5      Bannister   Bannister               Soto        
+11/30/1999   @CIN   W  2-1      Rogers      Rogers                  Petry       
+12/ 1/1999   @BOS   L  0-6      Stoddard    Stoddard                Palmer      
+12/ 2/1999   @BOS   L  3-4      Leal        Leal                    Robinson,D  
+12/ 3/1999   @BOS   W  9-1      Clancy      Clancy                  Martinez,D  
+12/ 4/1999    FER   W  6-2      Rogers      Rogers      Vande Berg  Andujar     
+12/ 5/1999    FER   W  2-1  11  Bannister   Mirabella               Sutton      
+12/ 6/1999    FER   W  3-2      Stoddard    Stoddard    Caudill     Sutcliffe   
+12/ 7/1999    CTW   W  5-3      Leal        Leal        Caudill     Forsch, B   
+12/ 8/1999    CTW   W  2-1  10  Clancy      Clancy                  Hough       
+12/ 9/1999   @CEN   W  4-3      Rogers      Rogers      Vande Berg  Krukow      
+12/10/1999   @CEN   W  4-1      Bannister   Bannister               Niekro,J    
+12/11/1999    BOS   W  4-1      Stoddard    Stoddard                Carlton     
+12/12/1999    BOS   L  2-9      Leal        Leal                    Vuckovich   
+                    Game Results:  1982 Butt Mountain Beavis
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+12/13/1999   @GCP   W  8-3      Rogers      Rogers                  Reuss       
+12/14/1999   @GCP   L  2-4      Clancy      Caudill                 Sarmiento   
+12/15/1999   @GCP   W  6-4      Bannister   Vande Berg  Caudill     Barker      
+12/16/1999   @LDL   W  1-0      Leal        Leal        Caudill     McGregor    
+12/17/1999   @LDL   W  9-5      Stoddard    Stoddard                Havens      
+12/19/1999    CEN   W  4-2      Rogers      Rogers      Caudill     Krukow      
+                     Injury Log: 1982 Butt Mountain Beavis
+                                        
+ 
+-- Date -- #  Player      Cause                 Length
+ 
+ 6/20/1999    Cruz        General                  5
+ 6/26/1999    Morgan      General                  2
+ 6/27/1999    Cruz        General                  3
+ 7/ 5/1999    Leonard     General                 22
+ 7/14/1999    Rogers      Rain delay               0
+ 7/19/1999    Guerrero    General                  0
+ 7/23/1999    Jones       Hit by pitch             0
+ 7/26/1999    Carter      Hit by pitch             0
+ 7/27/1999    Jones       Hit by pitch            10
+ 8/ 1/1999    Carter      General                  7
+ 8/ 3/1999    Paciorek    Collision on bases      18
+ 8/ 7/1999    Denny       General                  0
+ 8/ 9/1999    Richards    General                  2
+ 8/11/1999    Reynolds    Brawl                   27
+10/27/1999    Stoddard    General                 10
+11/16/1999    Guerrero    General                  5
+12/10/1999    Thon        General                  0
+12/15/1999    Paciorek    General                  0
+12/19/1999    Thon        General                  8
+             DMB League Transaction Log:  1982 Butt Mountain Beavis
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+ 7/ 5/1999  BMB    DL           Jeff Leonard          effective  7/ 6/1999  
+ 7/ 5/1999  BMB    Promote      Barry Bonnell       
+ 7/15/1999  BMB    TradeAway    Dave Engle            to LDL
+ 7/15/1999  BMB    TradeAway    Ivan DeJesus          to LDL
+ 7/15/1999  BMB    Acquire      Alfredo Griffin       from LDL
+ 7/15/1999  BMB    Acquire      Jimmy Sexton          from LDL
+ 7/15/1999  BMB    Promote      Marc Hill           
+ 7/21/1999  BMB    Farm         Ken Schrom          
+ 7/21/1999  BMB    Promote      Mike Stanton        
+ 7/27/1999  BMB    Activate     Jeff Leonard        
+ 7/27/1999  BMB    DL           Ruppert Jones         effective  7/28/1999  
+ 7/28/1999  BMB    Release      Alfredo Griffin     
+ 7/28/1999  BMB    Sign         Alfredo Griffin     
+ 7/28/1999  BMB    Farm         Alfredo Griffin     
+ 8/ 3/1999  BMB    DL           Tom Paciorek          effective  8/ 4/1999  
+ 8/ 3/1999  BMB    Promote      Jimmy Sexton        
+ 8/11/1999  BMB    DL           Craig Reynolds        effective  8/12/1999  
+ 8/11/1999  BMB    Activate     Ruppert Jones       
+ 8/21/1999  BMB    Activate     Tom Paciorek        
+ 8/21/1999  BMB    Farm         Scot Thompson       
+ 9/22/1999  BMB    Activate     Craig Reynolds      
+ 9/22/1999  BMB    Farm         Gene Richards       
+ 9/22/1999  BMB    Farm         Marc Hill           
+ 9/22/1999  BMB    Promote      Scot Thompson       
+10/10/1999  BMB    TradeAway    Alfredo Griffin       to CIN
+10/10/1999  BMB    TradeAway    Ken Schrom            to CIN
+10/10/1999  BMB    Acquire      U L Washington        from CIN
+10/10/1999  BMB    Acquire      Paul Mirabella        from CIN
+10/11/1999  BMB    Farm         Craig Reynolds      
+10/11/1999  BMB    Farm         Jeff Leonard        
+10/11/1999  BMB    Promote      Bob Stoddard        
+10/27/1999  BMB    Promote      Jeff Leonard        
+10/27/1999  BMB    DL           Bob Stoddard          effective 10/28/1999  
+11/10/1999  BMB    Acquire      Benny Ayala           from JJJ
+11/14/1999  BMB    Promote      Benny Ayala         
+11/14/1999  BMB    Promote      Marc Hill           
+11/14/1999  BMB    Promote      Gene Richards       
+11/14/1999  BMB    Promote      Craig Reynolds      
+11/14/1999  BMB    Promote      Robert Castillo     
+11/14/1999  BMB    Promote      Paul Mirabella      
+11/14/1999  BMB    Promote      Enrique Romo        
+11/14/1999  BMB    Activate     Bob Stoddard        
+11/14/1999  BMB    TradeAway    Tippy Martinez        to LDL
+11/14/1999  BMB    Acquire      Bill Campbell         from LDL
+11/14/1999  BMB    Promote      Bill Campbell       
+12/12/1999  BMB    Farm         Scot Thompson       
+12/12/1999  BMB    Farm         Ruppert Jones       
+12/16/1999  BMB    Farm         Joe Morgan          
+12/17/1999  BMB    Farm         Terry Kennedy       
+                  
+

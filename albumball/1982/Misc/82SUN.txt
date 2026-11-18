@@ -1,0 +1,760 @@
+The Combat Rock League
+
+Sunnydale Slayers
+
+             DMB League Batting Statistics:  1982 Sunnydale Slayers
+                                        
+ 
+ NAME         AVG   OBP   SPC   G  AB   H 2B 3B HR   R RBI  BB   K HB IW  SB CS
+ 
+rAguayo      .276  .354  .483  19  58  16  2  2  2  11   9   4   8  3  0   2  0 
+rBrett       .292  .342  .493 152 603 176 37 12 20 103  81  48  60  1  3   7  4 
+ Brunansky   .245  .321  .434 129 392  96 18  1 18  59  60  40  93  5  3   0  2 
+ Cedeno      .281  .328  .393 106 224  63 19  0  2  28  19  15  14  1  0   6  8 
+rDwyer       .266  .330  .402  47 169  45  8  3  3  23  14  16  32  0  0   2  2 
+ Evans, Da   .282  .382  .422 141 457 129 24  2 12  77  66  70  57  6  3   1  4 
+ Grubb       .263  .337  .348  69 224  59  9  2  2  26  22  21  25  5  2   0  1 
+ Lynn        .253  .326  .402 139 498 126 38  0 12  66  84  51  90  6  2   6  3 
+ Monday      .289  .391  .546  84 218  63 10  5 12  40  45  36  48  3  0   2  0 
+ Mulliniks   .208  .285  .253 115 245  51  9  1  0  23  25  25  46  2  1   1  0 
+rPhelps      .250  .250  .250   5   8   2  0  0  0   1   1   0   4  0  0   0  0 
+ Roberts     .222  .222  .222   4   9   2  0  0  0   1   0   0   1  0  0   0  0 
+rRoenicke    .296  .383  .532 124 423 125 26  1 24  68  66  59  74  4  3   7  6 
+ Summers     .286  .422  .371  20  35  10  0  0  1   7   8   8   3  1  1   0  0 
+rTenace      .341  .480  .761  45 138  47 19  0 13  39  34  35  32  2  2   0  1 
+ Wathan      .278  .333  .361  24  36  10  3  0  0   4   3   2   4  1  0   1  2 
+ Whitaker    .257  .302  .361 143 526 135 22  6  7  64  63  35  75  1  2   3  4 
+rWhitt       .282  .323  .421  99 309  87 16  0  9  31  44  18  42  2  0   4  1 
+rWockenfuss  .264  .360  .365  84 208  55  7  1  4  31  18  31  35  0  1   0  0 
+ Zisk        .252  .309  .411 119 409 103 24  4 11  58  47  34  64  0  0   3  2 
+ 
+rAnderson    .100  .129  .100  13  30   3  0  0  0   0   2   1   6  0  0   0  0 
+rBailey      .000  .000  .000   9   1   0  0  0  0   0   0   0   0  0  0   0  0 
+rBeckwith    .000  .000  .000  24   9   0  0  0  0   0   0   0   1  0  0   0  0 
+ Candelaria  .262  .274  .344  35  61  16  2  0  1   8   8   1  14  0  0   0  0 
+ Diaz        .000  .000  .000  13   2   0  0  0  0   0   0   0   2  0  0   0  0 
+rHenke       .000  .000  .000  11   1   0  0  0  0   0   0   0   0  0  0   0  0 
+ Ladd        .500  .500  .500  16   2   1  0  0  0   0   0   0   1  0  0   0  0 
+rLea         .135  .141  .149  28  74  10  1  0  0   5   6   1  21  0  0   0  0 
+rMoffitt     .000  .000  .000  32   5   0  0  0  0   0   0   0   1  0  0   0  0 
+ Niedenfuer  .429  .429  .429  52   7   3  0  0  0   0   1   0   1  0  0   0  0 
+rPalmer, D   .037  .037  .037  13  27   1  0  0  0   1   1   0   9  0  0   0  0 
+ Proly       .222  .263  .222  20  18   4  0  0  0   1   3   1   1  0  0   0  0 
+rReed,R      .188  .235  .250  57  16   3  1  0  0   1   0   1   3  0  0   0  0 
+rRomo        .000  .200  .000  30   4   0  0  0  0   0   0   1   1  0  0   0  0 
+rShow        .125  .125  .146  23  48   6  1  0  0   2   1   0  15  0  0   0  0 
+rStoddard    .000  .000  .000  23   1   0  0  0  0   0   0   0   0  0  0   0  0 
+ Stuper      .111  .158  .167  15  18   2  1  0  0   2   2   1   4  0  0   0  0 
+ Tudor       .136  .150  .153  24  59   8  1  0  0   2   1   1  19  0  0   0  0 
+rWhitson     .143  .143  .143  48  35   5  0  0  0   3   0   0  14  0  0   0  0 
+
+ Team Total  .261  .330  .410 162    1462    40    785     556     43     45
+                                 5607    298   153     734     920    23     40
+           DMB League Batting Splits:  1982 Sunnydale Slayers-- vsLHP
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+rAguayo       .385  .429  .769    13    5    1    2    0    3    1    2   0   0
+rBrett        .253  .270  .388   237   60    9    4    5   31    5   27   0   1
+ Brunansky    .257  .333  .469   175   45    8    1    9   29   19   34   0   0
+ Cedeno       .313  .378  .461   115   36   11    0    2    7   12    5   0   0
+rDwyer        .063  .063  .063    16    1    0    0    0    1    0    1   1   0
+ Evans, Da    .239  .333  .313   176   42    5    1    2   16   22   25   0   2
+ Grubb        .259  .293  .519    54   14    4    2    2   13    3    9   0   1
+ Lynn         .256  .296  .393   168   43    8    0    5   25    5   45   0   1
+ Monday       .200  .368  .200    15    3    0    0    0    2    2    9   0   0
+ Mulliniks    .175  .217  .193    57   10    1    0    0    4    3   12   0   0
+rPhelps       .000  .000  .000     1    0    0    0    0    0    0    0   0   0
+ Roberts      .222  .222  .222     9    2    0    0    0    0    0    1   0   0
+rRoenicke     .315  .431  .512   162   51    6    1    8   19   32   20   2   0
+ Summers      .250  .375  .250    20    5    0    0    0    3    4    1   0   0
+rTenace       .176  .411  .441    68   12    3    0    5   13   27   20   0   0
+ Wathan       .313  .313  .500    16    5    3    0    0    2    0    2   0   0
+ Whitaker     .241  .286  .304   191   46    7    1    1   15   11   31   1   0
+rWhitt        .162  .225  .216    37    6    2    0    0    0    3   13   1   0
+rWockenfuss   .238  .316  .328   122   29    2    0    3   10   14   16   0   0
+ Zisk         .252  .295  .333   210   53   12    1    1   19   13   28   0   1
+ 
+rAnderson     .067  .067  .067    15    1    0    0    0    2    0    5   1   0
+rBeckwith     .000  .000  .000     1    0    0    0    0    0    0    0   0   0
+ Candelaria   .286  .318  .429    21    6    0    0    1    3    1    7   0   0
+rHenke        .000  .000  .000     1    0    0    0    0    0    0    0   0   0
+ Ladd         .000  .000  .000     1    0    0    0    0    0    0    1   0   0
+rLea          .087  .115  .087    23    2    0    0    0    2    1    9   0   2
+rMoffitt      .000  .000  .000     5    0    0    0    0    0    0    1   0   0
+ Niedenfuer   .500  .500  .500     2    1    0    0    0    0    0    0   0   0
+rPalmer, D    .000  .000  .000     6    0    0    0    0    1    0    2   1   0
+ Proly        .333  .333  .333     6    2    0    0    0    2    0    0   1   0
+rReed,R       .250  .333  .375     8    2    1    0    0    0    1    1   1   0
+rRomo         .000  .000  .000     2    0    0    0    0    0    0    0   0   0
+rShow         .105  .105  .105    19    2    0    0    0    1    0    6   3   0
+ Stuper       .333  .429  .500     6    2    1    0    0    1    1    0   0   0
+ Tudor        .111  .143  .111    27    3    0    0    0    0    1    9   2   0
+rWhitson      .167  .167  .167     6    1    0    0    0    0    0    1   0   0
+ 
+ Team Total   .244  .308  .364  2011  490   84   13   44  224  181  343  14   8
+           DMB League Batting Splits:  1982 Sunnydale Slayers-- vsRHP
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+rAguayo       .244  .333  .400    45   11    1    0    2    6    3    6   1   0
+rBrett        .317  .384  .560   366  116   28    8   15   50   43   33   0   5
+ Brunansky    .235  .311  .406   217   51   10    0    9   31   21   59   0   2
+ Cedeno       .248  .272  .321   109   27    8    0    0   12    3    9   0   1
+rDwyer        .288  .355  .438   153   44    8    3    3   13   16   31   2   0
+ Evans, Da    .310  .411  .491   281   87   19    1   10   50   48   32   0   2
+ Grubb        .265  .351  .294   170   45    5    0    0    9   18   16   3   1
+ Lynn         .252  .339  .406   330   83   30    0    7   59   46   45   0   6
+ Monday       .296  .393  .571   203   60   10    5   12   43   34   39   0   4
+ Mulliniks    .218  .304  .271   188   41    8    1    0   21   22   34   3   2
+rPhelps       .286  .286  .286     7    2    0    0    0    1    0    4   0   0
+ Roberts      .000  .000  .000     0    0    0    0    0    0    0    0   0   0
+rRoenicke     .284  .351  .544   261   74   20    0   16   47   27   54   6   5
+ Summers      .333  .476  .533    15    5    0    0    1    5    4    2   1   1
+rTenace       .500  .563 1.071    70   35   16    0    8   21    8   12   0   0
+ Wathan       .250  .348  .250    20    5    0    0    0    1    2    2   0   0
+ Whitaker     .266  .311  .394   335   89   15    5    6   48   24   44   2   4
+rWhitt        .298  .337  .449   272   81   14    0    9   44   15   29   0   2
+rWockenfuss   .302  .417  .419    86   26    5    1    1    8   17   19   0   0
+ Zisk         .251  .323  .492   199   50   12    3   10   28   21   36   0   0
+ 
+rAnderson     .133  .188  .133    15    2    0    0    0    0    1    1   1   0
+rBailey       .000  .000  .000     1    0    0    0    0    0    0    0   0   0
+rBeckwith     .000  .000  .000     8    0    0    0    0    0    0    1   2   0
+ Candelaria   .250  .250  .300    40   10    2    0    0    5    0    7   5   0
+ Diaz         .000  .000  .000     2    0    0    0    0    0    0    2   0   0
+ Ladd        1.000 1.000 1.000     1    1    0    0    0    0    0    0   0   0
+rLea          .157  .154  .176    51    8    1    0    0    4    0   12   0   1
+rMoffitt      .000  .000  .000     0    0    0    0    0    0    0    0   1   0
+ Niedenfuer   .400  .400  .400     5    2    0    0    0    1    0    1   0   0
+rPalmer, D    .048  .048  .048    21    1    0    0    0    0    0    7   1   0
+ Proly        .167  .231  .167    12    2    0    0    0    1    1    1   2   0
+rReed,R       .125  .125  .125     8    1    0    0    0    0    0    2   2   0
+rRomo         .000  .333  .000     2    0    0    0    0    0    1    1   0   0
+rShow         .138  .138  .172    29    4    1    0    0    0    0    9   3   0
+rStoddard     .000  .000  .000     1    0    0    0    0    0    0    0   0   0
+ Stuper       .000  .000  .000    12    0    0    0    0    1    0    4   2   0
+ Tudor        .156  .156  .188    32    5    1    0    0    1    0   10   2   0
+rWhitson      .138  .138  .138    29    4    0    0    0    0    0   13   0   0
+ 
+ Team Total   .270  .338  .436  3596  972  214   27  109  510  375  577  39  36
+     DMB League Games Started by Position:  1982 Sunnydale Slayers-- vsLHP
+                                        
+ 
+ NAME           C   1B   2B   3B   SS   LF   CF   RF
+ 
+rTenace        26    0    0    0    0    0    0    0
+ Wathan         0    1    0    0    0    0    0    0
+rWhitt          1    0    0    0    0    0    0    0
+rWockenfuss    30    0    0    0    0    0    0    1
+rAguayo         0    0    1    1    0    0    0    0
+rBrett          0    0    0   55    0    0    0    0
+rDwyer          0    0    0    0    0    0    0    0
+ Evans, Da      0    0    0    0   57    0    0    0
+ Mulliniks      0    0    5    1    0    0    0    0
+ Summers        0    0    0    0    0    2    0    3
+ Whitaker       0    0   45    0    0    0    0    0
+ Brunansky      0    0    0    0    0    0    0   46
+ Cedeno         0    0    2    0    0    0   31    0
+ Grubb          0    0    0    0    0    4    0    2
+ Lynn           0    0    0    0    0    5   26    5
+ Monday         0    0    0    0    0    0    0    0
+rPhelps         0    0    0    0    0    0    0    0
+rRoenicke       0    0    0    0    0   46    0    0
+ Zisk           0   56    0    0    0    0    0    0
+ Roberts        0    0    4    0    0    0    0    0
+ 
+ Team Total    57   57   57   57   57   57   57   57
+     DMB League Games Started by Position:  1982 Sunnydale Slayers-- vsRHP
+                                        
+ 
+ NAME           C   1B   2B   3B   SS   LF   CF   RF
+ 
+rTenace        10    2    0    0    0    0    0    0
+ Wathan         6    0    0    0    0    0    0    0
+rWhitt         77    0    0    0    0    0    0    0
+rWockenfuss    12    0    0    0    0    2    0    0
+rAguayo         0    0    0    1   10    0    0    0
+rBrett          0    0    0   89    0    0    0    0
+rDwyer          0    0    0    0    0   40    0    0
+ Evans, Da      0   10   11   14   35    0    0    0
+ Mulliniks      0    0    0    1   60    0    0    0
+ Summers        0    0    0    0    0    1    0    1
+ Whitaker       0    0   91    0    0    0    0    0
+ Brunansky      0    0    0    0    0    9    0   45
+ Cedeno         0    0    0    0    0    2   14    0
+ Grubb          0    0    0    0    0   37    0   11
+ Lynn           0    0    0    0    0    0   91    0
+ Monday         0   57    0    0    0    0    0    0
+rPhelps         0    2    0    0    0    0    0    0
+rRoenicke       0    0    0    0    0   14    0   48
+ Zisk           0   34    3    0    0    0    0    0
+ Roberts        0    0    0    0    0    0    0    0
+ 
+ Team Total   105  105  105  105  105  105  105  105
+            DMB League Pitching Statistics:  1982 Sunnydale Slayers
+                                        
+ 
+ NAME         ERA  W  L  S   G GS CG SH    IP   H   R  ER  BB   K   BF HR WP DP
+ 
+rAnderson    2.48  8  3  0  13 12  2  0  90.2  83  28  25  28  68  373  3  4  6
+rBailey      1.46  1  0  3   9  0  0  0  12.1   6   2   2   1   8   43  0  0  0
+rBeckwith    2.96  2  1  5  24  2  0  0  45.2  47  19  15  12  45  197  3  0  2
+ Candelaria  3.90 10  9  0  29 29  2  1 164.0 181  82  71  46 138  703 11  0 10
+ Diaz        1.46  1  0  1  13  0  0  0  12.1   6   3   2   4   9   46  0  0  1
+rHenke       3.77  2  1  0  11  0  0  0  14.1  19   7   6   5   3   63  1  0  3
+ Ladd        3.06  2  1  0  16  0  0  0  17.2  14   7   6   3  14   71  4  0  0
+rLea         2.85 12  7  0  28 28  5  1 192.2 156  68  61  48 121  765 17  6 18
+rMoffitt     2.56  2  0  1  32  0  0  0  45.2  35  16  13  10  23  188  5  0  2
+ Niedenfuer  3.36  5  4  4  51  0  0  0  61.2  66  26  23  27  50  272  4  0  3
+rPalmer, D   5.17  3  4  0  13 13  2  2  76.2  83  55  44  36  49  339  6  5  7
+ Proly       2.05  5  3  0  18  9  1  0  70.1  61  22  16  17  29  289  1  0  4
+rReed,R      3.43  4  9 19  56  5  0  0  99.2 108  49  38  20  63  423  7  2  9
+rRomo        2.97  2  1  1  30  0  0  0  36.1  37  17  12  11  33  159  3  1  0
+rShow        3.49 10  9  0  23 23  3  1 157.1 137  71  61  52 102  642 17  3 18
+rStoddard    4.37  0  3  5  23  0  0  0  22.2  29  15  11   7  12  100  5  0  1
+ Stuper      5.07  3  2  1  15  9  0  0  60.1  71  36  34  24  17  268  5  0 10
+ Tudor       3.48 10 11  0  24 24  3  1 160.1 155  68  62  43 149  675 15  0 10
+rWhitson     3.10 10  2  0  48  8  2  2 122.0 115  45  42  56  83  508  3  3 15
+
+ Team Total  3.35    70    162    20   1462.2     636     450     6124    24
+                  92    40    162    11      1409     544    1016     110   119
+ 
+ 
+ NAME          IW HBP  WP  BK  CI   H/9  BB/9   R/9   K/9  HR/9
+ 
+rAnderson       0   2   4   0   0   8.2   2.8  11.2   6.7   0.3
+rBailey         0   1   0   1   0   4.4   0.7   5.8   5.8   0.0
+rBeckwith       1   2   0   0   0   9.3   2.4  12.0   8.9   0.6
+ Candelaria     2   0   0   0   0   9.9   2.5  12.5   7.6   0.6
+ Diaz           0   0   0   0   0   4.4   2.9   7.3   6.6   0.0
+rHenke          0   0   0   0   0  11.9   3.1  15.1   1.9   0.6
+ Ladd           1   1   0   0   0   7.1   1.5   9.2   7.1   2.0
+rLea            0   4   6   1   0   7.3   2.2   9.7   5.7   0.8
+rMoffitt        5   7   0   0   0   6.9   2.0  10.2   4.5   1.0
+ Niedenfuer     6   2   0   0   0   9.6   3.9  13.9   7.3   0.6
+rPalmer, D      1   0   5   1   0   9.7   4.2  14.0   5.8   0.7
+ Proly          4   2   0   3   0   7.8   2.2  10.2   3.7   0.1
+rReed,R         0   3   2   0   0   9.8   1.8  11.8   5.7   0.6
+rRomo           0   1   1   2   0   9.2   2.7  12.1   8.2   0.7
+rShow           2   4   3   0   0   7.8   3.0  11.0   5.8   1.0
+rStoddard       0   0   0   0   0  11.5   2.8  14.3   4.8   2.0
+ Stuper         1   0   0   0   0  10.6   3.6  14.2   2.5   0.7
+ Tudor          2   6   0   1   0   8.7   2.4  11.5   8.4   0.8
+rWhitson        0   0   3   6   0   8.5   4.1  12.6   6.1   0.2
+
+ Team Total    25  35  24  15   0   8.7   2.8  11.7   6.3   0.7
+            DMB League Pitching Statistics:  1982 Sunnydale Slayers
+                                        
+ 
+ NAME         AVG   OBP   SPC   BF   AB    H  2B  3B  HR   TB  SH  SF
+ 
+rAnderson    .246  .305  .320  373  338   83  16   0   3  108   3   2
+rBailey      .146  .186  .195   43   41    6   0   1   0    8   0   0
+rBeckwith    .257  .310  .404  197  183   47  14   2   3   74   0   0
+ Candelaria  .278  .325  .403  703  650  181  44   2  11  262   5   2
+ Diaz        .143  .217  .167   46   42    6   1   0   0    7   0   0
+rHenke       .333  .387  .439   63   57   19   3   0   1   25   1   0
+ Ladd        .209  .254  .433   71   67   14   3   0   4   29   0   0
+rLea         .221  .274  .351  765  706  156  33   4  17  248   7   0
+rMoffitt     .212  .281  .345  188  165   35   7   0   5   57   3   3
+ Niedenfuer  .281  .356  .357  272  235   66   4   1   4   84   5   3
+rPalmer, D   .279  .354  .403  339  298   83  15   2   6  120   3   2
+ Proly       .230  .279  .279  289  265   61   8   1   1   74   2   3
+rReed,R      .277  .313  .408  423  390  108  22   4   7  159   4   6
+rRomo        .255  .310  .372  159  145   37   6   1   3   54   1   1
+rShow        .236  .303  .371  642  580  137  21   3  17  215   5   1
+rStoddard    .312  .360  .591  100   93   29   7   2   5   55   0   0
+ Stuper      .295  .357  .452  268  241   71  17   3   5  109   2   1
+ Tudor       .251  .304  .375  675  618  155  28   2  15  232   4   4
+rWhitson     .259  .341  .322  508  444  115  17   1   3  143   6   2
+
+ Team Total  .254  .312  .371      5558      266     110       51
+                              6124      1409      29     2063      30
+ 
+ 
+ NAME          GS  CG   CG% SHo  QS   QS%   RS RS/G  RL RLS   RL%
+ 
+rAnderson      12   2  .167   0   9  .750   49  4.1   7   2  .286
+rBailey         0   0  .000   0   0  .000    0  0.0   0   0  .000
+rBeckwith       2   0  .000   0   1  .500    9  4.5   3   1  .333
+ Candelaria    29   2  .069   1  16  .552  149  5.1  27   9  .333
+ Diaz           0   0  .000   0   0  .000    0  0.0   3   1  .333
+rHenke          0   0  .000   0   0  .000    0  0.0   1   0  .000
+ Ladd           0   0  .000   0   0  .000    0  0.0   3   0  .000
+rLea           28   5  .179   1  20  .714  136  4.9  15   7  .467
+rMoffitt        0   0  .000   0   0  .000    0  0.0  12   1  .083
+ Niedenfuer     0   0  .000   0   0  .000    0  0.0  18   1  .056
+rPalmer, D     13   2  .154   2   5  .385   91  7.0  10   4  .400
+ Proly          9   1  .111   0   5  .556   32  3.6   8   1  .125
+rReed,R         5   0  .000   0   2  .400   22  4.4  16   9  .563
+rRomo           0   0  .000   0   0  .000    0  0.0  14   3  .214
+rShow          23   3  .130   1  13  .565   78  3.4   8   3  .375
+rStoddard       0   0  .000   0   0  .000    0  0.0   2   0  .000
+ Stuper         9   0  .000   0   3  .333   53  5.9  11   5  .455
+ Tudor         24   3  .125   1  15  .625  125  5.2  19   6  .316
+rWhitson        8   2  .250   2   6  .750   41  5.1  19   7  .368
+
+ Team Total   162      .123      95        785      196      .306
+                   20        11      .586       4.8      60
+            DMB League Pitching Statistics:  1982 Sunnydale Slayers
+                                        
+ 
+ NAME         SvO  Sv   Sv%  BSv  BSv%  IR  IRS   IR%    G  RA   RA%  GF   GF%
+ 
+rAnderson       0   0  .000    0  .000   0    0  .000   13   1  .077   1 1.000
+rBailey         4   3  .750    1  .250   8    2  .250    9   9 1.000   7  .778
+rBeckwith       7   5  .714    1  .143   7    3  .429   24  22  .917  13  .591
+ Candelaria     0   0  .000    0  .000   0    0  .000   29   0  .000   0  .000
+ Diaz           2   1  .500    0  .000   8    1  .125   13  13 1.000   4  .308
+rHenke          4   0  .000    1  .250   4    2  .500   11  11 1.000   4  .364
+ Ladd           3   0  .000    1  .333   9    3  .333   16  16 1.000   7  .438
+rLea            0   0  .000    0  .000   0    0  .000   28   0  .000   0  .000
+rMoffitt        9   1  .111    2  .222  24    8  .333   32  32 1.000   9  .281
+ Niedenfuer     9   4  .444    0  .000  29    7  .241   51  51 1.000  21  .412
+rPalmer, D      0   0  .000    0  .000   0    0  .000   13   0  .000   0  .000
+ Proly          1   0  .000    0  .000   2    1  .500   18   9  .500   4  .444
+rReed,R        26  19  .731    5  .192  23    6  .261   56  51  .911  32  .627
+rRomo          13   1  .077    2  .154  19   10  .526   30  30 1.000   7  .233
+rShow           0   0  .000    0  .000   0    0  .000   23   0  .000   0  .000
+rStoddard       9   5  .556    2  .222  25    7  .280   23  23 1.000  15  .652
+ Stuper         1   1 1.000    0  .000   2    0  .000   15   6  .400   5  .833
+ Tudor          0   0  .000    0  .000   0    0  .000   24   0  .000   0  .000
+rWhitson        5   0  .000    2  .400  36   10  .278   48  40  .833  13  .325
+
+ Team Total    93      .430       .183       60        476      .660      .452
+                   40         17       196       .306      314       142
+          DMB League Pitching Splits:  1982 Sunnydale Slayers-- vsLHB
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+rAnderson     .285  .345  .342   158   45    9    0    0   10   14   30   2   1
+rBailey       .235  .278  .235    17    4    0    0    0    2    0    1   0   0
+rBeckwith     .240  .313  .333    75   18    5    1    0    5    7   18   0   0
+ Candelaria   .289  .353  .488   121   35   12    0    4   14   12   39   3   0
+ Diaz         .111  .200  .167    18    2    1    0    0    0    2    4   0   0
+rHenke        .520  .556  .640    25   13    0    0    1    6    2    1   0   0
+ Ladd         .276  .323  .759    29    8    2    0    4    8    2    6   0   0
+rLea          .218  .272  .330   339   74   16    2    6   19   25   54   3   0
+rMoffitt      .295  .385  .449    78   23    6    0    2   10    9    7   1   1
+ Niedenfuer   .343  .438  .472   108   37    3    1    3   15   18   21   0   1
+rPalmer, D    .277  .365  .409   137   38    5    2    3   25   20   28   1   2
+ Proly        .209  .268  .261   134   28    5    1    0   10   12    8   1   3
+rReed,R       .302  .345  .429   189   57   11    2    3   14   13   23   1   1
+rRomo         .246  .277  .361    61   15    1    0    2    9    3   10   0   1
+rShow         .246  .317  .307   244   60    5    2    2   21   24   26   1   1
+rStoddard     .133  .188  .200    30    4    2    0    0    1    2    5   0   0
+ Stuper       .315  .393  .524   124   39   13    2    3   20   16    3   1   0
+ Tudor        .181  .228  .319   160   29    5    1    5   13    9   59   0   1
+rWhitson      .231  .307  .308   182   42    5    0    3   16   20   21   2   0
+ 
+ Team Total   .256  .319  .371  2229  571  106   14   41  218  210  364  16  12
+          DMB League Pitching Splits:  1982 Sunnydale Slayers-- vsRHB
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+rAnderson     .211  .270  .300   180   38    7    0    3   13   14   38   1   1
+rBailey       .083  .120  .167    24    2    0    1    0    1    1    7   0   0
+rBeckwith     .269  .307  .454   108   29    9    1    3   15    5   27   0   0
+ Candelaria   .276  .319  .384   529  146   32    2    7   55   34   99   2   2
+ Diaz         .167  .231  .167    24    4    0    0    0    2    2    5   0   0
+rHenke        .188  .257  .281    32    6    3    0    0    3    3    2   1   0
+ Ladd         .158  .200  .184    38    6    1    0    0    1    1    8   0   0
+rLea          .223  .277  .371   367   82   17    2   11   34   23   67   4   0
+rMoffitt      .138  .181  .253    87   12    1    0    3    9    1   16   2   2
+ Niedenfuer   .228  .281  .260   127   29    1    0    1   13    9   29   5   2
+rPalmer, D    .280  .345  .398   161   45   10    0    3   19   16   21   2   0
+ Proly        .252  .290  .298   131   33    3    0    1   11    5   21   1   0
+rReed,R       .254  .282  .388   201   51   11    2    4   30    7   40   3   5
+rRomo         .262  .333  .381    84   22    5    1    1   11    8   23   1   0
+rShow         .229  .292  .417   336   77   16    1   15   41   28   76   4   0
+rStoddard     .397  .441  .778    63   25    5    2    5   21    5    7   0   0
+ Stuper       .274  .317  .376   117   32    4    1    2   10    8   14   1   1
+ Tudor        .275  .330  .395   458  126   23    1   10   47   34   90   4   3
+rWhitson      .279  .363  .332   262   73   12    1    0   31   36   62   4   2
+ 
+ Team Total   .252  .302  .371  3329  838  160   15   69  367  240  652  35  18
+            DMB League Fielding Statistics:  1982 Sunnydale Slayers
+                                        
+ 
+POS NAME             G    GS    PO     A     E    DP    TC     PCT   PB
+ 
+p  rLea             28    28    10    30     0     5    40   1.000
+   rShow            23    23     9    22     1     2    32    .969
+    Tudor           24    24    10    12     1     1    23    .957
+    Candelaria      29    29     6    13     3     1    22    .864
+   rReed,R          56     5     6    14     0     1    20   1.000
+    Stuper          15     9     8     8     0     0    16   1.000
+   rBeckwith        24     2     3    10     0     0    13   1.000
+   rAnderson        13    12     4     9     0     1    13   1.000
+   rPalmer, D       13    13     4     7     2     0    13    .846
+   rWhitson         48     8     5     6     0     1    11   1.000
+    Proly           18     9     4     6     1     0    11    .909
+    Niedenfuer      51     0     0    10     0     0    10   1.000
+   rMoffitt         32     0     1     7     2     1    10    .800
+   rRomo            30     0     3     7     0     0    10   1.000
+   rHenke           11     0     1     2     1     1     4    .750
+   rStoddard        23     0     0     2     1     1     3    .667
+    Ladd            16     0     2     1     0     0     3   1.000
+    Diaz            13     0     1     1     0     0     2   1.000
+   rBailey           9     0     1     0     0     0     1   1.000
+                   476   162    78   167    12    15   257    .953
+ 
+c  rWhitt           90    78   505    42    11     2   558    .980    2
+   rWockenfuss      55    42   321    21     3     2   345    .991    4
+   rTenace          39    36   213    12     2     0   227    .991    4
+    Wathan           9     6    37     4     1     0    42    .976    0
+                   193   162  1076    79    17     4  1172    .985   10
+ 
+1b  Zisk           101    90   765    46    11    59   822    .987
+    Monday          64    57   466    33     5    46   504    .990
+    Evans, Da       10    10    91     9     0    13   100   1.000
+    Cedeno          25     0    45     1     0     5    46   1.000
+    Wathan           6     1    17     1     1     1    19    .947
+   rPhelps           4     2    17     1     0     0    18   1.000
+   rTenace           2     2    15     2     0     0    17   1.000
+    Summers          1     0     1     1     0     0     2   1.000
+   rRoenicke         1     0     1     0     0     0     1   1.000
+                   214   162  1418    94    17   124  1529    .989
+ 
+2b  Whitaker       142   136   304   426    14    87   744    .981
+    Evans, Da       11    11    22    29     2     7    53    .962
+    Mulliniks        5     5     4    16     1     3    21    .952
+    Roberts          4     4     8     7     0     0    15   1.000
+    Cedeno           2     2     4    11     0     3    15   1.000
+    Zisk             3     3     6     7     0     0    13   1.000
+   rAguayo           2     1     4     6     0     1    10   1.000
+   rBrett            1     0     1     2     0     0     3   1.000
+                   170   162   353   504    17   101   874    .981
+            DMB League Fielding Statistics:  1982 Sunnydale Slayers
+                                        
+ 
+POS NAME             G    GS    PO     A     E    DP    TC     PCT   PB
+ 
+3b rBrett          144   144    90   284    20    28   394    .949
+    Evans, Da       15    14    11    30     3     5    44    .932
+   rAguayo           5     2     1     3     0     1     4   1.000
+    Mulliniks        3     2     0     4     0     1     4   1.000
+                   167   162   102   321    23    35   446    .948
+ 
+ss  Evans, Da       99    92   127   275    22    44   424    .948
+    Mulliniks       90    60    97   227     9    34   333    .973
+   rAguayo          11    10    16    39     2     9    57    .965
+                   200   162   240   541    33    87   814    .959
+ 
+lf rRoenicke        62    60   124     8     1     0   133    .992
+    Grubb           41    41    86     4     3     2    93    .968
+   rDwyer           40    40    85     5     0     1    90   1.000
+    Brunansky       27     9    31     1     1     0    33    .970
+    Lynn             5     5    16     1     0     0    17   1.000
+    Cedeno           3     2     7     0     1     0     8    .875
+    Summers          4     3     7     0     0     0     7   1.000
+   rWockenfuss       2     2     3     0     0     0     3   1.000
+    Monday           1     0     3     0     0     0     3   1.000
+   rBrett            1     0     1     0     0     0     1   1.000
+                   186   162   363    19     6     3   388    .985
+ 
+cf  Lynn           121   117   298    20     4     1   322    .988
+    Cedeno          45    45   107     5     0     1   112   1.000
+   rRoenicke         1     0     5     0     0     0     5   1.000
+    Brunansky        1     0     2     0     0     0     2   1.000
+                   168   162   412    25     4     2   441    .991
+ 
+rf  Brunansky       92    91   182    11     5     3   198    .975
+   rRoenicke        51    48   113     7     1     1   121    .992
+    Grubb           15    13    28     0     1     0    29    .966
+   rWockenfuss       2     1     7     1     0     0     8   1.000
+    Lynn             5     5     8     0     0     0     8   1.000
+    Summers          4     4     7     0     0     0     7   1.000
+   rDwyer            2     0     1     1     0     0     2   1.000
+    Monday           4     0     0     0     1     0     1    .000
+                   175   162   346    20     8     4   374    .979
+ 
+    Team Total     162   162  4388  1770   137   136  6295    .978   10
+                     Game Results:  1982 Sunnydale Slayers
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 6/ 4/1999   @GCP   L  3-5  10  Show        Reed,R                  Reuss       
+ 6/ 5/1999    BMB   L  4-7  12  Lea         Stoddard                Rogers      
+ 6/ 6/1999    BMB   W  6-1      Candelaria  Candelaria              Clancy      
+ 6/ 7/1999   @BAR   L  3-7      Palmer, D   Palmer, D               Eichhorn    
+ 6/ 8/1999   @BAR   L  3-6      Tudor       Tudor                   Stieb       
+ 6/ 9/1999   @BAR   W  7-4      Show        Show        Reed,R      Morris      
+ 6/11/1999   @BMB   W  3-2      Lea         Lea         Reed,R      Rogers      
+ 6/12/1999   @BMB   L  1-12     Candelaria  Candelaria              Clancy      
+ 6/13/1999    LON   L  9-11     Palmer, D   Reed,R                  Knepper     
+ 6/14/1999    LON   W  8-7  10  Tudor       Reed,R                  Camp        
+ 6/17/1999   @BOS   L  6-7      Show        Henke                   Palmer      
+ 6/18/1999   @BOS   L  3-13     Lea         Lea                     Robinson,D  
+ 6/19/1999   @LDL   L  1-4      Candelaria  Romo                    Gura        
+ 6/20/1999   @LDL   W 10-5      Palmer, D   Palmer, D               Eckersley   
+ 6/21/1999   @LDL   L  4-5      Tudor       Tudor                   Caldwell    
+ 6/22/1999    GCP   L  2-3      Show        Show                    Montefusco  
+ 6/23/1999    GCP   W 11-3      Lea         Lea                     Reuss       
+ 6/24/1999    GCP   L  2-7      Candelaria  Reed,R                  Sarmiento   
+ 6/25/1999    CTW   W  8-5      Palmer, D   Henke       Reed,R      Laskey      
+ 6/26/1999    CTW   W  5-1      Tudor       Tudor                   Ruthven     
+ 6/27/1999    CTW   W  4-3      Show        Show        Reed,R      Forsch, B   
+ 6/28/1999   @BBG   W 12-1      Lea         Lea                     Scott       
+ 6/29/1999   @BBG   W  6-2      Candelaria  Candelaria              Viola       
+ 6/30/1999   @BBG   L  4-5      Palmer, D   Palmer, D               Alexander   
+ 7/ 1/1999    GCP   L  3-7      Tudor       Tudor                   Sarmiento   
+ 7/ 2/1999    GCP   W  6-2      Show        Show                    Barker      
+ 7/ 4/1999    BMB   W  3-2      Lea         Henke       Reed,R      Rogers      
+ 7/ 5/1999    BMB   W  7-4  11  Candelaria  Romo                    Clancy      
+ 7/ 6/1999    BMB   W  9-5      Palmer, D   Whitson     Reed,R      Bannister   
+ 7/ 7/1999   @CTW   W  7-4      Tudor       Tudor       Stoddard    Forsch, B   
+ 7/ 8/1999   @CTW   W  3-2      Show        Romo        Stoddard    Hough       
+ 7/ 9/1999   @BMB   L  5-9      Lea         Lea                     Rogers      
+ 7/10/1999   @BMB   W  4-1      Candelaria  Candelaria  Beckwith    Clancy      
+ 7/11/1999   @CIN   W  8-7      Palmer, D   Whitson     Stoddard    Berenyi     
+ 7/12/1999   @CIN   L  6-8      Tudor       Tudor                   Righetti    
+ 7/13/1999    CTW   W  6-3      Show        Show        Stoddard    Laskey      
+ 7/14/1999    CTW   W  3-2      Lea         Whitson     Niedenfuer  Ruthven     
+ 7/15/1999    CTW   L  8-13 10  Candelaria  Beckwith                Forsch, B   
+ 7/16/1999    CTW   W 11-0      Palmer, D   Palmer, D               Hough       
+ 7/17/1999    LDL   W 17-3      Tudor       Tudor                   Caldwell    
+ 7/18/1999    LDL   L  0-5      Show        Show                    McGregor    
+ 7/20/1999    CEN   W  2-1      Lea         Lea         Stoddard    Swan        
+ 7/21/1999    CEN   L  1-4      Candelaria  Candelaria              Niekro,J    
+ 7/24/1999    FER   W  1-0      Palmer, D   Palmer, D               Sutton      
+ 7/25/1999    FER   L  1-2      Tudor       Tudor                   Sutcliffe   
+ 7/26/1999    LDL   W  2-1      Show        Show        Niedenfuer  McGregor    
+ 7/27/1999    LDL   W 11-3      Lea         Lea                     Seaver      
+ 8/ 1/1999    CEN   L  1-2      Candelaria  Candelaria              Niekro,J    
+ 8/ 2/1999    CEN   W  8-7      Palmer, D   Whitson                 Sanderson   
+ 8/ 3/1999    FER   L  0-2      Tudor       Tudor                   Shirley     
+ 8/ 4/1999    FER   L  2-4      Show        Show                    Andujar     
+ 8/ 5/1999    FER   L  5-6      Lea         Stoddard                Sutton      
+                     Game Results:  1982 Sunnydale Slayers
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 8/ 6/1999    LDL   W  5-4      Candelaria  Whitson                 Caldwell    
+ 8/ 7/1999    LDL   L  3-5      Palmer, D   Palmer, D               McGregor    
+ 8/ 8/1999    LDL   L  1-2  10  Tudor       Tudor                   Havens      
+ 8/ 9/1999   @NYH   L  3-6      Show        Show                    Lollar      
+ 8/10/1999   @NYH   W  5-3      Lea         Lea         Romo        Ujdur       
+ 8/11/1999   @NYH   L  3-10     Candelaria  Candelaria              Witt        
+ 8/12/1999   @BOS   W 14-9  18  Palmer, D   Anderson                Palmer      
+ 8/13/1999   @BOS   W  6-2      Tudor       Tudor                   Robinson,D  
+ 8/14/1999   @PAR   W  1-0      Show        Show        Reed,R      Valenzuela  
+ 8/15/1999   @PAR   W  9-2      Lea         Niedenfuer              Hoyt        
+ 8/16/1999   @FER   L  3-6      Candelaria  Candelaria              Sutcliffe   
+ 8/17/1999   @FER   L  6-7  10  Stuper      Reed,R                  Hammaker    
+ 8/18/1999   @FER   L  5-13     Tudor       Tudor                   Shirley     
+ 8/19/1999    PAR   W  6-5      Show        Show        Reed,R      Valenzuela  
+ 8/20/1999    PAR   W  4-3      Beckwith    Beckwith    Reed,R      Hoyt        
+ 8/22/1999    BAR   L  4-6      Whitson     Stoddard                Burns       
+ 8/24/1999    LON   W  3-2  11  Stuper      Niedenfuer              Mahler      
+ 8/25/1999    LON   W 11-1      Tudor       Tudor                   Knepper     
+ 8/26/1999    LON   L  6-7  12  Show        Reed,R                  Camp        
+ 8/27/1999    BAR   L  1-5      Lea         Lea                     Smith,B     
+ 8/28/1999    BAR   W  3-1      Candelaria  Candelaria  Reed,R      Stieb       
+ 8/29/1999    BAR   W  5-4      Stuper      Whitson                 Morris      
+ 8/30/1999   @BBG   W  3-2  10  Tudor       Reed,R                  Welch       
+ 9/ 1/1999   @JJJ   L  2-6      Show        Show                    Guidry      
+ 9/ 2/1999   @JJJ   L  1-2      Lea         Lea                     Zahn        
+ 9/ 5/1999    LON   W 10-2      Candelaria  Candelaria              Knepper     
+ 9/ 6/1999    LON   W  4-1      Stuper      Stuper      Reed,R      Camp        
+ 9/ 7/1999    LON   L  1-8      Tudor       Tudor                   Orosco      
+ 9/ 8/1999    LON   W  3-1      Show        Show        Reed,R      Rhoden      
+ 9/ 9/1999   @CIN   W  8-2      Lea         Lea                     Righetti    
+ 9/10/1999   @CIN   W  8-4      Candelaria  Niedenfuer  Beckwith    Falcone     
+ 9/14/1999   @CIN   W  3-2      Stuper      Stuper      Beckwith    Soto        
+ 9/15/1999   @FER   L  5-6      Reed,R      Reed,R                  Sutton      
+ 9/22/1999   @CTW   W  5-1      Whitson     Whitson                 Forsch, B   
+ 9/23/1999   @CTW   W  4-2      Lea         Lea                     Krukow      
+ 9/24/1999   @CTW   W 13-0      Candelaria  Candelaria              Hough       
+ 9/26/1999   @JJJ   W  9-7      Stuper      Moffitt     Beckwith    Gullickson  
+ 9/27/1999   @JJJ   L  2-6      Reed,R      Reed,R                  Guidry      
+ 9/28/1999    NYH   L  2-5      Whitson     Whitson                 Wilcox      
+ 9/30/1999   @LON   W  8-1      Lea         Lea                     Rhoden      
+10/ 2/1999    BBG   W  7-4      Candelaria  Moffitt                 Blue        
+10/ 3/1999    BBG   L  5-6      Stuper      Stuper                  Welch       
+10/ 4/1999    BBG   W  5-2      Reed,R      Reed,R      Moffitt     John        
+10/ 5/1999   @LDL   W  4-3      Whitson     Whitson     Beckwith    Eckersley   
+10/ 6/1999   @LDL   L  3-4  10  Lea         Niedenfuer              Caldwell    
+10/ 7/1999   @LDL   L  3-4  13  Candelaria  Ladd                    McGregor    
+10/ 9/1999   @LDL   W  8-4      Tudor       Tudor                   Seaver      
+10/10/1999   @LDL   L  2-3      Reed,R      Reed,R                  Gura        
+10/11/1999   @LDL   L  2-5      Whitson     Whitson                 Eckersley   
+10/12/1999   @PAR   L  3-4      Lea         Lea                     Christnson  
+10/13/1999   @PAR   L  3-4      Candelaria  Candelaria              Flanagan    
+10/14/1999   @PAR   W  4-3      Anderson    Anderson                Valenzuela  
+                     Game Results:  1982 Sunnydale Slayers
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+10/15/1999    BOS   W  8-5      Reed,R      Proly       Niedenfuer  Vuckovich   
+10/16/1999    BOS   W  8-0      Whitson     Whitson                 Palmer      
+10/17/1999    BOS   L  2-6      Lea         Lea                     Robinson,D  
+10/18/1999    CIN   W  3-2      Candelaria  Candelaria  Bailey      Soto        
+10/19/1999    CIN   L  0-2      Anderson    Anderson                Petry       
+10/20/1999    BBG   W  9-3      Proly       Proly                   Blue        
+10/21/1999    BBG   W 11-0      Whitson     Whitson                 Welch       
+10/22/1999   @BAR   W  4-0      Lea         Lea                     Tanana      
+10/23/1999   @BAR   L  2-3      Candelaria  Candelaria              Darwin      
+10/24/1999   @BAR   W  3-1      Anderson    Anderson    Bailey      Stieb       
+10/25/1999   @BAR   W  4-1      Proly       Proly       Bailey      Morris      
+10/26/1999   @NYH   L  5-6  10  Whitson     Niedenfuer              Wilcox      
+10/27/1999   @NYH   W  5-0      Lea         Niedenfuer              Ryan        
+10/28/1999   @CTW   W  8-7      Candelaria  Bailey                  Krukow      
+10/29/1999   @CTW   W  8-2      Anderson    Anderson                Forsch, B   
+10/30/1999    JJJ   W  2-1      Proly       Proly                   Zahn        
+10/31/1999    JJJ   L  1-5      Tudor       Tudor                   Jenkins     
+11/ 1/1999    JJJ   W  9-8      Lea         Reed,R                  Dotson      
+11/ 2/1999    LDL   L  4-6      Candelaria  Candelaria              Eckersley   
+11/ 3/1999    LDL   W  3-1      Anderson    Anderson    Niedenfuer  Caldwell    
+11/ 4/1999   @LON   L  5-6      Proly       Reed,R                  Knepper     
+11/ 5/1999   @LON   W  5-2      Tudor       Tudor       Reed,R      Bird        
+11/ 6/1999   @LON   L  2-3  11  Lea         Niedenfuer              Koosman     
+11/ 7/1999    NYH   W 13-1      Candelaria  Candelaria              Ujdur       
+11/ 8/1999    NYH   W  3-2  14  Anderson    Ladd                    Witt        
+11/ 9/1999    NYH   W  2-1      Proly       Proly       Reed,R      Kison       
+11/10/1999   @LON   W  9-1      Tudor       Tudor                   Leibrandt   
+11/11/1999   @LON   L  0-5      Show        Show                    Koosman     
+11/14/1999    PAR   L  1-3      Lea         Lea                     Hoyt        
+11/15/1999    PAR   L  3-4      Anderson    Anderson                Niekro, P   
+11/16/1999    CIN   L  4-6      Proly       Proly                   Petry       
+11/17/1999    CIN   L  4-5      Tudor       Niedenfuer              Berenyi     
+11/19/1999   @CEN   W  5-2      Show        Show        Reed,R      Sanderson   
+11/20/1999   @CEN   L  2-5      Candelaria  Candelaria              Forsch, K   
+11/21/1999   @CEN   W 10-4      Anderson    Diaz                    McWilliams  
+11/22/1999    BAR   W  5-3      Lea         Lea         Reed,R      Black       
+11/23/1999    BAR   W  6-5      Proly       Niedenfuer  Diaz        Stieb       
+11/24/1999    BAR   L  2-8      Stuper      Stuper                  Morris      
+11/26/1999   @BAR   L  6-8      Show        Show                    Tanana      
+11/27/1999   @BAR   L  0-1      Anderson    Anderson                Burns       
+11/28/1999    CTW   W  4-2      Lea         Lea         Reed,R      Hurst       
+11/29/1999    CTW   W 12-4      Candelaria  Candelaria              Forsch, B   
+12/ 2/1999   @CTW   L  0-6      Show        Show                    Hurst       
+12/ 3/1999   @CTW   W  3-0      Candelaria  Candelaria              Forsch, B   
+12/ 4/1999   @GCP   W  5-0      Tudor       Tudor                   Barker      
+12/ 5/1999   @GCP   L  3-4      Palmer, D   Palmer, D               Montefusco  
+12/ 6/1999   @GCP   W 16-7      Stuper      Ladd                    Rawley      
+12/ 7/1999   @CEN   W  1-0      Show        Show                    Sanderson   
+12/ 8/1999   @CEN   W  2-1      Anderson    Anderson                Forsch, K   
+12/11/1999    JJJ   W 10-5      Tudor       Tudor                   Price       
+12/12/1999    JJJ   L  4-7      Show        Show                    Schmidt     
+12/13/1999   @LON   W  8-5      Anderson    Anderson    Reed,R      Rucker      
+                     Game Results:  1982 Sunnydale Slayers
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+12/14/1999   @LON   L  0-3      Proly       Proly                   Koosman     
+12/15/1999   @LON   W  5-3      Beckwith    Beckwith    Reed,R      Bird        
+12/16/1999    BOS   L  2-3      Tudor       Tudor                   Carlton     
+12/17/1999    BOS   W  7-6  10  Candelaria  Stuper                  LaPoint     
+12/18/1999    BAR   W  5-3      Anderson    Anderson    Stuper      Burns       
+12/19/1999    BAR   L  0-1      Proly       Proly                   Stieb       
+                       Injury Log: 1982 Sunnydale Slayers
+                                        
+ 
+-- Date -- #  Player      Cause                 Length
+ 
+ 7/ 8/1999    Grubb       Hit by pitch            19
+ 7/ 8/1999    Reed,R      General                 12
+ 7/25/1999    Whitaker    General                  9
+ 8/15/1999    Roenicke    General                  8
+ 8/15/1999    Lea         General                 10
+ 8/16/1999    Candelaria  General                 10
+ 8/18/1999    Proly       General                  6
+ 9/ 5/1999    Brett       General                  3
+ 9/28/1999    Grubb       Hit by pitch            31
+ 9/30/1999    Wockenfuss  General                  3
+10/ 3/1999    Tenace      Collision on bases       1
+10/ 9/1999    Tudor       General                 10
+10/17/1999    Lynn        Collision on bases       6
+10/31/1999    Zisk        General                  2
+11/ 4/1999    Mulliniks   General                  0
+11/14/1999    Brunansky   General                  3
+11/16/1999    Cedeno      General                  0
+11/22/1999    Brett       General                  0
+11/23/1999    Proly       General                 15
+11/23/1999    Reed,R      General                  0
+11/24/1999    Grubb       General                  9
+12/ 6/1999    Cedeno      General                  2
+12/12/1999    Grubb       Hit by pitch             0
+12/13/1999    Brunansky   General                  4
+              DMB League Transaction Log:  1982 Sunnydale Slayers
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+ 6/13/1999  SUN    Farm         Ken Phelps          
+ 6/13/1999  SUN    Promote      Cesar Cedeno        
+ 7/ 8/1999  SUN    Promote      Mike Proly          
+ 7/ 8/1999  SUN    Promote      Joe Beckwith        
+ 7/ 8/1999  SUN    Farm         Tom Henke           
+ 7/ 8/1999  SUN    DL           Ron Reed              effective  7/ 9/1999  
+ 8/ 8/1999  SUN    Farm         Jim Dwyer           
+ 8/ 8/1999  SUN    Promote      Champ Summers       
+ 8/11/1999  SUN    Farm         Vicente Romo        
+ 8/11/1999  SUN    Promote      Bud Anderson        
+ 8/12/1999  SUN    Activate     Ron Reed            
+ 8/12/1999  SUN    Promote      Luis Aguayo         
+ 8/12/1999  SUN    Farm         Bud Anderson        
+ 8/12/1999  SUN    Farm         Champ Summers       
+ 8/15/1999  SUN    Promote      John Stuper         
+ 8/15/1999  SUN    Farm         David Palmer        
+ 9/ 8/1999  SUN    Farm         Eric Show           
+ 9/ 8/1999  SUN    Farm         John Tudor          
+ 9/ 8/1999  SUN    Farm         Luis Aguayo         
+ 9/ 8/1999  SUN    Promote      Peter Ladd          
+ 9/ 8/1999  SUN    Promote      Randy Moffitt       
+ 9/ 8/1999  SUN    Promote      Gene Tenace         
+ 9/28/1999  SUN    DL           John Grubb            effective  9/29/1999  
+ 9/28/1999  SUN    Promote      Champ Summers       
+10/ 5/1999  SUN    Farm         Tim Stoddard        
+10/ 5/1999  SUN    Farm         John Stuper         
+10/ 5/1999  SUN    Promote      John Tudor          
+10/ 5/1999  SUN    Promote      Howard Bailey       
+10/ 9/1999  SUN    DL           John Tudor            effective 10/10/1999  
+10/ 9/1999  SUN    Promote      Bud Anderson        
+10/27/1999  SUN    Activate     John Tudor          
+10/27/1999  SUN    Promote      John Wathan         
+10/27/1999  SUN    Promote      Carlos Diaz         
+10/27/1999  SUN    Farm         Eddie Whitson       
+10/27/1999  SUN    Farm         Rick Monday         
+10/27/1999  SUN    Farm         John Wockenfuss     
+10/27/1999  SUN    Farm         Joe Beckwith        
+11/ 1/1999  SUN    Activate     John Grubb          
+11/ 4/1999  SUN    Farm         Howard Bailey       
+11/ 4/1999  SUN    Promote      Eric Show           
+11/14/1999  SUN    Promote      Luis Aguayo         
+11/14/1999  SUN    Promote      Rick Monday         
+11/14/1999  SUN    Promote      John Stuper         
+11/22/1999  SUN    Farm         Luis Aguayo         
+11/28/1999  SUN    Farm         Charlie Lea         
+12/ 2/1999  SUN    Promote      David Palmer        
+12/ 5/1999  SUN    Farm         Ernie Whitt         
+12/ 5/1999  SUN    Farm         David Palmer        
+12/ 9/1999  SUN    Promote      Joe Beckwith        
+12/12/1999  SUN    Farm         Gary Roenicke       
+12/12/1999  SUN    Farm         Eric Show           
+12/13/1999  SUN    Sign         Dave Roberts        
+              DMB League Transaction Log:  1982 Sunnydale Slayers
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+12/15/1999  SUN    Farm         Joe Beckwith        
+12/15/1999  SUN    Farm         Randy Moffitt       
+12/16/1999  SUN    Promote      John Wockenfuss     
+12/17/1999  SUN    Farm         George Brett        
+12/17/1999  SUN    Farm         John Wockenfuss     
+12/17/1999  SUN    Farm         Ron Reed            
+12/18/1999  SUN    Farm         Gene Tenace         
+12/18/1999  SUN    Farm         Bud Anderson        
+
+

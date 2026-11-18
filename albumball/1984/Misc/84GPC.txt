@@ -1,0 +1,799 @@
+   	 	 	 	 	 	
+					
+> INTERNATIONAL DIVISION > GARMSISCH-PARTENKIRCHEN
+CHIM-CHIM
+
+  » EASTERN DIVISION
+  » WESTERN DIVISION
+    » Directory, Constitution, Record Book, etc.
+	
+
+               DMB League Batting Statistics:  1984 GP Chim-Chim
+                                        
+ 
+ NAME         AVG   OBP   SPC   G  AB   H 2B 3B HR   R RBI  BB   K HB IW  SB CS
+ 
+rValle       .429  .429  .667   5  21   9  2  0  1   2   5   0   2  0  0   0  0 
+rHebner      .382  .444  .528  29  89  34  5  1  2  12  12  10  24  0  1   1  1 
+rCorcoran    .367  .445  .550  65 229  84 17  2  7  46  34  33  31  0  2   0  0 
+ Moses       .333  .375  .429   7  21   7  2  0  0   4   4   2   3  0  0   0  0 
+ Washington  .333  .422  .333  11  39  13  0  0  0   4   3   6   7  0  0   1  4 
+cWashington  .275  .362  .406 121 404 111 13  2 12  58  53  54  76  3  0  14 11 
+rBaines      .332  .383  .606 150 602 200 40 13 33 114 114  52  97  1  3   2  2 
+ Lacy        .320  .356  .502 121 331 106 21  6  9  48  49  17  48  2  1   8  5 
+ Bell        .312  .384  .449 133 365 114 16  8  6  59  49  42  44  2  0   1  4 
+rTrammell    .310  .372  .469 147 584 181 45  9 10  88  75  59  85  3  4  23 15 
+ Davis,C     .310  .342  .517 141 491 152 22 10 20  81  70  24  81  0  2  12  5 
+rPendleton   .308  .345  .365  57 208  64  4  1  2  33  15  13  34  0  1  19  9 
+ Gedman      .295  .354  .546  57 207  61 16  0 12  34  40  17  42  2  0   0  0 
+ Johnson     .290  .366  .489 123 372 108 18  4 16  67  70  44  64  2  1   0  0 
+ Walker      .286  .338  .544 106 294  84 20  1 18  52  57  23  42  0  1   2  5 
+ Lemon       .284  .344  .491 124 232  66 18  3  8  35  37  22  47  0  0   2  2 
+ Washington  .280  .321  .347  24  75  21  3  1  0   7   5   3  19  2  0   0  0 
+rBando       .275  .333  .455  67 222  61 10  0 10  23  35  21  31  0  1   1  2 
+ Brenly      .268  .323  .389  67 198  53 12  0  4  21  21  17  26  1  0   1  3 
+rKrenchicki  .251  .318  .372  66 191  48  8  0  5  26  23  20  34  0  1   0  0 
+ Barrett     .250  .312  .305 129 452 113 16  3  1  48  36  40  40  2  7   1  1 
+ Dilone      .250  .333  .375   4   8   2  1  0  0   3   0   1   1  0  0   3  0 
+ Bannister   .247  .310  .338  57  77  19  1  0  2   9  10   7  16  0  0   1  1 
+ Francona    .227  .227  .386  27  44  10  3  2  0   5   2   0   6  0  0   0  0 
+cFrancona    .353  .374  .494 128 170  60 13  4  1  23  21   4  14  3  0   0  0 
+ 
+ Knepper     .333  .385  .500   7  12   4  0  1  0   0   0   1   3  0  0   0  0 
+ Rhoden      .302  .327  .396  27  53  16  2  0  1   7   7   2  12  0  0   0  0 
+ Mahler      .264  .291  .340  23  53  14  4  0  0   5   5   2  11  0  0   0  0 
+rThurmond    .233  .233  .250  26  60  14  1  0  0   3   3   0  16  0  0   0  0 
+ Gooden      .233  .263  .247  31  73  17  1  0  0   6   4   2  20  1  0   0  0 
+ Mason       .193  .193  .211  27  57  11  1  0  0   2   2   0  22  0  0   0  0 
+rPena        .158  .190  .158  29  76  12  0  0  0   6   8   2  22  1  0   0  0 
+ Sutter      .125  .125  .125  59  16   2  0  0  0   1   1   0   7  0  0   0  0 
+ Corbett     .077  .077  .154  54  13   1  1  0  0   1   3   0   3  0  0   0  0 
+ Black       .071  .133  .071   6  14   1  0  0  0   0   0   1   6  0  0   0  0 
+cBlack       .153  .161  .188  36  85  13  1  1  0   3   3   1  26  0  0   1  0 
+ Sisk        .000  .000  .000  41   2   0  0  0  0   0   0   0   1  0  0   0  0 
+ Rucker      .000  .200  .000  29   4   0  0  0  0   2   0   1   0  0  0   0  0 
+ Citarella   .000  .000  .000   3   0   0  0  0  0   0   0   0   0  0  0   0  0 
+ Solano      .000  .000  .000  25   2   0  0  0  0   0   1   0   0  0  0   0  0 
+ Orosco      .000  .000  .000  66   5   0  0  0  0   0   0   0   1  0  0   0  0 
+
+ Team Total  .294  .348  .456 162    1702    65    854     484     19     78
+                                 5792    310   167     800     948    25     59
+               DMB League Batting Statistics:  1984 GP Chim-Chim
+                                        
+ 
+ NAME         GS  SH  SF  GDP  CI  GW     RC   RC27    ISO   TAVG    TB CHS LHS
+ 
+rValle         5   0   0    0   0   0    6.0   13.5   .238  1.167    14   5   5
+rHebner       23   0   0    1   0   1   21.2   10.0   .146  1.018    47   1   6
+rCorcoran     57   0   1    5   0   6   57.3   10.2   .183  1.060   126   5   6
+ Moses         5   0   1    0   0   0    3.8    6.8   .095   .786     9   1   3
+ Washington   10   0   0    1   0   0    4.7    4.1   .000   .645    13   0   2
+cWashington  105   0   3   13   0   6   58.2    4.9   .131   .741   164   0   6
+rBaines      148   0   5   12   0  16  138.2    8.9   .274  1.010   365   0  12
+ Lacy         74  11   1    7   0   3   56.5    6.1   .181   .814   166   4  13
+ Bell         87   0   2   13   0  10   60.7    6.1   .137   .780   164   0   9
+rTrammell    144   3   8    5   0   5  104.1    6.5   .159   .849   274   0  13
+ Davis,C     114   2   0   19   0  11   78.5    5.8   .208   .799   254   1  12
+rPendleton    47   0   2    2   0   0   26.6    4.6   .058   .697    76   3   8
+ Gedman       56   1   0    4   0   2   39.7    7.1   .251   .880   113   1   7
+ Johnson      88   0   3   11   0  12   66.3    6.4   .199   .829   182   2   7
+ Walker       69   0   0    9   0   5   48.9    5.9   .259   .826   160   6   6
+ Lemon        54   0   2    3   0   3   39.5    6.2   .207   .807   114   0   8
+ Washington   21   2   1    1   0   0    8.7    4.0   .067   .564    26   2   5
+rBando        54   1   3    9   0   8   31.3    4.8   .180   .715   101   4  14
+ Brenly       48   0   4    3   0   3   24.9    4.3   .121   .636    77   6   6
+rKrenchicki   45   0   3    2   0   1   23.9    4.4   .120   .628    71   2   7
+ Barrett     125   2   3    6   0   5   44.6    3.4   .055   .523   138   0  10
+ Dilone        2   0   0    0   0   0    1.6    7.2   .125  1.167     3   1   1
+ Bannister    12   0   0    1   0   2    8.1    3.6   .091   .567    26   1   6
+ Francona      8   1   0    2   0   1    3.1    2.3   .159   .472    17   1   4
+cFrancona     23   4   2    3   0   4   31.1    7.1   .141   .805    84   1   9
+ 
+ Knepper       7   0   0    1   0   0    1.9    5.8   .167   .778     6   0   1
+ Rhoden       20   4   0    2   0   0    6.4    4.0   .094   .590    21   0   3
+ Mahler       23   5   0    1   0   1    5.3    3.2   .075   .500    18   0   4
+rThurmond     26   5   0    0   0   0    3.8    2.0   .017   .326    15   0   3
+ Gooden       30  10   0    1   0   1    5.3    2.1   .014   .368    18   0   3
+ Mason        21   1   0    5   0   0    1.3    0.7   .018   .235    12   1   3
+rPena         29   6   0    4   0   0    2.1    0.8   .000   .221    12   2   2
+ Sutter        0   0   0    0   0   0    0.3    0.5   .000   .143     2   0   2
+ Corbett       0   0   0    0   0   1    0.2    0.3   .077   .167     2   1   1
+ Black         6   0   0    0   0   0    0.2    0.3   .000   .154     1   0   1
+cBlack        36   1   1    0   0   0    2.8    1.0   .035   .250    16   0   3
+ Sisk          0   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+ Rucker        0   0   0    0   0   0    0.1    0.4   .000   .250     0   0   0
+ Citarella     0   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+ Solano        0   0   1    0   0   1    0.0    0.0   .000   .000     0   0   0
+ Orosco        0   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+
+ Team Total  162  54  40  130   0  98  901.4    5.6   .162   .753  2643
+             DMB League Batting Splits:  1984 GP Chim-Chim-- vsLHP
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+rCorcoran     .575  .638  .775    40   23    5    0    1   10    7    9   0   0
+ Washington   .500  .571  .500     6    3    0    0    0    1    1    1   0   0
+cWashington   .274  .336  .341   135   37    6    0    1   19   12   28   0   1
+rHebner       .400  .600  .400    10    4    0    0    0    1    5    4   0   0
+ Bell         .390  .454  .560   182   71   10    6    3   28   23   11   0   2
+rBando        .337  .355  .485   101   34    3    0    4   18    4   13   1   2
+rValle        .333  .333  .333     3    1    0    0    0    0    0    0   0   0
+ Johnson      .331  .424  .517   172   57   14    3    4   31   29   27   0   2
+ Lacy         .316  .367  .529   174   55    9    5    6   24   14   19   7   0
+rTrammell     .308  .397  .498   201   62   19    2    5   26   29   18   1   1
+rBaines       .299  .338  .528   197   59    5    5   10   37   12   37   0   3
+ Lemon        .292  .342  .481   185   54   14    0    7   28   15   37   0   2
+ Bannister    .283  .313  .435    46   13    1    0    2    7    2   10   0   0
+ Davis,C      .279  .310  .368    68   19    6    0    0    5    3    7   1   0
+ Gedman       .259  .355  .315    54   14    3    0    0    5    6   22   0   0
+ Brenly       .250  .308  .300    60   15    3    0    0    1    5    3   0   0
+ Moses        .250  .250  .250     4    1    0    0    0    1    0    1   0   0
+ Barrett      .248  .292  .275   149   37    2    1    0   13   10   10   0   2
+rKrenchicki   .211  .211  .237    38    8    1    0    0    4    0   18   0   0
+ Washington   .185  .214  .222    27    5    1    0    0    2    1    6   2   0
+ Walker       .136  .269  .182    22    3    1    0    0    2    4    6   0   0
+rPendleton    .136  .231  .182    22    3    1    0    0    2    3    6   0   1
+ Francona     .083  .083  .250    12    1    0    1    0    0    0    2   0   0
+cFrancona     .262  .279  .310    42   11    0    1    0    3    0    4   1   0
+ Dilone       .000  .167  .000     5    0    0    0    0    0    1    1   0   0
+ 
+ Gooden       .300  .333  .350    20    6    1    0    0    1    1    4   3   0
+ Mahler       .300  .300  .400    20    6    2    0    0    4    0    4   3   0
+rPena         .214  .290  .214    28    6    0    0    0    5    2   10   3   0
+rThurmond     .185  .185  .222    27    5    1    0    0    1    0    8   2   0
+ Mason        .174  .174  .174    23    4    0    0    0    2    0   10   0   0
+ Rhoden       .125  .222  .125     8    1    0    0    0    0    1    4   0   0
+ Rucker       .000  .000  .000     2    0    0    0    0    0    0    0   0   0
+ Sutter       .000  .000  .000     6    0    0    0    0    0    0    2   0   0
+ Orosco       .000  .000  .000     3    0    0    0    0    0    0    0   0   0
+ Knepper      .000  .000  .000     1    0    0    0    0    0    0    1   0   0
+ Black        .000  .000  .000     3    0    0    0    0    0    0    1   0   0
+cBlack        .152  .152  .182    33    5    1    0    0    1    0   11   0   0
+ Corbett      .000  .000  .000     5    0    0    0    0    0    0    0   0   0
+ 
+ Team Total   .296  .351  .439  1924  570  102   23   42  259  178  312  23  15
+             DMB League Batting Splits:  1984 GP Chim-Chim-- vsRHP
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Dilone       .667  .667 1.000     3    2    1    0    0    0    0    0   0   0
+rValle        .444  .444  .722    18    8    2    0    1    5    0    2   0   0
+rHebner       .380  .417  .544    79   30    5    1    2   11    5   20   0   0
+ Moses        .353  .400  .471    17    6    2    0    0    3    2    2   0   1
+rBaines       .348  .405  .644   405  141   35    8   23   77   40   60   0   2
+ Washington   .333  .377  .417    48   16    2    1    0    3    2   13   0   1
+rPendleton    .328  .360  .387   186   61    3    1    2   13   10   28   0   1
+ Lacy         .325  .344  .471   157   51   12    1    3   25    3   29   4   1
+rCorcoran     .323  .403  .503   189   61   12    2    6   24   26   22   0   1
+ Davis,C      .314  .347  .541   423  133   16   10   20   65   21   74   1   0
+rTrammell     .311  .358  .454   383  119   26    7    5   49   30   67   2   7
+ Gedman       .307  .354  .627   153   47   13    0   12   35   11   20   1   0
+ Washington   .303  .395  .303    33   10    0    0    0    2    5    6   0   0
+cWashington   .275  .375  .439   269   74    7    2   11   34   42   48   0   2
+ Walker       .298  .344  .574   272   81   19    1   18   55   19   36   0   0
+ Francona     .281  .281  .438    32    9    3    1    0    2    0    4   1   0
+cFrancona     .383  .404  .555   128   49   13    3    1   18    4   10   3   2
+ Brenly       .275  .329  .428   138   38    9    0    4   20   12   23   0   4
+rKrenchicki   .261  .341  .405   153   40    7    0    5   19   20   16   0   3
+ Lemon        .255  .352  .532    47   12    4    3    1    9    7   10   0   0
+ Johnson      .255  .312  .465   200   51    4    1   12   39   15   37   0   1
+ Barrett      .251  .321  .320   303   76   14    2    1   23   30   30   2   1
+ Bell         .235  .314  .339   183   43    6    2    3   21   19   33   0   0
+rBando        .223  .317  .430   121   27    7    0    6   17   17   18   0   1
+ Bannister    .194  .306  .194    31    6    0    0    0    3    5    6   0   0
+ 
+ Knepper      .364  .417  .545    11    4    0    1    0    0    1    2   0   0
+ Rhoden       .333  .348  .444    45   15    2    0    1    7    1    8   4   0
+rThurmond     .273  .273  .273    33    9    0    0    0    2    0    8   3   0
+ Mahler       .242  .286  .303    33    8    2    0    0    1    2    7   2   0
+ Gooden       .208  .236  .208    53   11    0    0    0    3    1   16   7   0
+ Mason        .206  .206  .235    34    7    1    0    0    0    0   12   1   0
+ Sutter       .200  .200  .200    10    2    0    0    0    1    0    5   0   0
+rPena         .125  .125  .125    48    6    0    0    0    3    0   12   3   0
+ Corbett      .125  .125  .250     8    1    1    0    0    3    0    3   0   0
+ Black        .091  .167  .091    11    1    0    0    0    0    1    5   0   0
+cBlack        .154  .167  .192    52    8    0    1    0    2    1   15   1   1
+ Rucker       .000  .333  .000     2    0    0    0    0    0    1    0   0   0
+ Orosco       .000  .000  .000     2    0    0    0    0    0    0    1   0   0
+ Sisk         .000  .000  .000     2    0    0    0    0    0    0    1   0   0
+ Solano       .000  .000  .000     2    0    0    0    0    1    0    0   0   1
+ 
+ Team Total   .293  .342  .465  3868 1132  208   42  125  541  306  636  31  25
+        DMB League Games Started by Position:  1984 GP Chim-Chim-- vsLHP
+                                        
+ 
+ NAME           C   1B   2B   3B   SS   LF   CF   RF
+ 
+rBaines         0    0    0    0    0    0    0   45
+rBando         27    0    0    0    0    0    0    0
+ Bannister      0    2    4    0    1    0    0    2
+ Barrett        0    0   40    0    0    0    0    0
+ Bell           0    0    0   51    0    0    0    0
+ Brenly        13    0    0    0    0    0    0    0
+ Davis,C        0    0    0    0    0    0    0    5
+ Dilone         0    0    0    0    0    2    0    0
+ Gedman        12    0    0    0    0    0    0    0
+rHebner         0    0    0    1    0    0    0    0
+ Johnson        0   48    0    0    0    0    0    0
+rKrenchicki     0    0    3    0    0    0    0    0
+ Lacy           0    0    0    0    0   50    0    0
+ Lemon          0    0    0    0    0    0   52    0
+rTrammell       0    0    0    0   49    0    0    0
+ Washington     0    0    5    0    2    0    0    0
+ Francona       0    2    0    0    0    0    0    0
+CFrancona       0    6    0    0    0    0    0    0
+ 
+ Team Total    52   52   52   52   52   52   52   52
+        DMB League Games Started by Position:  1984 GP Chim-Chim-- vsRHP
+                                        
+ 
+ NAME           C   1B   2B   3B   SS   LF   CF   RF
+ 
+rBaines         0    0    0    0    0    0    0  103
+rBando         27    0    0    0    0    0    0    0
+ Bannister      0    0    0    2    1    0    0    0
+ Barrett        0    0   85    0    0    0    0    0
+ Bell           0    0    0   36    0    0    0    0
+ Brenly        34    0    0    0    0    1    0    0
+rCorcoran       0    0    0    0    0   57    0    0
+ Davis,C        0    0    0    0    0    0  109    0
+ Gedman        44    0    0    0    0    0    0    0
+rHebner         0    0    0    7    0   15    0    0
+ Johnson        0   40    0    0    0    0    0    0
+rKrenchicki     0    1   23   18    0    0    0    0
+ Lacy           0    0    2    0    0   22    0    0
+ Lemon          0    0    0    0    0    0    1    1
+ Moses          0    0    0    0    0    5    0    0
+rPendleton      0    0    0   47    0    0    0    0
+rTrammell       0    0    0    0   95    0    0    0
+rValle          5    0    0    0    0    0    0    0
+ Walker         0   69    0    0    0    0    0    0
+ Washington     0    0    0    0   14    0    0    0
+ Washington     0    0    0    0    0   10    0    0
+CWashington     0    0    0    0    0   10    0   61
+ Francona       0    0    0    0    0    0    0    6
+CFrancona       0    8    0    0    2    1    0    6
+ 
+ Team Total   110  110  110  110  110  110  110  110
+               DMB League Pitching Statistics:  1984 GP Chim-Chim
+                                        
+ 
+ NAME         ERA  W  L  S   G GS CG SH    IP   H   R  ER  BB   K   BF HR WP DP
+ 
+ Citarella   0.00  0  0  0   3  0  0  0   0.2   2   0   0   0   0    4  0  0  0
+ Orosco      1.84  7  6 31  66  0  0  0  78.1  58  24  16  28  86  321  2  4  2
+ Rucker      2.55  3  1  3  29  0  0  0  35.1  37  14  10  16  23  157  2  0  0
+ Gooden      2.55 15  5  0  31 30  3  1 212.0 159  65  60  86 290  872 14  2  7
+rPena        3.13 14  5  0  29 29  7  3 210.0 181  83  73  49 150  854 16  2  9
+rThurmond    3.23 12  5  0  26 26  2  1 173.0 174  69  62  62  53  739 11  2 18
+ Corbett     3.28  6  4  4  54  0  0  0  90.2  87  36  33  17  62  364  4  4 11
+ Sutter      3.52  7  4  4  59  0  0  0  92.0 119  41  36  17  53  400  9  1 14
+ Mason       3.79 10  4  1  27 21  4  1 144.2 129  70  61  47 111  606 22  4  8
+ Sisk        4.10  3  2  2  41  0  0  0  41.2  40  20  19  34  25  189  2  0 12
+ Mahler      4.19  9  7  0  23 23  3  1 152.2 140  76  71  42  90  626 17  3 16
+ Black       4.22  3  1  0   6  6  1  0  42.2  42  20  20   9  18  178  3  0  1
+cBlack       4.19 15 12  0  36 36  8  2 225.2 243 116 105  52 131  969 25  1 12
+ Rhoden      5.13  8  9  0  20 20  3  0 128.0 144  79  73  49  81  567  9  8  8
+ Solano      5.29  5  4  3  25  0  0  0  32.1  30  21  19  18  15  141  7  0  3
+ Knepper     5.84  2  1  0   7  7  0  0  37.0  41  25  24  10  17  159  6  2  2
+
+ Team Total  3.53    58    162    23   1471.0     643     484     6177    32
+                 104    48    162     8      1383     577    1074     124   111
+ 
+ 
+ NAME          IW HBP  WP  BK  CI   H/9  BB/9   R/9   K/9  HR/9
+ 
+ Citarella      0   0   0   0   0  27.0   0.0  27.0   0.0   0.0
+ Orosco         2   2   4   2   0   6.7   3.2  10.1   9.9   0.2
+ Rucker         0   1   0   0   0   9.4   4.1  13.8   5.9   0.5
+ Gooden         1   3   2   7   0   6.8   3.7  10.5  12.3   0.6
+rPena           1   5   2   2   0   7.8   2.1  10.1   6.4   0.7
+rThurmond       3   3   2   1   0   9.1   3.2  12.4   2.8   0.6
+ Corbett        0   1   4   0   0   8.6   1.7  10.4   6.2   0.4
+ Sutter         3   0   1   0   1  11.6   1.7  13.3   5.2   0.9
+ Mason          1   4   4   0   0   8.0   2.9  11.2   6.9   1.4
+ Sisk           0   0   0   0   0   8.6   7.3  16.0   5.4   0.4
+ Mahler         1   6   3   1   0   8.3   2.5  11.1   5.3   1.0
+ Black          0   0   0   0   0   8.9   1.9  10.8   3.8   0.6
+cBlack          0   1   1   3   0   9.7   2.1  11.8   5.2   1.0
+ Rhoden         0   2   8   1   0  10.1   3.4  13.7   5.7   0.6
+ Solano         0   0   0   1   0   8.4   5.0  13.4   4.2   1.9
+ Knepper        0   0   2   0   0  10.0   2.4  12.4   4.1   1.5
+
+ Team Total    12  27  32  15   1   8.5   3.0  11.6   6.6   0.8
+               DMB League Pitching Statistics:  1984 GP Chim-Chim
+                                        
+ 
+ NAME         AVG   OBP   SPC   BF   AB    H  2B  3B  HR   TB  SH  SF
+ 
+ Citarella   .500  .500  .500    4    4    2   0   0   0    2   0   0
+ Orosco      .201  .275  .278  321  288   58  16   0   2   80   1   2
+ Rucker      .266  .344  .338  157  139   37   2   1   2   47   0   1
+ Gooden      .204  .286  .311  872  778  159  19  11  14  242   5   0
+rPena        .229  .276  .353  854  791  181  46   2  16  279   4   5
+rThurmond    .260  .324  .357  739  669  174  26   3  11  239   2   3
+ Corbett     .254  .289  .360  364  342   87  18   3   4  123   1   3
+ Sutter      .316  .343  .434  400  376  119  11   3   9  163   2   4
+ Mason       .234  .298  .397  606  552  129  10   7  22  219   2   1
+ Sisk        .260  .394  .318  189  154   40   3   0   2   49   1   0
+ Mahler      .244  .301  .368  626  573  140  18   1  17  211   1   4
+ Black       .249  .287  .373  178  169   42   8   2   3   63   0   0
+cBlack       .267  .306  .396  969  911  243  37   3  25  361   1   4
+ Rhoden      .282  .345  .412  567  510  144  33   3   9  210   2   4
+ Solano      .244  .340  .423  141  123   30   1   0   7   52   0   0
+ Knepper     .279  .325  .497  159  147   41  12   1   6   73   2   0
+
+ Team Total  .246  .308  .365      5615      223     124       23
+                              6177      1383      37     2052      27
+ 
+ 
+ NAME          GS  CG   CG% SHo  QS   QS%   RS RS/G  RL RLS   RL%
+ 
+ Citarella      0   0  .000   0   0  .000    0  0.0   1   0  .000
+ Orosco         0   0  .000   0   0  .000    0  0.0   2   0  .000
+ Rucker         0   0  .000   0   0  .000    0  0.0  14   5  .357
+ Gooden        30   3  .100   1  25  .833  173  5.8   9   4  .444
+rPena          29   7  .241   3  16  .552  158  5.4  18   4  .222
+rThurmond      26   2  .077   1  18  .692  130  5.0  18   7  .389
+ Corbett        0   0  .000   0   0  .000    0  0.0  15   8  .533
+ Sutter         0   0  .000   0   0  .000    0  0.0  30   7  .233
+ Mason         21   4  .190   1  11  .524  105  5.0  13   3  .231
+ Sisk           0   0  .000   0   0  .000    0  0.0  21   8  .381
+ Mahler        23   3  .130   1  11  .478  127  5.5  12   5  .417
+ Black          6   1  .167   0   3  .500   28  4.7   5   2  .400
+cBlack         36   8  .222   2  19  .528  155  4.3  22  11  .500
+ Rhoden        20   3  .150   0  11  .550   90  4.5  17   6  .353
+ Solano         0   0  .000   0   0  .000    0  0.0   3   0  .000
+ Knepper        7   0  .000   0   3  .429   43  6.1   6   3  .500
+
+ Team Total   162      .142      98        854      184      .337
+                   23         8      .605       5.3      62
+               DMB League Pitching Statistics:  1984 GP Chim-Chim
+                                        
+ 
+ NAME         SvO  Sv   Sv%  BSv  BSv%  IR  IRS   IR%    G  RA   RA%  GF   GF%
+ 
+ Citarella      2   0  .000    0  .000   3    1  .333    3   3 1.000   1  .333
+ Orosco        40  31  .775    8  .200  42    7  .167   66  66 1.000  52  .788
+ Rucker         8   3  .375    1  .125  24   12  .500   29  29 1.000   6  .207
+ Gooden         0   0  .000    0  .000   1    0  .000   31   1  .032   1 1.000
+rPena           0   0  .000    0  .000   0    0  .000   29   0  .000   0  .000
+rThurmond       0   0  .000    0  .000   0    0  .000   26   0  .000   0  .000
+ Corbett       10   4  .400    2  .200  35    5  .143   54  54 1.000  27  .500
+ Sutter        10   4  .400    1  .100  39   21  .538   59  59 1.000  19  .322
+ Mason          1   1 1.000    0  .000   2    0  .000   27   6  .222   5  .833
+ Sisk          12   2  .167    0  .000  25    7  .280   41  41 1.000  16  .390
+ Mahler         0   0  .000    0  .000   0    0  .000   23   0  .000   0  .000
+ Black          0   0  .000    0  .000   0    0  .000    6   0  .000   0  .000
+cBlack          0   0  .000    0  .000   0    0  .000   36   0  .000   0  .000
+ Rhoden         0   0  .000    0  .000   0    0  .000   20   0  .000   0  .000
+ Solano         8   3  .375    2  .250  13    9  .692   25  25 1.000  12  .480
+ Knepper        0   0  .000    0  .000   0    0  .000    7   0  .000   0  .000
+
+ Team Total    91      .527       .154       62        446      .637      .489
+                   48         14       184       .337      284       139
+             DMB League Pitching Splits:  1984 GP Chim-Chim-- vsLHB
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Citarella    .000  .000  .000     1    0    0    0    0    0    0    0   0   0
+ Black        .139  .162  .250    36    5    1    0    1    3    1    3   0   0
+cBlack        .229  .280  .291   179   41    2    0    3   15   13   24   1   1
+ Orosco       .185  .232  .185    65   12    0    0    0    4    3   24   0   0
+rThurmond     .197  .276  .238   147   29    3    0    1    7   16   17   0   0
+ Sutter       .203  .231  .273   172   35    1    1    3   20    7   23   0   3
+ Sisk         .215  .420  .277    65   14    1    0    1    7   23    5   0   0
+rPena         .227  .283  .328   415   94   25    1    5   38   32   63   3   3
+ Gooden       .229  .326  .332   367   84   10    5    6   32   51   99   4   0
+ Mason        .255  .336  .302   106   27    2    0    1    2   13   22   0   0
+ Mahler       .258  .324  .419   298   77    6    0   14   45   28   42   1   2
+ Corbett      .269  .302  .401   182   49   13    1    3   17    9   14   0   1
+ Rucker       .275  .362  .392    51   14    1    1    1   11    6   14   0   0
+ Rhoden       .287  .364  .407   275   79   18    3    3   32   35   25   1   3
+ Solano       .296  .406  .407    54   16    0    0    2   10   10    5   0   0
+ Knepper      .429  .448  .714    28   12    5    0    1    7    1    5   1   0
+ 
+ Team Total   .242  .313  .346  2262  547   86   12   42  235  235  361  10  12
+             DMB League Pitching Splits:  1984 GP Chim-Chim-- vsRHB
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Gooden       .182  .248  .292   411   75    9    6    8   24   35  191   1   0
+ Solano       .203  .286  .435    69   14    1    0    5   18    8   10   0   0
+ Orosco       .206  .287  .305   223   46   16    0    2   24   25   62   1   2
+ Mason        .229  .289  .419   446  102    8    7   21   59   34   89   2   1
+ Mahler       .229  .275  .313   275   63   12    1    3   24   14   48   0   2
+rPena         .231  .269  .380   376   87   21    1   11   37   17   87   1   2
+ Corbett      .237  .275  .313   160   38    5    2    1   13    8   48   1   2
+ Knepper      .244  .297  .445   119   29    7    1    5   14    9   12   1   0
+ Rucker       .261  .333  .307    88   23    1    0    1    8   10    9   0   1
+ Rhoden       .277  .321  .417   235   65   15    0    6   34   14   56   1   1
+rThurmond     .278  .338  .391   522  145   23    3   10   49   46   36   2   3
+ Black        .278  .319  .406   133   37    7    2    2   15    8   15   0   0
+cBlack        .276  .312  .422   732  202   35    3   22   85   39  107   0   3
+ Sisk         .292  .370  .348    89   26    2    0    1   11   11   20   1   0
+ Sutter       .412  .437  .569   204   84   10    2    6   34   10   30   2   1
+ Citarella    .667  .667  .667     3    2    0    0    0    1    0    0   0   0
+ 
+ Team Total   .249  .302  .378  3353  836  137   25   82  365  249  713  13  15
+               DMB League Fielding Statistics:  1984 GP Chim-Chim
+                                        
+ 
+POS NAME             G    GS    PO     A     E    DP    TC     PCT   PB
+ 
+p  rPena            29    29    17    22     2     1    41    .951
+   rThurmond        26    26    13    26     0     1    39   1.000
+    Gooden          31    30    11    13     3     0    27    .889
+    Rhoden          20    20    10    14     0     3    24   1.000
+    Mahler          23    23     7    13     1     2    21    .952
+    Corbett         54     0     7    12     1     1    20    .950
+    Sutter          59     0     6    13     0     1    19   1.000
+    Mason           27    21     6    12     0     0    18   1.000
+    Black            6     6     7     7     0     2    14   1.000
+   cBlack           36    36    20    29     3     2    52    .942
+    Orosco          66     0     2     5     1     0     8    .875
+    Sisk            41     0     2     4     1     1     7    .857
+    Solano          25     0     3     3     0     0     6   1.000
+    Rucker          29     0     2     4     0     0     6   1.000
+    Knepper          7     7     3     2     0     0     5   1.000
+    Citarella        3     0     0     0     0     0     0    .000
+                   446   162    96   150     9    12   255    .965
+ 
+c  rBando           62    54   373    26     7     1   406    .983    2
+    Brenly          52    47   369    24     9     3   402    .978    2
+    Gedman          56    56   368    16     7     1   391    .982    4
+   rValle            5     5    27     0     0     0    27   1.000    0
+                   175   162  1137    66    23     5  1226    .981    8
+ 
+1b  Johnson        100    88   747    52     7    55   806    .991
+    Walker          76    69   601    47     0    53   648   1.000
+    Francona        16     2    53     4     0     6    57   1.000
+   cFrancona        62    14   223    26     1    19   250    .996
+    Bannister       15     2    36     3     2     2    41    .951
+   rCorcoran         3     0    13     2     0     1    15   1.000
+   rKrenchicki       2     1    10     1     1     1    12    .917
+    Brenly           1     0     0     0     0     0     0    .000
+                   213   162  1460   109    10   118  1579    .994
+ 
+2b  Barrett        127   125   246   387    18    70   651    .972
+   rKrenchicki      33    26    51    84     7    14   142    .951
+    Bannister        9     4    12    22     1     3    35    .971
+    Washington       6     5     7    19     0     2    26   1.000
+    Lacy             5     2     4     5     0     3     9   1.000
+                   180   162   320   517    26    92   863    .970
+ 
+3b  Bell           115    87    56   186    16    18   258    .938
+   rPendleton       52    47    19    79     5     8   103    .951
+   rKrenchicki      19    18     7    18     0     4    25   1.000
+   rHebner           8     8     4    16     2     4    22    .909
+    Bannister        4     2     1     1     0     0     2   1.000
+                   198   162    87   300    23    34   410    .944
+ 
+ss rTrammell       146   144   195   488    16    67   699    .977
+    Washington      16    16    27    44     5     6    76    .934
+    Bannister        5     2     8     9     1     2    18    .944
+                   167   162   230   541    22    75   793    .972
+               DMB League Fielding Statistics:  1984 GP Chim-Chim
+                                        
+ 
+POS NAME             G    GS    PO     A     E    DP    TC     PCT   PB
+ 
+lf  Lacy           109    72   164     5     0     1   169   1.000
+   rCorcoran        57    57   115     5     0     0   120   1.000
+   rHebner          15    15    29     1     0     1    30   1.000
+    Washington      10    10    21     0     1     0    22    .955
+   cWashington      10    10    21     0     1     0    22    .955
+    Moses            5     5     6     0     0     0     6   1.000
+    Dilone           3     2     5     0     0     0     5   1.000
+    Brenly           1     1     1     0     0     0     1   1.000
+    Bannister        2     0     1     0     0     0     1   1.000
+                   202   162   342    11     1     2   354    .997
+ 
+cf  Davis,C        125   109   230    10     8     0   248    .968
+    Lemon          109    53   175     6     0     1   181   1.000
+    Bannister        2     0     2     0     0     0     2   1.000
+   rBaines           2     0     0     0     0     0     0    .000
+    Moses            2     0     0     0     0     0     0    .000
+                   240   162   407    16     8     1   431    .981
+ 
+rf rBaines         148   148   304    16     9     1   329    .973
+    Francona         6     6    10     1     0     0    11   1.000
+   cFrancona         7     6    10     1     0     0    11   1.000
+    Davis,C          6     5    10     0     0     0    10   1.000
+    Lemon            1     1     4     0     0     0     4   1.000
+    Lacy             4     0     3     0     0     0     3   1.000
+    Bannister        2     2     3     0     0     0     3   1.000
+   rCorcoran         1     0     0     0     0     0     0    .000
+                   168   162   334    17     9     1   360    .975
+ 
+    Team Total     162   162  4413  1727   131   129  6271    .979    8
+                        Game Results:  1984 GP Chim-Chim
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 4/ 1/1984   @TEW   L  0-4      Rhoden      Rhoden                  Ryan        
+ 4/ 2/1984   @TEW   W 10-4      Gooden      Solano      Corbett     Witt        
+ 4/ 3/1984   @TEW   W  2-1      Mahler      Mahler      Orosco      Ojeda       
+ 4/ 4/1984    FER   L  2-4      Thurmond    Thurmond                Boyd        
+ 4/ 5/1984   @JJJ   W  7-1      Pena        Pena                    Cox         
+ 4/ 6/1984   @JJJ   L  3-4      Rhoden      Solano                  Gullickson  
+ 4/ 7/1984    BBG   L  5-11     Knepper     Corbett                 Scott,M     
+ 4/ 8/1984    GAR   W  5-2      Mahler      Mahler      Orosco      Terrell     
+ 4/ 9/1984    GAR   W  2-1  15  Thurmond    Sisk                    Valenzuela  
+ 4/10/1984    GAR   W 14-2      Pena        Pena                    Forsch      
+ 4/11/1984    FER   L  2-3      Rhoden      Rhoden                  Sutcliffe   
+ 4/12/1984    BMB   W  6-5      Knepper     Solano      Orosco      Williams    
+ 4/13/1984    BMB   L  1-9      Mahler      Mahler                  Clemens     
+ 4/14/1984   @SUN   W  4-0      Thurmond    Thurmond                Tudor       
+ 4/15/1984   @EVN   L  0-8      Pena        Sutter                  Rawley      
+ 4/16/1984   @EVN   L  2-3      Rhoden      Rhoden                  Seaver      
+ 4/17/1984   @EVN   W  4-3  12  Knepper     Orosco      Mason       Petry       
+ 4/18/1984    CEN   W  3-2      Gooden      Corbett                 Koosman     
+ 4/19/1984    CEN   W  8-2      Mahler      Mahler                  Krukow      
+ 4/20/1984    CEN   W  7-6      Thurmond    Sutter      Orosco      Davis,M     
+ 4/21/1984   @SUN   L  2-3  10  Pena        Corbett                 Candelaria  
+ 4/22/1984    BBG   W  5-3      Rhoden      Rhoden      Orosco      Scott,M     
+ 4/23/1984    SUN   W  5-4      Gooden      Corbett     Sutter      Lea         
+ 4/24/1984    SUN   W  9-7      Mahler      Mahler      Sutter      Tudor       
+ 4/25/1984    JJJ   W  6-1      Thurmond    Thurmond    Corbett     Guidry      
+ 4/29/1984   @EVN   W  7-0      Pena        Pena                    Smith       
+ 4/30/1984   @EVN   L  1-5      Rhoden      Rhoden                  Rawley      
+ 5/ 1/1984    JJJ   W  6-5  11  Gooden      Sutter                  Leibrandt   
+ 5/ 2/1984    TEW   L  5-10     Mahler      Mahler                  Witt        
+ 5/ 3/1984    TEW   W  2-1      Thurmond    Orosco                  Ojeda       
+ 5/ 5/1984    EVN   L  1-3      Pena        Pena                    Rawley      
+ 5/ 6/1984    EVN   L  3-9      Rhoden      Rhoden                  Robinson    
+ 5/ 7/1984    EVN   W 10-4      Gooden      Corbett                 Petry       
+ 5/ 8/1984   @GCP   W 17-4      Mahler      Mason                   Reuss       
+ 5/ 9/1984    BAR   L  2-4      Thurmond    Orosco                  Blyleven    
+ 5/10/1984    BAR   L  5-6      Pena        Pena                    Black       
+ 5/11/1984    BAR   W  6-3      Rhoden      Rhoden      Orosco      Morris      
+ 5/12/1984    BAR   W  4-1      Gooden      Gooden                  Eckersley   
+ 5/13/1984    GAR   W  2-0      Mason       Mason                   Flanagan    
+ 5/14/1984    GAR   W  3-2      Thurmond    Thurmond    Orosco      Nelson      
+ 5/15/1984    GAR   L  1-2  12  Pena        Corbett                 Valenzuela  
+ 5/16/1984   @FER   L  4-5      Rhoden      Rhoden                  Sutcliffe   
+ 5/17/1984   @FER   W  8-3      Gooden      Gooden                  Boyd        
+ 5/18/1984   @FER   W 13-4      Mahler      Sisk                    Sutton      
+ 5/19/1984    BBG   L  3-4      Thurmond    Thurmond                Viola       
+ 5/20/1984    BBG   L  4-9      Pena        Pena                    Hershiser   
+ 5/21/1984    BBG   W 12-5      Rhoden      Rhoden                  Welch       
+ 5/22/1984    JJJ   W  7-2      Gooden      Gooden                  Gullickson  
+ 5/23/1984    JJJ   L  5-7      Mahler      Mahler                  Guidry      
+ 5/24/1984    JJJ   W  4-2      Thurmond    Thurmond    Orosco      Leibrandt   
+ 5/25/1984    CEN   W 13-2      Pena        Pena                    Davis,M     
+ 5/26/1984    CEN   L  6-12     Rhoden      Rhoden                  Cowley      
+                        Game Results:  1984 GP Chim-Chim
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 5/27/1984    CEN   W  6-3      Gooden      Gooden      Orosco      Niekro      
+ 5/28/1984    CEN   L  2-3      Mahler      Mahler                  Koosman     
+ 5/29/1984    CIN   W  5-1      Thurmond    Thurmond                Fernandez   
+ 5/30/1984    CIN   L  1-5      Pena        Pena                    DeLeon      
+ 5/31/1984    CIN   W  5-2      Knepper     Knepper     Corbett     Soto        
+ 6/ 1/1984   @GCP   W  7-2      Gooden      Gooden                  Berenguer   
+ 6/ 2/1984   @GCP   L  2-8      Mahler      Corbett                 Barker      
+ 6/ 3/1984   @GCP   W  6-3      Thurmond    Thurmond    Solano      Darwin      
+ 6/ 4/1984    CTW   L  6-8      Pena        Solano                  Zahn        
+ 6/ 5/1984    CTW   W  6-4      Knepper     Knepper     Orosco      Tibbs       
+ 6/ 6/1984    CTW   L  4-5      Gooden      Gooden                  Hough       
+ 6/ 7/1984    GCP   W 10-5      Mason       Mason                   Barker      
+ 6/ 8/1984    GCP   W  6-4      Thurmond    Thurmond    Orosco      Darwin      
+ 6/ 9/1984    GCP   W  4-2      Pena        Pena        Solano      Martinez,D  
+ 6/10/1984   @A51   L 12-17     Knepper     Knepper                 Trout       
+ 6/11/1984   @A51   W 12-3      Gooden      Gooden                  Sanderson   
+ 6/12/1984   @A51   W  4-2      Mason       Mason       Orosco      Tanana      
+ 6/13/1984   @BMB   L  1-3      Thurmond    Thurmond                Denny       
+ 6/14/1984   @BMB   W  6-4      Pena        Sutter      Orosco      Clemens     
+ 6/15/1984   @BMB   W  5-4      Knepper     Orosco                  Langston    
+ 6/16/1984   @A51   L  0-1      Gooden      Gooden                  Sanderson   
+ 6/17/1984   @A51   L  3-4      Mason       Solano                  Tanana      
+ 6/18/1984   @A51   L  1-2      Thurmond    Thurmond                Valenzuela  
+ 6/19/1984   @A51   W  6-4      Pena        Pena        Orosco      Niekro      
+ 6/23/1984    CTW   W  5-1      Rhoden      Rhoden      Orosco      Butcher     
+ 6/24/1984    CTW   L  5-10     Gooden      Gooden                  Zahn        
+ 6/25/1984    CTW   W  5-3      Mason       Mason       Orosco      Bedrosian   
+ 6/27/1984   @GAR   L  3-4      Thurmond    Orosco                  Flanagan    
+ 6/28/1984   @GAR   W  9-8  13  Pena        Sutter      Rucker      Terrell     
+ 7/ 3/1984    SUN   L  1-8      Rhoden      Rhoden                  Perez       
+ 7/ 4/1984    SUN   W  5-3      Gooden      Rucker      Orosco      Lea         
+ 7/ 5/1984    SUN   W  5-4      Mason       Corbett                 Tudor       
+ 7/ 6/1984   @BBG   W  9-7      Thurmond    Rucker      Orosco      Alexander   
+ 7/ 7/1984   @BBG   L  5-6      Pena        Sisk                    Welch       
+ 7/ 8/1984   @BBG   W 10-6      Rhoden      Rhoden      Orosco      Scott,M     
+ 7/ 9/1984   @TEW   W  4-1      Gooden      Gooden      Orosco      Gross,K     
+ 7/10/1984   @TEW   L  2-10     Mason       Mason                   Ryan        
+ 7/11/1984   @TEW   L  1-2      Thurmond    Orosco                  Witt        
+ 7/12/1984    A51   W  6-4      Pena        Pena        Sutter      Valenzuela  
+ 7/13/1984    A51   W  4-3  11  Rhoden      Sutter                  Niekro      
+ 7/14/1984    A51   W  6-3      Gooden      Gooden      Orosco      Trout       
+ 7/15/1984   @BBG   L  3-4      Mason       Mason                   Scott,M     
+ 7/16/1984   @BBG   L  1-8      Thurmond    Thurmond                Saberhagen  
+ 7/17/1984   @GCP   W  6-4  10  Pena        Pena        Orosco      Martinez,D  
+ 7/18/1984   @CIN   W 11-8      Rhoden      Orosco                  Davis       
+ 7/19/1984   @CIN   L  0-4      Gooden      Gooden                  Schatzeder  
+ 7/20/1984   @CIN   L  7-8      Mason       Orosco                  DeLeon      
+ 7/21/1984   @CEN   W  6-2      Thurmond    Thurmond                Krukow      
+ 7/22/1984   @CEN   W  6-0      Pena        Pena                    McWilliams  
+ 7/23/1984   @CEN   L  0-1      Rhoden      Rhoden                  Davis,M     
+ 7/24/1984   @SUN   W  7-1      Gooden      Gooden                  Lea         
+ 7/25/1984   @SUN   W  6-2      Mason       Mason                   Tudor       
+                        Game Results:  1984 GP Chim-Chim
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 7/26/1984   @SUN   W  9-8      Thurmond    Rucker      Orosco      Show        
+ 7/27/1984   @JJJ   W 15-2      Pena        Pena                    Gullickson  
+ 7/28/1984   @JJJ   W  9-4      Mahler      Mahler                  Guidry      
+ 7/29/1984   @JJJ   W  5-2      Gooden      Gooden      Sisk        Farr        
+ 7/30/1984   @BMB   L  4-5  11  Mason       Sutter                  Easterly    
+ 7/31/1984   @BMB   W 11-7      Thurmond    Thurmond    Orosco      Nipper      
+ 8/ 1/1984   @SUN   W  6-1      Pena        Pena        Rucker      Tudor       
+ 8/ 2/1984   @FER   L  3-4      Mahler      Orosco                  Sutton      
+ 8/ 3/1984   @FER   W  4-2  10  Gooden      Sisk                    Boddicker   
+ 8/ 4/1984   @BMB   L  0-3      Mason       Mason                   Easterly    
+ 8/ 5/1984   @CTW   L  9-10 13  Thurmond    Gooden                  Honeycutt   
+ 8/ 6/1984   @CTW   L  3-4      Pena        Pena                    Zahn        
+ 8/ 7/1984   @CTW   L  0-3      Mahler      Mahler                  Smithson    
+ 8/11/1984    JJJ   W 12-2      Gooden      Gooden      Rucker      Gullickson  
+ 8/12/1984    EVN   W  8-4      Mason       Corbett                 Robinson    
+ 8/13/1984    EVN   W  5-2      Thurmond    Thurmond                Petry       
+ 8/14/1984    EVN   W 10-6      Pena        Pena        Orosco      Moore       
+ 8/15/1984   @BAR   W 14-7      Mahler      Mahler                  Black       
+ 8/16/1984   @BAR   W  7-1      Gooden      Gooden                  Morris      
+ 8/17/1984   @BAR   L  3-5      Mason       Mason                   Blyleven    
+ 8/18/1984   @CEN   W 10-0      Thurmond    Thurmond                Krukow      
+ 8/19/1984   @CEN   W  2-1      Pena        Pena                    McWilliams  
+ 8/20/1984   @CEN   L  4-5      Mahler      Sutter                  Davis,M     
+ 8/21/1984    GCP   W  6-5      Gooden      Orosco                  Beattie     
+ 8/22/1984    GCP   L  7-9      Mason       Sisk                    Berenguer   
+ 8/23/1984   @GCP   W 12-1      Thurmond    Thurmond                Barker      
+ 8/24/1984   @CTW   W  6-5  10  Pena        Orosco                  Smithson    
+ 8/25/1984   @CTW   L  4-7      Mahler      Mahler                  Honeycutt   
+ 8/26/1984   @CTW   L  3-5      Gooden      Rucker                  Zahn        
+ 8/27/1984   @CTW   W  4-1      Mason       Mason       Orosco      Camp        
+ 8/30/1984    BBG   W  5-4      Black       Black                   Hershiser   
+ 8/31/1984    FER   L  4-6  10  Pena        Orosco                  Sutton      
+ 9/ 1/1984    FER   L  1-9      Mahler      Mahler                  Boddicker   
+ 9/ 2/1984    FER   W 11-6      Gooden      Sutter                  Sutcliffe   
+ 9/ 3/1984   @CIN   W 11-5      Mason       Mason       Corbett     Romanick    
+ 9/ 4/1984   @CIN   W  4-2      Black       Black       Orosco      DeLeon      
+ 9/ 6/1984   @GAR   W  2-1  11  Pena        Sutter      Sisk        Hoyt        
+ 9/ 7/1984   @GAR   W  5-2      Mahler      Mahler                  Stewart     
+ 9/ 8/1984   @GAR   W  6-0      Gooden      Gooden                  Diaz        
+ 9/ 9/1984    BMB   W  7-3      Mason       Corbett                 Denny       
+ 9/10/1984    BMB   L  3-7      Black       Black                   Nipper      
+ 9/11/1984    BMB   W  1-0      Pena        Pena                    Sanderson   
+ 9/12/1984   @BAR   W  7-4  15  Mahler      Solano                  Eckersley   
+ 9/13/1984   @BAR   W  4-3      Gooden      Gooden      Solano      Morris      
+ 9/14/1984   @BAR   L  7-8  12  Mason       Sutter                  Blyleven    
+ 9/15/1984    A51   W  3-1      Black       Black       Sutter      Tanana      
+ 9/16/1984    A51   W  5-3      Rhoden      Rhoden                  Niekro      
+ 9/17/1984    A51   W  2-0      Mahler      Mahler                  Smith       
+ 9/18/1984    TEW   L  2-4      Gooden      Solano                  Darling     
+ 9/19/1984    TEW   W  3-1      Mason       Mason                   Rasmussen   
+ 9/20/1984    TEW   W  6-5      Black       Orosco                  Ryan        
+ 9/21/1984    BAR   W  6-5      Rhoden      Rhoden      Orosco      Wilcox      
+                        Game Results:  1984 GP Chim-Chim
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 9/22/1984    BAR   W  5-1      Mahler      Mahler                  Eckersley   
+ 9/23/1984    BAR   W  4-1      Gooden      Gooden      Orosco      Morris      
+ 9/24/1984    CIN   W  4-2      Mason       Mason                   Soto        
+ 9/25/1984    CIN   W  7-2      Black       Solano                  DeLeon      
+ 9/26/1984    CIN   W  4-3      Rhoden      Rhoden      Orosco      Davis       
+ 9/27/1984    FER   W  4-3      Mahler      Solano      Orosco      Sutcliffe   
+                         Injury Log: 1984 GP Chim-Chim
+                                        
+ 
+-- Date -- #  Player      Cause                 Length
+ 
+ 4/ 2/1984    Gooden      General                  5
+ 4/ 2/1984    Sutter      Rain delay               0
+ 4/ 2/1984    Sisk        Rain delay               0
+ 4/ 9/1984    Thurmond    General                  0
+ 4/15/1984    Pena        General                  5
+ 4/15/1984    Brenly      General                  0
+ 4/15/1984    Solano      General                  9
+ 4/18/1984    Baines      General                  0
+ 4/19/1984    Walker      General                  3
+ 4/20/1984    Trammell    General                  1
+ 4/21/1984    Bell        General                  0
+ 5/ 8/1984    Mahler      General                  5
+ 5/15/1984    Johnson     General                  4
+ 5/17/1984    Corcoran    General                  0
+ 5/26/1984    Pendleton   General                  2
+ 6/15/1984    Knepper     General                  0
+ 7/ 3/1984    Corcoran    General                  0
+ 7/ 6/1984    Krenchicki  General                  0
+ 7/20/1984    Krenchicki  General                 10
+ 7/26/1984    Corbett     Rain delay               0
+ 7/31/1984    Johnson     General                  3
+ 8/12/1984    Mason       Rain delay               0
+ 8/20/1984    Lacy        General                  2
+ 8/24/1984    Davis,C     General                  3
+ 9/17/1984    Bell        General                  3
+ 9/20/1984    Barrett     General                  2
+ 9/25/1984    Davis,C     General                  0
+ 9/26/1984    Washington  Collision on bases      22
+                 DMB League Transaction Log:  1984 GP Chim-Chim
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+ 4/ 2/1984  GPC    DL           Dwight Gooden         effective  4/ 3/1984  
+ 4/ 2/1984  GPC    Promote      Bob Knepper         
+ 4/15/1984  GPC    DL           Julio Solano          effective  4/16/1984  
+ 4/15/1984  GPC    Promote      Mike Mason          
+ 4/17/1984  GPC    Activate     Dwight Gooden       
+ 4/17/1984  GPC    Farm         Bob Knepper         
+ 5/26/1984  GPC    Farm         Rick Rhoden         
+ 5/26/1984  GPC    Promote      Bob Knepper         
+ 6/ 2/1984  GPC    Farm         Rick Mahler         
+ 6/ 2/1984  GPC    Farm         Terry Pendleton     
+ 6/ 2/1984  GPC    Farm         Tim Corcoran        
+ 6/ 2/1984  GPC    Farm         Chris Bando         
+ 6/ 2/1984  GPC    Promote      Dave Valle          
+ 6/ 2/1984  GPC    Promote      Richie Hebner       
+ 6/ 2/1984  GPC    Promote      John Moses          
+ 6/ 2/1984  GPC    Activate     Julio Solano        
+ 6/17/1984  GPC    Promote      Rick Rhoden         
+ 6/17/1984  GPC    Promote      Rich Gedman         
+ 6/17/1984  GPC    Promote      Dave Rucker         
+ 6/17/1984  GPC    Promote      Chris Bando         
+ 6/17/1984  GPC    Promote      Terry Pendleton     
+ 6/17/1984  GPC    Promote      Tim Corcoran        
+ 6/17/1984  GPC    Farm         Bob Brenly          
+ 6/17/1984  GPC    Farm         Bob Knepper         
+ 6/17/1984  GPC    Farm         Julio Solano        
+ 6/17/1984  GPC    Farm         Richie Hebner       
+ 6/17/1984  GPC    Farm         John Moses          
+ 6/17/1984  GPC    Farm         Dave Valle          
+ 7/27/1984  GPC    Farm         Rick Rhoden         
+ 7/27/1984  GPC    Farm         Terry Pendleton     
+ 7/27/1984  GPC    Promote      Richie Hebner       
+ 7/27/1984  GPC    Promote      Rick Mahler         
+ 8/17/1984  GPC    Farm         Richie Hebner       
+ 8/17/1984  GPC    Farm         Marty Barrett       
+ 8/17/1984  GPC    Promote      Ron Washington      
+ 8/17/1984  GPC    Promote      Bob Brenly          
+ 8/23/1984  GPC    Acquire      Claudel Washington    from BAR
+ 8/23/1984  GPC    Acquire      Bud Black             from BAR
+ 8/23/1984  GPC    Acquire      Terry Francona        from BAR
+ 8/23/1984  GPC    TradeAway    Joe Sambito           to BAR
+ 8/23/1984  GPC    Farm         Chris Bando         
+ 8/23/1984  GPC    Farm         Tim Corcoran        
+ 8/23/1984  GPC    Farm         Mark Thurmond       
+ 9/ 7/1984  GPC    Farm         Wayne Krenchicki    
+ 9/ 8/1984  GPC    Promote      Marty Barrett       
+ 9/ 8/1984  GPC    Promote      Richie Hebner       
+ 9/ 8/1984  GPC    Promote      Miguel Dilone       
+ 9/ 8/1984  GPC    Promote      John Moses          
+ 9/ 8/1984  GPC    Promote      Rick Rhoden         
+ 9/ 8/1984  GPC    Promote      Ralph Citarella     
+ 9/ 8/1984  GPC    Promote      Bob Knepper         
+ 9/ 8/1984  GPC    Promote      Julio Solano        
+                 DMB League Transaction Log:  1984 GP Chim-Chim
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+ 9/11/1984  GPC    Farm         Alejandro Pena      
+ 9/18/1984  GPC    Farm         Alan Trammell       
+ 9/22/1984  GPC    Farm         Harold Baines       
+ 9/26/1984  GPC    Farm         Richie Hebner       
+
+
+ 
+							
+							

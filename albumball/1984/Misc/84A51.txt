@@ -1,0 +1,848 @@
+   	 	 	 	 	 	
+					
+> INTERNATIONAL DIVISION > AREA 51 MAJESTICS
+
+  » EASTERN DIVISION
+  » WESTERN DIVISION
+    » Directory, Constitution, Record Book, etc.
+	
+
+             DMB League Batting Statistics:  1984 Area 51 Majestics
+                                        
+ 
+ NAME         AVG   OBP   SPC   G  AB   H 2B 3B HR   R RBI  BB   K HB IW  SB CS
+ 
+rPankovitz   .357  .378  .381  11  42  15  1  0  0   4   3   2   8  0  0   2  0 
+ Buckner     .341  .388  .636  25  44  15  2  1  3   7   9   4   5  0  0   0  0 
+ Durham      .314  .391  .541 129 468 147 36  2 22  78  83  59 102  3  4  17  9 
+rDeer        .308  .471 1.000  22  26   8  0  0  6   8   9   8  10  0  0   0  0 
+rSandberg    .301  .361  .472 160 667 201 32 14 18 103  58  59 108  4 10  29 18 
+ Walling     .297  .343  .439  79 212  63 10  1  6  27  20  15  36  1  1   4  1 
+ Leonard     .278  .351  .440  72 284  79 15  2  9  41  17  32  89  0  4   6  5 
+cLeonard     .302  .360  .479 120 407 123 27  3 13  63  37  37 103  0  5  10  8 
+ Jacoby      .265  .311  .388  87 291  77 12  3  6  30  25  17  49  3  0   1  2 
+cJacoby      .265  .308  .367 127 412 109 15  3  7  36  35  23  67  3  0   2  3 
+rDawson      .260  .308  .483 117 420 109 21  5 21  54  56  28  77  2  2   2  2 
+nBalboni     .250  .368  .625  13  16   4  0  0  2   6   4   3   6  0  0   0  0 
+ Brunansky   .249  .311  .458 130 393  98 10  0 24  64  56  36  64  0  1   0  1 
+ Armas       .248  .273  .540 145 533 132 22  4 42  71 114  20 145  0  1   0  2 
+ Griffin     .241  .256  .299 100 378  91  8  1  4  20  27   8  36  0  3   7  4 
+cGriffin     .238  .252  .294 137 446 106 11  1  4  27  34   9  42  0  3   8  4 
+ Dernier     .239  .318  .327 108 251  60  8  1  4  37  36  26  29  3  1  20  6 
+rMitchell    .238  .238  .238   9  21   5  0  0  0   2   2   0   3  0  0   1  0 
+ Davis       .236  .262  .377 152 559 132 21  2 18  51  66  20 120  2  0   2  3 
+nCey         .229  .300  .403  76 201  46  9  1  8  25  23  16  47  5  0   1  0 
+nGaetti      .217  .266  .269  48 175  38  4  1  1  16  15   9  31  3  1   4  1 
+ Hubbard     .204  .283  .416  41 137  28  3  1  8  17  16  14  28  1  0   0  0 
+rLake        .200  .226  .250  36  60  12  3  0  0   6   5   0  16  2  0   0  0 
+ Nixon       .200  .253  .235  32  85  17  3  0  0   8   2   6  15  0  0  10  0 
+rStaub       .125  .125  .125   8   8   1  0  0  0   0   0   0   3  0  0   0  0 
+ Martinez    .087  .192  .087  21  23   2  0  0  0   3   2   3   5  0  0   0  0 
+cMartinez    .195  .314  .230  48  87  17  3  0  0   9   9  16  20  0  0   0  0 
+nEssian      .083  .267  .083   8  12   1  0  0  0   3   0   3   4  0  0   0  0 
+rGagne       .000  .000  .000   1   2   0  0  0  0   0   0   0   0  0  0   0  0 
+ 
+ Gott        .333  .333  .333  80   6   2  0  0  0   1   0   0   3  0  0   0  0 
+nValenzuela  .209  .227  .209  17  43   9  0  0  0   3   2   1  15  0  0   0  0 
+ Martinez,T  .200  .200  .200  22   5   1  0  0  0   0   0   0   1  0  0   0  0 
+rBordi       .167  .167  .167  36   6   1  0  0  0   0   0   0   1  0  0   0  0 
+ Niekro      .164  .185  .180  35  61  10  1  0  0   4   6   1  16  1  0   0  0 
+rTrout       .137  .171  .164  29  73  10  2  0  0   8   4   3  26  0  0   0  0 
+ Clancy      .133  .212  .167  14  30   4  1  0  0   4   3   2   9  1  0   0  0 
+ Tanana      .120  .143  .120  34  75   9  0  0  0   2   3   2  29  0  0   0  0 
+ Hooton      .111  .111  .111  62  18   2  0  0  0   1   2   0   5  0  0   0  0 
+ Russell     .091  .091  .091   7  11   1  0  0  0   0   0   0   1  0  0   0  0 
+nStewart     .053  .100  .105  11  19   1  1  0  0   0   1   1   8  0  0   0  0 
+nSanderson   .047  .047  .047  19  43   2  0  0  0   0   1   0  10  0  0   0  0 
+ Acker       .000  .000  .000  10   3   0  0  0  0   0   0   0   1  0  0   0  0 
+ Smith       .000  .000  .000  62   7   0  0  0  0   0   0   0   5  0  0   0  0 
+ Bannister   .000  .000  .000  29   9   0  0  0  0   0   0   0   6  0  0   0  0 
+ Langston    .000  .000  .000   6   3   0  0  0  0   0   0   0   2  0  0   0  0 
+cLangston    .164  .164  .213  31  61  10  0  0  1   3   6   0  19  0  0   0  0 
+
+ Team Total  .251  .301  .409 162    1433    39    704     398     31    106
+                                 5720    225   202     670    1174    28     54
+             DMB League Batting Statistics:  1984 Area 51 Majestics
+                                        
+ 
+ NAME         GS  SH  SF  GDP  CI  GW     RC   RC27    ISO   TAVG    TB CHS LHS
+ 
+rPankovitz    10   0   1    0   0   0    6.8    6.6   .024   .741    16   2   2
+ Buckner       8   0   1    1   0   0   10.9    9.5   .295  1.067    28   0   3
+ Durham      119   0   4    7   0  14  100.8    8.0   .226   .985   253   1  15
+rDeer          2   0   0    0   0   1   13.2   19.8   .692  1.889    26   0   4
+rSandberg    160   0   2    7   0   4  112.6    6.2   .171   .829   315   1  31
+ Walling      45   0   2    3   0   5   32.6    5.7   .142   .739    93   0   6
+ Leonard      67   0   0    2   0   3   44.6    5.7   .162   .769   125   0   7
+cLeonard      92   0   0    8   0   8   67.6    6.1   .177   .807   195   0  11
+ Jacoby       82   0   1    4   0   1   34.8    4.2   .124   .609   113   0  10
+cJacoby      114   0   1    9   0   3   44.6    3.8   .102   .568   151   0  10
+rDawson      117   0   2    6   0   5   61.5    5.2   .224   .737   203   3  11
+nBalboni       1   0   0    0   0   0    4.0    8.9   .375  1.083    10   0   2
+ Brunansky    84   0   2   11   0   8   53.8    4.7   .209   .704   180   0   5
+ Armas       127   0   4   12   0  13   73.1    4.7   .293   .742   288   1   8
+ Griffin      99   4   1    5   0   0   27.7    2.5   .058   .432   113   0  12
+cGriffin     111   7   2    8   0   0   31.4    2.3   .056   .420   131   0  12
+ Dernier      53   2   0    3   0   6   28.6    3.8   .088   .655    82   0   5
+rMitchell      6   0   0    2   0   0    0.8    1.2   .000   .333     5   1   1
+ Davis       140   0   6    7   0   3   54.2    3.3   .141   .538   211   0  10
+nCey          44   0   1    2   0   0   25.5    4.4   .174   .656    81   1  10
+nGaetti       46   0   1    3   0   1   12.8    2.4   .051   .447    47   0   7
+ Hubbard      39   0   0    2   0   4   16.4    4.0   .212   .649    57   0   3
+rLake         15   0   0    0   0   0    3.5    2.0   .050   .354    15   4   4
+ Nixon        26   2   0    1   0   0    6.6    2.5   .035   .522    20   0   3
+rStaub         0   0   0    0   0   0    0.1    0.5   .000   .143     1   0   1
+ Martinez      1   0   0    0   0   0    0.5    0.7   .000   .238     2   0   1
+cMartinez     20   0   2    2   0   2    7.4    2.7   .034   .500    20   0   4
+nEssian        4   0   0    1   0   0    0.4    0.8   .000   .333     1   0   1
+rGagne         1   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+ 
+ Gott          0   0   0    0   0   0    0.7    4.5   .000   .500     2   0   1
+nValenzuela   17   1   0    0   0   0    2.2    1.7   .000   .294     9   0   2
+ Martinez,T    0   0   0    0   0   0    0.2    1.4   .000   .250     1   0   1
+rBordi         0   0   0    0   0   0    0.2    0.9   .000   .200     1   0   1
+ Niekro       28   0   2    1   0   0    2.1    1.1   .016   .250    11   0   2
+rTrout        29   2   0    2   0   2    1.9    0.8   .027   .231    12   1   2
+ Clancy       14   0   0    4   0   1    0.5    0.5   .033   .267     5   0   1
+ Tanana       34   0   0    1   0   0    1.2    0.5   .000   .164     9   0   2
+ Hooton        0   3   0    1   0   1    0.2    0.2   .000   .118     2   1   1
+ Russell       5   0   0    2   0   0   -0.1   -0.2   .000   .083     1   0   1
+nStewart       8   0   0    0   0   0    0.2    0.3   .053   .167     2   0   1
+nSanderson    19   3   0    3   0   0   -0.1   -0.0   .000   .045     2   1   1
+ Acker         1   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+ Smith         4   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+ Bannister     2   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+ Langston      1   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+cLangston     26   2   0    2   0   0    1.8    0.9   .049   .245    13   0   3
+
+ Team Total  162  17  30   93   0  72  699.1    4.2   .159   .649  2342
+           DMB League Batting Splits:  1984 Area 51 Majestics-- vsLHP
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Leonard      .398  .482  .724    98   39    9    1    7   13   16   14   0   0
+cLeonard      .393  .449  .689   196   77   21    2   11   31   20   21   0   0
+rDeer         .364  .364 1.182    11    4    0    0    3    5    0    4   0   0
+rDawson       .347  .402  .727   121   42    8    1   12   27   11   16   0   0
+ Jacoby       .308  .330  .451    91   28    4    3    1   11    3   10   0   0
+cJacoby       .336  .362  .443   122   41    4    3    1   14    5   10   0   0
+rLake         .294  .294  .353    17    5    1    0    0    3    0    5   0   0
+rSandberg     .290  .345  .425   207   60   11    4    3   15   17   32   0   1
+ Brunansky    .289  .385  .570   149   43    3    0   13   29   24   19   0   1
+ Buckner      .273  .304  .318    22    6    1    0    0    2    1    5   0   0
+nCey          .264  .381  .529    87   23    3    1    6   14   13   19   0   1
+ Armas        .252  .276  .431   123   31    6    2    4   18    4   19   0   0
+ Durham       .250  .331  .342   152   38    9    1    1   10   16   58   0   1
+rStaub        .250  .250  .250     4    1    0    0    0    0    0    2   0   0
+ Davis        .249  .276  .434   173   43   10    2    6   22    7   28   0   1
+ Hubbard      .235  .381  .294    17    4    1    0    0    2    3    0   0   0
+ Griffin      .235  .252  .244   119   28    1    0    0    7    3    9   0   1
+cGriffin      .225  .239  .239   138   31    2    0    0    7    3   12   0   1
+ Walling      .227  .217  .273    44   10    2    0    0    2    0   13   0   2
+ Dernier      .221  .318  .273    77   17    2    1    0   10   11    6   1   0
+rPankovitz    .167  .167  .167     6    1    0    0    0    0    0    2   0   0
+ Nixon        .167  .167  .167     6    1    0    0    0    0    0    1   0   0
+nGaetti       .152  .184  .239    46    7    2    1    0    6    2    9   0   1
+ Martinez     .111  .200  .111     9    1    0    0    0    2    1    0   0   0
+cMartinez     .207  .333  .259    58   12    3    0    0    7   11    9   0   0
+rMitchell     .000  .000  .000     2    0    0    0    0    0    0    0   0   0
+nEssian       .000  .333  .000     2    0    0    0    0    0    1    2   0   0
+nBalboni      .000  .125  .000     7    0    0    0    0    0    1    3   0   0
+ 
+ Martinez,T  1.000 1.000 1.000     1    1    0    0    0    0    0    0   0   0
+ Gott         .250  .250  .250     4    1    0    0    0    0    0    2   0   0
+ Niekro       .214  .267  .286    14    3    1    0    0    0    1    5   0   0
+ Russell      .200  .200  .200     5    1    0    0    0    0    0    0   0   0
+nValenzuela   .143  .182  .143    21    3    0    0    0    1    1   12   1   0
+ Clancy       .125  .176  .188    16    2    1    0    0    3    1    4   0   0
+ Tanana       .091  .118  .091    33    3    0    0    0    1    1   14   0   0
+rTrout        .083  .083  .083    12    1    0    0    0    2    0    3   0   0
+nSanderson    .000  .000  .000     8    0    0    0    0    0    0    2   1   0
+ Bannister    .000  .000  .000     5    0    0    0    0    0    0    5   0   0
+ Hooton       .000  .000  .000     6    0    0    0    0    0    0    2   1   0
+nStewart      .000  .000  .000     7    0    0    0    0    0    0    3   0   0
+rBordi        .000  .000  .000     1    0    0    0    0    0    0    0   0   0
+ Smith        .000  .000  .000     3    0    0    0    0    0    0    2   0   0
+ 
+ Team Total   .259  .315  .419  1726  447   75   17   56  205  138  330   4   9
+           DMB League Batting Splits:  1984 Area 51 Majestics-- vsRHP
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+nBalboni      .444  .545 1.111     9    4    0    0    2    4    2    3   0   0
+ Buckner      .409  .462  .955    22    9    1    1    3    7    3    0   0   1
+rPankovitz    .389  .410  .417    36   14    1    0    0    3    2    6   0   1
+ Durham       .345  .420  .636   316  109   27    1   21   73   43   44   0   3
+ Walling      .315  .375  .482   168   53    8    1    6   18   15   23   0   0
+rSandberg     .307  .368  .493   460  141   21   10   15   43   42   76   0   1
+rDeer         .267  .522  .867    15    4    0    0    3    4    8    6   0   0
+rMitchell     .263  .263  .263    19    5    0    0    0    2    0    3   0   0
+ Dernier      .247  .318  .351   174   43    6    0    4   26   15   23   1   0
+ Armas        .246  .272  .573   410  101   16    2   38   96   16  126   0   4
+ Jacoby       .245  .303  .360   200   49    8    0    5   14   14   39   0   1
+cJacoby       .234  .285  .334   290   68   11    0    6   21   18   57   0   1
+ Griffin      .243  .258  .324   259   63    7    1    4   20    5   27   4   0
+cGriffin      .244  .257  .318   308   75    9    1    4   27    6   30   7   1
+nGaetti       .240  .295  .279   129   31    2    0    1    9    7   22   0   0
+ Davis        .231  .256  .352   386   89   11    0   12   44   13   92   0   5
+ Brunansky    .225  .261  .389   244   55    7    0   11   27   12   45   0   1
+rDawson       .224  .269  .385   299   67   13    4    9   29   17   61   0   2
+ Leonard      .215  .277  .290   186   40    6    1    2    4   16   75   0   0
+cLeonard      .218  .276  .284   211   46    6    1    2    6   17   82   0   0
+ Nixon        .203  .259  .241    79   16    3    0    0    2    6   14   2   0
+nCey          .202  .229  .307   114   23    6    0    2    9    3   28   0   0
+ Hubbard      .200  .267  .433   120   24    2    1    8   14   11   28   0   0
+rLake         .163  .200  .209    43    7    2    0    0    2    0   11   0   0
+nEssian       .100  .250  .100    10    1    0    0    0    0    2    2   0   0
+ Martinez     .071  .188  .071    14    1    0    0    0    0    2    5   0   0
+cMartinez     .172  .278  .172    29    5    0    0    0    2    5   11   0   2
+rStaub        .000  .000  .000     4    0    0    0    0    0    0    1   0   0
+rGagne        .000  .000  .000     2    0    0    0    0    0    0    0   0   0
+ 
+ Gott         .500  .500  .500     2    1    0    0    0    0    0    1   0   0
+nValenzuela   .273  .273  .273    22    6    0    0    0    1    0    3   0   0
+rBordi        .200  .200  .200     5    1    0    0    0    0    0    1   0   0
+ Hooton       .167  .167  .167    12    2    0    0    0    2    0    3   2   0
+ Niekro       .149  .160  .149    47    7    0    0    0    6    0   11   0   2
+rTrout        .148  .188  .180    61    9    2    0    0    2    3   23   2   0
+ Clancy       .143  .250  .143    14    2    0    0    0    0    1    5   0   0
+ Tanana       .143  .163  .143    42    6    0    0    0    2    1   15   0   0
+nStewart      .083  .154  .167    12    1    1    0    0    1    1    5   0   0
+nSanderson    .057  .057  .057    35    2    0    0    0    1    0    8   2   0
+ Bannister    .000  .000  .000     4    0    0    0    0    0    0    1   0   0
+ Martinez,T   .000  .000  .000     4    0    0    0    0    0    0    1   0   0
+ Smith        .000  .000  .000     4    0    0    0    0    0    0    3   0   0
+ Russell      .000  .000  .000     6    0    0    0    0    0    0    1   0   0
+ Acker        .000  .000  .000     3    0    0    0    0    0    0    1   0   0
+ Langston     .000  .000  .000     3    0    0    0    0    0    0    2   0   0
+cLangston     .130  .130  .130    46    6    0    0    0    5    0   14   2   0
+ 
+ Team Total   .247  .294  .405  3994  986  150   22  146  465  260  844  13  21
+     DMB League Games Started by Position:  1984 Area 51 Majestics-- vsLHP
+                                        
+ 
+ NAME           C   1B   2B   3B   SS   LF   CF   RF
+ 
+ Armas          1    5    0    0    0   10    9    4
+ Brunansky      0    0    0    0    0   44    0    0
+ Buckner        0    6    0    0    0    0    0    0
+nCey            0    0    0   30    0    0    0    0
+ Davis         46    0    0    0    0    0    0    0
+rDawson         0    0    0    0    0    0    0   39
+ Dernier        0    0    0    0    0    0   21    0
+ Durham         0   42    0    0    0    0    0    0
+nEssian         1    0    0    0    0    0    0    0
+nGaetti         0    0    0    0   14    0    0    0
+ Hubbard        0    0    0    0    5    0    0    0
+rLake           5    0    0    0    0    0    0    0
+ Leonard        0    0    0    0    0    0   16   10
+CLeonard        0    0    0    0    0    0   21   30
+rSandberg       0    0   54    0    0    0    0    0
+rDeer           1    0    0    0    0    0    0    1
+ Jacoby         0    0    0   24    0    0    0    0
+CJacoby         0    0    0   32    0    0    0    0
+ Griffin        0    0    0    0   35    0    0    0
+CGriffin        0    0    0    0   38    0    0    0
+ Walling        0    0    0    0    0    0    8    0
+ Martinez       0    1    0    0    0    0    0    0
+CMartinez       0    1    0    0    0    0    0   18
+ 
+ Team Total    54   54   54   54   54   54   54   54
+     DMB League Games Started by Position:  1984 Area 51 Majestics-- vsRHP
+                                        
+ 
+ NAME           C   1B   2B   3B   SS   LF   CF   RF
+ 
+ Armas          0   15    0    0    0   43   40    0
+nBalboni        0    1    0    0    0    0    0    0
+ Brunansky      0   13    0    2    0   19    0    6
+ Buckner        0    2    0    0    0    0    0    0
+nCey            0    0    0   14    0    0    0    0
+ Davis         94    0    0    0    0    0    0    0
+rDawson         0    0    0    0    0    0    0   78
+ Dernier        0    0    0    0    0   23    6    3
+ Durham         0   77    0    0    0    0    0    0
+nEssian         3    0    0    0    0    0    0    0
+nGaetti         0    0    0   31    1    0    0    0
+rGagne          0    0    0    0    1    0    0    0
+ Hubbard        0    0    2    0   32    0    0    0
+rLake          10    0    0    0    0    0    0    0
+ Leonard        0    0    0    0    0   20    0   21
+CLeonard        0    0    0    0    0   20    0   21
+rMitchell       0    0    0    3    0    3    0    0
+ Nixon          0    0    0    0    0    0   26    0
+rPankovitz      0    0    0    0   10    0    0    0
+rSandberg       0    0  106    0    0    0    0    0
+ Jacoby         0    0    0   58    0    0    0    0
+CJacoby         0    0    0   82    0    0    0    0
+ Griffin        0    0    0    0   64    0    0    0
+CGriffin        0    0    0    0   73    0    0    0
+ Walling        1    0    0    0    0    0   36    0
+ 
+ Team Total   108  108  108  108  108  108  108  108
+            DMB League Pitching Statistics:  1984 Area 51 Majestics
+                                        
+ 
+ NAME         ERA  W  L  S   G GS CG SH    IP   H   R  ER  BB   K   BF HR WP DP
+ 
+ Acker       1.53  1  0  1  10  1  0  0  17.2  24   6   3   4   8   78  1  0  3
+ Smith       2.93 10  6 19  62  4  0  0  92.0  89  32  30  26  98  382  4  5  5
+ Hooton      3.01  7  4  1  62  0  0  0 116.2 108  47  39  38  57  481  8  3 14
+rTrout       3.02 11  7  0  29 29  4  1 197.0 195  88  66  64  80  822  4  4 39
+nValenzuela  3.02  8  7  0  17 17  7  2 125.1 116  52  42  46 109  522  8  4 14
+nSanderson   3.45  9  5  0  19 19  2  1 120.0 127  49  46  26  75  510  7  0  8
+nStewart     3.56  1  2  0  11  8  0  0  55.2  57  30  22  27  41  240  7  3  7
+ Gott        3.64  6 10  5  80  0  0  0 111.1  99  62  45  45  78  483 17  3  3
+rBordi       3.71  0  4  0  36  0  0  0  60.2  61  34  25  17  37  260 11  0  4
+ Bannister   3.83  2  2  1  29  2  0  0  49.1  51  24  21  22  38  218  2  4  2
+ Niekro      5.01  6 16  0  35 28  2  0 174.1 204 109  97  72 124  778 26  3 18
+ Tanana      5.24  5 16  0  34 34  3  0 201.0 224 128 117  72 106  875 34  9 23
+ Langston    5.25  1  0  0   6  1  0  0  12.0  12   8   7   6  11   56  1  0  0
+cLangston    4.74 12  9  0  31 26  1  0 172.2 175 102  91  91 168  777 13  2  4
+ Clancy      5.65  3  3  0  14 14  1  0  78.0  98  52  49  24  58  353  8  5  9
+ Russell     6.68  1  3  0   7  5  0  0  31.0  46  27  23  15  11  152  4  0  0
+ Martinez,T  8.90  2  4  0  22  0  0  0  31.1  42  35  31  22  24  157  5  1  2
+
+ Team Total  4.05    89    162    19   1473.1     783     526     6367    44
+                  73    27    162     5      1553     663     955     147   151
+ 
+ 
+ NAME          IW HBP  WP  BK  CI   H/9  BB/9   R/9   K/9  HR/9
+ 
+ Acker          0   0   0   0   0  12.2   2.0  14.3   4.1   0.5
+ Smith          2   0   5   0   1   8.7   2.5  11.3   9.6   0.4
+ Hooton         1   0   3   0   0   8.3   2.9  11.3   4.4   0.6
+rTrout          2   1   4   5   0   8.9   2.9  11.9   3.7   0.2
+nValenzuela     1   2   4   1   0   8.3   3.3  11.8   7.8   0.6
+nSanderson      0   4   0   2   0   9.5   2.0  11.8   5.6   0.5
+nStewart        1   0   3   0   0   9.2   4.4  13.6   6.6   1.1
+ Gott           0   6   3   0   0   8.0   3.6  12.1   6.3   1.4
+rBordi          1   2   0   0   1   9.0   2.5  11.9   5.5   1.6
+ Bannister      2   1   4   0   0   9.3   4.0  13.5   6.9   0.4
+ Niekro         2   2   3   0   0  10.5   3.7  14.4   6.4   1.3
+ Tanana         1   3   9   8   0  10.0   3.2  13.4   4.7   1.5
+ Langston       1   1   0   1   0   9.0   4.5  14.3   8.3   0.8
+cLangston       4   5   2   3   0   9.1   4.7  14.1   8.8   0.7
+ Clancy         2   3   5   0   0  11.3   2.8  14.4   6.7   0.9
+ Russell        2   0   0   0   0  13.4   4.4  17.7   3.2   1.2
+ Martinez,T     1   0   1   0   0  12.1   6.3  18.4   6.9   1.4
+
+ Team Total    19  25  44  17   2   9.5   3.2  12.9   5.8   0.9
+            DMB League Pitching Statistics:  1984 Area 51 Majestics
+                                        
+ 
+ NAME         AVG   OBP   SPC   BF   AB    H  2B  3B  HR   TB  SH  SF
+ 
+ Acker       .329  .364  .411   78   73   24   1   1   1   30   1   0
+ Smith       .256  .304  .349  382  347   89  12   4   4  121   3   5
+ Hooton      .250  .306  .350  481  432  108  15   2   8  151   4   7
+rTrout       .262  .319  .332  822  743  195  26   7   4  247   8   6
+nValenzuela  .247  .315  .366  522  470  116  20   6   8  172   2   2
+nSanderson   .268  .309  .363  510  474  127  20   2   7  172   2   4
+nStewart     .270  .350  .450  240  211   57  15   1   7   95   0   2
+ Gott        .237  .313  .440  483  418   99  24   5  17  184   3  11
+rBordi       .257  .309  .460  260  237   61   9   3  11  109   0   3
+ Bannister   .266  .343  .333  218  192   51   7   0   2   64   2   1
+ Niekro      .294  .360  .469  778  695  204  32   6  26  326   5   4
+ Tanana      .285  .344  .463  875  787  224  28   5  34  364   6   7
+ Langston    .245  .339  .388   56   49   12   2   1   1   19   0   0
+cLangston    .259  .350  .399  777  676  175  34  11  13  270   3   2
+ Clancy      .306  .358  .444  353  320   98  14   3   8  142   4   2
+ Russell     .338  .401  .471  152  136   46   6   0   4   64   0   1
+ Martinez,T  .321  .413  .557  157  131   42   6   5   5   73   2   2
+
+ Team Total  .272  .333  .408      5715      237     147       42
+                              6367      1553      51     2333      57
+ 
+ 
+ NAME          GS  CG   CG% SHo  QS   QS%   RS RS/G  RL RLS   RL%
+ 
+ Acker          1   0  .000   0   1 1.000    2  2.0   2   0  .000
+ Smith          4   0  .000   0   2  .500    0  0.0  19   9  .474
+ Hooton         0   0  .000   0   0  .000    0  0.0  20  12  .600
+rTrout         29   4  .138   1  19  .655  148  5.1  21  12  .571
+nValenzuela    17   7  .412   2  10  .588   67  3.9  12   6  .500
+nSanderson     19   2  .105   1  11  .579   86  4.5  15   2  .133
+nStewart        8   0  .000   0   5  .625   42  5.3   6   4  .667
+ Gott           0   0  .000   0   0  .000    0  0.0  30  10  .333
+rBordi          0   0  .000   0   0  .000    0  0.0  12   6  .500
+ Bannister      2   0  .000   0   1  .500   10  5.0  11   6  .545
+ Niekro        28   2  .071   0  14  .500  100  3.6  17   4  .235
+ Tanana        34   3  .088   0  15  .441  141  4.1  21  10  .476
+ Langston       1   0  .000   0   1 1.000    7  7.0   0   0  .000
+cLangston      26   1  .038   0  12  .462  152  5.8  25  13  .520
+ Clancy        14   1  .071   0   4  .286   77  5.5  21   5  .238
+ Russell        5   0  .000   0   1  .200   24  4.8   6   2  .333
+ Martinez,T     0   0  .000   0   0  .000    0  0.0  18   8  .444
+
+ Team Total   162      .117      84        704      231      .416
+                   19         5      .519       4.3      96
+            DMB League Pitching Statistics:  1984 Area 51 Majestics
+                                        
+ 
+ NAME         SvO  Sv   Sv%  BSv  BSv%  IR  IRS   IR%    G  RA   RA%  GF   GF%
+ 
+ Acker          1   1 1.000    0  .000   4    3  .750   10   9  .900   7  .778
+ Smith         25  19  .760    4  .160  40   18  .450   62  58  .935  44  .759
+ Hooton         2   1  .500    0  .000  38   11  .289   62  62 1.000  13  .210
+rTrout          0   0  .000    0  .000   0    0  .000   29   0  .000   0  .000
+nValenzuela     0   0  .000    0  .000   0    0  .000   17   0  .000   0  .000
+nSanderson      0   0  .000    0  .000   0    0  .000   19   0  .000   0  .000
+nStewart        0   0  .000    0  .000   2    0  .000   11   3  .273   2  .667
+ Gott          19   5  .263    6  .316  67   31  .463   80  80 1.000  30  .375
+rBordi         10   0  .000    4  .400  20   12  .600   36  36 1.000  17  .472
+ Bannister      3   1  .333    1  .333  28   11  .393   29  27  .931  13  .481
+ Niekro         0   0  .000    0  .000  10    4  .400   35   7  .200   5  .714
+ Tanana         0   0  .000    0  .000   0    0  .000   34   0  .000   0  .000
+ Langston       0   0  .000    0  .000   4    2  .500    6   5  .833   5 1.000
+cLangston       0   0  .000    0  .000   4    2  .500   31   5  .161   5 1.000
+ Clancy         0   0  .000    0  .000   0    0  .000   14   0  .000   0  .000
+ Russell        0   0  .000    0  .000   1    1 1.000    7   2  .286   1  .500
+ Martinez,T     0   0  .000    0  .000  17    3  .176   22  22 1.000   6  .273
+
+ Team Total    60      .450       .250       96        473      .658      .460
+                   27         15       231       .416      311       143
+          DMB League Pitching Splits:  1984 Area 51 Majestics-- vsLHB
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Gott         .195  .285  .337   190   37    9    3    4   30   22   32   0   5
+rTrout        .208  .311  .236   106   22    3    0    0    5   16   22   0   0
+ Hooton       .217  .252  .303   198   43    2    0    5   20   10   27   0   2
+nSanderson    .238  .291  .315   235   56   10    1    2   20   18   30   0   1
+nValenzuela   .241  .307  .371   116   28    4    1    3   10   11   26   0   0
+ Acker        .250  .283  .318    44   11    0    0    1    2    2    2   1   0
+ Bannister    .278  .418  .296    54   15    1    0    0    9   13   13   1   0
+rBordi        .280  .316  .448   125   35    5    2    4   20    7   12   0   1
+nStewart      .302  .376  .468   126   38   10    1    3    9   15   20   0   0
+ Niekro       .306  .373  .488   373  114   16    5   14   54   40   48   1   2
+ Clancy       .308  .375  .448   143   44    6    1    4   22   15   29   3   1
+ Martinez,T   .310  .408  .429    42   13    1    2    0    7    7    6   0   0
+ Smith        .313  .374  .385   179   56    8    1    1   20   18   41   0   1
+ Tanana       .338  .379  .535   157   53    7    3    6   18   11   34   1   1
+ Russell      .366  .418  .507    71   26    4    0    2   15    7    6   0   1
+ Langston     .429  .556  .857     7    3    0    0    1    4    2    3   0   0
+cLangston     .185  .291  .285   130   24    5    1    2   18   19   46   0   1
+ 
+ Team Total   .274  .338  .402  2166  594   86   20   50  265  214  351   7  15
+          DMB League Pitching Splits:  1984 Area 51 Majestics-- vsRHB
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Smith        .196  .228  .310   168   33    4    3    3   17    8   57   3   4
+ Langston     .214  .298  .310    42    9    2    1    0    5    4    8   0   0
+cLangston     .277  .364  .427   546  151   29   10   11   68   72  122   3   1
+nStewart      .224  .313  .424    85   19    5    0    4   14   12   21   0   2
+rBordi        .232  .302  .473   112   26    4    1    7   18   10   25   0   2
+nValenzuela   .249  .318  .364   354   88   16    5    5   33   35   83   2   2
+ Bannister    .261  .309  .348   138   36    6    0    2   17    9   25   1   1
+ Tanana       .271  .336  .444   630  171   21    2   28   86   61   72   5   6
+rTrout        .272  .321  .349   637  173   23    7    4   66   48   58   8   6
+ Gott         .272  .336  .526   228   62   15    2   13   49   23   46   3   6
+ Hooton       .278  .348  .389   234   65   13    2    3   23   28   30   4   5
+ Niekro       .280  .345  .447   322   90   16    1   12   50   32   76   4   2
+nSanderson    .297  .327  .410   239   71   10    1    5   25    8   45   2   3
+ Clancy       .305  .344  .441   177   54    8    2    4   23    9   29   1   1
+ Russell      .308  .384  .431    65   20    2    0    2    8    8    5   0   0
+ Martinez,T   .326  .415  .618    89   29    5    3    5   22   15   18   2   2
+ Acker        .448  .484  .552    29   13    1    1    0    6    2    6   0   0
+ 
+ Team Total   .270  .326  .412  3549  959  151   31   97  462  312  604  35  42
+            DMB League Fielding Statistics:  1984 Area 51 Majestics
+                                        
+ 
+POS NAME             G    GS    PO     A     E    DP    TC     PCT   PB
+ 
+p  rTrout           29    29    15    26     4     3    45    .911
+    Tanana          34    34    13    22     1     2    36    .972
+    Niekro          35    28     9    22     1     2    32    .969
+   nValenzuela      17     8    10    10     2     1    22    .909
+    Gott            80     0    14     7     1     0    22    .955
+   nSanderson       19     8     8     6     5     1    19    .737
+    Hooton          62     0     6     9     1     0    16    .938
+    Clancy          14    14     6     7     1     0    14    .929
+   rBordi           36     0     4     6     3     0    13    .769
+    Bannister       29     2     8     3     0     0    11   1.000
+    Smith           62     4     1     8     1     2    10    .900
+    Martinez,T      22     0     3     3     2     1     8    .750
+   nStewart         11     8     3     2     1     0     6    .833
+    Russell          7     5     1     2     2     0     5    .600
+    Acker           10     1     1     0     0     0     1   1.000
+    Langston         6     1     0     0     0     0     0    .000
+   cLangston        31    26    10    12     1     1    23    .957
+                   473   142   102   133    25    12   260    .904
+ 
+c   Davis          152   140   884    64    19     2   967    .980    9
+   rLake            24    15    84     8     2     1    94    .979    0
+   nEssian           8     0    27     3     1     0    31    .968    1
+    Armas            1     1     9     0     0     0     9   1.000    1
+   rDeer             1     1     7     0     0     0     7   1.000    2
+    Walling          1     1     4     0     0     0     4   1.000    0
+    Brunansky        1     0     0     0     0     0     0    .000    0
+                   188   158  1015    75    22     3  1112    .980   13
+ 
+1b  Durham         120   119  1074    82     9   116  1165    .992
+    Armas           20    20   172    11     5    17   188    .973
+    Brunansky       14    13   109    10     2     9   121    .983
+    Buckner          9     8    77     4     0    11    81   1.000
+   nBalboni          4     0    23     0     0     3    23   1.000
+    Martinez         1     1     9     1     0     1    10   1.000
+   cMartinez         4     2    16     2     0     2    18   1.000
+    Walling          1     0     5     1     0     1     6   1.000
+                   169   161  1469   109    16   158  1594    .990
+ 
+2b rSandberg       160   160   337   572     8   133   917    .991
+    Griffin          2     0     2     5     0     0     7   1.000
+   cGriffin          8     0     5    11     1     0    17    .941
+    Hubbard          3     2     3     2     0     1     5   1.000
+                   165   162   342   579     8   134   929    .991
+ 
+3b  Jacoby          82    82    53   127    15    12   195    .923
+   cJacoby         116   114    77   172    23    20   272    .915
+   nCey             56     0    26    87     7    11   120    .942
+   nGaetti          31     0    17    71     8     8    96    .917
+    Walling         18     0     1     8     1     0    10    .900
+   rMitchell         6     3     1     7     0     1     8   1.000
+    Brunansky        2     2     0     7     0     0     7   1.000
+                   195    87    98   307    31    32   436    .929
+            DMB League Fielding Statistics:  1984 Area 51 Majestics
+                                        
+ 
+POS NAME             G    GS    PO     A     E    DP    TC     PCT   PB
+ 
+ss  Griffin        100    99   143   317    21    60   481    .956
+   cGriffin        116   111   163   359    25    68   547    .954
+    Hubbard         37    37    50   135     3    28   188    .984
+   nGaetti          15     0    23    39     6    12    68    .912
+   rPankovitz       10    10    19    29     3     7    51    .941
+    Walling          3     0     1     1     0     1     2   1.000
+    Jacoby           1     0     1     1     0     0     2   1.000
+   cJacoby           1     0     1     1     0     0     2   1.000
+   rGagne            1     1     1     1     0     1     2   1.000
+   rSandberg         1     0     1     0     0     0     1   1.000
+                   168   147   239   523    33   109   795    .958
+ 
+lf  Brunansky       63    63   150    12     5     2   167    .970
+    Armas           53    53    93     1     4     0    98    .959
+    Dernier         42    23    68     1     0     0    69   1.000
+    Leonard         21    20    31     0     0     0    31   1.000
+   cLeonard         22    20    31     0     0     0    31   1.000
+   rDeer             5     0     7     0     0     0     7   1.000
+   rMitchell         3     3     6     0     1     0     7    .857
+    Walling          2     0     4     0     0     0     4   1.000
+    Nixon            2     0     1     0     0     0     1   1.000
+   rDawson           1     0     0     0     0     0     0    .000
+    Martinez         1     0     0     0     0     0     0    .000
+   cMartinez         1     0     0     0     0     0     0    .000
+                   193   162   360    14    10     2   384    .974
+ 
+cf  Armas           56    49   142     8     3     1   153    .980
+    Walling         45    44   113     9     2     0   124    .984
+    Dernier         41    27    98     2     3     0   103    .971
+    Nixon           27    26    69     3     0     2    72   1.000
+    Leonard         17    16    46     0     3     0    49    .939
+   cLeonard         26    21    54     0     3     0    57    .947
+    Martinez         1     0     4     0     0     0     4   1.000
+   cMartinez         1     0     4     0     0     0     4   1.000
+    Brunansky        1     0     2     0     0     0     2   1.000
+    Jacoby           1     0     0     0     0     0     0    .000
+   cJacoby           1     0     0     0     0     0     0    .000
+                   189   162   474    22    11     3   507    .978
+ 
+rf rDawson         117   117   221    12     6     1   239    .975
+    Leonard         33    31    64     8     3     2    75    .960
+   cLeonard         55    51    86    10     3     2    99    .970
+    Brunansky       17     6    19     0     1     0    20    .950
+    Armas            9     4    15     0     2     0    17    .882
+   nGaetti           1     0     0     1     0     0     1   1.000
+    Dernier          3     3     1     0     0     0     1   1.000
+   rDeer             1     1     1     0     0     0     1   1.000
+                   181   162   321    21    12     3   354    .966
+ 
+    Team Total     162   162  4420  1783   168   167  6371    .974   13
+                     Game Results:  1984 Area 51 Majestics
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 4/ 1/1984   @GAR   L  1-2      Niekro      Niekro                  Valenzuela  
+ 4/ 2/1984   @GAR   W  8-1      Trout       Trout                   Forsch      
+ 4/ 3/1984   @GAR   W  5-0      Sanderson   Sanderson               Hoyt        
+ 4/ 5/1984   @GCP   W  7-3      Tanana      Tanana                  Key         
+ 4/ 6/1984   @GCP   L  1-3      Niekro      Niekro                  Darwin      
+ 4/ 7/1984    EVN   W  7-4  11  Trout       Gott                    Seaver      
+ 4/ 8/1984    BMB   L  3-16     Sanderson   Sanderson               Clemens     
+ 4/ 9/1984    BMB   W 12-2      Tanana      Tanana      Gott        Langston    
+ 4/10/1984    BMB   W 10-4      Stewart     Stewart                 Gubicza     
+ 4/11/1984   @JJJ   L  3-5  16  Niekro      Martinez,T              Leibrandt   
+ 4/12/1984    FER   W 11-10 10  Trout       Martinez,T              Boyd        
+ 4/13/1984    FER   L  4-6      Sanderson   Gott                    Boddicker   
+ 4/14/1984    CIN   L  5-6  10  Tanana      Russell                 Fernandez   
+ 4/15/1984   @SUN   L  1-4      Stewart     Stewart                 Show        
+ 4/16/1984   @SUN   W 11-3      Niekro      Niekro                  Candelaria  
+ 4/17/1984   @SUN   W 10-7      Trout       Hooton                  Perez       
+ 4/21/1984   @JJJ   L  2-3  10  Niekro      Gott                    Leibrandt   
+ 4/22/1984    EVN   W  8-3      Trout       Trout                   Petry       
+ 4/23/1984    JJJ   W  7-2      Sanderson   Sanderson               Cox         
+ 4/24/1984    JJJ   L  0-1      Tanana      Bordi                   Gullickson  
+ 4/25/1984    GCP   W  3-2  11  Stewart     Smith                   Barker      
+ 4/26/1984    CTW   L  3-12     Niekro      Niekro                  Tibbs       
+ 4/27/1984    CTW   W  6-2      Trout       Trout                   Hough       
+ 4/28/1984    CTW   L  0-5      Sanderson   Hooton                  Zahn        
+ 4/29/1984   @SUN   L  2-3  11  Tanana      Martinez,T              Tudor       
+ 4/30/1984   @SUN   W  5-2      Stewart     Hooton      Acker       Show        
+ 5/ 1/1984    GCP   L  0-6      Niekro      Niekro                  Darwin      
+ 5/ 2/1984    GAR   W  9-7      Trout       Gott        Smith       Hoyt        
+ 5/ 3/1984    GAR   W  5-4  12  Sanderson   Gott                    Hurst       
+ 5/ 4/1984   @FER   L  2-4      Tanana      Tanana                  Boyd        
+ 5/ 5/1984    SUN   W  3-2  10  Stewart     Smith                   Show        
+ 5/ 6/1984    SUN   L  8-10     Niekro      Bordi                   Candelaria  
+ 5/ 7/1984    SUN   W  5-3      Trout       Trout       Gott        Perez       
+ 5/ 8/1984   @BBG   W 10-1      Sanderson   Sanderson               Reuschel    
+ 5/ 9/1984   @CEN   L  5-6      Tanana      Tanana                  Krukow      
+ 5/10/1984   @CEN   L  4-5      Stewart     Stewart                 Davis,M     
+ 5/11/1984   @CEN   W 10-8      Niekro      Niekro                  Cowley      
+ 5/12/1984   @CEN   L  2-3      Trout       Trout                   Niekro      
+ 5/13/1984    BMB   L  3-4      Sanderson   Sanderson               Williams    
+ 5/14/1984    BMB   W  5-2  10  Tanana      Smith                   Clemens     
+ 5/15/1984    BMB   L 10-12     Stewart     Gott                    Langston    
+ 5/16/1984   @CIN   L  2-4      Niekro      Niekro                  DeLeon      
+ 5/17/1984   @CIN   W  4-2      Trout       Trout                   Soto        
+ 5/18/1984   @CIN   W  5-3  10  Sanderson   Smith                   Smithson    
+ 5/19/1984    EVN   L  1-3      Tanana      Tanana                  Robinson    
+ 5/20/1984    EVN   W  6-5  10  Stewart     Smith                   Petry       
+ 5/21/1984    EVN   L  2-6      Niekro      Niekro                  Seaver      
+ 5/22/1984    GCP   L  1-2      Trout       Trout                   Martinez,D  
+ 5/23/1984    GCP   L  4-13     Sanderson   Gott                    Reuss       
+ 5/24/1984    GCP   W 10-7  11  Tanana      Smith                   Berenguer   
+ 5/28/1984    GCP   L  8-9  13  Tanana      Bordi                   Reuss       
+ 5/29/1984    TEW   W  4-2      Valenzuela  Valenzuela              Ojeda       
+                     Game Results:  1984 Area 51 Majestics
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 5/30/1984    TEW   L  3-5      Niekro      Niekro                  Darling     
+ 5/31/1984    TEW   W  6-1      Trout       Trout                   Gross,K     
+ 6/ 1/1984   @BBG   W  2-1      Acker       Acker       Smith       Scott,M     
+ 6/ 2/1984   @BBG   W  4-3      Tanana      Tanana      Smith       Reuschel    
+ 6/ 3/1984   @BBG   W  3-0      Valenzuela  Valenzuela              Viola       
+ 6/ 4/1984    BAR   W  2-1      Niekro      Niekro      Smith       Eckersley   
+ 6/ 5/1984    BAR   W  4-3      Trout       Gott                    Stieb       
+ 6/ 6/1984    BAR   L  4-5      Sanderson   Sanderson               Black       
+ 6/ 7/1984    BBG   L  3-11     Tanana      Tanana                  Reuschel    
+ 6/ 8/1984    BBG   W  7-6      Valenzuela  Valenzuela  Smith       Viola       
+ 6/ 9/1984    BBG   L  5-7      Niekro      Niekro                  Hershiser   
+ 6/10/1984    GPC   W 17-12     Trout       Trout                   Knepper     
+ 6/11/1984    GPC   L  3-12     Sanderson   Sanderson               Gooden      
+ 6/12/1984    GPC   L  2-4      Tanana      Tanana                  Mason       
+ 6/13/1984   @FER   L  1-2      Valenzuela  Valenzuela              Sutton      
+ 6/14/1984   @FER   L  4-6      Niekro      Niekro                  Boddicker   
+ 6/15/1984   @FER   L  1-5      Trout       Gott                    Andujar     
+ 6/16/1984    GPC   W  1-0      Sanderson   Sanderson   Smith       Gooden      
+ 6/17/1984    GPC   W  4-3      Tanana      Gott        Smith       Mason       
+ 6/18/1984    GPC   W  2-1      Valenzuela  Valenzuela  Smith       Thurmond    
+ 6/19/1984    GPC   L  4-6      Niekro      Niekro                  Pena        
+ 6/20/1984   @CTW   W  3-1      Trout       Trout       Smith       Honeycutt   
+ 6/21/1984   @CTW   W  6-5      Sanderson   Sanderson   Smith       Hough       
+ 6/22/1984   @CTW   L  0-6      Tanana      Tanana                  Carlton     
+ 6/23/1984    BAR   L  6-11     Valenzuela  Valenzuela              Stieb       
+ 6/24/1984    BAR   L  3-5      Niekro      Smith                   Black       
+ 6/25/1984    BAR   W  4-3      Trout       Trout       Smith       Morris      
+ 6/27/1984   @BMB   W  7-2      Sanderson   Sanderson               Nipper      
+ 6/28/1984   @BMB   W  5-4      Tanana      Hooton      Smith       Denny       
+ 7/ 2/1984   @JJJ   L  3-6      Valenzuela  Valenzuela              Gullickson  
+ 7/ 3/1984    JJJ   L  2-7      Niekro      Niekro                  Guidry      
+ 7/ 4/1984    JJJ   W  5-4      Trout       Smith                   Leibrandt   
+ 7/ 5/1984    JJJ   W  6-1      Sanderson   Sanderson               Hawkins     
+ 7/ 6/1984   @EVN   L  1-5      Tanana      Tanana                  Smith       
+ 7/ 7/1984   @EVN   L  5-6      Valenzuela  Valenzuela              Robinson    
+ 7/ 8/1984   @EVN   L  4-5      Niekro      Niekro                  Petry       
+ 7/ 9/1984   @GAR   W  6-3      Trout       Trout       Smith       Hurst       
+ 7/10/1984   @GAR   W  6-3      Sanderson   Sanderson   Smith       Stewart     
+ 7/11/1984   @GAR   L  5-6  11  Tanana      Bordi                   Flanagan    
+ 7/12/1984   @GPC   L  4-6      Valenzuela  Valenzuela              Pena        
+ 7/13/1984   @GPC   L  3-4  11  Niekro      Bannister               Rhoden      
+ 7/14/1984   @GPC   L  3-6      Trout       Trout                   Gooden      
+ 7/15/1984   @EVN   L  0-3      Sanderson   Sanderson               Seaver      
+ 7/16/1984   @EVN   W  6-1      Tanana      Tanana      Smith       Smith       
+ 7/17/1984   @BBG   W  2-0      Valenzuela  Valenzuela              Viola       
+ 7/18/1984   @TEW   L  5-6      Niekro      Gott                    Darling     
+ 7/19/1984   @TEW   L  6-7      Trout       Trout                   Gross,K     
+ 7/20/1984   @TEW   W  7-3      Sanderson   Sanderson   Gott        Leal        
+ 7/24/1984   @JJJ   W  7-3      Clancy      Clancy                  Leibrandt   
+ 7/25/1984   @JJJ   L  2-3      Tanana      Tanana                  Hawkins     
+ 7/26/1984   @JJJ   W  7-2      Valenzuela  Valenzuela              Cox         
+ 7/27/1984   @GCP   L  0-3      Trout       Trout                   Berenguer   
+                     Game Results:  1984 Area 51 Majestics
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 7/28/1984   @GCP   L  2-11     Clancy      Clancy                  Barker      
+ 7/29/1984   @GCP   L  1-3      Tanana      Tanana                  Darwin      
+ 7/30/1984   @FER   L  4-5      Valenzuela  Smith                   Boddicker   
+ 7/31/1984   @FER   W  4-3  10  Trout       Bannister               Sutcliffe   
+ 8/ 2/1984   @CIN   W  5-2      Clancy      Clancy      Hooton      Lollar      
+ 8/ 3/1984   @CIN   L  0-4      Tanana      Tanana                  Fernandez   
+ 8/ 4/1984    CIN   W  4-2      Valenzuela  Valenzuela              Romanick    
+ 8/ 5/1984   @BAR   L  1-5      Trout       Trout                   Blyleven    
+ 8/ 6/1984   @BAR   L  1-4      Clancy      Clancy                  Stieb       
+ 8/ 7/1984   @BAR   W  4-3  17  Tanana      Bannister               Black       
+ 8/ 8/1984    CTW   L  4-6      Valenzuela  Valenzuela              Davis       
+ 8/ 9/1984    CTW   L  3-7  11  Trout       Martinez,T              Schatzeder  
+ 8/10/1984    CTW   L  4-9      Clancy      Hooton                  Honeycutt   
+ 8/11/1984    CTW   W  9-8  12  Tanana      Smith                   Zahn        
+ 8/12/1984    SUN   W  6-3      Valenzuela  Valenzuela  Smith       Tudor       
+ 8/13/1984    SUN   L  2-4  10  Trout       Martinez,T              Robinson    
+ 8/14/1984    SUN   W  6-5      Clancy      Martinez,T  Smith       Hammaker    
+ 8/15/1984    CEN   L  8-13     Tanana      Hooton                  McWilliams  
+ 8/16/1984    CEN   W  4-3  10  Valenzuela  Hooton                  Davis,M     
+ 8/17/1984    CEN   W  9-0      Trout       Trout                   Niekro      
+ 8/20/1984    EVN   L  5-7      Clancy      Gott                    Seaver      
+ 8/21/1984    BBG   L  2-9      Tanana      Tanana                  Viola       
+ 8/22/1984    BBG   L  1-2      Valenzuela  Valenzuela              Dravecky    
+ 8/23/1984   @BBG   L  1-5      Trout       Trout                   Saberhagen  
+ 8/24/1984   @BAR   L  6-7      Clancy      Gott                    Morris      
+ 8/25/1984   @BAR   L  2-9      Tanana      Tanana                  Blyleven    
+ 8/26/1984   @BAR   W  5-3      Niekro      Niekro                  Stieb       
+ 8/27/1984   @BAR   W  7-5      Langston    Langston    Smith       Eckersley   
+ 8/28/1984   @CTW   W  2-1  11  Trout       Smith                   Davis       
+ 8/29/1984   @CTW   W  6-5      Clancy      Hooton      Bannister   Smithson    
+ 8/30/1984   @CTW   W 11-7      Tanana      Tanana      Gott        Honeycutt   
+ 8/31/1984    CIN   L  2-11     Niekro      Niekro                  DeLeon      
+ 9/ 1/1984    CIN   L  7-8      Bannister   Gott                    Soto        
+ 9/ 2/1984    CIN   L  1-11     Russell     Russell                 Hough       
+ 9/ 3/1984   @TEW   W 11-9  10  Clancy      Hooton                  Ryan        
+ 9/ 4/1984   @TEW   L  0-8      Tanana      Tanana                  Witt        
+ 9/ 6/1984   @BMB   W  5-1      Niekro      Niekro                  Sanderson   
+ 9/ 7/1984   @BMB   L  3-5      Bannister   Bannister               Valenzuela  
+ 9/ 8/1984   @BMB   W  6-5      Russell     Gott        Smith       Easterly    
+ 9/ 9/1984    FER   W  5-4  11  Clancy      Smith                   Sutton      
+ 9/10/1984    FER   L  5-12     Tanana      Tanana                  Boddicker   
+ 9/11/1984    FER   L  3-6      Niekro      Niekro                  Sutcliffe   
+ 9/12/1984    CEN   L  0-3      Smith       Smith                   Niekro      
+ 9/13/1984    CEN   L  5-14     Russell     Hooton                  Krukow      
+ 9/14/1984    CEN   L  3-4      Clancy      Clancy                  Koosman     
+ 9/15/1984   @GPC   L  1-3      Tanana      Tanana                  Black       
+ 9/16/1984   @GPC   L  3-5      Niekro      Niekro                  Rhoden      
+ 9/17/1984   @GPC   L  0-2      Smith       Smith                   Mahler      
+ 9/18/1984    GAR   W 11-6      Russell     Russell                 Vande Berg  
+ 9/19/1984    GAR   W 11-1      Clancy      Clancy                  Diaz        
+ 9/20/1984    GAR   L  4-6      Tanana      Tanana                  Hoyt        
+ 9/21/1984   @CEN   L  2-4      Niekro      Niekro                  Krukow      
+                     Game Results:  1984 Area 51 Majestics
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 9/22/1984   @CEN   L  0-3      Smith       Smith                   Koosman     
+ 9/23/1984   @CEN   L  1-7      Russell     Russell                 McWilliams  
+ 9/24/1984    TEW   W  5-4      Clancy      Hooton                  Rasmussen   
+ 9/25/1984    TEW   L  5-6  11  Tanana      Gott                    Ryan        
+ 9/26/1984    TEW   W  2-1      Niekro      Niekro      Gott        Witt        
+ 9/27/1984    CIN   L  0-6      Smith       Smith                   Davis       
+                       Injury Log: 1984 Area 51 Majestics
+                                        
+ 
+-- Date -- #  Player      Cause                 Length
+ 
+ 4/ 5/1984    Durham      Hit by pitch             0
+ 4/16/1984    Durham      General                  1
+ 4/24/1984    Tanana      General                  0
+ 4/26/1984    Niekro      General                  0
+ 4/26/1984    Gott        General                  5
+ 4/28/1984    Sanderson   General                  0
+ 4/30/1984    Stewart     General                  0
+ 5/22/1984    Leonard     General                  0
+ 5/23/1984    Sanderson   General                 10
+ 5/24/1984    Durham      General                  7
+ 6/ 1/1984    Armas       General                  0
+ 6/24/1984    Walling     General                  4
+ 6/24/1984    Brunansky   General                  0
+ 6/27/1984    Dawson      General                  3
+ 7/ 4/1984    Sandberg    General                  0
+ 7/ 9/1984    Dawson      General                 10
+ 7/11/1984    Lake        General                  0
+ 7/13/1984    Dernier     Hit by pitch            19
+ 7/17/1984    Griffin     General                  0
+ 7/24/1984    Griffin     General                  0
+ 8/ 9/1984    Sandberg    General                  0
+ 8/13/1984    Trout       Rain delay               0
+ 8/14/1984    Davis       General                  5
+ 8/23/1984    Jacoby      General                  5
+              DMB League Transaction Log:  1984 Area 51 Majestics
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+ 4/17/1984  A51    Farm         Jeff Russell        
+ 4/17/1984  A51    Promote      Jim Acker           
+ 4/18/1984  A51    Farm         Jim Pankovitz       
+ 4/18/1984  A51    Promote      Glenn Hubbard       
+ 5/ 1/1984  A51    Acquire      Dave Geisel           from BMB
+ 5/ 1/1984  A51    TradeAway    Jim Essian            to BMB
+ 5/ 1/1984  A51    Promote      Steve Lake          
+ 5/17/1984  A51    Farm         Rusty Staub         
+ 5/17/1984  A51    Farm         Steve Balboni       
+ 5/17/1984  A51    Promote      Greg Gagne          
+ 5/17/1984  A51    Promote      Rob Deer            
+ 5/27/1984  A51    TradeAway    Dave Stewart          to GAR
+ 5/27/1984  A51    TradeAway    Lonnie Smith          to GAR
+ 5/27/1984  A51    TradeAway    Gary Gaetti           to GAR
+ 5/27/1984  A51    TradeAway    Steve Balboni         to GAR
+ 5/27/1984  A51    Acquire      Frnando Valenzuela    from GAR
+ 5/27/1984  A51    Acquire      Floyd Bannister       from GAR
+ 5/27/1984  A51    Acquire      Brook Jacoby          from GAR
+ 5/27/1984  A51    Acquire      Alfredo Griffin       from GAR
+ 5/27/1984  A51    Promote      Bill Buckner        
+ 5/27/1984  A51    Promote      Floyd Bannister     
+ 5/27/1984  A51    Farm         Rob Deer            
+ 5/27/1984  A51    Farm         Alfredo Griffin     
+ 6/ 8/1984  A51    Acquire      Dennis Walling        from BMB
+ 6/ 8/1984  A51    TradeAway    Jeff Leonard          to BMB
+ 6/ 8/1984  A51    Promote      Alfredo Griffin     
+ 6/ 8/1984  A51    Promote      Dennis Walling      
+ 6/ 8/1984  A51    Activate     Brook Jacoby        
+ 6/ 8/1984  A51    Farm         Tippy Martinez      
+ 6/ 8/1984  A51    Farm         Bill Buckner        
+ 6/ 8/1984  A51    Farm         Glenn Hubbard       
+ 6/ 8/1984  A51    Promote      Tippy Martinez      
+ 6/ 9/1984  A51    Farm         Greg Gagne          
+ 7/20/1984  A51    Promote      Rob Deer            
+ 7/20/1984  A51    Promote      Kevin Mitchell      
+ 7/20/1984  A51    Promote      Otis Nixon          
+ 7/20/1984  A51    Promote      Jim Clancy          
+ 7/20/1984  A51    Farm         Rich Bordi          
+ 7/20/1984  A51    Farm         Scott Sanderson     
+ 7/20/1984  A51    Farm         Ron Cey             
+ 8/14/1984  A51    Farm         Steve Lake          
+ 8/21/1984  A51    Farm         Rob Deer            
+ 8/23/1984  A51    Acquire      Carmelo Martinez      from BMB
+ 8/23/1984  A51    Acquire      Jeff Leonard          from BMB
+ 8/23/1984  A51    Acquire      Mark Langston         from BMB
+ 8/23/1984  A51    TradeAway    Ron Cey               to BMB
+ 8/23/1984  A51    TradeAway    Frnando Valenzuela    to BMB
+ 8/23/1984  A51    TradeAway    Scott Sanderson       to BMB
+ 8/23/1984  A51    Promote      Carmelo Martinez    
+ 8/26/1984  A51    Farm         Kevin Mitchell      
+ 8/31/1984  A51    Promote      Bill Buckner        
+ 8/31/1984  A51    Farm         Andre Dawson        
+              DMB League Transaction Log:  1984 Area 51 Majestics
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+ 8/31/1984  A51    Farm         Steve Trout         
+ 8/31/1984  A51    Promote      Jeff Russell        
+ 9/25/1984  A51    Farm         Ryne Sandberg       
+ 9/25/1984  A51    Promote      Glenn Hubbard       
+
+
+ 
+							
+							

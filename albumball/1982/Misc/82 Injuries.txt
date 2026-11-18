@@ -1,0 +1,339 @@
+The Combat Rock League
+
+Injury Log
+
+                        DMB League Injury Log: 1982 CRL
+                                        
+ 
+-- Date -- #  Team   Player      Cause                 Length
+ 
+ 6/ 5/1999    BOS    Garner      General                  2
+ 6/ 6/1999    FER    Kemp        General                  0
+ 6/ 7/1999    LON    Tekulve     General                  0
+ 6/ 8/1999    NYH    Witt        General                 10
+ 6/ 8/1999    CEN    Oliver      General                  0
+ 6/ 8/1999    BAR    Johnstone   General                  2
+ 6/ 9/1999    NYH    Hawkins     General                  6
+ 6/10/1999    LON    Baylor      Collision on bases       5
+ 6/10/1999    JJJ    Hrbek       General                  0
+ 6/11/1999    BOS    Knight      General                  0
+ 6/11/1999    BOS    Wilson      General                  0
+ 6/12/1999    NYH    Kison       General                  0
+ 6/12/1999    JJJ    Oberkfell   General                  4
+ 6/13/1999    FER    Murray      General                  0
+ 6/13/1999    BOS    Ramirez     General                  0
+ 6/14/1999    GCP    Diaz        General                  8
+ 6/14/1999    LON    Bell        General                  2
+ 6/15/1999    CTW    Murray      General                  3
+ 6/16/1999    CEN    Swan        General                 10
+ 6/18/1999    BBG    Welch       Rain delay               0
+ 6/18/1999    CIN    Lucas       Rain delay               0
+ 6/19/1999    LDL    Dawson      General                  9
+ 6/20/1999    BMB    Cruz        General                  5
+ 6/20/1999    NYH    Molitor     General                  0
+ 6/21/1999    NYH    White       Hit by pitch            17
+ 6/21/1999    JJJ    Oglivie     General                  1
+ 6/22/1999    LON    Gedman      General                  2
+ 6/22/1999    CTW    Hodges      General                 10
+ 6/24/1999    FER    May         General                 12
+ 6/24/1999    GCP    Sarmiento   General                  0
+ 6/24/1999    CIN    Howe        General                  2
+ 6/24/1999    BAR    Mumphrey    General                  0
+ 6/25/1999    CIN    Gross       General                  0
+ 6/25/1999    BAR    Driessen    General                  2
+ 6/26/1999    BMB    Morgan      General                  2
+ 6/26/1999    FER    Murray      General                  0
+ 6/26/1999    LON    Brenly      Collision in field       5
+ 6/27/1999    BMB    Cruz        General                  3
+ 6/27/1999    CTW    Murray      Hit by pitch            11
+ 6/28/1999    PAR    Garcia      General                  2
+ 6/29/1999    FER    Murray      Rain delay               0
+ 6/29/1999    GCP    Fingers     General                  0
+ 6/29/1999    CIN    Washington  General                  4
+ 6/30/1999    BOS    Robinson,D  General                  5
+ 6/30/1999    CTW    May         General                  3
+ 6/30/1999    PAR    Niekro, P   General                  0
+ 7/ 1/1999    GCP    Sarmiento   General                 10
+ 7/ 2/1999    BOS    Walk        Rain delay               0
+ 7/ 2/1999    CEN    Smith,L     General                  0
+ 7/ 2/1999    BBG    Oester      General                  2
+ 7/ 5/1999    BMB    Leonard     General                 22
+ 7/ 6/1999    BAR    HendersonD  Hit by pitch            25
+                        DMB League Injury Log: 1982 CRL
+                                        
+ 
+-- Date -- #  Team   Player      Cause                 Length
+ 
+ 7/ 7/1999    FER    Kemp        General                  1
+ 7/ 7/1999    NYH    Wright      General                  3
+ 7/ 8/1999    CIN    Backman     Collision on bases      26
+ 7/ 8/1999    GCP    Rawley      General                 10
+ 7/ 8/1999    SUN    Grubb       Hit by pitch            19
+ 7/ 8/1999    SUN    Reed,R      General                 12
+ 7/ 9/1999    NYH    Rice        General                  4
+ 7/11/1999    FER    Hernandez   General                  0
+ 7/12/1999    PAR    Flanagan    Rain delay               0
+ 7/12/1999    JJJ    Breining    Rain delay               0
+ 7/14/1999    BMB    Rogers      Rain delay               0
+ 7/14/1999    CIN    Davis       General                  0
+ 7/14/1999    LDL    Luzinski    General                  0
+ 7/15/1999    LON    Bell        General                  0
+ 7/17/1999    FER    Simmons     General                  3
+ 7/18/1999    JJJ    Oglivie     General                  2
+ 7/19/1999    BMB    Guerrero    General                  0
+ 7/19/1999    CIN    Davis, C    General                  1
+ 7/19/1999    JJJ    Yount       General                  0
+ 7/19/1999    GCP    DeCinces    General                  0
+ 7/19/1999    BAR    Tanana      Rain delay               0
+ 7/19/1999    LON    Camp        Rain delay               0
+ 7/20/1999    FER    Maddox      General                  0
+ 7/20/1999    CEN    Oliver      General                  0
+ 7/20/1999    NYH    Rice        General                  4
+ 7/21/1999    LDL    Dawson      General                  4
+ 7/21/1999    CIN    Durham      General                  4
+ 7/21/1999    CIN    Parrish     General                  4
+ 7/22/1999    GCP    Thompson    General                  5
+ 7/23/1999    BMB    Jones       Hit by pitch             0
+ 7/23/1999    FER    McClure     General                  7
+ 7/24/1999    BOS    Clear       Brawl                   26
+ 7/24/1999    BOS    Nettles     Brawl                   22
+ 7/24/1999    LDL    Dernier     Brawl                   22
+ 7/25/1999    SUN    Whitaker    General                  9
+ 7/25/1999    LDL    LeFlore     General                  0
+ 7/26/1999    BOS    Ramirez     Hit by pitch             5
+ 7/26/1999    BMB    Carter      Hit by pitch             0
+ 7/27/1999    BMB    Jones       Hit by pitch            10
+ 7/28/1999    BOS    McGee       General                  3
+ 7/28/1999    JJJ    Porter      General                  7
+ 7/29/1999    FER    Gamble      General                  0
+ 7/29/1999    CIN    Parrish     Collision in field      19
+ 7/30/1999    JJJ    Fischlin    Collision in field       3
+ 7/30/1999    CTW    Nichols     General                  1
+ 7/31/1999    PAR    Cromartie   General                  0
+ 8/ 1/1999    BMB    Carter      General                  7
+ 8/ 1/1999    BOS    Pena        General                  1
+ 8/ 1/1999    BOS    Knight      General                  3
+ 8/ 1/1999    JJJ    Clark       General                  7
+ 8/ 3/1999    BMB    Paciorek    Collision on bases      18
+ 8/ 3/1999    FER    Shirley     Rain delay               0
+                        DMB League Injury Log: 1982 CRL
+                                        
+ 
+-- Date -- #  Team   Player      Cause                 Length
+ 
+ 8/ 3/1999    LDL    Seaver      General                 10
+ 8/ 3/1999    PAR    Easler      Hit by pitch             0
+ 8/ 4/1999    CEN    Winfield    General                  6
+ 8/ 5/1999    LON    Herr        General                  3
+ 8/ 7/1999    CEN    Underwood   General                  0
+ 8/ 7/1999    BMB    Denny       General                  0
+ 8/ 8/1999    FER    Jackson     General                  0
+ 8/ 9/1999    BMB    Richards    General                  2
+ 8/ 9/1999    GCP    Bernazard   General                  2
+ 8/ 9/1999    GCP    Thompson    General                  1
+ 8/ 9/1999    CIN    Davis       General                  9
+ 8/10/1999    LDL    Davis, J    General                  3
+ 8/10/1999    CTW    Hodges      Collision in field      26
+ 8/10/1999    BBG    Dybzinski   General                  0
+ 8/10/1999    PAR    Cooper      General                  6
+ 8/11/1999    BMB    Reynolds    Brawl                   27
+ 8/11/1999    BOS    Lerch       General                  3
+ 8/13/1999    LDL    Dawson      General                  0
+ 8/13/1999    BOS    LaPoint     General                  0
+ 8/14/1999    JJJ    Oberkfell   Hit by pitch            25
+ 8/14/1999    BAR    Tanana      General                 10
+ 8/14/1999    LON    Baines      General                  0
+ 8/15/1999    GCP    Diaz        Collision in field       0
+ 8/15/1999    SUN    Roenicke    General                  8
+ 8/15/1999    SUN    Lea         General                 10
+ 8/16/1999    SUN    Candelaria  General                 10
+ 8/16/1999    FER    Ripken      General                  0
+ 8/16/1999    PAR    Benedict    General                  5
+ 8/17/1999    JJJ    Clark       General                 11
+ 8/18/1999    SUN    Proly       General                  6
+ 8/20/1999    GCP    Reuss       Rain delay               0
+ 8/20/1999    CTW    Davis       General                 23
+ 8/20/1999    JJJ    Baker       General                  0
+ 8/20/1999    BAR    Armstrong   General                  0
+ 8/22/1999    JJJ    Baker       General                  8
+ 8/22/1999    BAR    Burns       General                  5
+ 8/24/1999    FER    Hernandez   General                  1
+ 8/24/1999    LON    Mahler      Rain delay               0
+ 8/25/1999    FER    Simmons     General                  0
+ 8/25/1999    JJJ    Lansford    General                  3
+ 8/27/1999    LON    Baylor      General                  4
+ 8/29/1999    LDL    Engle       General                  9
+ 8/30/1999    BOS    Nettles     General                  7
+ 8/31/1999    LON    Gibson      Hit by pitch            24
+ 9/ 1/1999    BOS    Singleton   General                  2
+ 9/ 2/1999    LDL    Buckner     General                  0
+ 9/ 3/1999    BAR    Armstrong   General                 11
+ 9/ 4/1999    BOS    Boone       General                  0
+ 9/ 5/1999    LON    Knepper     General                  5
+ 9/ 5/1999    SUN    Brett       General                  3
+ 9/ 6/1999    JJJ    Hrbek       General                  5
+ 9/ 6/1999    CEN    Hassey      General                  0
+                        DMB League Injury Log: 1982 CRL
+                                        
+ 
+-- Date -- #  Team   Player      Cause                 Length
+ 
+ 9/ 7/1999    NYH    White       Hit by pitch             0
+ 9/ 7/1999    LON    Trammell    General                  2
+ 9/10/1999    CTW    Law,V       General                  0
+ 9/10/1999    LON    Baines      General                  0
+ 9/14/1999    LDL    Jackson,Re  Hit by pitch             0
+ 9/16/1999    PAR    Niekro, P   General                  5
+ 9/17/1999    CEN    Winfield    General                  1
+ 9/19/1999    JJJ    Baker       Collision on bases      15
+ 9/19/1999    BAR    Hernandez   General                  1
+ 9/20/1999    LON    Gedman      Collision in field      27
+ 9/21/1999    BAR    Thornton    General                  0
+ 9/21/1999    PAR    Matlack     Rain delay               0
+ 9/24/1999    NYH    Molitor     General                  0
+ 9/24/1999    CEN    Gantner     General                  3
+ 9/26/1999    LON    Knepper     General                 10
+ 9/28/1999    SUN    Grubb       Hit by pitch            31
+ 9/28/1999    LON    Rucker      Brawl                   37
+ 9/29/1999    CIN    Templeton   General                  0
+ 9/29/1999    CEN    McLaughlin  General                 10
+ 9/30/1999    SUN    Wockenfuss  General                  3
+10/ 1/1999    BBG    Dravecky    General                  5
+10/ 1/1999    JJJ    Stearns     Collision in field       3
+10/ 1/1999    GCP    DeCinces    General                  0
+10/ 2/1999    CIN    Soto        Rain delay               0
+10/ 3/1999    SUN    Tenace      Collision on bases       1
+10/ 3/1999    CTW    Nichols     General                  0
+10/ 4/1999    FER    Hammaker    Rain delay               0
+10/ 5/1999    BOS    Knight      General                  0
+10/ 6/1999    JJJ    Oberkfell   General                  5
+10/ 7/1999    LON    Brenly      General                  0
+10/ 8/1999    CIN    Backman     General                  0
+10/ 9/1999    SUN    Tudor       General                 10
+10/10/1999    CEN    McWilliams  General                 10
+10/10/1999    LON    Moseby      General                  0
+10/10/1999    BBG    Smith       General                  8
+10/13/1999    LDL    Dawson      Hit by pitch             0
+10/14/1999    BBG    Scioscia    Collision in field      24
+10/14/1999    CIN    Davis, C    General                  5
+10/14/1999    BAR    Sanchez     Rain delay               0
+10/14/1999    BAR    Tobik       General                 11
+10/14/1999    BAR    Moore       Collision on bases       7
+10/14/1999    JJJ    Bannister   Hit by pitch             1
+10/15/1999    CEN    Slaught     General                  6
+10/16/1999    FER    Grich       General                  0
+10/17/1999    FER    Sutcliffe   General                  0
+10/17/1999    SUN    Lynn        Collision on bases       6
+10/18/1999    CTW    Ruthven     General                 10
+10/21/1999    GCP    DeCinces    General                  0
+10/21/1999    LDL    Foster      General                  3
+10/22/1999    CTW    Raines      General                  0
+10/22/1999    JJJ    Lansford    Hit by pitch            31
+10/23/1999    CEN    Landreaux   General                  3
+                        DMB League Injury Log: 1982 CRL
+                                        
+ 
+-- Date -- #  Team   Player      Cause                 Length
+ 
+10/23/1999    GCP    DeCinces    General                  0
+10/23/1999    BOS    LaPoint     General                  0
+10/23/1999    BBG    Iorg        General                  1
+10/23/1999    NYH    Molitor     General                  0
+10/25/1999    CTW    Terrell     General                 10
+10/26/1999    LDL    Buckner     General                  0
+10/26/1999    CTW    Raines      General                  3
+10/26/1999    BOS    Hendrick    General                  1
+10/26/1999    BBG    Hayes       General                  0
+10/27/1999    BAR    Darwin      General                  5
+10/27/1999    BOS    Walk        General                  0
+10/27/1999    LON    Moseby      General                  1
+10/27/1999    BMB    Stoddard    General                 10
+10/28/1999    LON    Baines      General                  0
+10/28/1999    CTW    Murray      General                  7
+10/30/1999    PAR    Cromartie   General                  0
+10/31/1999    BAR    Hernandez   General                  0
+10/31/1999    SUN    Zisk        General                  2
+10/31/1999    BOS    Otis        General                  0
+11/ 1/1999    CIN    Stewart     General                 15
+11/ 1/1999    CEN    McWilliams  General                 10
+11/ 3/1999    PAR    Thomas      General                 22
+11/ 4/1999    BBG    Berra       General                  2
+11/ 4/1999    SUN    Mulliniks   General                  0
+11/ 4/1999    LDL    Cey         General                  3
+11/ 5/1999    BAR    Parker      General                 23
+11/ 8/1999    NYH    Witt        Brawl                   30
+11/10/1999    LDL    Heath       General                  1
+11/12/1999    FER    Boddicker   General                  9
+11/14/1999    BOS    Walk        General                  0
+11/14/1999    NYH    White       General                  0
+11/14/1999    PAR    Lavelle     General                  0
+11/14/1999    SUN    Brunansky   General                  3
+11/14/1999    LON    Baines      General                  0
+11/15/1999    BAR    Smith,L     General                  5
+11/16/1999    BBG    Blue        General                  0
+11/16/1999    SUN    Cedeno      General                  0
+11/16/1999    BMB    Guerrero    General                  5
+11/18/1999    LON    Bird        Rain delay               0
+11/18/1999    LON    Brusstar    Brawl                   17
+11/19/1999    LDL    Caldwell    Rain delay               0
+11/20/1999    CIN    Upshaw      General                  0
+11/21/1999    LON    Baylor      General                  4
+11/21/1999    NYH    Concepcion  General                  5
+11/21/1999    GCP    Reuss       Rain delay               0
+11/22/1999    CIN    Berenyi     Rain delay               0
+11/22/1999    BAR    Smith,O     General                  0
+11/22/1999    SUN    Brett       General                  0
+11/22/1999    CTW    Beard       General                  0
+11/22/1999    JJJ    Hebner      General                  3
+11/23/1999    BAR    Gross       General                  4
+11/23/1999    SUN    Proly       General                 15
+                        DMB League Injury Log: 1982 CRL
+                                        
+ 
+-- Date -- #  Team   Player      Cause                 Length
+ 
+11/23/1999    SUN    Reed,R      General                  0
+11/24/1999    NYH    Wilson, G   General                  0
+11/24/1999    SUN    Grubb       General                  9
+11/25/1999    BOS    Hendrick    General                  4
+11/25/1999    JJJ    Bannister   Hit by pitch             0
+11/26/1999    CEN    Herndon     General                  1
+11/26/1999    NYH    Rice        Collision on bases      17
+11/26/1999    CIN    Nicosia     Collision in field       0
+11/26/1999    LDL    Engle       General                  4
+11/27/1999    FER    Simmons     General                  1
+11/29/1999    NYH    Concepcion  General                  0
+11/29/1999    CTW    Madlock     General                  1
+11/30/1999    JJJ    Griffey     General                  3
+11/30/1999    NYH    Concepcion  General                  0
+12/ 1/1999    BOS    Speier      General                  1
+12/ 2/1999    CEN    Jackson,Ro  General                  7
+12/ 2/1999    CTW    Murphy      General                  8
+12/ 3/1999    BOS    Clear       Brawl                   26
+12/ 5/1999    BAR    Moore       Collision in field      26
+12/ 6/1999    SUN    Cedeno      General                  2
+12/ 6/1999    LON    Orosco      General                 11
+12/ 8/1999    LDL    Engle       General                  0
+12/ 8/1999    JJJ    Bannister   General                  0
+12/ 9/1999    CTW    Sax,S       General                  0
+12/ 9/1999    PAR    Horner      General                  5
+12/10/1999    BMB    Thon        General                  0
+12/11/1999    FER    Simmons     Collision in field      24
+12/11/1999    GCP    DeCinces    General                  6
+12/11/1999    CTW    Moreland    General                  1
+12/11/1999    BOS    Nettles     General                  0
+12/12/1999    SUN    Grubb       Hit by pitch             0
+12/12/1999    LON    Baines      General                  0
+12/13/1999    SUN    Brunansky   General                  4
+12/13/1999    BAR    Mumphrey    General                  0
+12/14/1999    CEN    Smalley     General                  5
+12/15/1999    BMB    Paciorek    General                  0
+12/16/1999    FER    Ripken      General                  1
+12/17/1999    BOS    Garner      General                  2
+12/17/1999    CIN    Davis, C    General                  0
+12/19/1999    LDL    Caldwell    Rain delay               0
+12/19/1999    CEN    Milbourne   General                  2
+12/19/1999    BMB    Thon        General                  8
+12/19/1999    LON    Baines      General                  0
+
+

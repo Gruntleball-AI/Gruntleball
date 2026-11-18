@@ -1,0 +1,280 @@
+The Combat Rock League
+
+Sunnydale Slayers
+
+             DMB League Batting Statistics:  1982 Sunnydale Slayers
+                                        
+ 
+ NAME         AVG   OBP   SPC   G  AB   H 2B 3B HR   R RBI  BB   K HB IW  SB CS
+ 
+ Wockenfuss  .500  .500 1.250   1   4   2  0  0  1   1   1   0   0  0  0   0  0 
+ Lynn        .364  .385  .727   3  11   4  2  1  0   3   3   1   1  0  0   0  0 
+ Tenace      .333  .429  .667   3  12   4  1  0  1   2   2   2   1  0  0   0  0 
+ Brett       .308  .471  .538   4  13   4  0  0  1   2   1   4   0  0  0   0  0 
+ Whitaker    .286  .353  .286   4  14   4  0  0  0   2   5   2   1  0  0   0  0 
+ Cedeno      .250  .250 1.000   1   4   1  0  0  1   1   2   0   0  0  0   0  0 
+ Monday      .231  .286  .692   3  13   3  0  0  2   3   2   1   6  0  0   0  0 
+ Dwyer       .200  .308  .200   3  10   2  0  0  0   3   2   1   0  1  0   0  0 
+ Evans, Da   .188  .278  .250   4  16   3  1  0  0   1   0   2   2  0  0   0  0 
+ Roenicke    .167  .412  .500   4  12   2  1  0  1   4   1   4   2  1  0   1  0 
+ Aguayo      .000  .000  .000   2   0   0  0  0  0   0   0   0   0  0  0   0  0 
+ Wathan      .000  .250  .000   1   3   0  0  0  0   0   0   1   1  0  0   0  0 
+ Brunansky   .000  .000  .000   1   4   0  0  0  0   0   0   0   1  0  0   0  0 
+ 
+ Tudor       .000  .000  .000   1   3   0  0  0  0   0   0   0   1  0  0   0  0 
+ Show        .000  .250  .000   1   3   0  0  0  0   0   0   1   1  0  0   0  0 
+ Reed,R      .000  .000  .000   2   0   0  0  0  0   0   0   0   0  0  0   0  0 
+ Lea         .000  .000  .000   1   3   0  0  0  0   0   0   0   0  0  0   0  0 
+ Anderson    .000  .250  .000   1   3   0  0  0  0   0   0   1   1  0  0   0  0 
+
+ Team Total  .227  .333  .445   4      29     1     22      20      2      1
+                                  128      5     7      19      18     0      0
+ 
+ 
+ NAME         GS  SH  SF  GDP  CI  GW     RC   RC27    ISO   TAVG    TB CHS LHS
+ 
+ Wockenfuss    1   0   0    0   0   0    2.5   33.8   .750  2.500     5   1   1
+ Lynn          3   0   1    1   0   0    2.7    8.1   .364  1.125     8   3   3
+ Tenace        3   0   0    0   0   1    3.7   12.3   .333  1.250     8   3   3
+ Brett         4   0   0    0   0   0    3.8   11.4   .231  1.222     7   3   3
+ Whitaker      4   0   1    0   0   1    1.8    4.4   .000   .600     4   4   4
+ Cedeno        1   0   0    0   0   0    1.0    9.0   .750  1.333     4   1   1
+ Monday        3   0   0    0   0   1    2.6    7.1   .462  1.000     9   0   2
+ Dwyer         3   0   1    0   0   0    0.9    2.8   .000   .500     2   0   2
+ Evans, Da     4   0   0    0   0   0    1.3    2.6   .063   .462     4   3   3
+ Roenicke      4   0   0    0   0   1    3.2    8.7   .333  1.200     6   0   2
+ Aguayo        0   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+ Wathan        1   0   0    1   0   0    0.0    0.0   .000   .250     0   0   0
+ Brunansky     1   0   0    1   0   0    0.0    0.0   .000   .000     0   0   0
+ 
+ Tudor         1   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+ Show          1   0   0    0   0   0    0.1    0.6   .000   .333     0   0   0
+ Reed,R        0   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+ Lea           1   0   0    1   0   0    0.0    0.0   .000   .000     0   0   0
+ Anderson      1   0   0    0   0   0    0.1    0.6   .000   .333     0   0   0
+
+ Team Total    4   0   3    4   0   4   19.9    5.1   .219   .777    57
+.           DMB League Batting Splits:  1982 Sunnydale Slayers-- vsLHP
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Brett        .750  .833  .750     4    3    0    0    0    0    2    0   0   0
+ Roenicke     .500  .667 1.500     4    2    1    0    1    1    1    0   0   0
+ Cedeno       .333  .333 1.333     3    1    0    0    1    2    0    0   0   0
+ Tenace       .333  .500  .333     3    1    0    0    0    0    1    0   0   0
+ Lynn         .333  .250  .333     3    1    0    0    0    2    0    0   0   1
+ Wockenfuss   .333  .333 1.333     3    1    0    0    1    1    0    0   0   0
+ Whitaker     .167  .333  .167     6    1    0    0    0    2    2    0   0   1
+ Evans, Da    .143  .143  .143     7    1    0    0    0    0    0    1   0   0
+ Dwyer        .000  .250  .000     3    0    0    0    0    1    0    0   0   0
+ Wathan       .000  .000  .000     3    0    0    0    0    0    0    1   0   0
+ Brunansky    .000  .000  .000     3    0    0    0    0    0    0    0   0   0
+ Monday       .000  .000  .000     4    0    0    0    0    0    0    4   0   0
+ 
+ Lea          .000  .000  .000     3    0    0    0    0    0    0    0   0   0
+ Show         .000  .000  .000     1    0    0    0    0    0    0    0   0   0
+ Anderson     .000  .333  .000     2    0    0    0    0    0    1    1   0   0
+ 
+ Team Total   .212  .317  .404    52   11    1    0    3    9    7    7   0   2
+.           DMB League Batting Splits:  1982 Sunnydale Slayers-- vsRHP
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Wockenfuss  1.000 1.000 1.000     1    1    0    0    0    0    0    0   0   0
+ Whitaker     .375  .375  .375     8    3    0    0    0    3    0    1   0   0
+ Lynn         .375  .444  .875     8    3    2    1    0    1    1    1   0   0
+ Tenace       .333  .400  .778     9    3    1    0    1    2    1    1   0   0
+ Monday       .333  .400 1.000     9    3    0    0    2    2    1    2   0   0
+ Dwyer        .286  .333  .286     7    2    0    0    0    1    1    0   0   1
+ Evans, Da    .222  .364  .333     9    2    1    0    0    0    2    1   0   0
+ Brett        .111  .273  .444     9    1    0    0    1    1    2    0   0   0
+ Wathan       .000 1.000  .000     0    0    0    0    0    0    1    0   0   0
+ Roenicke     .000  .273  .000     8    0    0    0    0    0    3    2   0   0
+ Brunansky    .000  .000  .000     1    0    0    0    0    0    0    1   0   0
+ Cedeno       .000  .000  .000     1    0    0    0    0    0    0    0   0   0
+ 
+ Tudor        .000  .000  .000     3    0    0    0    0    0    0    1   0   0
+ Show         .000  .333  .000     2    0    0    0    0    0    1    1   0   0
+ Anderson     .000  .000  .000     1    0    0    0    0    0    0    0   0   0
+ 
+ Team Total   .237  .344  .474    76   18    4    1    4   10   13   11   0   1
+.     DMB League Games Started by Position:  1982 Sunnydale Slayers-- vsLHP
+                                        
+ 
+ NAME           C   1B   2B   3B   SS   LF   CF   RF   DH
+ 
+ Wathan         1    0    0    0    0    0    0    0    0
+ Wockenfuss     0    1    0    0    0    0    0    0    0
+ Brett          0    0    0    1    0    0    0    0    0
+ Evans, Da      0    0    0    0    1    0    0    0    0
+ Whitaker       0    0    1    0    0    0    0    0    0
+ Brunansky      0    0    0    0    0    0    0    1    0
+ Cedeno         0    0    0    0    0    0    1    0    0
+ Roenicke       0    0    0    0    0    1    0    0    0
+ 
+ Team Total     1    1    1    1    1    1    1    1    0
+.     DMB League Games Started by Position:  1982 Sunnydale Slayers-- vsRHP
+                                        
+ 
+ NAME           C   1B   2B   3B   SS   LF   CF   RF   DH
+ 
+ Tenace         3    0    0    0    0    0    0    0    0
+ Brett          0    0    0    3    0    0    0    0    0
+ Dwyer          0    0    0    0    0    3    0    0    0
+ Evans, Da      0    0    0    0    3    0    0    0    0
+ Whitaker       0    0    3    0    0    0    0    0    0
+ Lynn           0    0    0    0    0    0    3    0    0
+ Monday         0    3    0    0    0    0    0    0    0
+ Roenicke       0    0    0    0    0    0    0    3    0
+ 
+ Team Total     3    3    3    3    3    3    3    3    0
+.            DMB League Pitching Statistics:  1982 Sunnydale Slayers
+                                        
+ 
+ NAME         ERA  W  L  S   G GS CG SH    IP   H   R  ER  BB   K   BF HR WP DP
+ 
+ Reed,R      0.00  0  0  2   2  0  0  0   1.1   4   0   0   0   0    8  0  0  0
+ Lea         0.00  1  0  0   1  1  1  1   9.0   4   0   0   5   6   37  0  1  0
+ Show        2.00  1  0  0   1  1  1  0   9.0   4   2   2   2   9   32  1  1  2
+ Tudor       2.25  1  0  0   1  1  0  0   8.0   7   3   2   1   5   32  0  0  1
+ Anderson    3.12  1  0  0   1  1  0  0   8.2   8   3   3   2   4   35  0  0  1
+
+ Team Total  1.75     0      4     2     36.0       8      10      144     2
+                   4     2      4     1        27       7      24       1     4
+ 
+ 
+ NAME          IW HBP  WP  BK  CI   H/9  BB/9   R/9   K/9  HR/9
+ 
+ Reed,R         0   0   0   0   0  27.0   0.0  27.0   0.0   0.0
+ Lea            0   1   1   0   0   4.0   5.0  10.0   6.0   0.0
+ Show           0   1   1   0   0   4.0   2.0   7.0   9.0   1.0
+ Tudor          0   0   0   0   0   7.9   1.1   9.0   5.6   0.0
+ Anderson       0   0   0   0   0   8.3   2.1  10.4   4.2   0.0
+
+ Team Total     0   2   2   0   0   6.8   2.5   9.8   6.0   0.3
+ 
+ 
+ NAME         AVG   OBP   SPC   BF   AB    H  2B  3B  HR   TB  SH  SF
+ 
+ Reed,R      .500  .500  .500    8    8    4   0   0   0    4   0   0
+ Lea         .129  .270  .194   37   31    4   2   0   0    6   0   0
+ Show        .138  .219  .276   32   29    4   1   0   1    8   0   0
+ Tudor       .233  .258  .333   32   30    7   1   1   0   10   1   0
+ Anderson    .242  .286  .333   35   33    8   3   0   0   11   0   0
+
+ Team Total  .206  .273  .298       131        7       1        1
+                               144        27       1       39       0
+ 
+ 
+ NAME          GS  CG   CG% SHo  QS   QS%   RS RS/G  RL RLS   RL%
+ 
+ Reed,R         0   0  .000   0   0  .000    0  0.0   0   0  .000
+ Lea            1   1 1.000   1   1 1.000    5  5.0   0   0  .000
+ Show           1   1 1.000   0   1 1.000    8  8.0   0   0  .000
+ Tudor          1   0  .000   0   1 1.000    4  4.0   0   0  .000
+ Anderson       1   0  .000   0   1 1.000    5  5.0   1   0  .000
+
+ Team Total     4      .500       4         22        1      .000
+                    2         1     1.000       5.5       0
+.            DMB League Pitching Statistics:  1982 Sunnydale Slayers
+                                        
+ 
+ NAME         SvO  Sv   Sv%  BSv  BSv%  IR  IRS   IR%    G  RA   RA%  GF   GF%
+ 
+ Reed,R         2   2 1.000    0  .000   1    0  .000    2   2 1.000   2 1.000
+ Lea            0   0  .000    0  .000   0    0  .000    1   0  .000   0  .000
+ Show           0   0  .000    0  .000   0    0  .000    1   0  .000   0  .000
+ Tudor          0   0  .000    0  .000   0    0  .000    1   0  .000   0  .000
+ Anderson       0   0  .000    0  .000   0    0  .000    1   0  .000   0  .000
+
+ Team Total     2     1.000       .000        0          6      .333     1.000
+                    2          0         1       .000        2         2
+.          DMB League Pitching Splits:  1982 Sunnydale Slayers-- vsLHB
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Show         .000  .143  .000     6    0    0    0    0    0    1    1   0   0
+ Anderson     .125  .222  .125     8    1    0    0    0    2    1    2   0   0
+ Lea          .222  .364  .222     9    2    0    0    0    0    1    2   0   0
+ Reed,R      1.000 1.000 1.000     3    3    0    0    0    0    0    0   0   0
+ 
+ Team Total   .231  .333  .231    26    6    0    0    0    2    3    5   0   0
+.          DMB League Pitching Splits:  1982 Sunnydale Slayers-- vsRHB
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Lea          .091  .231  .182    22    2    2    0    0    0    4    4   0   0
+ Show         .174  .240  .348    23    4    1    0    1    2    1    8   0   0
+ Reed,R       .200  .200  .200     5    1    0    0    0    0    0    0   0   0
+ Tudor        .233  .258  .333    30    7    1    1    0    3    1    5   1   0
+ Anderson     .280  .308  .400    25    7    3    0    0    1    1    2   0   0
+ 
+ Team Total   .200  .254  .314   105   21    7    1    1    6    7   19   1   0
+.            DMB League Fielding Statistics:  1982 Sunnydale Slayers
+                                        
+ 
+POS NAME             G    GS    PO     A     E    DP    TC     PCT   PB
+ 
+p   Lea              1     1     0     2     0     0     2   1.000
+    Tudor            1     1     1     0     0     0     1   1.000
+    Reed,R           2     0     0     1     0     0     1   1.000
+    Show             1     1     0     0     0     0     0    .000
+    Anderson         1     1     0     0     0     0     0    .000
+                     6     4     1     3     0     0     4   1.000
+ 
+c   Tenace           3     3    18     0     0     0    18   1.000    0
+    Wathan           1     1     6     0     0     0     6   1.000    0
+                     4     4    24     0     0     0    24   1.000    0
+ 
+1b  Monday           3     3    28     0     0     4    28   1.000
+    Wockenfuss       1     1     8     0     0     0     8   1.000
+                     4     4    36     0     0     4    36   1.000
+ 
+2b  Whitaker         4     4     9    17     1     4    27    .963
+                     4     4     9    17     1     4    27    .963
+ 
+3b  Brett            4     4     5     7     0     1    12   1.000
+                     4     4     5     7     0     1    12   1.000
+ 
+ss  Evans, Da        4     4     4    12     0     3    16   1.000
+    Aguayo           2     0     0     1     0     0     1   1.000
+                     6     4     4    13     0     3    17   1.000
+ 
+lf  Roenicke         1     1     3     0     0     0     3   1.000
+    Dwyer            3     3     2     0     0     0     2   1.000
+                     4     4     5     0     0     0     5   1.000
+ 
+cf  Lynn             3     3    12     0     1     0    13    .923
+    Cedeno           1     1     3     0     0     0     3   1.000
+                     4     4    15     0     1     0    16    .938
+ 
+rf  Roenicke         3     3     7     0     0     0     7   1.000
+    Brunansky        1     1     2     0     0     0     2   1.000
+                     4     4     9     0     0     0     9   1.000
+ 
+    Team Total       4     4   108    40     2     4   150    .987    0
+.                     Game Results:  1982 Sunnydale Slayers
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+12/30/1982   @GCP   W  8-2      Show        Show                    Beattie     
+12/31/1982   @GCP   W  5-0      Lea         Lea                     Reuss       
+ 1/ 2/1983    GCP   W  4-3      Tudor       Tudor       Reed,R      Sarmiento   
+ 1/ 3/1983    GCP   W  5-3      Anderson    Anderson    Reed,R      Barker      
+.                       Injury Log: 1982 Sunnydale Slayers
+                                        
+ 
+-- Date -- #  Player      Cause                 Length
+ 
+.              DMB League Transaction Log:  1982 Sunnydale Slayers
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+.                 
+

@@ -1,0 +1,713 @@
+   	 	 	 	 	 	
+					
+> WESTERN DIVISION > GATEWAY CITY PERFECTOS
+
+  » EASTERN DIVISION
+  » INTERNATIONAL DIVISION
+    » Directory, Constitution, Record Book, etc.
+	
+
+          DMB League Batting Statistics:  1984 Gateway City Perfectos
+                                        
+ 
+ NAME         AVG   OBP   SPC   G  AB   H 2B 3B HR   R RBI  BB   K HB IW  SB CS
+ 
+rTartabull   .409  .440  .864   7  22   9  1  0  3   6   7   2   6  0  0   0  0 
+rClark       .358  .443  .587  60 218  78 18  4  8  37  50  37  32  1  0   0  0 
+ Evans       .311  .393  .528 162 640 199 42 14 23 125 106  89 128  2  1   3  5 
+rHenderson   .290  .409  .454 141 520 151 30  8 13 107  47 103  97  3  2  66 19 
+rMcRae       .280  .355  .369  96 339  95 18  3  2  39  43  40  73  0  1   1  1 
+ Youngblood  .279  .343  .373 132 408 114 19  2  5  59  48  38  80  2  1   3  2 
+rKuntz       .270  .375  .439  51 148  40 14  1  3  26  17  24  36  2  0   1  1 
+rGriffey     .266  .322  .360 137 417 111 18  0  7  49  67  34  43  2  0   2  1 
+rChapman     .266  .342  .333  97 207  55 14  0  0  25  14  24  43  1  0   7  4 
+ DeCinces    .259  .313  .444 147 518 134 27  3 21  65  80  40  85  3  1   3  1 
+rDempsey     .251  .330  .430 114 358  90 14  1 16  50  48  40  69  2  3   0  0 
+ Templeton   .249  .276  .294 154 514 128 19  2  0  33  44  19  97  2  3   6  5 
+rOquendo     .238  .282  .262  81 206  49  5  0  0  17  18  11  26  2  0   6  3 
+rWillard     .229  .303  .368  91 253  58  9  1  8  27  31  30  62  0  0   0  2 
+ Rivers      .221  .236  .283 102 244  54  6  0  3  24  18   6  21  0  0   8  1 
+ Esasky      .177  .244  .202  46 124  22  0  0  1   5   8  11  41  0  1   0  0 
+ Ready       .162  .219  .248  43 105  17  2  2  1   8   5   7  17  1  0   0  0 
+ Coles       .138  .161  .138   9  29   4  0  0  0   2   4   1   7  0  0   0  0 
+ Gibbons     .067  .125  .067   4  15   1  0  0  0   2   0   0   4  1  0   0  0 
+rPetralli    .000  .000  .000   1   4   0  0  0  0   1   1   0   0  0  0   0  0 
+ 
+ Moore       .700  .700  .800  45  10   7  1  0  0   2   3   0   1  0  0   0  0 
+ Gorman      .273  .273  .273  18  11   3  0  0  0   0   1   0   4  0  0   0  0 
+rFingers     .250  .250  .250  43   4   1  0  0  0   0   1   0   2  0  0   0  0 
+ Darwin      .213  .211  .258  34  89  19  2  1  0   7   8   0  28  0  0   0  0 
+rReuss       .209  .244  .209  18  43   9  0  0  0   3   6   2  11  0  0   0  0 
+ Young       .200  .333  .200   4   5   1  0  0  0   1   0   1   0  0  0   0  0 
+rMartinez,D  .190  .190  .207  25  58  11  1  0  0   2   3   0  17  0  0   0  0 
+ Key         .125  .125  .125  35   8   1  0  0  0   0   0   0   2  0  0   0  0 
+rBerenguer   .108  .159  .108  29  65   7  0  0  0   3   4   3  25  1  0   0  0 
+rForster     .091  .091  .091   5  11   1  0  0  0   0   0   0   2  0  0   0  0 
+rBarker      .085  .083  .106  21  47   4  1  0  0   2   5   0  17  0  0   0  0 
+ Tekulve     .083  .083  .083  69  12   1  0  0  0   0   1   0   4  0  0   0  0 
+ Beattie     .051  .050  .051  17  39   2  0  0  0   2   1   0  15  0  0   0  0 
+rDixon       .000  .167  .000   3   5   0  0  0  0   0   0   1   4  0  0   0  0 
+ Gossage     .000  .000  .000  66  11   0  0  0  0   0   0   0   6  0  0   0  0 
+ Holland     .000  .000  .000  65   5   0  0  0  0   0   0   0   3  0  0   0  0 
+
+ Team Total  .258  .325  .379 162    1476    42    729     563     25    106
+                                 5712    261   114     689    1108    13     45
+          DMB League Batting Statistics:  1984 Gateway City Perfectos
+                                        
+ 
+ NAME         GS  SH  SF  GDP  CI  GW     RC   RC27    ISO   TAVG    TB CHS LHS
+ 
+rTartabull     5   0   1    0   0   1    8.8   17.0   .455  1.615    19   4   4
+rClark        59   0   6    0   0   4   62.4   11.5   .229  1.186   128   6  10
+ Evans       162   0   7   17   0  14  133.1    7.6   .217   .933   338   0  11
+rHenderson   130   1   2    8   0   1  109.3    7.4   .163  1.030   236   1  14
+rMcRae        80   0   1   11   0   7   44.1    4.6   .088   .648   125   5   9
+ Youngblood   86   0   1    7   1   6   53.0    4.7   .093   .644   152   8   8
+rKuntz        36   0   2    4   0   6   25.4    6.0   .169   .814    65   1   4
+rGriffey     102   2   3    9   0  10   48.8    4.1   .094   .595   150   0  12
+rChapman      42   2   2    1   0   3   25.8    4.3   .068   .643    69   2   4
+ DeCinces    122   0   4   20   0   6   67.5    4.5   .185   .681   230   0  11
+rDempsey      90   0   0   11   0   4   49.7    4.8   .179   .703   154   8   8
+ Templeton   133   0   4    7   0   3   40.9    2.7   .045   .447   151   9   9
+rOquendo      62   2   1    0   0   1   16.5    2.7   .024   .456    54   0   6
+rWillard      67   0   7    8   0   0   28.1    3.6   .138   .600    93   1   4
+ Rivers       44   1   4    0   0   2   17.9    2.5   .061   .435    69   0   6
+ Esasky       34   0   0    2   0   0    6.3    1.6   .024   .346    25   0   4
+ Ready        29   1   1    5   0   1    5.1    1.4   .086   .366    26   0   4
+ Coles         8   0   1    0   0   0    0.8    0.8   .000   .200     4   0   2
+ Gibbons       4   0   0    0   0   0    0.2    0.3   .000   .143     1   0   1
+rPetralli      1   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+ 
+ Moore         0   0   0    1   0   0    4.8   32.4   .100  2.000     8   4   4
+ Gorman        3   0   0    0   0   0    0.8    2.8   .000   .375     3   0   2
+rFingers       0   0   0    0   0   0    0.3    2.3   .000   .333     1   0   1
+ Darwin       33   1   1    1   0   1    4.8    1.8   .045   .324    23   2   4
+rReuss        18   0   0    3   0   1    1.7    1.2   .000   .297     9   0   3
+ Young         4   0   0    0   0   0    0.4    2.8   .000   .500     1   0   1
+rMartinez,D   25   0   0    1   0   0    2.1    1.2   .017   .250    12   1   4
+ Key           4   0   0    0   0   0    0.1    0.5   .000   .143     1   0   1
+rBerenguer    29   0   0    3   0   1    0.9    0.4   .000   .180     7   0   2
+rForster       5   0   0    0   0   0    0.1    0.2   .000   .100     1   0   1
+rBarker       21   4   1    2   0   0    0.3    0.2   .021   .111     5   0   2
+ Tekulve       0   0   0    0   0   0    0.1    0.2   .000   .091     1   0   1
+ Beattie      17   0   1    1   0   0    0.1    0.0   .000   .053     2   0   1
+rDixon         3   0   0    0   0   0    0.0    0.2   .000   .200     0   0   0
+ Gossage       0   1   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+ Holland       0   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+
+ Team Total  162  15  50  122   1  72  715.7    4.3   .120   .649  2163
+        DMB League Batting Splits:  1984 Gateway City Perfectos-- vsLHP
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Youngblood   .364  .432  .424    66   24    1    0    1   13    8    6   0   0
+rTartabull    .333  .333  .333     3    1    0    0    0    0    0    0   0   0
+ Evans        .325  .433  .552   194   63    6    7    8   30   38   26   0   1
+rDempsey      .320  .453  .586   128   41    7    0    9   29   30   19   0   0
+rMcRae        .319  .385  .483   116   37    9    2    2   25   13   15   0   1
+rChapman      .312  .401  .416   125   39   13    0    0   12   20   19   2   2
+rKuntz        .307  .412  .439   114   35   13    1    0   12   20   24   0   1
+rWillard      .300  .333  .350    40   12    2    0    0    4    2   13   0   0
+rHenderson    .295  .407  .460   176   52   15    1    4   11   32   21   0   0
+rClark        .280  .446  .560    50   14    2    0    4   13   15    6   0   0
+ DeCinces     .277  .350  .491   159   44    6    2    8   32   19   18   0   2
+ Templeton    .261  .274  .327   153   40   10    0    0   15    3   32   0   1
+rOquendo      .242  .299  .306    62   15    4    0    0    7    5    4   1   0
+ Esasky       .222  .286  .289    45   10    0    0    1    5    4   15   0   0
+rGriffey      .205  .234  .260    73   15    4    0    0   17    3   12   0   1
+ Ready        .036  .156  .036    28    1    0    0    0    1    4    5   0   0
+ Rivers       .000  .071  .000    25    0    0    0    0    2    2    4   0   1
+rPetralli     .000  .000  .000     1    0    0    0    0    0    0    0   0   0
+ Coles        .000  .200  .000     4    0    0    0    0    0    1    1   0   0
+ Gibbons      .000  .000  .000     6    0    0    0    0    0    0    0   0   0
+ 
+ Moore        .500  .500  .500     2    1    0    0    0    2    0    0   0   0
+ Darwin       .348  .348  .391    23    8    1    0    0    3    0    5   0   0
+rReuss        .286  .286  .286    14    4    0    0    0    4    0    4   0   0
+rMartinez,D   .250  .250  .313    16    4    1    0    0    0    0    4   0   0
+ Gorman       .111  .111  .111     9    1    0    0    0    0    0    4   0   0
+ Beattie      .111  .111  .111     9    1    0    0    0    0    0    3   0   0
+rBarker       .100  .095  .100    20    2    0    0    0    2    0   12   3   1
+rBerenguer    .048  .091  .048    21    1    0    0    0    0    1    9   0   0
+ Gossage      .000  .000  .000     2    0    0    0    0    0    0    2   1   0
+rForster      .000  .000  .000     3    0    0    0    0    0    0    0   0   0
+ Tekulve      .000  .000  .000     3    0    0    0    0    0    0    0   0   0
+ Young        .000  .500  .000     1    0    0    0    0    0    1    0   0   0
+rDixon        .000  .000  .000     1    0    0    0    0    0    0    1   0   0
+ Holland      .000  .000  .000     4    0    0    0    0    0    0    2   0   0
+ 
+ Team Total   .274  .356  .410  1696  465   94   13   37  239  221  286   7  11
+        DMB League Batting Splits:  1984 Gateway City Perfectos-- vsRHP
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+rTartabull    .421  .455  .947    19    8    1    0    3    7    2    6   0   1
+rClark        .381  .442  .595   168   64   16    4    4   37   22   26   0   6
+ Evans        .305  .374  .518   446  136   36    7   15   76   51  102   0   6
+rHenderson    .288  .411  .451   344   99   15    7    9   36   71   76   1   2
+rGriffey      .279  .340  .381   344   96   14    0    7   50   31   31   2   2
+ Youngblood   .263  .325  .363   342   90   18    2    4   35   30   74   0   1
+rMcRae        .260  .340  .309   223   58    9    1    0   18   27   58   0   0
+ DeCinces     .251  .296  .423   359   90   21    1   13   48   21   67   0   2
+ Rivers       .247  .257  .315   219   54    6    0    3   16    4   17   1   3
+ Templeton    .244  .277  .280   361   88    9    2    0   29   16   65   0   3
+rOquendo      .236  .275  .243   144   34    1    0    0   11    6   22   1   1
+rWillard      .216  .298  .371   213   46    7    1    8   27   28   49   0   7
+rDempsey      .213  .249  .343   230   49    7    1    7   19   10   50   0   0
+ Ready        .208  .244  .325    77   16    2    2    1    4    3   12   1   1
+rChapman      .195  .241  .207    82   16    1    0    0    2    4   24   0   0
+ Coles        .160  .154  .160    25    4    0    0    0    4    0    6   0   1
+ Esasky       .152  .221  .152    79   12    0    0    0    3    7   26   0   0
+rKuntz        .147  .250  .441    34    5    1    0    3    5    4   12   0   1
+ Gibbons      .111  .200  .111     9    1    0    0    0    0    0    4   0   0
+rPetralli     .000  .000  .000     3    0    0    0    0    1    0    0   0   0
+ 
+ Gorman      1.000 1.000 1.000     2    2    0    0    0    1    0    0   0   0
+ Moore        .750  .750  .875     8    6    1    0    0    1    0    1   0   0
+ Young        .250  .250  .250     4    1    0    0    0    0    0    0   0   0
+rFingers      .250  .250  .250     4    1    0    0    0    1    0    2   0   0
+rReuss        .172  .226  .172    29    5    0    0    0    2    2    7   0   0
+ Darwin       .167  .164  .212    66   11    1    1    0    5    0   23   1   1
+rMartinez,D   .167  .167  .167    42    7    0    0    0    3    0   13   0   0
+rBerenguer    .136  .191  .136    44    6    0    0    0    4    2   16   0   0
+ Key          .125  .125  .125     8    1    0    0    0    0    0    2   0   0
+rForster      .125  .125  .125     8    1    0    0    0    0    0    2   0   0
+ Tekulve      .111  .111  .111     9    1    0    0    0    1    0    4   0   0
+rBarker       .074  .074  .111    27    2    1    0    0    3    0    5   1   0
+ Beattie      .033  .032  .033    30    1    0    0    0    1    0   12   0   1
+rDixon        .000  .200  .000     4    0    0    0    0    0    1    3   0   0
+ Gossage      .000  .000  .000     9    0    0    0    0    0    0    4   0   0
+ Holland      .000  .000  .000     1    0    0    0    0    0    0    1   0   0
+ 
+ Team Total   .252  .311  .365  4016 1011  167   29   77  450  342  822   8  39
+   DMB League Games Started by Position:  1984 Gateway City Perfectos-- vsLHP
+                                        
+ 
+ NAME           C   1B   2B   3B   SS   LF   CF   RF
+ 
+rChapman        0    0   42    0    0    0    0    0
+rClark          0   16    0    0    0    0    0    0
+ DeCinces       0    0    0   46    0    0    0    0
+rDempsey       45    0    0    0    0    0    0    0
+ Esasky         0    6    0    6    0    0    0    0
+ Evans          0    0    0    0    0    0    0   55
+rGriffey        0    0    0    0    0   14    0    0
+rHenderson      0    0    0    0    0    0   49    0
+rKuntz          0    0    0    0    0   36    0    0
+rMcRae          0   31    0    0    0    0    0    0
+rOquendo        0    0   12    0    7    0    0    0
+ Ready          0    2    0    3    0    0    0    0
+ Rivers         0    0    0    0    0    0    6    0
+ Templeton      0    0    0    0   48    0    0    0
+rWillard        8    0    0    0    0    0    0    0
+ Youngblood     0    0    1    0    0    4    0    0
+ Coles          0    0    0    0    0    1    0    0
+ Gibbons        2    0    0    0    0    0    0    0
+ 
+ Team Total    55   55   55   55   55   55   55   55
+   DMB League Games Started by Position:  1984 Gateway City Perfectos-- vsRHP
+                                        
+ 
+ NAME           C   1B   2B   3B   SS   LF   CF   RF
+ 
+rClark          0   43    0    0    0    0    0    0
+ DeCinces       0    0    0   76    0    0    0    0
+rDempsey       45    0    0    0    0    0    0    0
+ Esasky         0   15    0    7    0    0    0    0
+ Evans          0    0    0    0    0    0    0  107
+rGriffey        0    0    0    0    0   88    0    0
+rHenderson      0    0    0    0    0    0   81    0
+rMcRae          0   49    0    0    0    0    0    0
+rOquendo        0    0   26    0   17    0    0    0
+rPetralli       1    0    0    0    0    0    0    0
+ Ready          0    0    0   24    0    0    0    0
+ Rivers         0    0    0    0    0   12   26    0
+rTartabull      0    0    0    0    5    0    0    0
+ Templeton      0    0    0    0   85    0    0    0
+rWillard       59    0    0    0    0    0    0    0
+ Youngblood     0    0   81    0    0    0    0    0
+ Coles          0    0    0    0    0    7    0    0
+ Gibbons        2    0    0    0    0    0    0    0
+ 
+ Team Total   107  107  107  107  107  107  107  107
+          DMB League Pitching Statistics:  1984 Gateway City Perfectos
+                                        
+ 
+ NAME         ERA  W  L  S   G GS CG SH    IP   H   R  ER  BB   K   BF HR WP DP
+ 
+ Moore       2.52  2  6  6  45  0  0  0  60.2  64  24  17  13  57  249  3  0  7
+rFingers     2.79  2  8  3  43  0  0  0  48.1  49  17  15  11  44  206 10  3  2
+ Gossage     2.81  6  6 18  66  0  0  0  93.0  80  37  29  36  76  396  5  2  3
+rBerenguer   3.12 10 10  0  29 29  3  1 184.2 161  74  64  76 139  775  9  9  8
+rBarker      3.17  9  6  0  21 21  0  0 133.1 124  53  47  47  97  570  7  2  7
+ Beattie     3.22  5  6  0  17 17  4  0 111.2 104  49  40  37  66  473  4  2  4
+ Holland     3.30  4  5  2  65  0  0  0  79.0  84  33  29  29  53  345 12  1  4
+ Darwin      3.43 14 12  0  34 33  9  3 238.2 240 101  91  69 147 1015 16  2 12
+ Gorman      3.74  1  0  0  18  3  0  0  43.1  40  22  18   9  27  177  4  1  4
+rMartinez,D  3.78  8  7  0  25 25  3  0 159.2 154  72  67  34  89  646 17  2 16
+rReuss       4.12  8  5  0  18 18  0  0 111.1 115  59  51  32  48  479  9  2 10
+ Tekulve     4.81  3  4  2  69  0  0  0  91.2 109  51  49  24  41  389  5  0 15
+rForster     4.94  1  4  0   5  5  0  0  31.0  40  18  17   6  10  135  2  2  3
+ Key         6.90  2  5  0  35  4  0  0  60.0  78  49  46  42  47  293  5  7  5
+rDixon       7.47  0  2  0   3  3  0  0  15.2  21  15  13   5  13   71  3  2  1
+ Young       9.39  0  1  0   4  4  0  0  15.1  25  18  16  12  12   83  3  1  1
+
+ Team Total  3.71    87    162    19   1477.1     692     482     6302    38
+                  75    31    162    11      1488     609     966     114   102
+ 
+ 
+ NAME          IW HBP  WP  BK  CI   H/9  BB/9   R/9   K/9  HR/9
+ 
+ Moore          4   1   0   0   0   9.5   1.9  11.6   8.5   0.4
+rFingers        0   0   3   0   0   9.1   2.0  11.2   8.2   1.9
+ Gossage        0   1   2   2   0   7.7   3.5  11.3   7.4   0.5
+rBerenguer      0   3   9   4   0   7.8   3.7  11.7   6.8   0.4
+rBarker         0   2   2   1   0   8.4   3.2  11.7   6.5   0.5
+ Beattie        0   3   2   0   0   8.4   3.0  11.6   5.3   0.3
+ Holland        1   2   1   4   0   9.6   3.3  13.1   6.0   1.4
+ Darwin         5   5   2   0   0   9.1   2.6  11.8   5.5   0.6
+ Gorman         0   2   1   0   0   8.3   1.9  10.6   5.6   0.8
+rMartinez,D     0   4   2   0   0   8.7   1.9  10.8   5.0   1.0
+rReuss          0   1   2   2   0   9.3   2.6  12.0   3.9   0.7
+ Tekulve        4   3   0   0   0  10.7   2.4  13.4   4.0   0.5
+rForster        0   1   2   0   0  11.6   1.7  13.6   2.9   0.6
+ Key            0   1   7   0   0  11.7   6.3  18.1   7.1   0.8
+rDixon          0   0   2   1   0  12.1   2.9  14.9   7.5   1.7
+ Young          0   1   1   1   0  14.7   7.0  22.3   7.0   1.8
+
+ Team Total    14  30  38  15   0   9.1   2.9  12.2   5.9   0.7
+          DMB League Pitching Statistics:  1984 Gateway City Perfectos
+                                        
+ 
+ NAME         AVG   OBP   SPC   BF   AB    H  2B  3B  HR   TB  SH  SF
+ 
+ Moore       .276  .313  .362  249  232   64   9   1   3   84   0   3
+rFingers     .257  .294  .450  206  191   49   5   1  10   86   2   2
+ Gossage     .227  .298  .300  396  353   80   7   2   5  106   4   2
+rBerenguer   .233  .311  .336  775  690  161  42   1   9  232   3   3
+rBarker      .241  .305  .361  570  515  124  19  11   7  186   2   4
+ Beattie     .245  .308  .330  473  424  104  16   4   4  140   6   3
+ Holland     .272  .333  .440  345  309   84  14   1  12  136   0   5
+ Darwin      .260  .312  .370 1015  924  240  40   7  16  342   8   9
+ Gorman      .242  .290  .376  177  165   40   8   1   4   62   1   0
+rMartinez,D  .257  .300  .392  646  599  154  28   1  17  235   5   4
+rReuss       .261  .312  .374  479  441  115  17   3   9  165   4   1
+ Tekulve     .301  .350  .425  389  362  109  22   4   5  154   0   0
+rForster     .317  .348  .444  135  126   40   8   1   2   56   0   2
+ Key         .318  .419  .461  293  245   78  16   2   5  113   4   1
+rDixon       .318  .366  .515   71   66   21   2   1   3   34   0   0
+ Young       .357  .458  .571   83   70   25   4   1   3   40   0   0
+
+ Team Total  .261  .319  .380      5712      257     114       39
+                              6302      1488      42     2171      39
+ 
+ 
+ NAME          GS  CG   CG% SHo  QS   QS%   RS RS/G  RL RLS   RL%
+ 
+ Moore          0   0  .000   0   0  .000    0  0.0   3   0  .000
+rFingers        0   0  .000   0   0  .000    0  0.0   9   0  .000
+ Gossage        0   0  .000   0   0  .000    0  0.0  10   5  .500
+rBerenguer     29   3  .103   1  19  .655  130  4.5  14   7  .500
+rBarker        21   0  .000   0  11  .524  110  5.2  16   8  .500
+ Beattie       17   4  .235   0  10  .588   66  3.9  11   3  .273
+ Holland        0   0  .000   0   0  .000    0  0.0  20   2  .100
+ Darwin        33   9  .273   3  20  .606  146  4.4  24   9  .375
+ Gorman         3   0  .000   0   1  .333   16  5.3   4   4 1.000
+rMartinez,D    25   3  .120   0  14  .560   85  3.4  10   6  .600
+rReuss         18   0  .000   0  11  .611  107  5.9  17   8  .471
+ Tekulve        0   0  .000   0   0  .000    0  0.0  19   8  .421
+rForster        5   0  .000   0   2  .400   21  4.2   0   0  .000
+ Key            4   0  .000   0   1  .250    9  2.3  25  11  .440
+rDixon          3   0  .000   0   1  .333   21  7.0   0   0  .000
+ Young          4   0  .000   0   0  .000   18  4.5   5   3  .600
+
+ Team Total   162      .117      90        729      187      .396
+                   19        11      .556       4.5      74
+          DMB League Pitching Statistics:  1984 Gateway City Perfectos
+                                        
+ 
+ NAME         SvO  Sv   Sv%  BSv  BSv%  IR  IRS   IR%    G  RA   RA%  GF   GF%
+ 
+ Moore         11   6  .545    3  .273  23    9  .391   45  45 1.000  30  .667
+rFingers        8   3  .375    1  .125  15    8  .533   43  43 1.000  22  .512
+ Gossage       32  18  .563   12  .375  29    7  .241   66  66 1.000  42  .636
+rBerenguer      0   0  .000    0  .000   0    0  .000   29   0  .000   0  .000
+rBarker         0   0  .000    0  .000   0    0  .000   21   0  .000   0  .000
+ Beattie        0   0  .000    0  .000   0    0  .000   17   0  .000   0  .000
+ Holland       18   2  .111    3  .167  43   23  .535   65  65 1.000  18  .277
+ Darwin         0   0  .000    0  .000   0    0  .000   34   1  .029   1 1.000
+ Gorman         0   0  .000    0  .000  15    3  .200   18  15  .833   6  .400
+rMartinez,D     0   0  .000    0  .000   0    0  .000   25   0  .000   0  .000
+rReuss          0   0  .000    0  .000   0    0  .000   18   0  .000   0  .000
+ Tekulve       10   2  .200    3  .300  47   17  .362   69  69 1.000  17  .246
+rForster        0   0  .000    0  .000   0    0  .000    5   0  .000   0  .000
+ Key            1   0  .000    1 1.000  15    7  .467   35  31  .886   7  .226
+rDixon          0   0  .000    0  .000   0    0  .000    3   0  .000   0  .000
+ Young          0   0  .000    0  .000   0    0  .000    4   0  .000   0  .000
+
+ Team Total    80      .387       .287       74        497      .674      .427
+                   31         23       187       .396      335       143
+        DMB League Pitching Splits:  1984 Gateway City Perfectos-- vsLHB
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Gorman       .135  .238  .162    37    5    1    0    0    4    5   14   1   0
+rForster      .207  .233  .241    29    6    1    0    0    1    1    4   0   0
+rMartinez,D   .209  .254  .348   330   69   13    0   11   34   20   54   2   3
+ Gossage      .235  .326  .310   187   44    4    2    2   17   25   36   1   2
+rReuss        .236  .292  .360    89   21    3    1    2    6    6   11   0   0
+rFingers      .239  .297  .489    92   22    3    1    6   12    8   21   1   1
+rBerenguer    .239  .331  .366   372   89   21    1    8   36   51   62   2   2
+ Key          .264  .361  .347    72   19    3    0    1    8   11   18   0   0
+ Beattie      .275  .356  .403   236   65   10    4    4   29   30   27   3   1
+ Holland      .276  .339  .418    98   27    3    1    3   20    9   32   0   3
+rBarker       .284  .357  .418   282   80   12   10    2   27   34   34   1   3
+ Moore        .292  .325  .330   106   31    4    0    0   12    5   23   0   2
+ Darwin       .300  .366  .453   486  146   26    6   12   57   51   76   5   4
+ Tekulve      .307  .370  .400   150   46    7    2    1   24   15   12   0   0
+ Young        .308  .357  .385    13    4    1    0    0    1    0    3   0   0
+rDixon        .368  .442  .474    38   14    2    1    0    6    5    6   0   0
+ 
+ Team Total   .263  .331  .388  2617  688  114   29   52  294  276  433  16  21
+        DMB League Pitching Splits:  1984 Gateway City Perfectos-- vsRHB
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+rBarker       .189  .237  .292   233   44    7    1    5   18   13   63   1   1
+ Beattie      .207  .245  .239   188   39    6    0    0   14    7   39   3   2
+ Darwin       .215  .248  .279   438   94   14    1    4   31   18   71   3   5
+ Gossage      .217  .266  .289   166   36    3    0    3   17   11   40   3   0
+rBerenguer    .226  .286  .302   318   72   21    0    1   26   25   77   1   1
+rDixon        .250  .250  .571    28    7    0    0    3    6    0    7   0   0
+ Moore        .262  .304  .389   126   33    5    1    3   19    8   34   0   1
+rReuss        .267  .317  .378   352   94   14    2    7   42   26   37   4   1
+ Holland      .270  .330  .450   211   57   11    0    9   31   20   21   0   2
+rFingers      .273  .291  .414    99   27    2    0    4   11    3   23   1   1
+ Gorman       .273  .306  .438   128   35    7    1    4   16    4   13   0   0
+ Tekulve      .297  .335  .443   212   63   15    2    4   35    9   29   0   0
+rMartinez,D   .316  .355  .446   269   85   15    1    6   29   14   35   3   1
+ Key          .341  .442  .509   173   59   13    2    4   34   31   29   4   1
+rForster      .351  .381  .505    97   34    7    1    2   16    5    6   0   2
+ Young        .368  .478  .614    57   21    3    1    3   13   12    9   0   0
+ 
+ Team Total   .258  .305  .373  3095  800  143   13   62  358  206  533  23  18
+          DMB League Fielding Statistics:  1984 Gateway City Perfectos
+                                        
+ 
+POS NAME             G    GS    PO     A     E    DP    TC     PCT   PB
+ 
+p  rMartinez,D      25    25     9    19     0     0    28   1.000
+   rBerenguer       29    29     7    18     3     0    28    .893
+   rReuss           18    18    10    13     3     0    26    .885
+    Darwin          34    33     4    18     3     1    25    .880
+   rBarker          21    21     8    10     2     0    20    .900
+    Tekulve         69     0     4    12     1     2    17    .941
+    Beattie         17    17     5    11     0     0    16   1.000
+    Key             35     4     5    10     0     1    15   1.000
+    Gossage         66     0     3    11     0     0    14   1.000
+    Gorman          18     3     4     8     1     1    13    .923
+    Moore           45     0     2     7     1     1    10    .900
+   rFingers         43     0     4     5     0     0     9   1.000
+   rForster          5     5     5     3     0     0     8   1.000
+    Holland         65     0     4     4     0     0     8   1.000
+    Young            4     4     0     3     2     0     5    .600
+   rDixon            3     3     0     3     0     0     3   1.000
+                   497   162    74   155    16     6   245    .935
+ 
+c  rDempsey        101    90   591    40     6     2   637    .991    2
+   rWillard         76    67   419    28    11     2   458    .976    6
+    Gibbons          4     4    23     2     0     0    25   1.000    0
+   rPetralli         1     1     8     1     2     0    11    .818    0
+                   182   162  1041    71    19     4  1131    .983    8
+ 
+1b rMcRae           82    80   617    43    14    43   674    .979
+   rClark           59    59   498    32     9    52   539    .983
+    Esasky          21    21   160    16     1    12   177    .994
+    Ready            2     2    12     0     0     3    12   1.000
+   rGriffey          1     0     2     0     1     0     3    .667
+                   165   162  1289    91    25   110  1405    .982
+ 
+2b  Youngblood      99    82   185   246    11    58   442    .975
+   rChapman         52    42    83   125     5    22   213    .977
+   rOquendo         38    38    70    73     4    13   147    .973
+    Templeton        4     0     1     1     0     0     2   1.000
+                   193   162   339   445    20    93   804    .975
+ 
+3b  DeCinces       134   122    96   208    14    15   318    .956
+    Ready           28    27    16    48     2    11    66    .970
+    Esasky          15    13    13    17     3     1    33    .909
+   rChapman          7     0     3     3     0     0     6   1.000
+    Youngblood       1     0     0     0     0     0     0    .000
+                   185   162   128   276    19    27   423    .955
+ 
+ss  Templeton      147   133   209   382    21    61   612    .966
+   rOquendo         43    24    29    66     4    15    99    .960
+   rTartabull        6     5     4    16     0     3    20   1.000
+                   196   162   242   464    25    79   731    .966
+          DMB League Fielding Statistics:  1984 Gateway City Perfectos
+                                        
+ 
+POS NAME             G    GS    PO     A     E    DP    TC     PCT   PB
+ 
+lf rGriffey        123   102   271    11     8     0   290    .972
+   rKuntz           45    36    85     4     1     0    90    .989
+    Rivers          14    12    29     3     1     1    33    .970
+    Coles            8     8    26     1     1     0    28    .964
+    Youngblood       6     4    12     0     1     0    13    .923
+                   196   162   423    19    12     1   454    .974
+ 
+cf rHenderson      131   130   404    25    12     2   441    .973
+    Rivers          32    32   101     2     3     1   106    .972
+   rGriffey          1     0     1     0     0     0     1   1.000
+                   164   162   506    27    15     3   548    .973
+ 
+rf  Evans          162   162   390    32     0     5   422   1.000
+                   162   162   390    32     0     5   422   1.000
+ 
+    Team Total     162   162  4432  1580   151   121  6163    .975    8
+                   Game Results:  1984 Gateway City Perfectos
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 4/ 1/1984    JJJ   W 10-4      Darwin      Darwin                  Gullickson  
+ 4/ 2/1984    JJJ   L  3-4      Martinez,D  Gossage                 Guidry      
+ 4/ 3/1984    JJJ   W  4-1      Reuss       Reuss       Tekulve     Leibrandt   
+ 4/ 4/1984    JJJ   L  3-7      Dixon       Dixon                   Rijo        
+ 4/ 5/1984    A51   L  3-7      Key         Key                     Tanana      
+ 4/ 6/1984    A51   W  3-1      Darwin      Darwin      Gossage     Niekro      
+ 4/ 7/1984   @CEN   L  2-7      Martinez,D  Martinez,D              Koosman     
+ 4/ 8/1984   @SUN   L  4-5      Reuss       Reuss                   Show        
+ 4/ 9/1984   @SUN   W 14-8      Dixon       Holland     Fingers     Candelaria  
+ 4/10/1984   @SUN   L  1-2      Key         Key                     Perez       
+ 4/11/1984   @SUN   W  4-1      Darwin      Darwin                  Lea         
+ 4/12/1984   @EVN   W  1-0      Martinez,D  Martinez,D  Gossage     Seaver      
+ 4/13/1984   @EVN   L  3-4      Reuss       Moore                   Petry       
+ 4/14/1984   @EVN   W  6-4  10  Berenguer   Gossage                 Moore       
+ 4/15/1984    BAR   L  3-10     Key         Key                     Black       
+ 4/16/1984    BAR   W  5-0      Darwin      Darwin                  Morris      
+ 4/17/1984    BAR   W  5-2      Martinez,D  Martinez,D  Gossage     Eckersley   
+ 4/18/1984    BMB   W  6-1      Reuss       Reuss                   Gubicza     
+ 4/19/1984    BMB   L  3-4      Berenguer   Berenguer               Nipper      
+ 4/20/1984    BMB   L  2-4      Key         Key                     Williams    
+ 4/21/1984    CTW   L  3-4      Darwin      Fingers                 Honeycutt   
+ 4/22/1984   @CEN   L  3-6      Martinez,D  Martinez,D              Niekro      
+ 4/23/1984   @CTW   W  3-1      Reuss       Reuss       Gossage     Zahn        
+ 4/24/1984   @CTW   W  4-2      Berenguer   Berenguer   Moore       Butcher     
+ 4/25/1984   @A51   L  2-3  11  Barker      Tekulve                 Stewart     
+ 4/26/1984   @CIN   L  5-8      Darwin      Darwin                  Soto        
+ 4/27/1984   @CIN   W  6-1      Martinez,D  Martinez,D              Smithson    
+ 4/28/1984   @CIN   L  4-5      Reuss       Reuss                   Davis       
+ 4/29/1984    BAR   L  5-8      Berenguer   Gossage                 Blyleven    
+ 4/30/1984    BAR   W 10-0      Barker      Barker                  Black       
+ 5/ 1/1984   @A51   W  6-0      Darwin      Darwin                  Niekro      
+ 5/ 2/1984   @JJJ   W  4-2  12  Martinez,D  Fingers     Moore       Rijo        
+ 5/ 3/1984   @JJJ   W  4-2      Reuss       Reuss       Fingers     Cox         
+ 5/ 4/1984   @JJJ   L  5-7      Berenguer   Berenguer               Gullickson  
+ 5/ 5/1984   @BAR   L  3-4      Barker      Barker                  Black       
+ 5/ 6/1984   @BAR   W  8-3      Darwin      Darwin                  Morris      
+ 5/ 7/1984   @BAR   W  5-2      Martinez,D  Martinez,D              Eckersley   
+ 5/ 8/1984    GPC   L  4-17     Reuss       Reuss                   Mahler      
+ 5/ 9/1984   @GAR   W  4-2      Berenguer   Berenguer               Terrell     
+ 5/10/1984   @GAR   W  7-5      Barker      Gossage                 Valenzuela  
+ 5/11/1984   @GAR   L  3-4  10  Darwin      Fingers                 Forsch      
+ 5/12/1984    EVN   W  7-6      Martinez,D  Tekulve     Holland     Petry       
+ 5/13/1984    SUN   L  1-7      Reuss       Reuss                   Lea         
+ 5/14/1984    SUN   W 10-2      Berenguer   Berenguer   Moore       Tudor       
+ 5/15/1984    SUN   W  5-3      Barker      Barker      Gossage     Show        
+ 5/16/1984    BBG   L  4-6      Darwin      Darwin                  Welch       
+ 5/17/1984    BBG   L  3-4  10  Martinez,D  Tekulve                 Scott,M     
+ 5/18/1984    BBG   W  7-2      Reuss       Reuss                   Reuschel    
+ 5/19/1984   @CEN   L  3-4      Berenguer   Berenguer               Krukow      
+ 5/20/1984   @CEN   W  5-0      Barker      Barker      Gossage     Davis,M     
+ 5/21/1984   @CEN   L  3-4  13  Darwin      Fingers                 Cowley      
+ 5/22/1984   @A51   W  2-1      Martinez,D  Martinez,D              Trout       
+                   Game Results:  1984 Gateway City Perfectos
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 5/23/1984   @A51   W 13-4      Reuss       Reuss                   Sanderson   
+ 5/24/1984   @A51   L  7-10 11  Berenguer   Moore                   Tanana      
+ 5/25/1984    BMB   L  6-7      Barker      Barker                  Clemens     
+ 5/26/1984    BMB   W  2-0      Darwin      Darwin                  Langston    
+ 5/27/1984    BMB   W  5-3      Martinez,D  Martinez,D  Gossage     Gubicza     
+ 5/28/1984   @A51   W  9-8  13  Reuss       Key                     Tanana      
+ 6/ 1/1984    GPC   L  2-7      Berenguer   Berenguer               Gooden      
+ 6/ 2/1984    GPC   W  8-2      Barker      Fingers                 Mahler      
+ 6/ 3/1984    GPC   L  3-6      Darwin      Darwin                  Thurmond    
+ 6/ 4/1984   @FER   L  4-5      Martinez,D  Fingers                 Boddicker   
+ 6/ 5/1984   @FER   L  7-9  11  Reuss       Holland                 Andujar     
+ 6/ 6/1984   @FER   L  0-6      Berenguer   Berenguer               Sutcliffe   
+ 6/ 7/1984   @GPC   L  5-10     Barker      Barker                  Mason       
+ 6/ 8/1984   @GPC   L  4-6      Darwin      Darwin                  Thurmond    
+ 6/ 9/1984   @GPC   L  2-4      Martinez,D  Martinez,D              Pena        
+ 6/10/1984   @TEW   L  0-10     Reuss       Reuss                   Darling     
+ 6/11/1984   @TEW   L  3-4  11  Berenguer   Fingers                 Rasmussen   
+ 6/12/1984   @TEW   L  1-2  12  Barker      Gossage                 Ryan        
+ 6/13/1984   @EVN   W  6-3  15  Darwin      Key         Moore       Seaver      
+ 6/14/1984   @EVN   L  3-5      Martinez,D  Martinez,D              Smith       
+ 6/15/1984   @EVN   W  9-7  16  Reuss       Darwin                  Rawley      
+ 6/16/1984    TEW   W  4-1      Berenguer   Berenguer   Gossage     Rasmussen   
+ 6/17/1984    TEW   L  2-3      Martinez,D  Holland                 Ryan        
+ 6/18/1984    TEW   L 10-11     Darwin      Darwin                  Witt        
+ 6/19/1984   @BBG   L  0-6      Martinez,D  Martinez,D              Hershiser   
+ 6/20/1984    CIN   W  4-2      Reuss       Reuss       Fingers     DeLeon      
+ 6/21/1984    CIN   W  3-2      Berenguer   Gossage                 Soto        
+ 6/22/1984    CIN   W  4-3  12  Darwin      Moore                   Smithson    
+ 6/23/1984   @FER   L  6-7      Darwin      Darwin                  Sutton      
+ 6/24/1984   @FER   L  4-5  10  Martinez,D  Fingers                 Boddicker   
+ 6/25/1984   @CEN   W 16-5      Reuss       Reuss                   Koosman     
+ 6/26/1984   @BBG   W  8-2      Berenguer   Berenguer               Welch       
+ 6/27/1984    SUN   L  2-4  11  Barker      Gossage                 Tudor       
+ 6/28/1984    SUN   L  6-7      Darwin      Darwin                  Show        
+ 7/ 2/1984    SUN   W  4-2      Martinez,D  Martinez,D  Gossage     Candelaria  
+ 7/ 3/1984   @CTW   W  9-3  10  Reuss       Gossage                 Honeycutt   
+ 7/ 4/1984   @CTW   L  6-7  11  Berenguer   Fingers                 Carlton     
+ 7/ 5/1984   @CTW   L  2-4      Barker      Barker                  Zahn        
+ 7/ 6/1984    CEN   W  5-2      Darwin      Darwin      Tekulve     Koosman     
+ 7/ 7/1984    CEN   W  6-4      Martinez,D  Martinez,D  Moore       McGregor    
+ 7/ 8/1984    CEN   W  5-1      Beattie     Beattie                 McWilliams  
+ 7/ 9/1984    JJJ   W  7-1      Berenguer   Berenguer               Leibrandt   
+ 7/10/1984    JJJ   W  3-0      Barker      Barker      Gossage     Farr        
+ 7/11/1984    JJJ   L  0-1      Beattie     Beattie                 Cox         
+ 7/12/1984    TEW   L  1-3  12  Martinez,D  Fingers                 Ojeda       
+ 7/13/1984    TEW   L  1-7      Beattie     Beattie                 Darling     
+ 7/14/1984    TEW   W  1-0      Berenguer   Berenguer   Gossage     Rasmussen   
+ 7/15/1984    CEN   W  8-0      Barker      Barker                  Davis,M     
+ 7/16/1984    CEN   L  4-5      Beattie     Moore                   Niekro      
+ 7/17/1984    GPC   L  4-6  10  Martinez,D  Moore                   Pena        
+ 7/21/1984   @BMB   L  1-2      Beattie     Beattie                 Nipper      
+ 7/22/1984   @BMB   L  2-7      Berenguer   Berenguer               Denny       
+                   Game Results:  1984 Gateway City Perfectos
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 7/23/1984   @BMB   W 10-4      Barker      Barker                  Clemens     
+ 7/24/1984    CTW   L  3-15     Darwin      Darwin                  Schatzeder  
+ 7/25/1984    CTW   L  2-4      Martinez,D  Martinez,D              Honeycutt   
+ 7/26/1984    CTW   L  2-3      Beattie     Moore                   Smithson    
+ 7/27/1984    A51   W  3-0      Berenguer   Berenguer               Trout       
+ 7/28/1984    A51   W 11-2      Barker      Barker                  Clancy      
+ 7/29/1984    A51   W  3-1      Darwin      Darwin                  Tanana      
+ 7/30/1984    EVN   L  6-7      Martinez,D  Holland                 Seaver      
+ 7/31/1984    EVN   W  2-1      Beattie     Beattie                 Smith       
+ 8/ 1/1984    EVN   L  3-4      Berenguer   Berenguer               Robinson    
+ 8/ 2/1984    BBG   L  1-5      Barker      Barker                  Viola       
+ 8/ 3/1984    BBG   L  2-4      Darwin      Gossage                 Welch       
+ 8/ 4/1984    BBG   L  1-3      Martinez,D  Martinez,D              Saberhagen  
+ 8/ 5/1984    FER   L  6-14     Beattie     Beattie                 Sutcliffe   
+ 8/ 6/1984    FER   L  2-3      Berenguer   Moore                   Andujar     
+ 8/ 7/1984    FER   L  6-7      Barker      Key                     Sutton      
+ 8/ 8/1984   @CIN   W  7-5      Darwin      Darwin      Gossage     Fernandez   
+ 8/ 9/1984   @CIN   L  4-5      Dixon       Dixon                   Romanick    
+ 8/10/1984   @CIN   L  3-6      Beattie     Beattie                 Soto        
+ 8/11/1984   @BBG   L  3-4  13  Berenguer   Tekulve                 Hershiser   
+ 8/12/1984   @BAR   W  8-2      Barker      Barker                  Morris      
+ 8/13/1984   @BAR   L  1-2      Darwin      Darwin                  Blyleven    
+ 8/14/1984   @BAR   L  4-6      Forster     Forster                 Stieb       
+ 8/15/1984   @GAR   W  5-4      Beattie     Tekulve     Moore       Terrell     
+ 8/16/1984   @GAR   L  1-4      Berenguer   Berenguer               Hoyt        
+ 8/17/1984   @GAR   W  6-1      Barker      Barker                  Stewart     
+ 8/18/1984   @BMB   L  3-4      Darwin      Darwin                  Nipper      
+ 8/19/1984   @BMB   L  0-5      Forster     Forster                 Denny       
+ 8/21/1984   @GPC   L  5-6      Beattie     Gossage                 Gooden      
+ 8/22/1984   @GPC   W  9-7      Berenguer   Holland     Gossage     Mason       
+ 8/23/1984    GPC   L  1-12     Barker      Barker                  Thurmond    
+ 8/24/1984    FER   W  5-4      Darwin      Gossage                 Boddicker   
+ 8/25/1984    FER   L  4-5      Forster     Forster                 Sutcliffe   
+ 8/26/1984    FER   W  2-1      Beattie     Beattie                 Andujar     
+ 8/27/1984   @BBG   L  3-10     Berenguer   Berenguer               Dravecky    
+ 8/28/1984    CIN   L  2-3      Young       Holland                 Hough       
+ 8/29/1984    CIN   W  5-3      Darwin      Holland     Gossage     Lollar      
+ 8/31/1984   @BBG   W 12-1      Forster     Forster                 Viola       
+ 9/ 1/1984   @BBG   L  1-8      Beattie     Beattie                 Dravecky    
+ 9/ 2/1984   @BBG   W 18-2      Berenguer   Berenguer               Saberhagen  
+ 9/ 5/1984    CTW   L  2-9      Young       Young                   Smithson    
+ 9/ 6/1984   @SUN   W  7-4      Darwin      Darwin      Holland     Perez       
+ 9/ 7/1984   @SUN   L  1-4      Forster     Forster                 Lea         
+ 9/ 8/1984   @SUN   W  7-4      Beattie     Holland     Gossage     Tudor       
+ 9/ 9/1984    EVN   L  0-2      Berenguer   Berenguer               Moore       
+ 9/10/1984    EVN   L  6-8  11  Young       Holland                 Rawley      
+ 9/11/1984    EVN   W  3-1      Darwin      Darwin                  Seaver      
+ 9/12/1984    GAR   L  9-10     Gorman      Tekulve                 Diaz        
+ 9/13/1984    GAR   W  4-2      Beattie     Beattie                 Terrell     
+ 9/15/1984   @TEW   W  5-1      Berenguer   Berenguer               Witt        
+ 9/16/1984   @TEW   W  8-6      Young       Tekulve     Gossage     Ojeda       
+ 9/18/1984   @JJJ   L  2-4      Darwin      Darwin                  Power       
+                   Game Results:  1984 Gateway City Perfectos
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 9/19/1984   @JJJ   W  2-0      Gorman      Gorman      Gossage     Shirley     
+ 9/20/1984   @JJJ   W 12-1      Beattie     Beattie                 Gullickson  
+ 9/21/1984    GAR   W  5-2      Darwin      Darwin      Gossage     Terrell     
+ 9/22/1984    GAR   W  5-4      Gorman      Gossage                 Flanagan    
+ 9/23/1984    GAR   W  6-5  11  Beattie     Moore                   Hoyt        
+ 9/27/1984    CTW   L  0-6      Darwin      Darwin                  Schatzeder  
+                    Injury Log: 1984 Gateway City Perfectos
+                                        
+ 
+-- Date -- #  Player      Cause                 Length
+ 
+ 4/ 7/1984    Griffey     General                  2
+ 4/30/1984    Chapman     General                  4
+ 6/11/1984    Berenguer   Rain delay               0
+ 6/12/1984    Barker      General                 10
+ 6/16/1984    Henderson   General                  1
+ 7/ 6/1984    Darwin      General                 10
+ 7/ 7/1984    Chapman     General                  3
+ 7/ 7/1984    Templeton   General                  0
+ 7/30/1984    DeCinces    General                  1
+ 8/31/1984    Gossage     General                  0
+            DMB League Transaction Log:  1984 Gateway City Perfectos
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+ 4/ 1/1984  GCP    Farm         Gene Petralli       
+ 4/ 1/1984  GCP    Promote      Jerry Willard       
+ 4/ 9/1984  GCP    Farm         Ken Dixon           
+ 4/ 9/1984  GCP    Promote      Juan Berenguer      
+ 4/10/1984  GCP    Farm         Danny Tartabull     
+ 4/10/1984  GCP    Promote      Jose Oquendo        
+ 4/22/1984  GCP    Farm         Tom Gorman          
+ 4/22/1984  GCP    Promote      Len Barker          
+ 5/26/1984  GCP    Farm         Randy Ready         
+ 5/26/1984  GCP    Promote      Hal McRae           
+ 6/ 3/1984  GCP    Farm         Jack Clark          
+ 6/ 3/1984  GCP    Promote      Nick Esasky         
+ 7/ 3/1984  GCP    Farm         Jerry Reuss         
+ 7/ 4/1984  GCP    Promote      Jim Beattie         
+ 7/12/1984  GCP    Farm         Rollie Fingers      
+ 7/12/1984  GCP    Promote      Tom Gorman          
+ 7/15/1984  GCP    Farm         Rusty Kuntz         
+ 7/18/1984  GCP    Promote      Randy Ready         
+ 8/ 4/1984  GCP    Farm         Dennis Martinez     
+ 8/ 6/1984  GCP    Promote      Ken Dixon           
+ 8/ 9/1984  GCP    Farm         Ken Dixon           
+ 8/ 9/1984  GCP    Promote      Terry Forster       
+ 8/12/1984  GCP    Farm         Jose Oquendo        
+ 8/12/1984  GCP    Promote      Matt Young          
+ 8/23/1984  GCP    Farm         Len Barker          
+ 8/31/1984  GCP    Farm         Jerry Willard       
+ 9/ 7/1984  GCP    Farm         Terry Forster       
+ 9/ 8/1984  GCP    Farm         Rickey Henderson    
+ 9/10/1984  GCP    Farm         Ken Griffey         
+ 9/10/1984  GCP    Sign         Darnell Coles       
+ 9/15/1984  GCP    Farm         Juan Berenguer      
+ 9/15/1984  GCP    Farm         Hal McRae           
+ 9/20/1984  GCP    Farm         Rick Dempsey        
+ 9/20/1984  GCP    Sign         John Gibbons        
+ 9/22/1984  GCP    Farm         Kelvin Chapman      
+
+
+ 
+							
+							

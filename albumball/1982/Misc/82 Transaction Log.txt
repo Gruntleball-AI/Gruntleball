@@ -1,0 +1,547 @@
+The Combat Rock League
+
+Transaction Log
+
+                           DMB League Transaction Log
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+ 6/13/1999  LON    Farm         Greg Walker         
+ 6/13/1999  BBG    Farm         Don Mattingly       
+ 6/13/1999  SUN    Farm         Ken Phelps          
+ 6/13/1999  SUN    Promote      Cesar Cedeno        
+ 6/13/1999  CIN    Farm         Mike Marshall       
+ 6/13/1999  CIN    Farm         Scott Fletcher      
+ 6/13/1999  CIN    Promote      Juan Beniquez       
+ 6/13/1999  CIN    Promote      Greg Gross          
+ 6/14/1999  BBG    Farm         Scott Garrelts      
+ 6/14/1999  LON    Farm         German Barranca     
+ 6/14/1999  LON    Promote      Steve Balboni       
+ 6/14/1999  LON    Promote      Jerry Hairston      
+ 6/14/1999  GCP    DL           Bo Diaz               effective  6/15/1999  
+ 6/14/1999  GCP    Promote      Tim Laudner         
+ 6/15/1999  BBG    Promote      Dave Bergman        
+ 6/15/1999  BBG    Promote      Kevin Hickey        
+ 6/17/1999  CIN    Farm         Mario Soto          
+ 6/18/1999  CIN    Promote      Mario Soto          
+ 6/18/1999  BBG    Farm         Julio Franco        
+ 6/18/1999  BBG    Promote      Dane Iorg           
+ 6/21/1999  LDL    DL           Andre Dawson          effective  6/20/1999  
+ 6/21/1999  LDL    Promote      Ron LeFlore         
+ 6/22/1999  NYH    DL           Frank White         
+ 6/22/1999  NYH    Promote      Hubie Brooks        
+ 6/22/1999  CTW    DL           Ron Hodges            effective  6/23/1999  
+ 6/22/1999  CTW    Promote      Jim Essian          
+ 6/29/1999  CIN    Farm         Pat Tabler          
+ 6/29/1999  CIN    Farm         Bill Doran          
+ 6/29/1999  CIN    Promote      Garry Templeton     
+ 6/29/1999  CIN    Promote      Wally Backman       
+ 6/29/1999  CTW    DL           Eddie Murray          effective  6/28/1999  
+ 6/29/1999  CTW    Promote      Lee May             
+ 6/30/1999  GCP    Activate     Bo Diaz             
+ 6/30/1999  GCP    Promote      Juan Berenguer      
+ 6/30/1999  GCP    Farm         Tim Laudner         
+ 6/30/1999  GCP    Farm         Doug Jones          
+ 7/ 5/1999  BMB    DL           Jeff Leonard          effective  7/ 6/1999  
+ 7/ 5/1999  BMB    Promote      Barry Bonnell       
+ 7/ 5/1999  LDL    Activate     Andre Dawson        
+ 7/ 5/1999  LDL    Farm         Ron LeFlore         
+ 7/ 5/1999  LDL    Promote      Brad Havens         
+ 7/ 5/1999  LDL    Farm         Woodie Fryman       
+ 7/ 8/1999  SUN    Promote      Mike Proly          
+ 7/ 8/1999  SUN    Promote      Joe Beckwith        
+ 7/ 8/1999  SUN    Farm         Tom Henke           
+ 7/ 8/1999  SUN    DL           Ron Reed              effective  7/ 9/1999  
+ 7/ 8/1999  BAR    DL           Dave Henderson        effective  7/ 7/1999  
+ 7/ 8/1999  BAR    Farm         Jay Johnstone       
+ 7/ 8/1999  BAR    Promote      Dan Ford            
+ 7/ 8/1999  BAR    Promote      Howard Johnson      
+ 7/11/1999  GCP    Farm         Juan Berenguer      
+ 7/11/1999  GCP    Promote      Donnie Moore        
+                           DMB League Transaction Log
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+ 7/12/1999  NYH    Activate     Frank White         
+ 7/12/1999  NYH    Farm         Hubie Brooks        
+ 7/13/1999  CTW    Activate     Eddie Murray        
+ 7/13/1999  CTW    Farm         Eddie Murray        
+ 7/13/1999  CTW    Promote      Eddie Murray        
+ 7/13/1999  CTW    Farm         Lee May             
+ 7/13/1999  CTW    Farm         Jim Essian          
+ 7/13/1999  CTW    Activate     Ron Hodges          
+ 7/15/1999  BMB    TradeAway    Dave Engle            to LDL
+ 7/15/1999  BMB    TradeAway    Ivan DeJesus          to LDL
+ 7/15/1999  LDL    TradeAway    Alfredo Griffin       to BMB
+ 7/15/1999  LDL    TradeAway    Jimmy Sexton          to BMB
+ 7/15/1999  LDL    Farm         Jody Davis          
+ 7/15/1999  LDL    Promote      Jody Davis          
+ 7/15/1999  LDL    Farm         Ron Davis           
+ 7/15/1999  BMB    Promote      Marc Hill           
+ 7/21/1999  BMB    Farm         Ken Schrom          
+ 7/21/1999  BMB    Promote      Mike Stanton        
+ 7/21/1999  BAR    Promote      Bert Blyleven       
+ 7/21/1999  BAR    Farm         Mark Eichhorn       
+ 7/21/1999  CIN    Promote      Garth Iorg          
+ 7/21/1999  CIN    DL           Wally Backman         effective  7/ 9/1999  
+ 7/24/1999  CIN    Farm         Steve Nicosia       
+ 7/24/1999  CIN    Promote      Sammy Stewart       
+ 7/24/1999  LDL    DL           Bob Dernier           effective  7/25/1999  
+ 7/24/1999  LDL    Promote      Ron LeFlore         
+ 7/25/1999  CIN    Farm         Mike Smithson       
+ 7/25/1999  CIN    Promote      Ned Yost            
+ 7/25/1999  CIN    Farm         Cecilio Guante      
+ 7/25/1999  CIN    Promote      Brad Lesley         
+ 7/27/1999  BMB    Activate     Jeff Leonard        
+ 7/27/1999  BMB    DL           Ruppert Jones         effective  7/28/1999  
+ 7/28/1999  BMB    Release      Alfredo Griffin     
+ 7/28/1999  BMB    Sign         Alfredo Griffin     
+ 7/28/1999  BMB    Farm         Alfredo Griffin     
+ 7/29/1999  CIN    DL           Lance Parrish         effective  7/30/1999  
+ 7/29/1999  CIN    Promote      Steve Nicosia       
+ 7/31/1999  FER    Farm         Bob McClure         
+ 7/31/1999  FER    Promote      Jeff Lahti          
+ 8/ 3/1999  CEN    Farm         Terry Harper        
+ 8/ 3/1999  CEN    Promote      David Green         
+ 8/ 3/1999  CIN    Activate     Wally Backman       
+ 8/ 3/1999  CIN    Farm         Greg Gross          
+ 8/ 3/1999  BMB    DL           Tom Paciorek          effective  8/ 4/1999  
+ 8/ 3/1999  BMB    Promote      Jimmy Sexton        
+ 8/ 8/1999  SUN    Farm         Jim Dwyer           
+ 8/ 8/1999  SUN    Promote      Champ Summers       
+ 8/ 9/1999  CIN    DL           Storm Davis           effective  8/10/1999  
+ 8/ 9/1999  CIN    Promote      Pete Falcone        
+ 8/10/1999  CTW    DL           Ron Hodges            effective  8/11/1999  
+ 8/10/1999  CTW    Promote      Jim Essian          
+ 8/10/1999  BAR    Activate     Dave Henderson      
+                           DMB League Transaction Log
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+ 8/10/1999  BAR    Farm         Bert Blyleven       
+ 8/11/1999  BBG    Farm         Doyle Alexander     
+ 8/11/1999  SUN    Farm         Vicente Romo        
+ 8/11/1999  SUN    Promote      Bud Anderson        
+ 8/11/1999  BBG    Promote      Vida Blue           
+ 8/11/1999  BAR    TradeAway    Steve Yeager          to LDL
+ 8/11/1999  LDL    TradeAway    Greg Luzinski         to BAR
+ 8/11/1999  LDL    TradeAway    Woodie Fryman         to BAR
+ 8/11/1999  BMB    DL           Craig Reynolds        effective  8/12/1999  
+ 8/11/1999  BMB    Activate     Ruppert Jones       
+ 8/12/1999  SUN    Activate     Ron Reed            
+ 8/12/1999  SUN    Promote      Luis Aguayo         
+ 8/12/1999  SUN    Farm         Bud Anderson        
+ 8/12/1999  SUN    Farm         Champ Summers       
+ 8/15/1999  SUN    Promote      John Stuper         
+ 8/15/1999  SUN    Farm         David Palmer        
+ 8/17/1999  CIN    Activate     Lance Parrish       
+ 8/17/1999  CIN    Farm         Steve Nicosia       
+ 8/18/1999  CEN    Promote      Terry Harper        
+ 8/18/1999  CEN    Farm         David Green         
+ 8/19/1999  LDL    Promote      Ivan DeJesus        
+ 8/19/1999  LDL    Farm         Jim Morrison        
+ 8/19/1999  LDL    Farm         Tom Seaver          
+ 8/19/1999  LDL    Promote      Ron Davis           
+ 8/20/1999  CTW    DL           Mike Davis            effective  8/21/1999  
+ 8/20/1999  CTW    Promote      Ron Gardenhire      
+ 8/20/1999  BBG    Promote      Johnny Bench        
+ 8/20/1999  BBG    Farm         Ozzie Virgil        
+ 8/21/1999  BMB    Activate     Tom Paciorek        
+ 8/21/1999  BMB    Farm         Scot Thompson       
+ 8/25/1999  BAR    DL           Britt Burns           effective  8/23/1999  
+ 8/25/1999  BAR    Promote      Danny Darwin        
+ 8/25/1999  LDL    Activate     Bob Dernier         
+ 8/25/1999  LDL    Promote      Tom Seaver          
+ 8/25/1999  LDL    Farm         Brad Havens         
+ 8/25/1999  LDL    Farm         Steve Yeager        
+ 8/27/1999  CEN    Promote      Terry Francona      
+ 8/27/1999  CEN    Farm         Terry Harper        
+ 8/31/1999  CIN    Promote      Steve Nicosia       
+ 8/31/1999  CIN    Farm         Ned Yost            
+ 8/31/1999  CIN    Activate     Storm Davis         
+ 8/31/1999  CIN    Farm         Sammy Stewart       
+ 9/ 3/1999  PAR    Promote      Derrell Thomas      
+ 9/ 3/1999  PAR    Farm         Jim Eisenreich      
+ 9/ 3/1999  BBG    Promote      Bruce Bochte        
+ 9/ 3/1999  BBG    Farm         Tony Gwynn          
+ 9/ 7/1999  GCP    Farm         Donnie Moore        
+ 9/ 7/1999  GCP    Promote      Jay Howell          
+ 9/ 7/1999  BAR    DL           Mike Armstrong        effective  9/ 4/1999  
+ 9/ 7/1999  BAR    Promote      Luis Sanchez        
+ 9/ 7/1999  LON    Farm         Jesse Orosco        
+ 9/ 7/1999  LON    Farm         Cliff Johnson       
+                           DMB League Transaction Log
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+ 9/ 7/1999  LON    Farm         Doug Corbett        
+ 9/ 7/1999  LON    Farm         Bob Brenly          
+ 9/ 7/1999  LON    Promote      Alejandro Pena      
+ 9/ 7/1999  LON    Promote      Dave Rucker         
+ 9/ 7/1999  LON    Promote      Buck Martinez       
+ 9/ 7/1999  LON    Promote      Bob Watson          
+ 9/ 7/1999  LDL    Promote      Pete Rose           
+ 9/ 7/1999  LDL    Farm         Ron LeFlore         
+ 9/ 8/1999  CIN    Promote      Mike Marshall       
+ 9/ 8/1999  CIN    Promote      Greg Gross          
+ 9/ 8/1999  CIN    Farm         Garth Iorg          
+ 9/ 8/1999  CIN    Farm         Julio Cruz          
+ 9/ 8/1999  SUN    Farm         Eric Show           
+ 9/ 8/1999  SUN    Farm         John Tudor          
+ 9/ 8/1999  SUN    Farm         Luis Aguayo         
+ 9/ 8/1999  SUN    Promote      Peter Ladd          
+ 9/ 8/1999  SUN    Promote      Randy Moffitt       
+ 9/ 8/1999  SUN    Promote      Gene Tenace         
+ 9/15/1999  CTW    Activate     Ron Hodges          
+ 9/15/1999  CTW    Activate     Mike Davis          
+ 9/15/1999  CTW    Promote      Bruce Hurst         
+ 9/15/1999  CTW    Farm         Ron Gardenhire      
+ 9/15/1999  CTW    Farm         Jim Essian          
+ 9/15/1999  CTW    Farm         Chico Escarrega     
+ 9/20/1999  LON    DL           Rich Gedman           effective  9/21/1999  
+ 9/20/1999  LON    Promote      Bob Brenly          
+ 9/20/1999  BAR    Farm         Dan Ford            
+ 9/20/1999  BAR    Promote      Tony Phillips       
+ 9/20/1999  JJJ    Farm         Alan Bannister      
+ 9/20/1999  JJJ    Farm         Chet Lemon          
+ 9/20/1999  JJJ    Promote      Marty Barrett       
+ 9/20/1999  JJJ    Promote      John Moses          
+ 9/20/1999  BBG    Farm         Wade Boggs          
+ 9/20/1999  BBG    Farm         Frank Viola         
+ 9/20/1999  BBG    Promote      Jerry Morales       
+ 9/20/1999  BBG    Promote      Jim Slaton          
+ 9/21/1999  FER    Farm         Don Aase            
+ 9/21/1999  FER    Farm         Jeff Lahti          
+ 9/21/1999  FER    Promote      Mike Boddicker      
+ 9/21/1999  FER    Promote      Bob McClure         
+ 9/21/1999  FER    Promote      Mark Brouhard       
+ 9/21/1999  FER    Farm         Lou Piniella        
+ 9/22/1999  BMB    Activate     Craig Reynolds      
+ 9/22/1999  BMB    Farm         Gene Richards       
+ 9/22/1999  BMB    Farm         Marc Hill           
+ 9/22/1999  BMB    Promote      Scot Thompson       
+ 9/23/1999  PAR    Farm         Mike Easler         
+ 9/23/1999  PAR    Promote      Jorge Orta          
+ 9/26/1999  BAR    Farm         Bryn Smith          
+ 9/26/1999  BBG    Farm         Mike Scott          
+ 9/26/1999  BBG    Promote      Floyd Chiffer       
+ 9/28/1999  BAR    Activate     Mike Armstrong      
+                           DMB League Transaction Log
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+ 9/28/1999  SUN    DL           John Grubb            effective  9/29/1999  
+ 9/28/1999  SUN    Promote      Champ Summers       
+10/ 5/1999  CEN    Farm         Ron Hassey          
+10/ 5/1999  CEN    Promote      Don Slaught         
+10/ 5/1999  SUN    Farm         Tim Stoddard        
+10/ 5/1999  SUN    Farm         John Stuper         
+10/ 5/1999  SUN    Promote      John Tudor          
+10/ 5/1999  SUN    Promote      Howard Bailey       
+10/ 5/1999  LON    DL           Dave Rucker           effective  9/29/1999  
+10/ 5/1999  LON    Promote      Doug Sisk           
+10/ 7/1999  PAR    Farm         Ben Hayes           
+10/ 8/1999  JJJ    Promote      Alan Bannister      
+10/ 8/1999  JJJ    Farm         Marty Barrett       
+10/ 8/1999  JJJ    Farm         Benny Ayala         
+10/ 8/1999  JJJ    Promote      Al Cowens           
+10/ 8/1999  CIN    Farm         Brad Lesley         
+10/ 8/1999  CIN    Promote      Sammy Stewart       
+10/ 9/1999  SUN    DL           John Tudor            effective 10/10/1999  
+10/ 9/1999  SUN    Promote      Bud Anderson        
+10/10/1999  BMB    TradeAway    Alfredo Griffin       to CIN
+10/10/1999  BMB    TradeAway    Ken Schrom            to CIN
+10/10/1999  CIN    TradeAway    U L Washington        to BMB
+10/10/1999  CIN    TradeAway    Paul Mirabella        to BMB
+10/10/1999  CIN    Promote      Alfredo Griffin     
+10/11/1999  BMB    Farm         Craig Reynolds      
+10/11/1999  BMB    Farm         Jeff Leonard        
+10/11/1999  BMB    Promote      Bob Stoddard        
+10/12/1999  JJJ    Farm         John Moses          
+10/12/1999  JJJ    Promote      Chet Lemon          
+10/17/1999  FER    Farm         Atlee Hammaker      
+10/17/1999  FER    Promote      Scott Holman        
+10/17/1999  BAR    Promote      Britt Burns         
+10/17/1999  BAR    Farm         Britt Burns         
+10/17/1999  BAR    DL           Dave Tobik          
+10/17/1999  BAR    Promote      Britt Burns         
+10/18/1999  LON    Promote      Rich Gedman         
+10/18/1999  LON    Promote      Enos Cabell         
+10/18/1999  LON    Farm         Buddy Bell          
+10/18/1999  LON    Farm         Bob Brenly          
+10/20/1999  CEN    Farm         Bill Castro         
+10/20/1999  CEN    Farm         Larry Milbourne     
+10/20/1999  CEN    Promote      Stan Bahnsen        
+10/20/1999  CEN    Promote      Ron Jackson         
+10/22/1999  CTW    TradeAway    Dick Ruthven          to LDL
+10/22/1999  CTW    Promote      Lee May             
+10/22/1999  CTW    Promote      Ron Gardenhire      
+10/22/1999  CTW    Promote      Glenn Gulliver      
+10/22/1999  CTW    Promote      Walt Terrell        
+10/22/1999  CTW    Farm         Pete O'Brien        
+10/22/1999  CTW    Farm         Jim Barr            
+10/22/1999  CTW    Farm         Bill Laskey         
+10/22/1999  BBG    Promote      Ozzie Virgil        
+                           DMB League Transaction Log
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+10/22/1999  BBG    Promote      Jack O'Connor       
+10/22/1999  BBG    Promote      Mike Scott          
+10/22/1999  BBG    Farm         Dave Bergman        
+10/22/1999  BBG    DL           Mike Scioscia         effective 10/15/1999  
+10/22/1999  BBG    Farm         Mike LaCoss         
+10/24/1999  JJJ    DL           Carney Lansford       effective 10/23/1999  
+10/24/1999  JJJ    Promote      Bruce Bochy         
+10/27/1999  CEN    Farm         John Lowenstein     
+10/27/1999  BMB    Promote      Jeff Leonard        
+10/27/1999  BMB    DL           Bob Stoddard          effective 10/28/1999  
+10/27/1999  CEN    Promote      David Green         
+10/27/1999  SUN    Activate     John Tudor          
+10/27/1999  SUN    Promote      John Wathan         
+10/27/1999  SUN    Promote      Carlos Diaz         
+10/27/1999  SUN    Farm         Eddie Whitson       
+10/27/1999  SUN    Farm         Rick Monday         
+10/27/1999  SUN    Farm         John Wockenfuss     
+10/27/1999  SUN    Farm         Joe Beckwith        
+11/ 1/1999  SUN    Activate     John Grubb          
+11/ 1/1999  CTW    Promote      Rob Wilfong         
+11/ 1/1999  CTW    Promote      Mitchell Page       
+11/ 1/1999  CTW    Farm         Mike Davis          
+11/ 1/1999  CTW    Farm         Jeff Burroughs      
+11/ 2/1999  LON    Farm         Doug Sisk           
+11/ 3/1999  LON    Farm         Alan Trammell       
+11/ 3/1999  LON    Farm         Jerry Hairston      
+11/ 3/1999  LON    Farm         Rick Camp           
+11/ 3/1999  LON    Promote      Warren Brusstar     
+11/ 3/1999  LON    Promote      Doug Bird           
+11/ 3/1999  LON    Promote      Buddy Bell          
+11/ 3/1999  LON    Promote      Carl Yastrzemski    
+11/ 3/1999  BBG    Farm         Ozzie Virgil        
+11/ 4/1999  LDL    Farm         Tom Seaver          
+11/ 4/1999  LDL    Farm         Bill Campbell       
+11/ 4/1999  LDL    Promote      Steve Yeager        
+11/ 4/1999  CIN    Promote      Tony Perez          
+11/ 4/1999  CIN    Promote      Garth Iorg          
+11/ 4/1999  CIN    Promote      Julio Cruz          
+11/ 4/1999  CIN    Farm         Storm Davis         
+11/ 4/1999  CIN    Farm         Dave Righetti       
+11/ 4/1999  CIN    Farm         Mike Marshall       
+11/ 4/1999  SUN    Farm         Howard Bailey       
+11/ 4/1999  SUN    Promote      Eric Show           
+11/ 5/1999  BAR    DL           Dave Parker           effective 11/ 6/1999  
+11/ 5/1999  BAR    Activate     Dave Tobik          
+11/ 5/1999  BOS    Promote      Moose Haas          
+11/ 5/1999  BOS    Farm         Randy Lerch         
+11/ 7/1999  PAR    Promote      Biff Pocoroba       
+11/ 7/1999  PAR    DL           Derrell Thomas        effective 11/ 4/1999  
+11/ 8/1999  BAR    Promote      Cesar Geronimo      
+11/ 8/1999  BAR    Farm         Tony Phillips       
+11/ 8/1999  NYH    DL           Mike Witt             effective 11/ 9/1999  
+                           DMB League Transaction Log
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+11/ 8/1999  NYH    Promote      Ron Kittle          
+11/ 9/1999  CTW    TradeAway    Rudy Law              to CEN
+11/ 9/1999  CTW    TradeAway    Mike Krukow           to CEN
+11/ 9/1999  CTW    Promote      Mike Davis          
+11/ 9/1999  CTW    Promote      Jeff Burroughs      
+11/ 9/1999  CEN    Farm         Rudy Law            
+11/ 9/1999  CEN    Farm         Mike Krukow         
+11/ 9/1999  LDL    Promote      Jim Morrison        
+11/ 9/1999  LDL    Farm         Dick Ruthven        
+11/10/1999  JJJ    TradeAway    Benny Ayala           to BMB
+11/11/1999  FER    Farm         Scott Holman        
+11/11/1999  CEN    Farm         Butch Wynegar       
+11/11/1999  NYH    Farm         Jerry Ujdur         
+11/11/1999  CTW    Farm         Mike Davis          
+11/11/1999  FER    Promote      Bill Scherrer       
+11/11/1999  CIN    DL           Sammy Stewart         effective 11/ 2/1999  
+11/11/1999  CIN    Promote      John Martin         
+11/12/1999  LON    Activate     Dave Rucker         
+11/12/1999  LON    Farm         Dave Rucker         
+11/12/1999  FER    TradeAway    Mike Ivie             to CTW
+11/12/1999  FER    TradeAway    Mike Young            to CTW
+11/12/1999  CTW    TradeAway    Jeff Burroughs        to FER
+11/12/1999  CTW    TradeAway    Lee May               to FER
+11/12/1999  CTW    Promote      Mike Young          
+11/12/1999  FER    Farm         Bob McClure         
+11/12/1999  FER    Farm         Jeff Burroughs      
+11/12/1999  FER    Promote      Joe Sambito         
+11/12/1999  FER    DL           Mike Boddicker        effective 11/13/1999  
+11/12/1999  FER    Promote      Andy McGaffigan     
+11/13/1999  CTW    Farm         Steve Bedrosian     
+11/14/1999  BMB    Promote      Benny Ayala         
+11/14/1999  BMB    Promote      Marc Hill           
+11/14/1999  BMB    Promote      Gene Richards       
+11/14/1999  BMB    Promote      Craig Reynolds      
+11/14/1999  BMB    Promote      Robert Castillo     
+11/14/1999  BMB    Promote      Paul Mirabella      
+11/14/1999  BMB    Promote      Enrique Romo        
+11/14/1999  BMB    Activate     Bob Stoddard        
+11/14/1999  BMB    TradeAway    Tippy Martinez        to LDL
+11/14/1999  LDL    TradeAway    Bill Campbell         to BMB
+11/14/1999  BMB    Promote      Bill Campbell       
+11/14/1999  LDL    Farm         Jim Morrison        
+11/14/1999  LDL    Farm         Dave Stewart        
+11/14/1999  LDL    Promote      Jim Morrison        
+11/14/1999  CTW    Farm         Ron Hodges          
+11/14/1999  CTW    Promote      Jim Barr            
+11/14/1999  CTW    Promote      Chico Escarrega     
+11/14/1999  CTW    Promote      Bill Laskey         
+11/14/1999  JJJ    Promote      Brian Harper        
+11/14/1999  JJJ    Promote      Paul Boris          
+11/14/1999  JJJ    Promote      Dave LaRoChE        
+11/14/1999  FER    Promote      Mel Hall            
+                           DMB League Transaction Log
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+11/14/1999  FER    Promote      Jeff Burroughs      
+11/14/1999  FER    Promote      Lou Piniella        
+11/14/1999  FER    Promote      Atlee Hammaker      
+11/14/1999  FER    Promote      Bob McClure         
+11/14/1999  FER    Promote      Oil Can Boyd        
+11/14/1999  SUN    Promote      Luis Aguayo         
+11/14/1999  SUN    Promote      Rick Monday         
+11/14/1999  SUN    Promote      John Stuper         
+11/14/1999  LON    Promote      Cliff Johnson       
+11/14/1999  LON    Promote      Rick Camp           
+11/14/1999  LON    Promote      Doug Corbett        
+11/14/1999  LON    Promote      Dave Rucker         
+11/14/1999  LON    Promote      Jesse Orosco        
+11/14/1999  LON    Farm         Bruce Sutter        
+11/16/1999  BAR    TradeAway    Willie Randolph       to LDL
+11/16/1999  BAR    TradeAway    Danny Darwin          to LDL
+11/16/1999  LDL    TradeAway    Andre Dawson          to BAR
+11/16/1999  LDL    TradeAway    Steve Yeager          to BAR
+11/16/1999  LDL    TradeAway    Reggie Jackson        to BAR
+11/16/1999  BAR    Promote      Don Hood            
+11/16/1999  LDL    Farm         Danny Darwin        
+11/16/1999  LDL    Promote      Ron LeFlore         
+11/19/1999  CEN    Promote      Wayne Krenchicki    
+11/19/1999  CEN    Promote      Larry Milbourne     
+11/19/1999  CEN    Farm         Jim Gantner         
+11/21/1999  CIN    Promote      Bill Doran          
+11/21/1999  CIN    Promote      Scott Fletcher      
+11/21/1999  CIN    Promote      Mike Marshall       
+11/21/1999  CIN    Promote      Pat Tabler          
+11/21/1999  CIN    Promote      Ned Yost            
+11/21/1999  CIN    Promote      Brad Lesley         
+11/21/1999  CIN    Promote      Storm Davis         
+11/21/1999  CIN    Promote      Cecilio Guante      
+11/21/1999  CIN    Promote      Dave Righetti       
+11/21/1999  CIN    Promote      Ken Schrom          
+11/21/1999  CIN    Promote      Mike Smithson       
+11/21/1999  CIN    Activate     Sammy Stewart       
+11/21/1999  NYH    Promote      Kevin Bass          
+11/21/1999  BBG    Activate     Mike Scioscia       
+11/21/1999  CTW    Farm         Brian Downing       
+11/21/1999  CTW    Farm         Mike Young          
+11/21/1999  CTW    Promote      Jim Essian          
+11/21/1999  CTW    Promote      Ron Hodges          
+11/21/1999  CTW    Farm         Bob Stanley         
+11/21/1999  CTW    Farm         Walt Terrell        
+11/21/1999  CTW    Promote      Dave Beard          
+11/21/1999  CTW    Promote      Kevin Saucier       
+11/22/1999  NYH    Farm         Andy Hawkins        
+11/22/1999  NYH    Promote      Dave Rozema         
+11/22/1999  SUN    Farm         Luis Aguayo         
+11/23/1999  NYH    Farm         Willie Wilson       
+11/23/1999  NYH    Promote      Tito Landrum        
+                           DMB League Transaction Log
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+11/23/1999  GCP    Promote      Bill Almon          
+11/23/1999  GCP    Promote      Tim Laudner         
+11/23/1999  GCP    Promote      Gary Redus          
+11/23/1999  GCP    Promote      Bump Wills          
+11/23/1999  GCP    Promote      Terry Leach         
+11/24/1999  GCP    Farm         Jim Beattie         
+11/24/1999  LDL    Farm         Luis Aponte         
+11/26/1999  BBG    Farm         Dave Dravecky       
+11/27/1999  CEN    Farm         Larry McWilliams    
+11/27/1999  CEN    Promote      Mike Krukow         
+11/28/1999  SUN    Farm         Charlie Lea         
+11/28/1999  PAR    Promote      Gaylord Perry       
+11/29/1999  PAR    Farm         Lamarr Hoyt         
+11/30/1999  NYH    Farm         Ron Kittle          
+11/30/1999  NYH    Promote      Thad Bosley         
+11/30/1999  NYH    Farm         Thad Bosley         
+11/30/1999  NYH    Promote      Thad Bosley         
+12/ 1/1999  BBG    Farm         Von Hayes           
+12/ 1/1999  BAR    Farm         Buddy Black         
+12/ 1/1999  BAR    Promote      Woodie Fryman       
+12/ 2/1999  CEN    Farm         Ken Landreaux       
+12/ 2/1999  CEN    Farm         Dave Winfield       
+12/ 2/1999  SUN    Promote      David Palmer        
+12/ 3/1999  BBG    Sign         Dan Briggs          
+12/ 3/1999  BBG    Release      Dan Briggs          
+12/ 3/1999  BBG    Sign         Dave Edwards        
+12/ 3/1999  BBG    Farm         Bob Welch           
+12/ 3/1999  BBG    Farm         Dave Smith          
+12/ 3/1999  FER    Farm         Bill Scherrer       
+12/ 4/1999  CTW    Promote      Brian Downing       
+12/ 4/1999  CTW    Promote      Pete O'Brien        
+12/ 4/1999  CTW    Promote      Bob Stanley         
+12/ 5/1999  FER    Farm         Joe Sambito         
+12/ 5/1999  NYH    Farm         Frank White         
+12/ 5/1999  NYH    Promote      Mick Kelleher       
+12/ 5/1999  SUN    Farm         Ernie Whitt         
+12/ 5/1999  SUN    Farm         David Palmer        
+12/ 7/1999  FER    Farm         Andy McGaffigan     
+12/ 9/1999  NYH    Farm         Kevin Bass          
+12/ 9/1999  BAR    Farm         Frank Tanana        
+12/ 9/1999  LON    Farm         Rich Gedman         
+12/ 9/1999  LON    Promote      Bob Brenly          
+12/ 9/1999  SUN    Promote      Joe Beckwith        
+12/10/1999  CEN    Farm         Joe Niekro          
+12/10/1999  LDL    Farm         Dennis Eckersley    
+12/11/1999  CEN    Farm         Al Oliver           
+12/11/1999  CEN    Farm         Scott Sanderson     
+12/11/1999  JJJ    Farm         Joe Price           
+12/12/1999  BMB    Farm         Scot Thompson       
+12/12/1999  GCP    Farm         Rickey Henderson    
+12/12/1999  SUN    Farm         Gary Roenicke       
+12/12/1999  SUN    Farm         Eric Show           
+                           DMB League Transaction Log
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+12/12/1999  BMB    Farm         Ruppert Jones       
+12/13/1999  BBG    Farm         Dick Tidrow         
+12/13/1999  SUN    Sign         Dave Roberts        
+12/14/1999  BOS    Farm         Willie McGee        
+12/14/1999  NYH    Farm         Dave Rozema         
+12/14/1999  NYH    Activate     Mike Witt           
+12/15/1999  NYH    Farm         Milt Wilcox         
+12/15/1999  NYH    Promote      Ray Burris          
+12/15/1999  SUN    Farm         Joe Beckwith        
+12/15/1999  SUN    Farm         Randy Moffitt       
+12/15/1999  JJJ    Farm         Jeff Keener         
+12/16/1999  BMB    Farm         Joe Morgan          
+12/16/1999  CTW    Farm         Reid Nichols        
+12/16/1999  SUN    Promote      John Wockenfuss     
+12/16/1999  LDL    Promote      Brad Havens         
+12/17/1999  BMB    Farm         Terry Kennedy       
+12/17/1999  CEN    Farm         Ken Forsch          
+12/17/1999  NYH    Farm         Tim Lollar          
+12/17/1999  SUN    Farm         George Brett        
+12/17/1999  SUN    Farm         John Wockenfuss     
+12/17/1999  SUN    Farm         Ron Reed            
+12/18/1999  SUN    Farm         Gene Tenace         
+12/18/1999  SUN    Farm         Bud Anderson        
+
+

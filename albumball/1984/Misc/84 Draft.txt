@@ -1,0 +1,255 @@
+   	 	 	 	 	 	
+					
+	
+Pk 	Round 1 	Trades 	Drafted Player
+1 	Jews for Jesus 	(to Beavis) 	Roger CLEMENS
+2 	Majestics 	(to Beavis, to Jews for Jesus) 	Kirby PUCKETT
+3 	Perfectos 	 (to Chim-Chim) 	Dwight GOODEN
+4 	Goitermen 	  	Bret SABERHAGEN
+5 	Bobs 	  	Eric DAVIS
+6 	Endorphins 	(to Chim-Chim, to Perfectos) 	Jimmy KEY
+7 	Chim-Chim 	(to Perfectos) 	Danny TARTABULL
+8 	Beavis 	  	Mark GUBICZA
+9 	Ghanans 	(to Beavis, to Jews for Jesus) 	Jose RIJO
+10 	Brewers 	  	Kevin MITCHELL
+11 	Atoms 	(to Jews for Jesus, to Beavis) 	Mark LANGSTON
+12 	Reds 	(to Jews for Jesus) 	Mickey TETTLETON
+13 	Whales 	(to Bobs) 	Glenn DAVIS
+14 	Magellans 	  	Alvin DAVIS
+15 	Slayers 	  	John FRANCO
+
+Pk      ROUND 2         TRADES                         DRAFTED PLAYER 
+1       Goitermen       (to Reds)                       Tom BROWNING 
+2       Bobs                                            Dave PARKER 
+3       Majestics                                       Lee SMITH 
+4       Endorphins                                      Gary WARD 
+5       Jews for Jesus                                  Zane SMITH 
+6       Chim-Chim       (to Endorphins)                 Jay HOWELL 
+7       Perfectos                                       Dennis MARTINEZ 
+8       Beavis          (to Majestics, to Beavis)       Chris BROWN 
+9       Ghanans                                         Gary GAETTI 
+10      Brewers                                         Claudell WASHINGTON 
+11      Atoms           (to Magellans)                  Ron HASSEY 
+12      Reds                                            Mike LaVALLIERE 
+13      Whales                                          Jay TIBBS 
+14      Magellans                                       Floyd RAYFORD 
+15      Slayers                                         Kevin McREYNOLDS 
+
+Pk      ROUND 3         TRADES                         DRAFTED PLAYER 
+1       Goitermen                                       Ray SEARAGE 
+2       Bobs                                            Joe HESKETH 
+3       Majestics       (to Whales, to Beavis)          Rod SCURRY 
+4       Endorphins      (to Brewers)                    Juan BENIQUEZ 
+5       Jews for Jesus                                  Ricky HORTON 
+6       Chim-Chim       (to Endorphins)                 Cesar CEDENO 
+7       Perfectos                                       Danny DARWIN 
+8       Beavis          (to Majestics)                  Tony ARMAS 
+9       Ghanans         (to Beavis)                     Mark CLEAR 
+10      Brewers         (to Endorphins)                 Ivan CALDERON 
+11      Atoms           (to Jews for Jesus)             Wayne KRENCHICKI 
+12      Reds            (to Beavis)                     Jim WOHLFORD 
+13      Whales          (to Beavis, to Whales)          Tom WADDELL 
+14      Magellans                                       Phil GARNER 
+15      Slayers                                         Ron ROBINSON 
+
+Pk      ROUND 4         TRADES                         DRAFTED PLAYER 
+1       Goitermen                                       Sixto LEZCANO 
+2       Bobs                                            Jim SUNDBERG 
+3       Majestics       (to Reds)                       Garry MADDOX 
+4       Endorphins      (to Majestics, to Reds,         Barbaro GARBEY
+                         to Magellans)  
+5       Jews for Jesus                                  Mark BAILEY 
+6       Chim-Chim       (to Beavis, to Reds, to Beavis) Brian HARPER 
+7       Perfectos                                       Rick DEMPSEY 
+8       Beavis          (to Reds)                       Milt THOMPSON 
+9       Ghanans                                         Scott FLETCHER 
+10      Brewers         (to Endorphins)                 Mark SALAS 
+11      Atoms           (to Beavis, to Majestics)       Phil NIEKRO 
+12      Reds            (to Majestics)                  Glenn HUBBARD 
+13      Whales          (to Beavis, to Ghanans)         Bob FORSCH 
+14      Magellans       (to Reds, to Perfectos)         Jerry WILLARD 
+15      Slayers                                         Gene GARBER 
+
+Pk      ROUND 5         TRADES                         DRAFTED PLAYER 
+1       Goitermen                                       Ron GARDENHIRE 
+2       Bobs                                            Tom BROOKENS 
+3       Majestics                                       Rich BORDI 
+4       Endorphins      (to Chim-Chim)                  Jim DESHAIES 
+5       Jews for Jesus  (to Atoms)                      Joe BECKWITH 
+6       Chim-Chim                                       Terry PENDLETON 
+7       Perfectos                                       Jose OQUENDO 
+8       Beavis          (to Majestics, to Beavis,       Dave CONCEPCION 
+                         to Reds)      					
+9       Ghanans                                         Tony BERNAZARD 
+10      Brewers         (to Endorphins)                 Stew CLIBURN 
+11      Atoms                                           Jerry KOOSMAN 
+12      Reds            (to Majestics)                  Tom BRUNANSKY 
+13      Whales                                          Bill SCHROEDER 
+14      Magellans       (to Beavis, to Ghanans)         Pete O'BRIEN 
+15      Slayers                                         Tim LAUDNER 
+16      Atoms                                           Edwin NUNEZ 
+
+Pk      ROUND 6         TRADES                         DRAFTED PLAYER 
+1       Goitermen                                       Ron HODGES 
+2       Bobs            (to Goitermen)                  Larry SHEETS 
+3       Majestics                                       Jim ESSIAN 
+4       Endorphins                                      Bill CAMPBELL 
+5       Jews for Jesus                                  Vance LAW 
+6       Chim-Chim                                       Dave RUCKER 
+7       Perfectos                                       Ken GRIFFEY 
+8       Beavis                                          Frank WILLIAMS 
+9       Ghanans         (to Beavis, to Magellans)       Terry FRANCONA 
+10      Brewers                                         Jorge ORTA 
+11      Atoms                                           Mark DAVIS 
+12      Reds            (to Beavis, to Reds)            Alex TREVINO 
+13      Whales          (to Majestics)                  Jim GOTT 
+14      Magellans       (to Atoms)                      Steve SAX 
+15      Slayers                                         Dale BERRA 
+16      Ghanans                                         Walt TERRELL 
+17      Atoms           (to Beavis)                     Dave ANDERSON 
+
+Pk      ROUND 7         TRADES                         DRAFTED PLAYER 
+1       Goitermen                                       Ron ROENICKE 
+2       Bobs                                            Bo DIAZ 
+3       Majestics                                       Rob DEER 
+4       Endorphins                                      Bruce BOCHY 
+5       Jews for Jesus                                  Andy HAWKINS 
+6       Chim-Chim                                       Alan BANNISTER 
+7       Perfectos                                       Randy READY 
+8       Beavis          (to Chim-Chim)                  Ron WASHINGTON 
+9       Ghanans                                         Gary REDUS 
+10      Brewers                                         Jeff CALHOUN 
+11      Atoms                                           Spike OWEN 
+12      Reds            (to Beavis)                     Randy O'NEAL 
+13      Whales                                          Onix CONCEPCION 
+14      Magellans       (to Chim-Chim)                  Joe SAMBITO 
+15      Slayers                                         Willie LOZADO 
+16      Ghanans                                         Mike FITZGERALD 
+17      Atoms                                           Dion JAMES 
+18      Whales                                          John RUSSELL 
+
+Pk      ROUND 8         TRADES                         DRAFTED PLAYER 
+1       Bobs                                            Barry BONNELL 
+2       Majestics                                       Jim PANKOVITS 
+3       Endorphins                                      Bob BAILOR 
+4       Jews for Jesus                                  Nate SNELL 
+5       Chim-Chim                                       Ralph CITARELLA 
+6       Perfectos                                       Rusty KUNTZ 
+7       Beavis          (to Magellans)                  Harry SPILMAN 
+8       Ghanans                                         Neil ALLEN 
+9       Brewers                                         Tom NIETO 
+10      Atoms           (to Chim-Chim)                  Miguel DILONE 
+11      Reds                                            Dan DRIESSEN 
+12      Whales          (to Majestics)                  Rick GRAPENTHIN 
+13      Magellans       (to Atoms)                      Darryl MOTLEY 
+14      Slayers                                         Steve KEMP 
+15      Ghanans                                         Alfredo GRIFFIN 
+16      Atoms                                           Jeff LAHTI 
+17      Whales                                          Mike PAGLIARULO 
+
+Pk      ROUND 9         TRADES                         DRAFTED PLAYER 
+1       Bobs                                            Ron OESTER 
+2       Majestics       (to Beavis)                     Kelly GRUBER 
+3       Endorphins                                      Ron DAVIS 
+4       Jews for Jesus                                  Jerry ROYSTER 
+5       Chim-Chim                                       Dave VALLE 
+6       Perfectos       (to Chim-Chim)                  John MOSES 
+7       Beavis          (to Magellans, to Reds)         Bob WALK 
+8       Ghanans                                         Danny HEEP 
+9       Brewers                                         Greg GROSS 
+10      Atoms                                           Ken HOWELL 
+11      Reds                                            George FOSTER 
+12      Whales                                          Mike STANTON 
+13      Magellans       (to Majestics)                  Rusty STAUB 
+14      Slayers                                         Marv FOLEY 
+15      Ghanans                                         Toby HARRAH 
+16      Atoms                                           Joe COWLEY 
+17      Whales                                          Rafael SANTANA 
+
+Pk      ROUND 10        TRADES                         DRAFTED PLAYER 
+1       Bobs            (to Majestics)                  Greg GAGNE 
+2       Majestics                                       Bert ROBERGE 
+3       Endorphins                                      Daryl SCONIERS 
+4       Jews for Jesus                                  Tito LANDRUM 
+5       Chim-Chim       (to Majestics)                  Steve LAKE 
+6       Perfectos                                       Gino PETRALLI 
+7       Beavis          (to Majestics)                  Burt HOOTON 
+8       Ghanans                                         Charlie MOORE 
+9       Brewers                                         Brent GAFF 
+10      Atoms                                           Dickie THON 
+11      Whales                                          Rick CAMP 
+12      Magellans       (to Reds)                       Rick BURLESON 
+13      Slayers                                         Enos CABELL 
+14      Endorphins                                      Ken DAYLEY 
+15      Ghanans                                         Garth IORG 
+16      Atoms           (to Beavis)                     Jamie EASTERLY 
+17      Whales                                          George VUKOVICH 
+
+Pk      ROUND 11        TRADES                         DRAFTED PLAYER 
+1       Bobs                                            Larry HERNDON 
+2       Majestics                                       Otis NIXON 
+3       Endorphins                                      Joe ORSULAK 
+4       Jews for Jesus                                  Steve FARR 
+5       Perfectos                                       Hal McRAE 
+6       Beavis                                          Bobby CASTILLO 
+7       Ghanans                                         Mike LaCOSS 
+8       Brewers                                         Brad GULDEN 
+9       Atoms                                           Luis SALAZAR 
+10      Whales                                          Dwight LOWRY 
+11      Magellans       (to Beavis)                     Doug LOMAN 
+12      Slayers                                         Steve TROUT 
+13      Endorphins                                      Andre ROBERTSON 
+14      Ghanans                                         Rick WAITS 
+15      Brewers         (to Endorphins)                 Joel SKINNER 
+16      Atoms                                           Jim EISENREICH 
+17      Whales                                          Tom BURGMEIER 
+
+Pk      ROUND 12        TRADES                         DRAFTED PLAYER 
+1       Bobs                                            Calvin SCHIRALDI 
+2       Majestics                                       Tippy MARTINEZ 
+3       Endorphins      (to Reds)                       Tim LOLLAR 
+4       Jews for Jesus                                  Dave ENGLE 
+5       Perfectos                                       Ken DIXON 
+6       Beavis                                          John Henry JOHNSON 
+7       Ghanans                                         R.J. REYNOLDS 
+8       Brewers         (to Majestics, to Brewers)      Ron ROMANICK 
+9       Atoms                                           John CASTINO 
+10      Whales                                          Curt BROWN 
+11      Magellans       (to Atoms)                      Nelson SIMMONS 
+12      Slayers                                         Larry PASHNICK 
+13      Bobs                                            Bill ALMON 
+14      Endorphins                                      Jeff ROBINSON 
+15      Jews for Jesus                                  Roy SMALLEY 
+16      Perfectos                                       Mickey RIVERS 
+17      Beavis                                          Rick SCHU 
+18      Ghanans                                         Curt YOUNG 
+19      Brewers                                         Scot THOMPSON 
+20      Atoms                                           Vic RODRIGUEZ 
+21      Whales                                          Porfi ALTAMIRANO 
+22      Magellans       (to Reds, to Endorphins)        John RABB 
+
+Pk      ROUND 13        TRADES                         DRAFTED PLAYER 
+1       Bobs                                            Scott BRADLEY 
+2       Majestics       (to Chim-Chim, to Beavis)       Dave GEISEL 
+3       Endorphins      (to Brewers)                    Jerry HAIRSTON 
+4       Jews for Jesus  (to Reds)                       Roger MASON 
+5       Perfectos                                       Kelvin CHAPMAN 
+6       Beavis                                          Steve CHRISTMAS 
+7       Ghanans                                         Ken SCHROM 
+8       Brewers         (to Majestics, to Brewers)      Mike HARGROVE 
+9       Atoms                                           Herm WINNINGHAM 
+10      Whales                                          Len MATUSZEK 
+11      Magellans       (to Beavis)                     Rob WILFONG 
+12      Slayers                                         Bobby CLARK 
+13      Magellans       (Pick added to bring            Jerry NARRON 
+                         roster to 32)      
+14      Magellans       (Pick added to bring            Paul HOUSEHOLDER 
+                         roster to 32)      
+15      Magellans       (Pick added to bring            Jim TRABER
+                         roster to 32)       
+16      Magellans       (Pick added to bring            Alejandro (NOT fucking
+                         roster to 32)                  Orlando) SANCHEZ    
+ 
+
+							
+							

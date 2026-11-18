@@ -1,0 +1,359 @@
+   	 	 	 	 	 	
+					
+	
+
+                        DMB League Injury Log: 1984 RXL
+                                        
+ 
+-- Date -- #  Team   Player      Cause                 Length
+ 
+ 4/ 1/1984    JJJ    Andersen    General                  0
+ 4/ 1/1984    EVN    Rawley      General                 10
+ 4/ 2/1984    CEN    Nunez       General                  0
+ 4/ 2/1984    GPC    Gooden      General                  5
+ 4/ 2/1984    GPC    Sutter      Rain delay               0
+ 4/ 2/1984    GPC    Sisk        Rain delay               0
+ 4/ 2/1984    TEW    Perconte    General                  0
+ 4/ 3/1984    BMB    Harper      General                 14
+ 4/ 4/1984    JJJ    Wilson      General                  2
+ 4/ 5/1984    A51    Durham      Hit by pitch             0
+ 4/ 5/1984    EVN    Smith       General                  5
+ 4/ 6/1984    BMB    Strawberry  General                  3
+ 4/ 6/1984    FER    Hall        General                  2
+ 4/ 6/1984    FER    Pettis      General                  0
+ 4/ 6/1984    BAR    Stieb       General                 10
+ 4/ 7/1984    CIN    Walk        Rain delay               0
+ 4/ 7/1984    GCP    Griffey     General                  2
+ 4/ 8/1984    CEN    Winfield    General                  5
+ 4/ 9/1984    FER    Rayford     Collision in field      16
+ 4/ 9/1984    CTW    Moreland    Collision on bases      22
+ 4/ 9/1984    CEN    James       General                  1
+ 4/ 9/1984    GPC    Thurmond    General                  0
+ 4/ 9/1984    SUN    Brett       General                  2
+ 4/10/1984    BMB    Reynolds    General                  2
+ 4/10/1984    EVN    Nettles     General                  5
+ 4/12/1984    FER    Beniquez    General                  0
+ 4/12/1984    JJJ    Oglivie     General                  0
+ 4/13/1984    FER    Hernandez   General                  0
+ 4/13/1984    CIN    Concepcion  General                  5
+ 4/13/1984    GAR    Fletcher    General                  0
+ 4/14/1984    EVN    Campbell    General                  0
+ 4/15/1984    GPC    Pena        General                  5
+ 4/15/1984    GPC    Brenly      General                  0
+ 4/15/1984    GPC    Solano      General                  9
+ 4/16/1984    A51    Durham      General                  1
+ 4/16/1984    JJJ    Horton      General                  7
+ 4/17/1984    CEN    Oliver      General                  0
+ 4/18/1984    SUN    Lynn        General                  0
+ 4/18/1984    JJJ    Hrbek       General                  5
+ 4/18/1984    CEN    Winfield    General                  2
+ 4/18/1984    GPC    Baines      General                  0
+ 4/19/1984    GPC    Walker      General                  3
+ 4/20/1984    JJJ    Yount       General                  0
+ 4/20/1984    CEN    Slaught     General                  0
+ 4/20/1984    GPC    Trammell    General                  1
+ 4/21/1984    EVN    Seaver      General                 10
+ 4/21/1984    GPC    Bell        General                  0
+ 4/23/1984    GAR    Harrah      General                  0
+ 4/23/1984    CTW    Rice        General                  0
+ 4/23/1984    SUN    Roberge     General                  4
+ 4/24/1984    BBG    Hayes       General                  0
+ 4/24/1984    A51    Tanana      General                  0
+                        DMB League Injury Log: 1984 RXL
+                                        
+ 
+-- Date -- #  Team   Player      Cause                 Length
+ 
+ 4/25/1984    BBG    Matthews    General                  3
+ 4/25/1984    CEN    Slaught     Collision in field       0
+ 4/26/1984    BMB    Guerrero    General                  1
+ 4/26/1984    BBG    Welch       Rain delay               0
+ 4/26/1984    A51    Niekro      General                  0
+ 4/26/1984    A51    Gott        General                  5
+ 4/28/1984    TEW    Davis,E     General                  2
+ 4/28/1984    EVN    Moore       General                 10
+ 4/28/1984    BAR    Heath       General                  5
+ 4/28/1984    A51    Sanderson   General                  0
+ 4/29/1984    BBG    Ray         Hit by pitch             7
+ 4/30/1984    GCP    Chapman     General                  4
+ 4/30/1984    BBG    Boggs       General                  0
+ 4/30/1984    A51    Stewart     General                  0
+ 5/ 2/1984    GAR    Young       Brawl                   16
+ 5/ 2/1984    SUN    Perez       Rain delay               0
+ 5/ 3/1984    CTW    Zahn        General                  5
+ 5/ 3/1984    JJJ    Cox         General                  5
+ 5/ 3/1984    EVN    Burns       General                  5
+ 5/ 4/1984    FER    Wallach     General                  0
+ 5/ 7/1984    GAR    Fisk        General                  4
+ 5/ 7/1984    BAR    Kennedy     Collision in field      14
+ 5/ 8/1984    CIN    Marshall    General                  1
+ 5/ 8/1984    GAR    Carter      Hit by pitch            16
+ 5/ 8/1984    GPC    Mahler      General                  5
+ 5/ 9/1984    GAR    Griffin     General                  0
+ 5/10/1984    EVN    Upshaw      General                  2
+ 5/10/1984    CEN    James       General                  0
+ 5/11/1984    SUN    Garber      General                  2
+ 5/11/1984    TEW    Lopez       Rain delay               0
+ 5/12/1984    FER    Morrison    General                  3
+ 5/13/1984    BAR    Orta        General                  1
+ 5/13/1984    CEN    Winfield    General                  1
+ 5/15/1984    CTW    Carlton     General                 10
+ 5/15/1984    GPC    Johnson     General                  4
+ 5/16/1984    BMB    Reynolds    General                 10
+ 5/16/1984    JJJ    Bailey      General                  5
+ 5/17/1984    CEN    Oliver      General                  1
+ 5/17/1984    BMB    Cruz        General                  0
+ 5/17/1984    GPC    Corcoran    General                  0
+ 5/17/1984    GAR    Fisk        General                  5
+ 5/19/1984    JJJ    Reardon     General                  0
+ 5/21/1984    TEW    Davis,G     General                  0
+ 5/21/1984    GAR    Jacoby      General                 11
+ 5/21/1984    CEN    James       General                  0
+ 5/21/1984    BAR    Samuel      General                  0
+ 5/22/1984    BMB    Gubicza     General                  0
+ 5/22/1984    A51    Leonard     General                  0
+ 5/22/1984    SUN    Perez       General                  0
+ 5/23/1984    BMB    Kingman     General                  1
+ 5/23/1984    FER    Hernandez   General                  2
+ 5/23/1984    FER    Hassey      Collision on bases      13
+                        DMB League Injury Log: 1984 RXL
+                                        
+ 
+-- Date -- #  Team   Player      Cause                 Length
+ 
+ 5/23/1984    A51    Sanderson   General                 10
+ 5/24/1984    CIN    Parrish     General                  1
+ 5/24/1984    A51    Durham      General                  7
+ 5/24/1984    JJJ    Wilson      General                  3
+ 5/25/1984    BMB    Jones       General                  0
+ 5/25/1984    BBG    Hershiser   General                 10
+ 5/25/1984    GAR    Garcia      General                  9
+ 5/26/1984    FER    Young       General                  0
+ 5/26/1984    TEW    Bell        General                  0
+ 5/26/1984    GAR    Allen       General                  0
+ 5/26/1984    CEN    Cowley      General                  5
+ 5/26/1984    GPC    Pendleton   General                  2
+ 5/26/1984    BAR    Thornton    Collision on bases       5
+ 5/27/1984    BBG    Lezcano     General                  7
+ 5/27/1984    TEW    Brookens    General                  0
+ 5/28/1984    BAR    Bradley     Hit by pitch             0
+ 5/28/1984    JJJ    Oglivie     General                  2
+ 5/29/1984    JJJ    Leibrandt   General                 10
+ 5/31/1984    FER    Andujar     General                  0
+ 6/ 1/1984    A51    Armas       General                  0
+ 6/ 1/1984    CTW    Parrish     General                  0
+ 6/ 2/1984    JJJ    Guidry      General                 15
+ 6/ 3/1984    CIN    Schatzeder  General                  0
+ 6/ 3/1984    GAR    Stewart     General                  5
+ 6/ 3/1984    CEN    Krukow      General                  0
+ 6/ 4/1984    BAR    Smith,O     General                  5
+ 6/ 5/1984    BBG    Mattingly   General                  3
+ 6/ 5/1984    TEW    Sundberg    General                  3
+ 6/ 8/1984    CTW    Stanley     General                  2
+ 6/ 8/1984    CEN    Koosman     General                  0
+ 6/ 9/1984    CEN    Slaught     Collision in field       0
+ 6/11/1984    GCP    Berenguer   Rain delay               0
+ 6/12/1984    SUN    Lynn        General                  8
+ 6/12/1984    SUN    Roenicke    Hit by pitch            23
+ 6/12/1984    GCP    Barker      General                 10
+ 6/14/1984    FER    Boddicker   Rain delay               0
+ 6/14/1984    CIN    Davis,A     General                  1
+ 6/14/1984    CEN    James       General                  8
+ 6/14/1984    JJJ    Hawkins     General                  0
+ 6/15/1984    GPC    Knepper     General                  0
+ 6/16/1984    TEW    Schiraldi   General                  6
+ 6/16/1984    GCP    Henderson   General                  1
+ 6/17/1984    FER    Gaff        Rain delay               0
+ 6/17/1984    SUN    Show        General                  0
+ 6/17/1984    CEN    Schmidt     General                 10
+ 6/18/1984    EVN    White       General                  0
+ 6/19/1984    GAR    Stewart     General                 10
+ 6/20/1984    TEW    Perconte    General                  0
+ 6/20/1984    BBG    Scioscia    Hit by pitch            23
+ 6/20/1984    CTW    Honeycutt   General                  5
+ 6/21/1984    JJJ    Gullickson  General                  5
+ 6/21/1984    BBG    Virgil      General                  3
+                        DMB League Injury Log: 1984 RXL
+                                        
+ 
+-- Date -- #  Team   Player      Cause                 Length
+ 
+ 6/22/1984    BBG    Ray         General                  0
+ 6/22/1984    BBG    Hodges      General                  2
+ 6/23/1984    FER    Sutton      Rain delay               0
+ 6/23/1984    EVN    Upshaw      General                  5
+ 6/24/1984    JJJ    Hawkins     General                  0
+ 6/24/1984    JJJ    Yount       General                  0
+ 6/24/1984    BBG    Hershiser   Hit by pitch            23
+ 6/24/1984    A51    Walling     General                  4
+ 6/24/1984    A51    Brunansky   General                  0
+ 6/25/1984    CTW    Moreland    Collision in field      19
+ 6/25/1984    BAR    Thornton    General                  3
+ 6/26/1984    CIN    Foster      Hit by pitch            16
+ 6/26/1984    EVN    Nettles     General                  1
+ 6/27/1984    A51    Dawson      General                  3
+ 6/27/1984    CIN    Gross       General                  0
+ 6/28/1984    BMB    Harper      Collision in field       2
+ 6/28/1984    CTW    Concepcion  Hit by pitch            30
+ 7/ 3/1984    BMB    Wiggins     General                  0
+ 7/ 3/1984    GPC    Corcoran    General                  0
+ 7/ 4/1984    BAR    Phillips    General                  0
+ 7/ 4/1984    JJJ    Puckett     General                  6
+ 7/ 4/1984    A51    Sandberg    General                  0
+ 7/ 5/1984    CEN    Niekro      General                 10
+ 7/ 6/1984    GCP    Darwin      General                 10
+ 7/ 6/1984    GPC    Krenchicki  General                  0
+ 7/ 7/1984    FER    Andujar     General                 10
+ 7/ 7/1984    GCP    Chapman     General                  3
+ 7/ 7/1984    GCP    Templeton   General                  0
+ 7/ 7/1984    SUN    Pashnick    General                  0
+ 7/ 9/1984    FER    Brown,M     General                  0
+ 7/ 9/1984    CEN    Lahti       General                  1
+ 7/ 9/1984    CIN    Maddox      General                  2
+ 7/ 9/1984    A51    Dawson      General                 10
+ 7/10/1984    CIN    Davis       Rain delay               0
+ 7/10/1984    EVN    Bochy       General                  1
+ 7/11/1984    A51    Lake        General                  0
+ 7/11/1984    GAR    Redus       General                  4
+ 7/11/1984    SUN    Evans       General                  5
+ 7/13/1984    BMB    Langston    General                  5
+ 7/13/1984    CTW    Pagliarulo  General                  2
+ 7/13/1984    A51    Dernier     Hit by pitch            19
+ 7/14/1984    BMB    Johnson     Brawl                   36
+ 7/14/1984    BMB    Jones       General                  0
+ 7/14/1984    BMB    Kingman     General                  5
+ 7/14/1984    TEW    Rasmussen   General                 10
+ 7/14/1984    BBG    Welch       General                  0
+ 7/15/1984    TEW    Ryan        General                 10
+ 7/15/1984    CEN    Jeffcoat    General                  3
+ 7/15/1984    EVN    Gibson      General                  0
+ 7/15/1984    SUN    Mulliniks   General                  7
+ 7/16/1984    CEN    Sax         Collision on bases      15
+ 7/16/1984    CEN    Winfield    General                  1
+                        DMB League Injury Log: 1984 RXL
+                                        
+ 
+-- Date -- #  Team   Player      Cause                 Length
+ 
+ 7/16/1984    EVN    Smith       Rain delay               0
+ 7/17/1984    A51    Griffin     General                  0
+ 7/18/1984    SUN    Evans       General                  7
+ 7/19/1984    BAR    Eckersley   General                  0
+ 7/19/1984    SUN    Brett       General                  3
+ 7/19/1984    BBG    Welch       General                  0
+ 7/20/1984    BAR    Phillips    General                  5
+ 7/20/1984    GPC    Krenchicki  General                 10
+ 7/20/1984    TEW    Diaz        Collision in field      27
+ 7/20/1984    JJJ    Hawkins     Rain delay               0
+ 7/20/1984    EVN    Seaver      General                  5
+ 7/21/1984    CIN    Fernandez   General                 23
+ 7/22/1984    EVN    James       General                  0
+ 7/22/1984    CIN    Doran       General                  0
+ 7/22/1984    TEW    Herndon     General                  0
+ 7/23/1984    CIN    Parrish     General                  0
+ 7/23/1984    GAR    Young       General                 10
+ 7/24/1984    A51    Griffin     General                  0
+ 7/25/1984    BAR    Black       Rain delay               0
+ 7/26/1984    TEW    Bell        General                  0
+ 7/26/1984    EVN    White       General                 16
+ 7/26/1984    GPC    Corbett     Rain delay               0
+ 7/26/1984    SUN    Pashnick    General                  5
+ 7/26/1984    SUN    Reed        Rain delay               0
+ 7/27/1984    EVN    Ward        General                  6
+ 7/29/1984    CIN    Romanick    General                  5
+ 7/29/1984    CIN    Davis       General                  1
+ 7/30/1984    CIN    DeLeon      General                 10
+ 7/30/1984    GCP    DeCinces    General                  1
+ 7/31/1984    GPC    Johnson     General                  3
+ 7/31/1984    CIN    Concepcion  General                  3
+ 7/31/1984    BAR    Kennedy     Collision in field      14
+ 7/31/1984    TEW    Sundberg    Collision on bases       1
+ 7/31/1984    CEN    Slaught     General                  9
+ 7/31/1984    GAR    Garcia      General                  0
+ 8/ 2/1984    JJJ    Hrbek       General                  4
+ 8/ 3/1984    BMB    Cruz        General                  0
+ 8/ 3/1984    GAR    Butler      General                  0
+ 8/ 4/1984    JJJ    Wilson      Hit by pitch             8
+ 8/ 4/1984    SUN    Perez       Rain delay               0
+ 8/ 5/1984    BMB    Leonard     General                  0
+ 8/ 5/1984    BMB    Nipper      General                 10
+ 8/ 5/1984    TEW    Witt        Rain delay               0
+ 8/ 7/1984    BMB    Wohlford    General                  4
+ 8/ 9/1984    TEW    Ramirez     General                  4
+ 8/ 9/1984    A51    Sandberg    General                  0
+ 8/11/1984    CTW    Randolph    General                  3
+ 8/11/1984    CTW    Downing     General                  2
+ 8/11/1984    FER    Scherrer    General                  9
+ 8/11/1984    BBG    Gwynn       General                  0
+ 8/12/1984    GPC    Mason       Rain delay               0
+ 8/13/1984    GAR    Thompson    General                  3
+                        DMB League Injury Log: 1984 RXL
+                                        
+ 
+-- Date -- #  Team   Player      Cause                 Length
+ 
+ 8/13/1984    SUN    Robinson    Rain delay               0
+ 8/13/1984    A51    Trout       Rain delay               0
+ 8/14/1984    TEW    Bair        General                  0
+ 8/14/1984    A51    Davis       General                  5
+ 8/15/1984    JJJ    Porter      General                  5
+ 8/16/1984    TEW    Bell        General                  0
+ 8/17/1984    JJJ    Royster     General                  4
+ 8/18/1984    TEW    Rasmussen   General                 10
+ 8/18/1984    GAR    Iorg        General                 10
+ 8/19/1984    SUN    Candelaria  General                  0
+ 8/19/1984    GAR    Terrell     General                  0
+ 8/19/1984    BAR    Thornton    General                  6
+ 8/20/1984    GPC    Lacy        General                  2
+ 8/20/1984    EVN    Seaver      General                  0
+ 8/21/1984    BBG    Mattingly   General                  0
+ 8/21/1984    SUN    Dwyer       General                  2
+ 8/23/1984    A51    Jacoby      General                  5
+ 8/23/1984    BAR    Phillips    General                  0
+ 8/24/1984    EVN    Moore       General                  5
+ 8/24/1984    GPC    Davis,C     General                  3
+ 8/27/1984    CIN    Jackson     General                  0
+ 8/28/1984    FER    Hall        General                  9
+ 8/28/1984    EVN    Pena        General                  0
+ 8/30/1984    BMB    Cruz        General                  0
+ 8/31/1984    BMB    Cey         Hit by pitch            16
+ 8/31/1984    CEN    Slaught     Collision in field       0
+ 8/31/1984    GAR    Bernazard   General                  4
+ 8/31/1984    GCP    Gossage     General                  0
+ 8/31/1984    SUN    Candelaria  General                  5
+ 9/15/1984    CIN    Fernandez   General                  1
+ 9/15/1984    TEW    Collins     Hit by pitch            16
+ 9/15/1984    BBG    Gladden     General                  0
+ 9/15/1984    GAR    Heep        General                  0
+ 9/15/1984    CTW    Davis       General                 10
+ 9/16/1984    FER    Andujar     General                 10
+ 9/16/1984    CTW    Downing     General                  2
+ 9/17/1984    GPC    Bell        General                  3
+ 9/17/1984    BAR    Stieb       General                  5
+ 9/18/1984    CEN    Owen        General                  3
+ 9/18/1984    JJJ    Yount       General                  1
+ 9/19/1984    CIN    Righetti    General                  2
+ 9/19/1984    EVN    Robinson    Rain delay               0
+ 9/19/1984    SUN    Berra       General                  3
+ 9/20/1984    CIN    Driessen    General                  0
+ 9/20/1984    GPC    Barrett     General                  2
+ 9/21/1984    BMB    Dotson      General                  5
+ 9/21/1984    GAR    Fisk        Hit by pitch             1
+ 9/21/1984    CEN    McGregor    General                  0
+ 9/22/1984    GAR    Flanagan    Rain delay               0
+ 9/22/1984    CEN    Motley      General                  5
+ 9/24/1984    CEN    Owen        General                  9
+ 9/25/1984    FER    Sutton      General                  5
+                        DMB League Injury Log: 1984 RXL
+                                        
+ 
+-- Date -- #  Team   Player      Cause                 Length
+ 
+ 9/25/1984    GPC    Davis,C     General                  0
+ 9/26/1984    GPC    Washington  Collision on bases      22
+ 9/27/1984    JJJ    Horton      General                  0
+
+
+
+							
+							

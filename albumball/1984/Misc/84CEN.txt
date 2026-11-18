@@ -1,0 +1,744 @@
+   	 	 	 	 	 	
+					
+> EASTERN DIVISION > CENTURY ATOMS
+
+  » WESTERN DIVISION
+  » INTERNATIONAL DIVISION
+    » Directory, Constitution, Record Book, etc.
+	
+
+               DMB League Batting Statistics:  1984 Century Atoms
+                                        
+ 
+ NAME         AVG   OBP   SPC   G  AB   H 2B 3B HR   R RBI  BB   K HB IW  SB CS
+ 
+rSalazar    1.000 1.000 1.000   1   1   1  0  0  0   0   0   0   0  0  0   0  0 
+nCastino     .500  .500  .500   4   4   2  0  0  0   1   0   0   1  0  0   0  0 
+rThon        .375  .421  .500  16  16   6  0  1  0   2   5   0   1  2  0   1  0 
+rSimmons     .355  .412  .452  32  31  11  3  0  0   5   4   3   4  0  2   1  0 
+ Winfield    .342  .385  .535 154 609 208 42 11 18  89  81  45  92  0  2   1  2 
+rLaga        .333  .308  .333  14  12   4  0  0  0   1   2   0   1  0  0   0  0 
+ Slaught     .290  .327  .417  97 321  93 25  2  4  35  48  18  42  1  0   0  0 
+rOliver      .284  .320  .368 118 457 130 24  1  4  42  38  23  39  1  0   5 11 
+ Owen        .276  .326  .361 131 391 108 14  8  1  50  34  29  56  0  1  10  5 
+rWinningham  .276  .300  .310  17  29   8  1  0  0   3   1   0   7  1  0   1  1 
+ Sax         .274  .352  .344 127 387 106 23  2  0  48  28  46  39  2  1  27 17 
+ Moseby      .270  .354  .418 155 519 140 20 12 11  80  77  69 112  4  6  50 10 
+ Morgan      .268  .361  .363  71 179  48 12  1  1  28  16  26  30  1  0   2  0 
+ Motley      .259  .298  .436 101 282  73 18  4  8  37  37  17  34  0  0   8  4 
+nSchmidt     .258  .341  .471 107 403 104 19  5 19  73  63  52  85  1  0   3  2 
+ Grich       .256  .341  .464 128 379  97 17  4 18  56  55  49  87  1  0   1  1 
+rJames       .255  .320  .292 122 408 104 11  2  0  52  32  37  52  3  4  16  3 
+ Hendrick    .253  .299  .343  91  99  25  6  0  1  10  18   7  19  0  0   0  0 
+ Parrish     .247  .296  .411  40 146  36  8  2  4  17  23  10  34  1  2   2  0 
+cParrish     .287  .321  .452 165 648 186 43  5 18  69  99  29 134  6  4   3  2 
+ Wynegar     .237  .309  .262 128 389  92  7  0  1  32  38  42  30  0  1   1  3 
+ Eisenreich  .200  .333  .300  14  10   2  1  0  0   1   1   2   2  0  0   1  1 
+ Davis,M     .200  .280  .256  30  90  18  1  2  0   6   6  10  17  0  0   3  3 
+cDavis,M     .204  .257  .313 119 348  71 12  4  6  32  33  25  74  0  0  12  8 
+rRodriguez   .071  .133  .071  14  14   1  0  0  0   1   2   1   2  0  0   0  0 
+ 
+ Jeffcoat   1.000 1.000 1.000  22   1   1  0  0  0   0   0   0   0  0  0   0  0 
+ McGregor    .344  .364  .344  54  32  11  0  0  0   3   2   1  11  0  0   0  1 
+ Krukow      .189  .189  .208  38  53  10  1  0  0   1   6   0  15  0  0   0  0 
+rBeckwith    .167  .158  .167  56  18   3  0  0  0   0   1   0   8  0  0   1  0 
+ Niekro      .145  .145  .145  35  69  10  0  0  0   4   4   0  21  0  0   0  0 
+ Davis,M     .143  .143  .143  43  42   6  0  0  0   0   0   0  12  0  0   0  0 
+rCowley      .115  .179  .115  27  26   3  0  0  0   2   5   2  11  0  0   0  0 
+ Lahti       .111  .200  .111  58   9   1  0  0  0   0   0   1   1  0  0   0  0 
+rHowell      .111  .111  .222  40   9   1  1  0  0   0   1   0   4  0  0   0  0 
+ McWilliams  .087  .143  .087  35  46   4  0  0  0   2   1   3  17  0  0   2  0 
+ Koosman     .077  .077  .096  52  52   4  1  0  0   3   3   0  18  0  0   0  0 
+ LaCorte     .000  .000  .000   7   0   0  0  0  0   0   0   0   0  0  0   0  0 
+ Jackson     .000  .000  .000  15   1   0  0  0  0   0   0   0   0  0  0   0  0 
+rNunez       .000  .000  .000  50   4   0  0  0  0   0   0   0   1  0  0   0  0 
+rForsch      .000  .000  .000   9   0   0  0  0  0   0   0   0   0  0  0   0  0 
+
+ Team Total  .266  .326  .381 162    1471    57    684     493     18    136
+                                 5538    255    90     632     905    19     64
+               DMB League Batting Statistics:  1984 Century Atoms
+                                        
+ 
+ NAME         GS  SH  SF  GDP  CI  GW     RC   RC27    ISO   TAVG    TB CHS LHS
+ 
+rSalazar       0   0   0    0   0   0    1.0    0.0   .000   .000     1   1   1
+nCastino       0   0   0    0   0   0    1.0   13.5   .000  1.000     2   0   2
+rThon          0   0   1    0   0   1    4.0    9.9   .125  1.100     8   0   3
+rSimmons       0   0   0    0   0   0    6.1    8.2   .097   .900    14   0   3
+ Winfield    154   0   3   12   1  13  123.4    8.0   .194   .896   326   2  15
+rLaga          0   0   1    0   0   1    1.4    4.2   .000   .500     4   0   2
+ Slaught      81   7   2    7   0   7   43.2    4.8   .128   .651   134   1   8
+rOliver      102   0   1   11   0   2   48.6    3.7   .083   .564   168   0  11
+ Owen        109   2   0    2   0   6   47.6    4.4   .084   .621   141   3  10
+rWinningham    4   0   0    0   0   0    2.6    3.2   .034   .500     9   0   2
+ Sax         118   0   3   12   0   5   45.9    4.0   .070   .671   133   0   8
+ Moseby      147   5  10   11   0   7   84.8    5.5   .148   .850   217   3   7
+ Morgan       46   1   2    4   0   2   25.3    5.0   .095   .696    65   0   6
+ Motley       59   1   3    4   0   4   36.2    4.4   .177   .682   123   0   7
+nSchmidt     104   0   4   11   0  10   64.9    5.5   .213   .788   190   4  12
+ Grich        88   8   2    9   0   6   60.8    5.4   .208   .777   176   0   9
+rJames       111   3   2    4   0   4   42.1    3.6   .037   .563   119   1   6
+ Hendrick      6   0   1    1   0   1   10.5    3.7   .091   .547    34   0   3
+ Parrish      39   0   2    2   0   2   18.2    4.3   .164   .652    60   1   7
+cParrish     162   0   5   26   1  13   85.6    4.7   .165   .676   293   1  11
+ Wynegar     104   3   2   13   0   3   31.3    2.7   .026   .463   102   1   5
+ Eisenreich    0   0   0    1   0   0    0.7    1.8   .100   .600     3   0   1
+ Davis,M      24   0   0    2   0   0    6.2    2.2   .056   .468    23   1   5
+cDavis,M      92   1   1    5   0   4   27.2    2.5   .109   .503   109   1   5
+rRodriguez     0   0   0    0   0   0    0.2    0.3   .000   .154     1   0   1
+ 
+ Jeffcoat      0   0   0    0   0   0    1.0    0.0   .000   .000     1   1   1
+ McGregor     11   0   0    0   0   0    3.8    4.6   .000   .545    11   2   2
+ Krukow       30   0   0    1   0   1    1.9    1.1   .019   .250    11   1   2
+rBeckwith      0   0   1    1   0   0    0.4    0.7   .000   .250     3   0   2
+ Niekro       35  14   0    0   0   0    2.1    0.8   .000   .169    10   0   2
+ Davis,M      27   7   0    0   0   0    1.2    0.7   .000   .167     6   1   2
+rCowley       12   1   0    0   0   1    0.7    0.8   .000   .217     3   0   2
+ Lahti         0   1   0    0   0   0    0.3    1.0   .000   .250     1   0   1
+rHowell        0   0   0    0   0   1    0.2    0.8   .111   .250     2   1   1
+ McWilliams   23   5   0    0   0   0    1.1    0.6   .000   .214     4   0   2
+ Koosman      24  13   0    0   0   0    0.7    0.3   .019   .104     5   0   1
+ LaCorte       0   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+ Jackson       0   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+rNunez         0   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+rForsch        0   0   0    0   0   0    0.0    0.0   .000   .000     0   0   0
+
+ Team Total  162  71  40  108   1  77  695.3    4.3   .115   .650  2110
+             DMB League Batting Splits:  1984 Century Atoms-- vsLHP
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+rSalazar     1.000 1.000 1.000     1    1    0    0    0    0    0    0   0   0
+rThon         .750  .750  .750     4    3    0    0    0    1    0    0   0   0
+ Winfield     .366  .433  .600   145   53    8    7    4   18   18   22   0   1
+ Sax          .346  .414  .441   127   44   12    0    0    7   16    8   0   2
+rWinningham   .333  .385  .333    12    4    0    0    0    1    0    0   0   0
+ Grich        .333  .384  .641    78   26    4    1    6   15    7   13   1   1
+rOliver       .317  .317  .390    41   13    0    0    1    5    0    7   0   0
+ Owen         .313  .352  .494    83   26    2    5    1   11    5   15   0   0
+ Slaught      .313  .342  .510   147   46   13    2    4   31    7   19   3   1
+ Morgan       .308  .393  .410   117   36   10    1    0   10   16   25   0   1
+ Hendrick     .292  .370  .542    24    7    3    0    1    5    3    1   0   0
+rJames        .287  .351  .333    87   25    2    1    0    6    7   24   0   1
+rSimmons      .286  .286  .571     7    2    2    0    0    1    0    0   0   0
+ Moseby       .283  .356  .414    99   28    3    2    2   20   13   16   2   5
+ Parrish      .257  .316  .400    35    9    2    0    1    5    3    3   0   0
+cParrish      .285  .327  .444   207   59   12    0    7   32   13   32   0   0
+ Motley       .246  .296  .454   130   32    9    3    4   19   10   13   1   2
+ Davis,M      .231  .333  .385    13    3    0    1    0    3    2    4   0   0
+cDavis,M      .192  .268  .342    73   14    4    2    1    8    8   22   0   1
+nSchmidt      .218  .327  .402    87   19    2    1    4   14   15   29   0   2
+ Wynegar      .187  .286  .231    91   17    4    0    0   10   13    8   1   1
+ Eisenreich   .000 1.000  .000     0    0    0    0    0    0    1    0   0   0
+ 
+ McGregor     .375  .444  .375     8    3    0    0    0    0    1    3   0   0
+ Krukow       .143  .143  .143    21    3    0    0    0    2    0    7   0   0
+ McWilliams   .143  .182  .143    21    3    0    0    0    0    1    6   0   0
+ Davis,M      .111  .111  .111     9    1    0    0    0    0    0    2   2   0
+rCowley       .100  .100  .100    10    1    0    0    0    2    0    6   1   0
+ Niekro       .083  .083  .083    12    1    0    0    0    1    0    5   1   0
+rHowell       .000  .000  .000     4    0    0    0    0    0    0    2   0   0
+ Lahti        .000  .500  .000     1    0    0    0    0    0    1    0   0   0
+ Koosman      .000  .000  .000    12    0    0    0    0    1    0    4   2   0
+ 
+ Team Total   .285  .344  .431  1426  406   76   24   28  188  139  242  14  17
+             DMB League Batting Splits:  1984 Century Atoms-- vsRHP
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+nCastino      .500  .500  .500     4    2    0    0    0    0    0    1   0   0
+rSimmons      .375  .444  .417    24    9    1    0    0    3    3    4   0   0
+ Winfield     .334  .369  .515   464  155   34    4   14   63   27   70   0   2
+rLaga         .333  .308  .333    12    4    0    0    0    2    0    1   0   1
+rOliver       .281  .320  .365   416  117   24    1    3   33   23   32   0   1
+ Slaught      .270  .316  .339   174   47   12    0    0   17   11   23   4   1
+ Motley       .270  .300  .421   152   41    9    1    4   18    7   21   0   1
+nSchmidt      .269  .346  .491   316   85   17    4   15   49   37   56   0   2
+ Moseby       .267  .353  .419   420  112   17   10    9   57   56   96   3   5
+ Owen         .266  .319  .325   308   82   12    3    0   23   24   41   2   0
+ Wynegar      .252  .317  .272   298   75    3    0    1   28   29   22   2   1
+rThon         .250  .333  .417    12    3    0    1    0    4    0    1   0   1
+rJames        .246  .312  .280   321   79    9    1    0   26   30   28   3   1
+ Parrish      .243  .289  .414   111   27    6    2    3   18    7   31   0   2
+cParrish      .288  .318  .456   441  127   31    5   11   67   16  102   0   5
+ Hendrick     .240  .275  .280    75   18    3    0    0   13    4   18   0   1
+ Sax          .238  .321  .296   260   62   11    2    0   21   30   31   0   1
+ Grich        .236  .330  .419   301   71   13    3   12   40   42   74   7   1
+rWinningham   .235  .235  .294    17    4    1    0    0    0    0    7   0   0
+ Eisenreich   .200  .273  .300    10    2    1    0    0    1    1    2   0   0
+ Davis,M      .195  .271  .234    77   15    1    1    0    3    8   13   0   0
+cDavis,M      .207  .253  .305   275   57    8    2    5   25   17   52   1   0
+ Morgan       .194  .301  .274    62   12    2    0    1    6   10    5   1   1
+rRodriguez    .071  .133  .071    14    1    0    0    0    2    1    2   0   0
+ 
+ Jeffcoat    1.000 1.000 1.000     1    1    0    0    0    0    0    0   0   0
+ McGregor     .333  .333  .333    24    8    0    0    0    2    0    8   0   0
+ Krukow       .219  .219  .250    32    7    1    0    0    4    0    8   0   0
+rHowell       .200  .200  .400     5    1    1    0    0    1    0    2   0   0
+rBeckwith     .167  .158  .167    18    3    0    0    0    1    0    8   0   1
+ Niekro       .158  .158  .158    57    9    0    0    0    3    0   16  13   0
+ Davis,M      .152  .152  .152    33    5    0    0    0    0    0   10   5   0
+ Lahti        .125  .125  .125     8    1    0    0    0    0    0    1   1   0
+rCowley       .125  .222  .125    16    2    0    0    0    3    2    5   0   0
+ Koosman      .100  .100  .125    40    4    1    0    0    2    0   14  11   0
+ McWilliams   .040  .111  .040    25    1    0    0    0    1    2   11   5   0
+rNunez        .000  .000  .000     4    0    0    0    0    0    0    1   0   0
+ Jackson      .000  .000  .000     1    0    0    0    0    0    0    0   0   0
+ 
+ Team Total   .259  .314  .364  4112 1065  179   33   62  444  354  663  57  23
+       DMB League Games Started by Position:  1984 Century Atoms-- vsLHP
+                                        
+ 
+ NAME           C   1B   2B   3B   SS   LF   CF   RF
+ 
+ Grich          0    0    5    9    0    0    0    0
+rJames          0    0    0    0    0    2   14    0
+ Morgan         0   19   22    0    0    0    0    0
+ Moseby         0    0    0    0    0    0   27    0
+ Motley         0    0    0    0    0   38    0    0
+ Owen           0    0    0    0   18    0    0    0
+ Sax            0    0   14    0   22    0    0    0
+nSchmidt        0    0    0   24    0    0    0    0
+ Slaught       39    0    0    0    0    0    0    0
+ Winfield       0    0    0    0    0    0    0   37
+rWinningham     0    0    0    0    0    0    0    3
+ Wynegar        2   22    0    0    1    0    0    0
+ Hendrick       0    0    0    0    0    0    0    1
+ Parrish        0    0    0    8    0    0    0    0
+CParrish        0    0    0   50    0    0    0    0
+ Davis,M        0    0    0    0    0    1    0    0
+CDavis,M        0    0    0    0    0    1   11    5
+ 
+ Team Total    41   41   41   41   41   41   41   41
+       DMB League Games Started by Position:  1984 Century Atoms-- vsRHP
+                                        
+ 
+ NAME           C   1B   2B   3B   SS   LF   CF   RF
+ 
+ Grich          0    0   63   10    1    0    0    0
+rJames          0    0    0    0    0   95    0    0
+ Morgan         0    4    1    0    0    0    0    0
+ Moseby         0    0    0    0    0    0  120    0
+ Motley         0   14    0    0    0    4    0    3
+rOliver         0  102    0    0    0    0    0    0
+ Owen           0    0    0    0   91    0    0    0
+ Sax            0    0   57    0   25    0    0    0
+nSchmidt        0    0    0   80    0    0    0    0
+ Slaught       42    0    0    0    0    0    0    0
+ Winfield       0    0    0    0    0    0    0  117
+rWinningham     0    0    0    0    0    0    0    1
+ Wynegar       79    0    0    0    0    0    0    0
+ Hendrick       0    1    0    0    4    0    0    0
+ Parrish        0    0    0   31    0    0    0    0
+CParrish        0    0    0  112    0    0    0    0
+ Davis,M        0    0    0    0    0   22    1    0
+CDavis,M        0    0    0    0    0   28    3   44
+ 
+ Team Total   121  121  121  121  121  121  121  121
+              DMB League Pitching Statistics:  1984 Century Atoms
+                                        
+ 
+ NAME         ERA  W  L  S   G GS CG SH    IP   H   R  ER  BB   K   BF HR WP DP
+ 
+ Jackson     1.89  2  0  0  15  0  0  0  19.0  11   4   4  11  12   75  3  0  3
+ Lahti       3.10  5  2 16  58  0  0  0  72.2  74  34  25  24  38  318  3  0  9
+rNunez       3.13  2  1  0  50  0  0  0  69.0  70  28  24  22  55  294  8  0  4
+ Niekro      3.29 12 10  0  35 35  3  0 216.1 200  94  79  83 115  914 22  5 22
+ McWilliams  3.40  8 12  1  35 23  3  0 159.0 183  82  60  57 124  703 15  2 18
+rCowley      3.68  3  4  0  27 12  1  1  88.0  77  42  36  31  78  375  8  1  1
+ McGregor    3.74 10  7  0  54 11  0  0 127.2 159  70  53  33  57  558 12  1 13
+rHowell      3.93  7  3 16  40  0  0  0  50.1  59  24  22  13  57  220  1  0  5
+ Koosman     3.97  9 10  2  52 24  2  2 190.2 214  88  84  58 119  817  7  2 17
+ Davis,M     4.27 11  9  0  43 27  1  1 160.1 159  85  76  62 118  692 15 11 17
+rBeckwith    4.82  4  6  4  56  0  0  0  99.0 113  61  53  30  90  432 11  2  9
+ LaCorte     5.00  1  1  0   7  0  0  0   9.0   9   6   5   7   6   41  3  1  1
+ Jeffcoat    5.33  0  0  1  22  0  0  0  25.1  28  15  15  13  17  117  4  4  0
+ Krukow      5.55  6 15  0  38 30  0  0 152.1 190 108  94  72 114  716 14  1 15
+rForsch      6.23  1  1  0   9  0  0  0   8.2  11   7   6   4   3   43  0  0  0
+
+ Team Total  3.95    81    162    10   1447.1     748     520     6315    30
+                  81    40    162    12      1557     636    1003     126   134
+ 
+ 
+ NAME          IW HBP  WP  BK  CI   H/9  BB/9   R/9   K/9  HR/9
+ 
+ Jackson        2   0   0   0   0   5.2   5.2  10.4   5.7   1.4
+ Lahti          0   2   0   0   0   9.2   3.0  12.4   4.7   0.4
+rNunez          0   2   0   0   0   9.1   2.9  12.3   7.2   1.0
+ Niekro         1   4   5   0   0   8.3   3.5  11.9   4.8   0.9
+ McWilliams     5   3   2   1   1  10.4   3.2  13.8   7.0   0.8
+rCowley         3   2   1   7   0   7.9   3.2  11.3   8.0   0.8
+ McGregor       7   6   1   0   0  11.2   2.3  14.0   4.0   0.8
+rHowell         5   1   0   0   0  10.5   2.3  13.1  10.2   0.2
+ Koosman        4   3   2   1   0  10.1   2.7  13.0   5.6   0.3
+ Davis,M       12   8  11   2   0   8.9   3.5  12.9   6.6   0.8
+rBeckwith       6   6   2   2   0  10.3   2.7  13.5   8.2   1.0
+ LaCorte        1   0   1   0   0   9.0   7.0  16.0   6.0   3.0
+ Jeffcoat       2   0   4   0   0   9.9   4.6  14.6   6.0   1.4
+ Krukow         5   2   1   4   0  11.2   4.3  15.6   6.7   0.8
+rForsch         1   0   0   0   0  11.4   4.2  15.6   3.1   0.0
+
+ Team Total    54  39  30  17   1   9.7   3.2  13.2   6.2   0.8
+              DMB League Pitching Statistics:  1984 Century Atoms
+                                        
+ 
+ NAME         AVG   OBP   SPC   BF   AB    H  2B  3B  HR   TB  SH  SF
+ 
+ Jackson     .172  .293  .328   75   64   11   1   0   3   21   0   0
+ Lahti       .256  .314  .353  318  289   74  11   4   3  102   0   3
+rNunez       .263  .323  .406  294  266   70  14   0   8  108   3   1
+ Niekro      .244  .316  .368  914  818  200  35   0  22  301   6   3
+ McWilliams  .288  .349  .406  703  635  183  24   3  15  258   5   2
+rCowley      .233  .296  .347  375  331   77  12   1   8  115   4   7
+ McGregor    .311  .355  .442  558  511  159  21   5  12  226   1   7
+rHowell      .291  .335  .384  220  203   59  16   0   1   78   2   1
+ Koosman     .287  .340  .396  817  745  214  36  12   7  295   7   4
+ Davis,M     .260  .333  .428  692  612  159  40   9  15  262   4   6
+rBeckwith    .288  .345  .444  432  392  113  18   5  11  174   0   4
+ LaCorte     .265  .390  .647   41   34    9   4   0   3   22   0   0
+ Jeffcoat    .269  .350  .471  117  104   28   3   3   4   49   0   0
+ Krukow      .300  .370  .435  716  634  190  16  14  14  276   3   5
+rForsch      .282  .349  .359   43   39   11   3   0   0   14   0   0
+
+ Team Total  .274  .337  .405      5677      254     126       35
+                              6315      1557      56     2301      43
+ 
+ 
+ NAME          GS  CG   CG% SHo  QS   QS%   RS RS/G  RL RLS   RL%
+ 
+ Jackson        0   0  .000   0   0  .000    0  0.0   4   0  .000
+ Lahti          0   0  .000   0   0  .000    0  0.0  23   6  .261
+rNunez          0   0  .000   0   0  .000    0  0.0  17   3  .176
+ Niekro        35   3  .086   0  25  .714  154  4.4  21   6  .286
+ McWilliams    23   3  .130   0  12  .522   99  4.3  29  11  .379
+rCowley        12   1  .083   1   7  .583   72  6.0   9   5  .556
+ McGregor      11   0  .000   0   6  .545   32  2.9  18   5  .278
+rHowell         0   0  .000   0   0  .000    0  0.0   6   2  .333
+ Koosman       24   2  .083   2  14  .583  101  4.2  32  10  .313
+ Davis,M       27   1  .037   1  11  .407   99  3.7  25  11  .440
+rBeckwith       0   0  .000   0   0  .000    0  0.0  17  11  .647
+ LaCorte        0   0  .000   0   0  .000    0  0.0   1   0  .000
+ Jeffcoat       0   0  .000   0   0  .000    0  0.0   4   1  .250
+ Krukow        30   0  .000   0   8  .267  127  4.2  37  18  .486
+rForsch         0   0  .000   0   0  .000    0  0.0   5   1  .200
+
+ Team Total   162      .062      83        684      248      .363
+                   10        12      .512       4.2      90
+              DMB League Pitching Statistics:  1984 Century Atoms
+                                        
+ 
+ NAME         SvO  Sv   Sv%  BSv  BSv%  IR  IRS   IR%    G  RA   RA%  GF   GF%
+ 
+ Jackson        2   0  .000    0  .000   1    0  .000   15  15 1.000   9  .600
+ Lahti         24  16  .667    4  .167  55   19  .345   58  58 1.000  29  .500
+rNunez         17   0  .000    4  .235  23    8  .348   50  50 1.000  17  .340
+ Niekro         0   0  .000    0  .000   0    0  .000   35   0  .000   0  .000
+ McWilliams     2   1  .500    0  .000  10    4  .400   35  12  .343   2  .167
+rCowley         3   0  .000    0  .000   9    7  .778   27  15  .556   8  .533
+ McGregor       4   0  .000    0  .000  43   18  .419   54  43  .796   8  .186
+rHowell        19  16  .842    2  .105  24    3  .125   40  40 1.000  33  .825
+ Koosman       10   2  .200    3  .300  15    8  .533   52  28  .538   6  .214
+ Davis,M        2   0  .000    0  .000   5    0  .000   43  16  .372   4  .250
+rBeckwith      12   4  .333    1  .083  34   12  .353   56  56 1.000  20  .357
+ LaCorte        0   0  .000    0  .000   2    0  .000    7   7 1.000   5  .714
+ Jeffcoat      10   1  .100    2  .200  16   10  .625   22  22 1.000   8  .364
+ Krukow         0   0  .000    0  .000   2    1  .500   38   8  .211   1  .125
+rForsch         1   0  .000    0  .000   9    0  .000    9   9 1.000   2  .222
+
+ Team Total   106      .377       .151       90        541      .701      .401
+                   40         16       248       .363      379       152
+            DMB League Pitching Splits:  1984 Century Atoms-- vsLHB
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Jackson      .167  .286  .333    24    4    1    0    1    2    4    4   0   0
+ Jeffcoat     .172  .273  .172    29    5    0    0    0    5    4    8   0   0
+ Koosman      .203  .245  .259   143   29    3    1    1   14    7   34   3   0
+ Davis,M      .226  .269  .331   124   28    6    2    1    8    8   28   1   2
+ LaCorte      .235  .381  .588    17    4    3    0    1    1    4    4   0   0
+rForsch       .240  .321  .280    25    6    1    0    0    3    3    3   0   0
+rCowley       .241  .320  .362   174   42    6    0    5   25   20   27   3   4
+rNunez        .252  .324  .378   127   32    7    0    3   14   14   22   1   1
+ McGregor     .264  .330  .414    87   23    1    0    4   15    4   18   1   3
+ Lahti        .279  .353  .350   140   39    4    3    0   19   15   20   0   0
+ Niekro       .288  .367  .419   434  125   18    0   13   52   52   54   4   2
+rBeckwith     .301  .354  .438   146   44    3    4    3   18   12   29   0   2
+ Krukow       .333  .415  .485   309  103    8    6    9   49   45   45   1   3
+ McWilliams   .350  .396  .437   103   36    3    0    2   11    7   22   1   0
+rHowell       .396  .467  .509   106   42    9    0    1   15   13   13   0   0
+ 
+ Team Total   .283  .351  .402  1988  562   73   16   44  251  212  331  15  17
+            DMB League Pitching Splits:  1984 Century Atoms-- vsRHB
+                                        
+ 
+ NAME          AVG   OBP   SPC    AB    H   2B   3B   HR  RBI   BB    K  SH  SF
+ 
+ Jackson      .175  .298  .325    40    7    0    0    2    2    7    8   0   0
+rHowell       .175  .173  .247    97   17    7    0    0    8    0   44   2   1
+ Niekro       .195  .257  .310   384   75   17    0    9   29   31   61   2   1
+rCowley       .223  .269  .331   157   35    6    1    3   15   11   51   1   3
+ Lahti        .235  .278  .356   149   35    7    1    3   22    9   18   0   3
+ Krukow       .268  .326  .388   325   87    8    8    5   40   27   69   2   2
+ Davis,M      .268  .348  .453   488  131   34    7   14   57   54   90   3   4
+rNunez        .273  .322  .432   139   38    7    0    5   19    8   33   2   0
+ McWilliams   .276  .340  .400   532  147   21    3   13   58   50  102   4   2
+rBeckwith     .280  .339  .447   246   69   15    1    8   40   18   61   0   2
+ LaCorte      .294  .400  .706    17    5    1    0    2    4    3    2   0   0
+ Jeffcoat     .307  .381  .587    75   23    3    3    4   18    9    9   0   0
+ Koosman      .307  .361  .429   602  185   33   11    6   70   51   85   4   4
+ McGregor     .321  .361  .448   424  136   20    5    8   58   29   39   0   4
+rForsch       .357  .400  .500    14    5    2    0    0    3    1    0   0   0
+ 
+ Team Total   .270  .326  .407  3689  995  181   40   82  443  308  672  20  26
+              DMB League Fielding Statistics:  1984 Century Atoms
+                                        
+ 
+POS NAME             G    GS    PO     A     E    DP    TC     PCT   PB
+ 
+p   Niekro          35    35    14    28     2     1    44    .955
+    Koosman         52    24    10    23     2     1    35    .943
+    Davis,M         43    27    10    19     5     3    34    .853
+    McWilliams      35    23     7    17     2     0    26    .923
+    Krukow          38    30    10    13     2     0    25    .920
+    McGregor        54    11     5    15     0     2    20   1.000
+    Lahti           58     0     6    11     1     0    18    .944
+   rNunez           50     0     6    10     1     0    17    .941
+   rBeckwith        56     0     5    11     0     0    16   1.000
+   rHowell          40     0     1     5     1     1     7    .857
+   rCowley          27    12     1     3     2     0     6    .667
+    Jeffcoat        22     0     3     2     0     0     5   1.000
+    LaCorte          7     0     1     3     0     1     4   1.000
+   rForsch           9     0     1     3     0     0     4   1.000
+    Jackson         15     0     0     0     0     0     0    .000
+                   541   162    80   163    18     9   261    .931
+ 
+c   Wynegar         94    81   552    41     4     1   597    .993    8
+    Slaught         93    81   516    30    15     3   561    .973    0
+    Morgan           1     0     0     0     0     0     0    .000    0
+                   188   162  1068    71    19     4  1158    .984    8
+ 
+1b rOliver         115   102   861    64    19    90   944    .980
+    Morgan          23    23   176    19     4    20   199    .980
+    Wynegar         22    22   153    17     6    17   176    .966
+    Motley          14    14   109     6     3     7   118    .975
+    Grich            3     0    14     1     0     1    15   1.000
+   rJames            1     0    12     1     0     2    13   1.000
+    Hendrick         4     1    12     0     0     2    12   1.000
+    Parrish          1     0     2     0     0     0     2   1.000
+   cParrish          1     0     2     0     0     0     2   1.000
+                   183   162  1339   108    32   139  1479    .978
+ 
+2b  Grich           83    68   141   230     3    45   374    .992
+    Sax             71    71   141   188    11    50   340    .968
+    Morgan          35    23    62    74     6    21   142    .958
+   rRodriguez        3     0     0     1     0     0     1   1.000
+                   192   162   344   493    20   116   857    .977
+ 
+3b nSchmidt        104   104    76   187    15    18   278    .946
+    Parrish         40    39    32    81     8     7   121    .934
+   cParrish        165   162   128   322    26    33   476    .945
+    Grich           25    19    18    33     5     2    56    .911
+    Hendrick         2     0     4     0     0     0     4   1.000
+    Morgan           1     0     0     0     0     0     0    .000
+                   172   162   130   301    28    27   459    .939
+              DMB League Fielding Statistics:  1984 Century Atoms
+                                        
+ 
+POS NAME             G    GS    PO     A     E    DP    TC     PCT   PB
+ 
+ss  Owen           128   109   158   333    17    80   508    .967
+    Sax             57    47    58   114     4    22   176    .977
+    Hendrick         4     4     6    16     2     3    24    .917
+   rThon             9     0     4     6     0     1    10   1.000
+    Wynegar          1     1     6     3     1     1    10    .900
+    Parrish          2     0     0     4     2     1     6    .667
+   cParrish          2     0     0     4     2     1     6    .667
+    Grich            1     1     1     4     0     1     5   1.000
+                   202   162   233   480    26   109   739    .965
+ 
+lf rJames          102    97   208     8    10     1   226    .956
+    Motley          61    42   102     4     5     0   111    .955
+    Davis,M         23    23    50     5     1     0    56    .982
+   cDavis,M         32    29    66     6     2     0    74    .973
+   rSimmons          6     0     5     1     0     0     6   1.000
+    Winfield         3     0     2     1     0     0     3   1.000
+   rWinningham       2     0     1     0     0     0     1   1.000
+   rOliver           1     0     0     0     0     0     0    .000
+                   198   162   368    19    16     1   403    .960
+ 
+cf  Moseby         152   147   432    19     3     2   454    .993
+   rJames           16    14    32     3     1     0    36    .972
+    Motley           3     0     2     2     0     1     4   1.000
+    Davis,M          1     1     4     0     0     0     4   1.000
+   cDavis,M         16    14    41     1     0     0    42   1.000
+    Winfield         3     0     3     0     0     0     3   1.000
+                   175   162   473    24     4     3   501    .992
+ 
+rf  Winfield       154   154   296    21     0     2   317   1.000
+   rWinningham       6     4     8     1     0     0     9   1.000
+    Motley           8     3     2     0     0     0     2   1.000
+    Davis,M          1     0     1     0     0     0     1   1.000
+   cDavis,M         57    49    89     6     2     2    97    .979
+    Hendrick         2     1     0     1     0     0     1   1.000
+   rJames            3     0     0     0     0     0     0    .000
+                   174   162   307    23     0     2   330   1.000
+ 
+    Team Total     162   162  4342  1682   163   148  6187    .974    8
+                       Game Results:  1984 Century Atoms
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 4/ 1/1984   @CIN   L  1-3      Niekro      Niekro                  Soto        
+ 4/ 2/1984   @CIN   W  4-2      Koosman     Forsch      Howell      Walk        
+ 4/ 3/1984   @CIN   W  5-3  10  Krukow      Howell                  Browning    
+ 4/ 5/1984   @SUN   W  7-0      Davis,M     Davis,M                 Perez       
+ 4/ 6/1984   @SUN   L  0-2      Niekro      Niekro                  Lea         
+ 4/ 7/1984    GCP   W  7-2      Koosman     Beckwith                Martinez,D  
+ 4/ 8/1984    TEW   L  4-11     Krukow      Krukow                  Ojeda       
+ 4/ 9/1984    TEW   L  4-11     Davis,M     Beckwith                Darling     
+ 4/10/1984    TEW   L  7-8      Cowley      Howell                  Rasmussen   
+ 4/12/1984    GAR   W  4-3  10  Niekro      Howell                  Hurst       
+ 4/13/1984    GAR   L  3-5      Koosman     Koosman                 Terrell     
+ 4/14/1984    BMB   W  6-4      Krukow      Krukow                  Langston    
+ 4/15/1984   @BBG   W  2-1      Davis,M     Davis,M     Howell      Hershiser   
+ 4/16/1984   @BBG   L  3-4      Cowley      Cowley                  Welch       
+ 4/17/1984   @BBG   W  6-3      Niekro      Niekro      Howell      Scott,M     
+ 4/18/1984   @GPC   L  2-3      Koosman     Nunez                   Gooden      
+ 4/19/1984   @GPC   L  2-8      Krukow      Krukow                  Mahler      
+ 4/20/1984   @GPC   L  6-7      Davis,M     Beckwith                Thurmond    
+ 4/21/1984   @EVN   L  3-4      Cowley      Forsch                  Seaver      
+ 4/22/1984    GCP   W  6-3      Niekro      Niekro                  Martinez,D  
+ 4/23/1984    EVN   W  7-0      Koosman     Koosman                 Moore       
+ 4/24/1984    EVN   L  2-8      Krukow      Krukow                  Smith       
+ 4/25/1984    SUN   L  4-5      Davis,M     Davis,M                 Show        
+ 4/26/1984    BAR   L  5-7      Cowley      Howell                  Morris      
+ 4/27/1984    BAR   W  8-0      Niekro      Niekro                  Eckersley   
+ 4/28/1984    BAR   L  0-4      McGregor    McGregor                Stieb       
+ 4/29/1984   @BBG   L  0-4      Krukow      Krukow                  Viola       
+ 4/30/1984   @BBG   W  3-1      Davis,M     Beckwith    Howell      Hershiser   
+ 5/ 1/1984    SUN   W  4-2  10  Cowley      Howell                  Candelaria  
+ 5/ 2/1984    CIN   L  3-5      Niekro      Niekro                  Smithson    
+ 5/ 3/1984    CIN   W  5-2      Koosman     Koosman     Howell      Davis       
+ 5/ 4/1984   @GAR   W  7-4      Krukow      Lahti       Howell      Terrell     
+ 5/ 5/1984    BBG   L  0-1      Davis,M     Davis,M                 Hershiser   
+ 5/ 6/1984    BBG   W  8-6      Cowley      Nunez       Howell      Welch       
+ 5/ 7/1984    BBG   W  6-3      Niekro      Niekro      Howell      Scott,M     
+ 5/ 8/1984   @JJJ   W  5-2      Koosman     Koosman     Howell      Hawkins     
+ 5/ 9/1984    A51   W  6-5      Krukow      Lahti       Beckwith    Tanana      
+ 5/10/1984    A51   W  5-4      Davis,M     Nunez       Howell      Stewart     
+ 5/11/1984    A51   L  8-10     Cowley      Cowley                  Niekro      
+ 5/12/1984    A51   W  3-2      Niekro      Niekro                  Trout       
+ 5/13/1984    TEW   W  5-3      McGregor    McGregor    Howell      Witt        
+ 5/14/1984    TEW   L  1-4      Krukow      Krukow                  Ojeda       
+ 5/15/1984    TEW   W  4-3  12  Davis,M     Howell                  Darling     
+ 5/16/1984   @BMB   W  8-5      Cowley      Cowley                  Gubicza     
+ 5/17/1984   @BMB   L  6-7  10  Niekro      Beckwith                Nipper      
+ 5/18/1984   @BMB   L  2-3  10  McGregor    Howell                  Williams    
+ 5/19/1984    GCP   W  4-3      Krukow      Krukow      Howell      Berenguer   
+ 5/20/1984    GCP   L  0-5      Davis,M     Davis,M                 Barker      
+ 5/21/1984    GCP   W  4-3  13  Cowley      Lahti                   Darwin      
+ 5/22/1984    SUN   W  4-2      Niekro      Niekro      Howell      Perez       
+ 5/23/1984    SUN   W  6-4      Koosman     Howell                  Lea         
+ 5/24/1984    SUN   W 12-6      Krukow      McWilliams  Beckwith    Hammaker    
+                       Game Results:  1984 Century Atoms
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 5/25/1984   @GPC   L  2-13     Davis,M     Davis,M                 Pena        
+ 5/26/1984   @GPC   W 12-6      Cowley      McWilliams  Howell      Rhoden      
+ 5/27/1984   @GPC   L  3-6      Niekro      Niekro                  Gooden      
+ 5/28/1984   @GPC   W  3-2      Koosman     Koosman     McWilliams  Mahler      
+ 5/29/1984    FER   W  4-3      Krukow      Howell                  Sutton      
+ 5/30/1984    FER   L  2-6      Davis,M     Davis,M                 Boddicker   
+ 5/31/1984    FER   L  1-4      McGregor    McGregor                Andujar     
+ 6/ 1/1984   @JJJ   W  5-3      Niekro      Lahti                   Gullickson  
+ 6/ 2/1984   @JJJ   L  3-5      Koosman     Koosman                 Guidry      
+ 6/ 3/1984   @JJJ   L  3-4      Krukow      Krukow                  Hawkins     
+ 6/ 7/1984    JJJ   W  6-2      Niekro      Niekro                  Cox         
+ 6/ 8/1984    JJJ   W  4-1      Koosman     Beckwith    Howell      Hawkins     
+ 6/ 9/1984    JJJ   L  5-6  13  McGregor    Beckwith                Deshaies    
+ 6/10/1984   @CTW   W  7-6      Davis,M     Beckwith    Howell      Tibbs       
+ 6/11/1984   @CTW   L  2-5      Cowley      Cowley                  Hough       
+ 6/12/1984   @CTW   W  7-5      Niekro      Howell                  Carlton     
+ 6/13/1984   @GAR   W  9-3      Koosman     Koosman                 Stewart     
+ 6/14/1984   @GAR   L  4-5      McGregor    McGregor                Young       
+ 6/15/1984   @GAR   W  2-0      McWilliams  McWilliams  Lahti       Flanagan    
+ 6/16/1984   @CTW   W  2-0      Davis,M     Davis,M     Lahti       Hough       
+ 6/17/1984   @CTW   W  7-6      Niekro      Niekro      Lahti       Carlton     
+ 6/18/1984   @CTW   L  5-8      Koosman     Koosman                 Butcher     
+ 6/19/1984   @CTW   L  0-6      McGregor    McGregor                Zahn        
+ 6/20/1984   @BAR   L  3-7      McWilliams  McWilliams              Black       
+ 6/21/1984   @BAR   W  2-0      Davis,M     Davis,M     Lahti       Morris      
+ 6/22/1984   @BAR   L  2-5      Niekro      Niekro                  Eckersley   
+ 6/25/1984    GCP   L  5-16     Koosman     Koosman                 Reuss       
+ 6/26/1984   @EVN   L  4-9      McGregor    McGregor                Robinson    
+ 6/27/1984   @TEW   L  3-20     McWilliams  McWilliams              Ryan        
+ 6/28/1984   @TEW   L  2-11     Niekro      Niekro                  Witt        
+ 7/ 2/1984    BMB   L  1-3      Koosman     Koosman                 Clemens     
+ 7/ 3/1984    EVN   L  0-5      McGregor    McGregor                Petry       
+ 7/ 4/1984    EVN   W  8-2      McWilliams  McWilliams              Moore       
+ 7/ 5/1984    EVN   W  3-2      Niekro      Cowley      Lahti       Seaver      
+ 7/ 6/1984   @GCP   L  2-5      Koosman     Koosman                 Darwin      
+ 7/ 7/1984   @GCP   L  4-6      McGregor    McGregor                Martinez,D  
+ 7/ 8/1984   @GCP   L  1-5      McWilliams  McWilliams              Beattie     
+ 7/ 9/1984   @CIN   W  8-6      Davis,M     Krukow      Beckwith    Smithson    
+ 7/10/1984   @CIN   W  8-0      Cowley      Cowley                  Davis       
+ 7/11/1984   @CIN   L  6-7      Koosman     Koosman                 Schatzeder  
+ 7/12/1984    CTW   W  7-4      McGregor    McGregor                Hough       
+ 7/13/1984    CTW   W 10-3      Krukow      Krukow                  Honeycutt   
+ 7/14/1984    CTW   W  5-4      McWilliams  McWilliams  Lahti       Zahn        
+ 7/15/1984   @GCP   L  0-8      Davis,M     Davis,M                 Barker      
+ 7/16/1984   @GCP   W  5-4      Niekro      McGregor    Lahti       Beattie     
+ 7/17/1984   @JJJ   L  0-1      Krukow      Beckwith                Gullickson  
+ 7/18/1984   @FER   L  1-5      McWilliams  McWilliams              Sutton      
+ 7/19/1984   @FER   L  8-14     Davis,M     Lahti                   Boddicker   
+ 7/20/1984   @FER   W  6-2      Niekro      McGregor                Sutcliffe   
+ 7/21/1984    GPC   L  2-6      Krukow      Krukow                  Thurmond    
+ 7/22/1984    GPC   L  0-6      McWilliams  McWilliams              Pena        
+ 7/23/1984    GPC   W  1-0      Davis,M     Davis,M                 Rhoden      
+                       Game Results:  1984 Century Atoms
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 7/24/1984   @EVN   L  3-4      Niekro      Niekro                  Moore       
+ 7/25/1984   @EVN   L  4-7      Krukow      Krukow                  Dayley      
+ 7/26/1984   @EVN   W  9-4      McWilliams  McGregor    Koosman     Rawley      
+ 7/27/1984   @SUN   W  6-5      Davis,M     McGregor    Lahti       Candelaria  
+ 7/28/1984   @SUN   W 13-3      Niekro      Niekro                  Perez       
+ 7/29/1984   @SUN   W  7-5      Krukow      McGregor    Lahti       Lea         
+ 7/30/1984   @GAR   L  2-3      McWilliams  McWilliams              Terrell     
+ 7/31/1984   @GAR   W  6-0      Davis,M     Davis,M                 Waits       
+ 8/ 2/1984   @BMB   L  3-4      Niekro      Koosman                 Williams    
+ 8/ 3/1984   @BMB   L  1-2      Krukow      Krukow                  Langston    
+ 8/ 4/1984   @EVN   W  9-3      McWilliams  McWilliams              Petry       
+ 8/ 8/1984    BAR   L  0-8      Davis,M     Davis,M                 Morris      
+ 8/ 9/1984    BAR   L  4-7  10  Niekro      Lahti                   Blyleven    
+ 8/10/1984    BAR   L  4-6  13  Krukow      Cowley                  Stieb       
+ 8/11/1984    BAR   W  4-3      McWilliams  McWilliams  Beckwith    Black       
+ 8/12/1984    BBG   L  4-7      Davis,M     Koosman                 Viola       
+ 8/13/1984    BBG   L  4-7      Niekro      Beckwith                Welch       
+ 8/14/1984    BBG   L  4-9      Krukow      Krukow                  Harris      
+ 8/15/1984   @A51   W 13-8      McWilliams  Jackson                 Tanana      
+ 8/16/1984   @A51   L  3-4  10  Davis,M     LaCorte                 Valenzuela  
+ 8/17/1984   @A51   L  0-9      Niekro      Niekro                  Trout       
+ 8/18/1984    GPC   L  0-10     Krukow      Krukow                  Thurmond    
+ 8/19/1984    GPC   L  1-2      McWilliams  McWilliams              Pena        
+ 8/20/1984    GPC   W  5-4      Davis,M     Lahti                   Mahler      
+ 8/21/1984    JJJ   W  5-1      Niekro      Niekro                  Gullickson  
+ 8/22/1984    JJJ   W 10-1      Krukow      Krukow                  Guidry      
+ 8/23/1984   @JJJ   L  5-12     McWilliams  McWilliams              Farr        
+ 8/27/1984    SUN   L  1-6      Davis,M     Davis,M                 Lea         
+ 8/28/1984   @BAR   W  5-2      Niekro      Niekro      Koosman     Morris      
+ 8/29/1984   @BAR   L  1-10     Krukow      Krukow                  Blyleven    
+ 8/30/1984   @BAR   W  7-6  12  McWilliams  LaCorte                 Stieb       
+ 8/31/1984    BMB   W  7-5      Davis,M     Davis,M     Lahti       Sanderson   
+ 9/ 1/1984    BMB   L  2-4      Koosman     Koosman                 Valenzuela  
+ 9/ 2/1984    BMB   L  5-8  13  McWilliams  Davis,M                 Easterly    
+ 9/ 3/1984   @FER   W  7-1      Niekro      Niekro                  Andujar     
+ 9/ 4/1984   @FER   L  1-9      Krukow      Krukow                  Sutton      
+ 9/ 6/1984   @TEW   W  3-2  10  Koosman     Davis,M                 Darling     
+ 9/ 7/1984   @TEW   L  1-2      McWilliams  McWilliams              Gross,K     
+ 9/ 8/1984   @TEW   W  5-1      Niekro      Davis,M                 Ryan        
+ 9/ 9/1984    GAR   W  5-2      Krukow      Krukow      Lahti       Terrell     
+ 9/10/1984    GAR   W  5-1      Koosman     McGregor                Hoyt        
+ 9/11/1984    GAR   W  4-0      McWilliams  McGregor                Flanagan    
+ 9/12/1984   @A51   W  3-0      Niekro      McGregor    Lahti       Smith       
+ 9/13/1984   @A51   W 14-5      Krukow      Jackson                 Russell     
+ 9/14/1984   @A51   W  4-3      Koosman     Koosman     Lahti       Clancy      
+ 9/15/1984    CTW   L  1-5      McWilliams  McWilliams              Davis       
+ 9/16/1984    CTW   L  3-6      Niekro      Niekro                  Butcher     
+ 9/17/1984    CTW   L  3-7      Krukow      Krukow                  Camp        
+ 9/18/1984    CIN   W  4-2      Koosman     Koosman     Lahti       Davis       
+ 9/19/1984    CIN   L  4-11     McWilliams  McWilliams              DeLeon      
+ 9/20/1984    CIN   W  3-1      Niekro      Davis,M     Lahti       Soto        
+ 9/21/1984    A51   W  4-2      Krukow      Davis,M     Jeffcoat    Niekro      
+                       Game Results:  1984 Century Atoms
+                                        
+ 
+ Date         Opp     Score     Starter     Win/Loss    Save        Versus
+ 
+ 9/22/1984    A51   W  3-0      Koosman     Koosman                 Smith       
+ 9/23/1984    A51   W  7-1      McWilliams  McWilliams              Russell     
+ 9/24/1984    FER   L  3-8      Niekro      Niekro                  Boyd        
+ 9/25/1984    FER   L  1-11     Krukow      Krukow                  Sutton      
+ 9/26/1984    FER   W  3-1      Koosman     Koosman     Lahti       Boyd        
+ 9/27/1984    BMB   L  4-7      McWilliams  McWilliams              Valenzuela  
+                         Injury Log: 1984 Century Atoms
+                                        
+ 
+-- Date -- #  Player      Cause                 Length
+ 
+ 4/ 2/1984    Nunez       General                  0
+ 4/ 8/1984    Winfield    General                  5
+ 4/ 9/1984    James       General                  1
+ 4/17/1984    Oliver      General                  0
+ 4/18/1984    Winfield    General                  2
+ 4/20/1984    Slaught     General                  0
+ 4/25/1984    Slaught     Collision in field       0
+ 5/10/1984    James       General                  0
+ 5/13/1984    Winfield    General                  1
+ 5/17/1984    Oliver      General                  1
+ 5/21/1984    James       General                  0
+ 5/26/1984    Cowley      General                  5
+ 6/ 3/1984    Krukow      General                  0
+ 6/ 8/1984    Koosman     General                  0
+ 6/ 9/1984    Slaught     Collision in field       0
+ 6/14/1984    James       General                  8
+ 6/17/1984    Schmidt     General                 10
+ 7/ 5/1984    Niekro      General                 10
+ 7/ 9/1984    Lahti       General                  1
+ 7/15/1984    Jeffcoat    General                  3
+ 7/16/1984    Sax         Collision on bases      15
+ 7/16/1984    Winfield    General                  1
+ 7/31/1984    Slaught     General                  9
+ 8/31/1984    Slaught     Collision in field       0
+ 9/18/1984    Owen        General                  3
+ 9/21/1984    McGregor    General                  0
+ 9/22/1984    Motley      General                  5
+ 9/24/1984    Owen        General                  9
+                DMB League Transaction Log:  1984 Century Atoms
+                                        
+ 
+ Date       Team   Transaction  Player
+ 
+ 4/24/1984  CEN    Farm         Herm Winningham     
+ 4/25/1984  CEN    Farm         Jim Eisenreich      
+ 4/25/1984  CEN    Farm         Ken Forsch          
+ 4/25/1984  CEN    Promote      Scott McGregor      
+ 4/25/1984  CEN    Promote      Nelson Simmons      
+ 4/25/1984  CEN    Promote      George Hendrick     
+ 5/21/1984  CEN    Farm         Dickie Thon         
+ 5/22/1984  CEN    Promote      Larry McWilliams    
+ 6/13/1984  CEN    Farm         Nelson Simmons      
+ 6/14/1984  CEN    Promote      Mike Laga           
+ 6/27/1984  CEN    Farm         Edwin Nunez         
+ 6/28/1984  CEN    Promote      Roy Lee Jackson     
+ 7/ 4/1984  CEN    Farm         Ken Howell          
+ 7/ 5/1984  CEN    Promote      Mike Jeffcoat       
+ 7/ 7/1984  CEN    Farm         Mike Laga           
+ 7/12/1984  CEN    Promote      Vic Rodriguez       
+ 8/ 6/1984  CEN    Farm         Vic Rodriguez       
+ 8/ 6/1984  CEN    Promote      John Castino        
+ 8/11/1984  CEN    Farm         Joe Cowley          
+ 8/11/1984  CEN    TradeAway    John Castino          to BMB
+ 8/13/1984  CEN    Farm         Joe Beckwith        
+ 8/13/1984  CEN    Promote      Frank LaCorte       
+ 8/13/1984  CEN    Promote      Luis Salazar        
+ 8/13/1984  CEN    Promote      Jim Eisenreich      
+ 8/14/1984  CEN    TradeAway    Mike Schmidt          to CTW
+ 8/14/1984  CEN    Acquire      Larry Parrish         from CTW
+ 8/14/1984  CEN    Acquire      Mike Davis            from CTW
+ 8/14/1984  CEN    Farm         Luis Salazar        
+ 9/ 3/1984  CEN    Farm         Dion James          
+ 9/ 7/1984  CEN    Farm         Al Oliver           
+
+
+ 
+							
+							
