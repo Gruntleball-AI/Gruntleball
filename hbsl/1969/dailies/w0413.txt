@@ -1,0 +1,54 @@
+The Hot Buttered Soul League
+Weekly Awards for the week ending April 13, 1969
+
+GOOD TEAMS OF THE WEEK:
+  W-L:   6-1 Northfield Nor'easters (Bailey, .840 Pyth%)
+             Rockford Files (Bernstein, .753 Pyth%)
+   RS: 75-43 Rockford Files
+   RA: 32-13 Sophia Kates (Marshall, 4-3)
+Pyth%:  .858 Sophia Kates
+
+BAD TEAMS OF THE WEEK:
+  W-L:   0-7 Quincy M.E. (Canter)
+   RS: 18-22 St. Paul Peeps (Henninger, 3-4)
+   RA: 34-82 Quincy M.E.
+Pyth%:  .147 Quincy M.E.
+
+BATTING LEADERS:
+ AVG:  517 - Clemente (ASP)
+ OBA:  577 - McAuliffe (AND)
+ SLG: 1100 - Howard (ROC)
+  RC: 15.5 - Howard (ROC)
+RC27: 23.2 - Howard (ROC)
+   H:   15 - Clemente (ASP)
+  2b:    4 - Sizemore (SAN), Green (NOR), White,R (AND)
+  3b:    2 - Hegan (ROC), Bailey (CST)
+  HR:    6 - Howard (ROC)
+   R:   11 - Jones,M (ROC), Howard (ROC)
+ RBI:   17 - Howard (ROC)
+  BB:    7 - Wynn (CAR)
+   K:   12 - Green (NOR)
+  SB:  6-0 - Morgan (ROC)
+  CS:  1-2 - Brock (OKI)
+
+PITCHING LEADERS:
+   SO:   15 - Sutton (SOP), Singer (NOR)
+   BB:   10 - Stoneman (QME)
+   HR:    7 - Hoerner (ASP)
+  BAA:  094 - Peterson,F (SPP)
+  OBA:  143 - Peterson,F (SPP)
+  SLG:  140 - Drago (RIN)
+  R/9:  4.2 - Peterson,F (SPP_
+  K/9: 10.8 - Kilkenny (CCA)
+  OPS:  294 - Peterson,F (SPP)
+RCERA: 0.45 - Peterson,F (SPP)
+ CERA: 0.55 - Peterson,F (SPP)
+
+WEEKLY WINNERS:
+W/E    BATTER                        PITCHER           
+-------------------------------------------------------------------
+04/13  Frank Howard (ROC)            Fritz Peterson (SPP)
+
+W/E   GOOD TEAM                      BAD TEAM
+-------------------------------------------------------------------
+04/13  Northfield Nor'easters   6-1  Quincy M.E.                0-7

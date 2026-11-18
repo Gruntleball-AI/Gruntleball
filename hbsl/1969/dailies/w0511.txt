@@ -1,0 +1,64 @@
+The Hot Buttered Soul League
+Weekly Awards for the week ending Sunday May 11, 1969
+
+GOOD TEAMS OF THE WEEK:
+  W-L:   5-1 Cape Canaveral Apollos (WillyC), Andersonville Anacondas (Trogdor)
+             Cary Haires (Smitheodore)
+   RS: 43-29 Andersonville Anacondas (Trogdor)
+   RA: 24-10 St. Paul Peeps (ThommyBoy)
+  Mgn:    16 Sophia Kates (Marcia^3)
+Pyth%:  .852 St. Paul Peeps (ThommyBoy)
+
+BAD TEAMS OF THE WEEK:
+  W-L:   0-6 Apostles of St. Paul (EnglishMess)
+   RS: 13-44 Ringling Ringlings (ScoScho)
+   RA: xx-44 Okinawa Typhoons (Foxy), Ringling Ringlings (ScoScho)
+  Mgn:   -31 Ringling Ringlings (ScoScho)
+Pyth%:  .080 Ringling Ringlings (ScoScho)
+
+BATTING LEADERS:
+ AVG:  545 - Carew (CAR)
+ OBA:  567 - Hegan (ROC)
+ SLG: 1059 - McAuliffe (AND)
+  RC: 12.5 - Carty (SOP)
+RC27: 26.7 - Wills (ASP)
+   H:   14 - Hegan (ROC)
+  2b:    4 - Menke (ROC), Hegan (ROC)
+  3b:    3 - Bonds (AND)
+  HR:    4 - McAuliffe (AND), May,C (AVI), Carty (SOP)
+   R:    9 - Buford (CST), Mota (SOP)
+ RBI:   12 - Carty (SOP)
+  BB:    7 - Wynn (CAR), Morgan (ROC)
+   K:   10 - Perez,T (CCA)
+  SB:  3-1 - Wills (ASP)
+  CS:  2-2 - Harper,T (AND)
+
+PITCHING LEADERS:
+   SO:   15 - Gibson (CCA)
+   BB:   10 - Stoneman (QME)
+   HR:    4 - Nolan (RIN)
+  BAA:  125 - Ryan,N (AVI)
+  OBA:  156 - Peterson,F (SPP)
+  SLG:  125 - Ryan,N (AVI)
+  R/9:  5.0 - Peterson,F (SPP)
+  K/9: 13.5 - Lolich (AND)
+  OPS:  318 - Peterson,F (SPP)
+RCERA: 0.62 - Peterson,F (SPP)
+ CERA: 0.65 - Peterson,F (SPP)
+
+WEEKLY WINNERS:
+W/E    BATTER                        PITCHER           
+-------------------------------------------------------------------
+04/13  Frank Howard (ROC)            Fritz Peterson (SPP)
+04/20  Orlando Cepeda (QME)          Grant Jackson (QME)
+04/27  Cleon Jones (NOR)             Dick Bosman (SPP)
+05/04  Greg Goossen (HAM)            Fritz Peterson (SPP)
+05/11  Rico Carty (SOP)              Fritz Peterson (SPP)
+
+W/E   GOOD TEAM                      BAD TEAM
+-------------------------------------------------------------------
+04/13  Northfield Nor'easters   6-1  Quincy M.E.                0-7
+04/20  St. Paul Peeps           5-1  Apostles of St. Paul       1-5
+04/27  St. Paul Peeps           6-1  C Street Peccadillos       1-6
+05/04  Hamsterdam Hoppers       6-0  Hawai'i Five-O             1-5
+05/11  Andersonville Anacondas  5-1  Apostles of St. Paul       0-6

@@ -1,0 +1,68 @@
+The Hot Buttered Soul League
+Weekly Awards for the week ending Sunday May 25, 1969
+
+GOOD TEAMS OF THE WEEK:
+  W-L:   5-1 Quincy M.E. (Canter), Cary Hairies (Smitheodore)
+   RS: 45-xx Northfield Nor'easters (Shecky), Andersonville Anacondas (Trogdor)
+   RA: 33-23 St. Paul Peeps (Thommy)
+  Mgn:   +20 Northfield Nor'easters (Shecky)
+Pyth%:  .764 Northfield Nor'easters (Shecky)
+
+BAD TEAMS OF THE WEEK:
+  W-L:   1-5 C Street Peccadillos (Stearnsy), Sophia Kates (WeAreMarshall),
+             Ringling Ringlings (ScoScho)
+   RS: 22-41 Ringling Ringlings (ScoScho)
+   RA: 31-47 C Street Peccadillos (Stearnsy)
+  Mgn:   -19 Ringling Ringlings (ScoScho)
+Pyth%:  .224 Ringling Ringlings (ScoScho)
+
+BATTING LEADERS:
+ AVG:  625 - Kirkpatrick (QME)
+ OBA:  684 - Kirkpatrick (QME)
+ SLG: 1000 - Kirkpatrick (QME)
+  RC: 11.5 - Kirkpatrick (QME)
+RC27: 51.7 - Kirkpatrick (QME)
+   H:   13 - Aparicio (AND)
+  2b:    4 - Aparicio (AND)
+  3b:    2 - Smith,R (RIN), Mota (SOP)
+  HR:    4 - Mays (ASP)
+   R:   10 - White,R (AND)
+ RBI:   11 - May,L (AVI)
+  BB:   10 - Wynn (CAR)
+   K:    9 - Hisle (RIN), Hiatt (SOP), Jackson,R (QME), Killebrew (ROC)
+  SB:  5-1 - Brock (OKI)
+  CS:    2 - Carew (CAR), Oliva (ASP), Rose (AVI), Tolan (CCA)
+
+PITCHING LEADERS:
+   SO:   15 - Sutton (SOP)
+   BB:    9 - Lemaster (HAM), Ryan (AVI)
+   HR:    3 - Hunter (OKI), Horlen (HAM), Dierker (HAM)	
+  BAA:  000 - Palmer,J (SPP)
+  OBA:  036 - Palmer,J (SPP)
+  SLG:  000 - Palmer,J (SPP)
+  R/9:  1.0 - Palmer,J (SPP)
+  K/9: 12.0 - Ryan,N (AVI)
+  OPS:  036 - Palmer,J (SPP)
+RCERA: 0.01 - Palmer,J (SPP)
+ CERA: 0.01 - Palmer,J (SPP)
+
+WEEKLY WINNERS:
+W/E    BATTER                        PITCHER           
+-------------------------------------------------------------------
+04/13  Frank Howard (ROC)            Fritz Peterson (SPP)
+04/20  Orlando Cepeda (QME)          Grant Jackson (QME)
+04/27  Cleon Jones (NOR)             Dick Bosman (SPP)
+05/04  Greg Goossen (HAM)            Fritz Peterson (SPP)
+05/11  Rico Carty (SOP)              Fritz Peterson (SPP)
+05/18  Alex Johnson (OKI)            Claude Osteen (CAR)
+05/25  Ed Kirkpatrick (QME)          Jim Palmer (SPP)
+
+W/E   GOOD TEAM                      BAD TEAM
+-------------------------------------------------------------------
+04/13  Northfield Nor'easters   6-1  Quincy M.E.                0-7
+04/20  St. Paul Peeps           5-1  Apostles of St. Paul       1-5
+04/27  St. Paul Peeps           6-1  C Street Peccadillos       1-6
+05/04  Hamsterdam Hoppers       6-0  Hawai'i Five-O             1-5
+05/11  Andersonville Anacondas  5-1  Apostles of St. Paul       0-6
+05/18  St. Paul Peeps           6-1  Sanford And Son            0-7
+05/25  Cary Haries              5-1  Ringling Ringlings         1-5

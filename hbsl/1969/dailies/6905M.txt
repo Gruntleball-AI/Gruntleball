@@ -1,0 +1,100 @@
+<html>
+<body>
+<pre>
+Hot Buttered Soul League
+Monthly Awards for May 1969
+
+
+Good Team of the Month:
+The CARY HAIRIES (Bryan Smith/Mike Theodore) went 19-9 for the month,
+scoring 149 runs and allowing 127 for a 22 run margin and a .579 
+pythagorean winning percentage.  Leading the league in scoring with 
+176 runs were the 17-11 Rockford Files (Andrew Bernstein) who allowed
+a mediocre 168 runs for the month.  Leading the league in run prevention
+with 84 runs were the 18-10 St. Paul Peeps (Thom Henninger) which 
+scored 124 runs and had a .685 pythagorean winning percentage.  The 
+team with the best pythagorean winning percentage was the 16-12 
+Northfield Nor'easters (James Bailey) who scored 148 while allowing
+only 99 runs.
+
+Bad Team of the Month:
+SANFORD AND SON went 5-23, scoring 104 runs and allowing 167 runs for a 
+-63 margin and a .279 pythagorean winning percentage.  All but the runs
+allowed were league worsts.  The Rockford Files (Andrew Bernstein) allowed 
+the most runs (168).  
+
+Hitter of the Month:
+The Rockford Files only have two of the Top 5 in runs created this month.
+Leading the league was Avery Island's CARLOS MAY, with 32.9 RC and 13.3
+RC27.  Rounding out the top 5 were Rockford's Harmon Killebrew (30.7), 
+Avery Island's Lee May (30.7), Rockford's Mack Jones (27.3) and Sophia's
+Norm Cash and Rockford's Mike Hegan (26.8).
+
+Bad Hitter of the Month:
+Ringling's Jerry McNertney created 2.8 runs for the month and 1.0 RC27 
+to go with a .406 OPS in 88 plate appearances.
+
+Starter of the Month:
+Sophia's Phil Niekro saved 14.5 runs above average, going 4-0 with a 2.21 
+ERA over 53.0 innings.  Runners up were Cary's Claude Osteen (14.1) and
+St. Paul's Jim Palmer (13.0).
+
+Reliever of the Month:
+Hamsterdam's Ken Tatum saved 6.3 runs above average, appearing in 13 games 
+and pitching 20.0 innings with a 0.90 ERA.  Runners-up were Apostles Jim Ray
+(5.9) and Rockford's Hoyt Wilhelm (5.3).
+
+Bad Pitcher of the Month:
+Sanford And Son's JOE NIEKRO surrended 14.7 runs more than average over 39.0
+innings with a 7.38 ERA.  Also stinking up the joint were Rockford's Jack
+Aker (-13.3) and Quincy's Bill Stoneman (-12.9)
+
+-----------------------------------------------------
+MONTHLY LEADERS
+-----------------------------------------------------
+ R: 27     - Jones,M (ROC), White,R (AND)
+ H: 41     - Brock (OKI)
+2B: 10     - May,L (AVI)
+3B:  4     - Clarke (HAM), Morgan (ROC), Killebrew (ROC), Mota (SOP)
+HR: 12     - Killebrew (ROC)
+TB: 82     - Killebrew (ROC)
+BI: 33     - May,L (AVI), Killebrew (ROC)
+BB: 25     - Wynn (CAR)
+ K: 34     - Hisle (RIN) (again), Bonds (AND)
+SB: 11-3   - Brock (OKI)
+CS:  0-4   - Tolan (CCA)
+AV:   .396 - Carew (CAR)
+OB:   .479 - Hegan (ROC)
+SL:   .732 - Killebrew (ROC)
+RC27  13.4 - Hegan (ROC)
+
+  W:  5-1  - Perry,G (AND)
+  L:  0-6  - Brabender (SAN)
+  S:  8    - Tatum,K (HAM)
+ERA:  1.70 - Singer (NOR)
+  G: 20    - Ross (SAN) again, Bolin (QME)
+ CG:  4    - Osteen (CAR)
+ Sh:  2    - Gibson (CCA) again
+ IP: 59.0  - Gibson (CCA) 
+ BB: 37    - Ryan,N (AVI)
+  K: 48    - Gibson (CCA) 
+ HR:  9    - Hunter (OKI) again, Jarvis,P (OKI)
+
+
+-----------------------------------------------------
+LIST OF WINNERS
+-----------------------------------------------------
+
+Mon  Hitter                  RC    Pitcher                 Reliever
+-------------------------------------------------------------------------
+APR  Frank Howard (ROC)    (34.8)  Bill Singer (NOR)       Ron Perranoski (ROC)
+MAY  Carlos May   (AVI)    (32.9)  Phil Niekro (SOP)       Ken Tatum      (HAM)
+
+
+Month   Good Team                        Bad Team
+-------------------------------------------------------------------------
+APR     St. Paul Peeps             16-6  Cape Canaveral Apollos      6-16
+MAY     Cary Hairies               19-9  Sanford And Son             5-23
+</pre>
+</body>
+</html>

@@ -1,0 +1,88 @@
+<html>
+<head>
+<style type="text/css">
+p         {color: white; font-size: 12; font-family: "verdana"; }
+h1        {color: #B83455; font-size: 28; letter-spacing:2px; font-family: "verdana"; }
+h2        {color: white; font-size: 15; font-family: "verdana"; border-top: 2px ; border-top-style: solid; border-top-color: #B83455; }
+h3        {color: white; font-size: 12; font-family: "verdana"; font-weight:normal; border-top: 1px ; border-top-style: dotted; border-top-color: #81654C; }
+h4        {color: #ffffff; font-size: 15; letter-spacing:2px; font-weight:normal; font-family: "verdana"; }
+a:link    {color: #ffffff; font-size: 12; font-family: verdana; }
+a:visited {color: #999999; font-size: 12; font-family: verdana; }
+a:hover   {color: #cc6666; font-size: 12; font-family: verdana; }
+body      {background-color: #29201C; color:#ffffff}
+</style>
+</head>
+
+<h1> Hot Buttered Soul </h1>
+<h4> INSIDER BASEBALL LEAGUE DAILY</h4>
+
+
+<p><b>DATE</b></p>
+<p>NEWS 
+<br><br></p>
+<a href="http://gruntleball.com/gruntleball.htm">League homepage with photo of Isaac Hayes!</a></p>
+<a href="#Playing Time Report"> Jump to Playing Time Reports </a></p><br> 
+
+<h2> Roster Notes </h2><pre>
+
+</pre>
+
+
+<h2> Current Injuries </h2>
+<pre>
+</pre>
+
+
+<h2> Transactions </h2>
+<pre>
+</pre>
+
+
+<h2> Results <a name="Results"></a> </h2>
+<h3> <a href="#Game 1"> Details</a> </h3><pre>
+
+</pre><h3> <a href="#Game 2"> Details</a></h3><pre>
+
+</pre><h3> <a href="#Game 3"> Details</a></h3><pre>
+
+</pre><h3> <a href="#Game 4"> Details</a></h3><pre>
+
+</pre><h3> <a href="#Game 5"> Details</a></h3><pre>
+
+</pre><h3> <a href="#Game 6"> Details</a></h3><pre>
+
+</pre><h3> <a href="#Game 7"> Details</a></h3><pre>
+
+</pre><h3> <a href="#Game 8"> Details</a></h3><pre>
+
+</pre>
+
+
+<h2> Standings </h2><pre>
+
+</pre>
+
+
+<h2> Boxscores, Scoresheets and Game Logs</h2>
+<h3> <a name="Game 1"></a> <a href="#Results"> back to Results </a> </h3><pre>
+
+</pre><h3> <a name="Game 2"></a> <a href="#Results"> back to Results </a> </h3><pre>
+
+</pre><h3> <a name="Game 3"></a> <a href="#Results"> back to Results </a> </h3><pre>
+
+</pre><h3> <a name="Game 4"></a> <a href="#Results"> back to Results </a> </h3><pre>
+
+</pre><h3> <a name="Game 5"></a> <a href="#Results"> back to Results </a> </h3><pre>
+
+</pre><h3> <a name="Game 6"></a> <a href="#Results"> back to Results </a> </h3><pre>
+
+</pre><h3> <a name="Game 7"></a> <a href="#Results"> back to Results </a> </h3><pre>
+
+</pre><h3> <a name="Game 8"></a> <a href="#Results"> back to Results </a> </h3><pre>
+
+</pre>
+
+
+<h2> <a name="Playing Time Report"></a> Playing Time Report </h2><pre>
+
+</pre></body></html>

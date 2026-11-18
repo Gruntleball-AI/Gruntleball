@@ -1,0 +1,66 @@
+The Hot Buttered Soul League
+Weekly Awards for the week ending Sunday May 18, 1969
+
+GOOD TEAMS OF THE WEEK:
+  W-L:   6-1 Northfield Nor'easters (Shecky), St. Paul Peeps (Thommy), 
+             Avery Island Chili Peppers (MillerC)
+   RS: 47-29 Northfield Nor'easters (Shecky)
+   RA: 41-18 St. Paul Peeps (Thommy)
+  Mgn:   +23 St. Paul Peeps (Thommy)
+Pyth%:  .838 St. Paul Peeps (Thommy)
+
+BAD TEAMS OF THE WEEK:
+  W-L:   0-7 Sanford And Son (Klotz!)
+   RS: 12-52 Sanford And Son (Klotz!)
+   RA: 12-52 Sanford And Son (Klotz!)
+  Mgn:   -40 Sanford And Son (Klotz!)
+Pyth%:  .051 Sanford And Son (Klotz!)
+
+BATTING LEADERS:
+ AVG:  522 - Clarke (HAM)
+ OBA:  560 - Blefary (CCA)
+ SLG: 1040 - Killebrew (ROC)
+  RC: 12.2 - Johnson,A (OKI)
+RC27: 23.7 - Hegan (ROC)
+   H:   13 - Johnson,A (OKI)
+  2b:    5 - May,L (AVI)
+  3b:    2 - 
+  HR:    6 - Killebrew (ROC)
+   R:    9 - Green (NOR)
+ RBI:   13 - Powell (SPP)
+  BB:    8 - May,C (AVI)
+   K:   13 - Wynn (CAR)
+  SB:  5-1 - Harper (AND)
+  CS:  0-2 - Morgan (ROC)
+
+PITCHING LEADERS:
+   SO:   21 - Wilson,D (ASP)
+   BB:   14 - Ryan,N (AVI)
+   HR:    4 - Blass (RIN), Pappas (H50), Brabender (SAN), Marichal (NOR)	
+  BAA:  100 - Culp (CST)
+  OBA:  160 - Ross (SAN)
+  SLG:  100 - Culp (CST)
+  R/9:  5.1 - Ross (SAN)
+  K/9: 15.8 - Moose (QME)
+  OPS:  285 - Ross (SAN)
+RCERA: 0.60 - Ross (SAN)
+ CERA: 0.60 - Ross (SAN)
+
+WEEKLY WINNERS:
+W/E    BATTER                        PITCHER           
+-------------------------------------------------------------------
+04/13  Frank Howard (ROC)            Fritz Peterson (SPP)
+04/20  Orlando Cepeda (QME)          Grant Jackson (QME)
+04/27  Cleon Jones (NOR)             Dick Bosman (SPP)
+05/04  Greg Goossen (HAM)            Fritz Peterson (SPP)
+05/11  Rico Carty (SOP)              Fritz Peterson (SPP)
+05/18  Alex Johnson (OKI)            Claude Osteen (CAR)
+
+W/E   GOOD TEAM                      BAD TEAM
+-------------------------------------------------------------------
+04/13  Northfield Nor'easters   6-1  Quincy M.E.                0-7
+04/20  St. Paul Peeps           5-1  Apostles of St. Paul       1-5
+04/27  St. Paul Peeps           6-1  C Street Peccadillos       1-6
+05/04  Hamsterdam Hoppers       6-0  Hawai'i Five-O             1-5
+05/11  Andersonville Anacondas  5-1  Apostles of St. Paul       0-6
+05/18  St. Paul Peeps           6-1  Sanford And Son            0-7

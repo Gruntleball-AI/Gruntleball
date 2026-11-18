@@ -1,0 +1,68 @@
+<html>
+<head>
+<style type="text/css">
+p         {color: #ffffff; font-size: 12; font-weight: 200; font-family: "arial"; }
+h1        {color: #9977ff; font-size: 25; font-weight: 400; font-family: "courier new"; }
+h2        {color: #ffffff; font-size: 15; font-weight: 200; font-family: "courier new"; border-top: 2px ; border-top-style: solid; border-top-color: #7755dd; }
+h3        {color: #ffffff; font-size: 12; font-weight: 200; font-family: "courier new"; border-top: 1px ; border-top-style: dotted; border-top-color: #776688; }
+h4        {color: #ffffff; font-size: 15; font-weight: 200; font-family: "courier new"; }
+a:link    {color: #ffffff; font-size: 12; font-weight: 200; font-family: "arial"; }
+a:visited {color: #9977ff; font-size: 12; font-weight: 200; font-family: "arial"; }
+a:hover   {color: #9977ff; font-size: 12; font-weight: 800; font-family: "arial"; }
+body      {background-color: #222233; color:#ffffff}
+</style>
+</head>
+<h1> Hot Buttered Soul </h1>
+<h4> INSIDER BASEBALL LEAGUE CHAMPIONSHIP SERIES</h4>
+<img src="https://dl.dropbox.com/u/3641528/Gruntleball/HBSL/Images/IsaacHayesSelfHug.jpg" alt="The Black Moses"/>
+<p><b> </b></p>
+<p>
+<br><br></p>
+<a href="https://dl.dropbox.com/u/3641528/Gruntleball/HBSL/1972/Web/index.htm">League homepage</a></p>
+<a href="#Playing Time Report"> Jump to Playing Time Reports </a></p><br> 
+
+<h2><br> ROSTER NOTES </h2>
+<pre>
+
+</pre>
+
+
+<h2><br> CURRENT INJURIES </h2>
+<pre> 
+
+</pre>
+
+
+<h2><br> TRANSACTIONS </h2>
+<pre>
+
+</pre>
+
+
+<h2><br> GAME RESULTS <a name="Results"></a></h2>
+<h3><a href="#Game 1"><br> Details</a></h3><pre>
+
+</pre><h3><a href="#Game 2"><br> Details</a></h3><pre>
+
+</pre>
+
+
+<h2><br> STANDINGS </h2>
+<pre>
+
+</pre>
+
+
+<h2><br> BOXSCORES-SCORESHEETS-GAME LOGS</h2>
+<h3><a name="Game 1"></a><a href="#Results"><br> back to Results </a></h3><pre>
+
+</pre><h3><a name="Game 2"></a><a href="#Results"><br> back to Results </a></h3><pre>
+
+</pre>
+
+
+<h2><a name="Playing Time Report"></a><br> PLAYING TIME REPORT </h2><pre>
+
+</pre>
+https://dl.dropbox.com/u/3641528/Gruntleball/HBSL/1972/Dailies/____.htm
+</body></html>

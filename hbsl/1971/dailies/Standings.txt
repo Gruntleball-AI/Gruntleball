@@ -1,0 +1,99 @@
+                                 Org standings -- Hot Buttered Soul                                 
+                                           Regular season                                           
+
+Team                          W    L   Pct      GB   L10   Strk Recent        RF   RA  Mgn  Mgc  pW  pPct 
+SHAFT
+COMPLICATED MAN
+Northfield Nor'easters       91   71  .562       -   5-5    L1  lwlwllwwlw   733  659   74    0  90  .553 
+Andersonville Anacondas      88   74  .543       3   7-3    W3  wwwlwwlwlw   712  664   48       87  .535 
+Hamsterdam Hoppers           70   92  .432      21   6-4    W1  wlwlwwwlwl   664  847 -183       62  .381 
+St. Paul Peeps               68   94  .420      23   7-3    W1  wlwlwwwwlw   773  861  -88       72  .446 
+                                                                                                          
+CAN YOU DIG IT
+Apostles of St. Paul        109   53  .673       -   3-7    L1  lwwlllwlll   889  608  281    0 110  .681 
+Okinawa Typhoons             96   66  .593      13   9-1    L1  lwwwwwwwww   878  733  145       95  .589 
+C Street Peccadillos         76   86  .469      33   6-4    W3  wwwllwlwwl   675  742  -67       73  .453 
+Philly Cheesesteaks          71   91  .438      38   3-7    L2  llwllwllwl   713  791  -78       73  .448 
+                                                                                                          
+BLACK MOSES
+MAN'S TEMPTATION
+Rockford Files               92   70  .568       -   5-5    L1  lwlwlllwww   768  668  100    0  92  .569 
+Sophia Kates                 87   75  .537       5   6-4    W1  wllwwlwlww   833  776   57       87  .535 
+Sanford And Son              62  100  .383      30   4-6    L3  lllwwlwwll   630  823 -193       60  .369 
+Quincy M.E.                  60  102  .370      32   1-9    L3  lllwllllll   687  832 -145       66  .405 
+                                                                                                          
+PART-TIME LOVE
+Pakenham Arms                97   65  .599       -   5-5    W1  wlwlllwlww   868  672  196    0 101  .625 
+Avery Island Chili Peppers   88   74  .543       9   5-5    W2  wwlwwwllll   703  610   93       92  .570 
+Ringling Ringlings           83   79  .512      14   6-4    W1  wlllwwlwww   684  641   43       86  .532 
+Cary Hairies                 58  104  .358      39   2-8    L1  lwlwllllll   555  838 -283       49  .305 
+
+
+
+Year Team                            W    L   Pct      GB    L10  Strk Recent        Mgc 
+SHAFT
+1971 Apostles of St. Paul          109   53  .673      na    3-7   L1  lwwlllwlll        
+1971 Northfield Nor'easters         91   71  .562      na    5-5   L1  lwlwllwwlw        
+1971 Okinawa Typhoons               96   66  .593       -    9-1   L1  lwwwwwwwww      0 
+1971 Andersonville Anacondas        88   74  .543       8    7-3   W3  wwwlwwlwlw        
+1971 C Street Peccadillos           76   86  .469      20    6-4   W3  wwwllwlwwl        
+1971 Philly Cheesesteaks            71   91  .438      25    3-7   L2  llwllwllwl        
+1971 Hamsterdam Hoppers             70   92  .432      26    6-4   W1  wlwlwwwlwl        
+1971 St. Paul Peeps                 68   94  .420      28    7-3   W1  wlwlwwwwlw        
+                                                                                         
+BLACK MOSES
+1971 Pakenham Arms                  97   65  .599      na    5-5   W1  wlwlllwlww        
+1971 Rockford Files                 92   70  .568      na    5-5   L1  lwlwlllwww        
+1971 Avery Island Chili Peppers     88   74  .543       -    5-5   W2  wwlwwwllll      0 
+1971 Sophia Kates                   87   75  .537       1    6-4   W1  wllwwlwlww        
+1971 Ringling Ringlings             83   79  .512       5    6-4   W1  wlllwwlwww        
+1971 Sanford And Son                62  100  .383      26    4-6   L3  lllwwlwwll        
+1971 Quincy M.E.                    60  102  .370      28    1-9   L3  lllwllllll        
+1971 Cary Hairies                   58  104  .358      30    2-8   L1  lwlwllllll        
+
+
+
+Year Team                           Home    Road   Grass    Turf   vsLHP   vsRHP    Div   InterLg 
+SHAFT
+1971 Apostles of St. Paul          60-21   49-32   89-40   20-13   39-16   70-37   29-13   43-21  
+1971 Northfield Nor'easters        51-30   40-41   73-56   18-15   27-23   64-48   29-13   36-28  
+1971 Okinawa Typhoons              48-33   48-33   30-25   66-41   33-18   63-48   21-21   45-19  
+1971 Andersonville Anacondas       45-36   43-38   70-59   18-15   29-22   59-52   23-19   36-28  
+1971 C Street Peccadillos          42-39   34-47   23-32   53-54   26-26   50-60   15-27   31-33  
+1971 Philly Cheesesteaks           38-43   33-48   23-32   48-59   22-24   49-67   19-23   26-38  
+1971 Hamsterdam Hoppers            37-44   33-48   56-73   14-19   19-29   51-63   18-24   31-33  
+1971 St. Paul Peeps                35-46   33-48   53-76   15-18   16-30   52-64   14-28   29-35  
+                                                                                                  
+BLACK MOSES
+1971 Pakenham Arms                 51-30   46-35   79-50   18-15   34-25   63-40   28-14   35-29  
+1971 Rockford Files                51-30   41-40   29-26   63-44   30-23   62-47   26-16   34-30  
+1971 Avery Island Chili Peppers    49-32   39-42   26-29   62-45   26-14   62-60   20-22   33-31  
+1971 Sophia Kates                  46-35   41-40   71-58   16-17   18-26   69-49   24-18   34-30  
+1971 Ringling Ringlings            48-33   35-46   65-64   18-15   24-22   59-57   19-23   33-31  
+1971 Sanford And Son               37-44   25-56   54-75    8-25   23-21   39-79   18-24   26-38  
+1971 Quincy M.E.                   33-48   27-54   49-80   11-22   23-28   37-74   16-26   22-42  
+1971 Cary Hairies                  29-52   29-52   20-35   38-69   17-32   41-72   17-25   18-46  
+                                 Org standings -- Hot Buttered Soul                                 
+                                           Regular season                                           
+
+Year Team                          Lead7   Tied7   Trail7  1-run   Extra  
+SHAFT
+1971 Apostles of St. Paul           89-3    12-4    8-46   30-22    10-2  
+1971 Northfield Nor'easters         72-5    12-9    7-57   25-22    11-9  
+1971 Okinawa Typhoons               83-7    2-7    11-52   24-19    6-9   
+1971 Andersonville Anacondas        69-8    13-6    6-60   20-21    9-7   
+1971 C Street Peccadillos          63-12    3-14   10-60   27-26    7-16  
+1971 Philly Cheesesteaks           56-11    10-9    5-71   21-27    3-6   
+1971 Hamsterdam Hoppers             49-7   11-12   10-73   31-21   12-11  
+1971 St. Paul Peeps                58-12    5-16    5-66   20-26    3-14  
+                                                                          
+BLACK MOSES
+1971 Pakenham Arms                  79-4    8-4    10-57   21-21    6-5   
+1971 Rockford Files                 72-9    9-9    11-52   26-20    12-8  
+1971 Avery Island Chili Peppers     65-5    15-9    8-60   21-19    13-6  
+1971 Sophia Kates                  66-11    11-7   10-57   24-24    11-8  
+1971 Ringling Ringlings            64-12    11-4    8-63   19-28   11-10  
+1971 Sanford And Son                53-8    4-7     5-85   17-22    4-7   
+1971 Quincy M.E.                    36-9   12-10   12-83   15-25    13-7  
+1971 Cary Hairies                   49-7    5-16    4-81   26-24    6-12  
+

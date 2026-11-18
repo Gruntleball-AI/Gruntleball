@@ -1,0 +1,3197 @@
+The Hot Buttered Soul League Daily
+Saturday, May 24, 1969
+
+http://chinatrust.googlepages.com/hbsl (home page)
+http://hbsl.rmiller.fastmail.fm/index.htm (stats only)
+
+=========================================================================================================
+ROSTER NOTES
+
+None
+
+=========================================================================================================
+CURRENT INJURIES                                             (*** new'ish injury)  (<-- can be activated)
+
+                                                                    Duration 
+Date       Team    Name             Cause               Return     Orig Left 
+5/24/1969  HAM     Rettenmund       General             5/25/1969     1    1 
+5/12/1969  CAR     Dalrymple        General             5/28/1969    16    4 
+5/22/1969  CST     Reed,R           General             5/28/1969     6    4 
+5/22/1969  CAR     Renick           General             5/29/1969     7    5 
+5/23/1969  SAN     Spencer          General             6/1/1969      9    8 ***
+5/22/1969  SOP     Joseph           General             6/2/1969     11    9 ***
+5/17/1969  CST     Edmondson        General             6/2/1969     16    9 
+5/15/1969  OKI     Hebner           General             6/4/1969     20   11 
+5/20/1969  CAR     Odom             General             6/5/1969     16   12 
+5/10/1969  CST     Gaston           Hit by pitch        6/6/1969     27   13 
+5/18/1969  NOR     Green            General             6/9/1969     22   16 
+
+=========================================================================================================
+TRANSACTIONS
+
+None
+
+=========================================================================================================
+RESULTS
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1969 Hoppers           0  0  0  0  0  1  1  0  0     2  9  0     7  2
+1969 Files             0  0  0  0  1  3  0  0  x     4  9  1     7  1
+McLain(W,6-3), Dierker(L,4-1)
+HR - Hegan(7), Jones,M(13), Menke(2)
+Denny McLain goes the distance, walking one and striking out eight.
+
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1969 Nor'easters       0  0  0  0  2  0  0  0  1     3  8  0     4  0
+1969 M.E.              0  0  0  0  0  0  1  2  1     4  7  1     7  3
+Timmermann(W,1-2), Marone(L,1-2)
+HR - Kirkpatrick(6), Hickman(11)
+Ed Kirkpatrick hits a two-out homerun to win it.
+
+                       1  2  3  4  5  6  7  8  9 10 11     R  H  E   LOB DP
+1969 Typhoons          3  1  1  0  0  0  0  3  1  0  2    11 16  2     9  3
+1969 And Son           1  0  0  1  3  0  0  4  0  0  0     9 17  0    12  0
+Taylor,R(W,1-2), Dobson,C(L,1-3), Pattin(S,1)
+HR - Johnson,A(7), Harrelson,K(10), Banks(4)
+Ernie Banks goes 4 for 6 and drives in three.  Alex Johnson continues his 
+torrid hitting.
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1969 of St. Paul       0  0  0  3  2  0  0  0  3     8 13  0     8  1
+1969 Kates             0  0  1  0  1  0  0  1  3     6 15  2    11  0
+Roberts(W,2-0), Sutton(L,5-5), Romo(S,4)
+HR - Cash,N(11)
+Dave Roberts pitches a messy six innings, but drives in two runs.
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1969 Peccadillos       0  1  1  2  0  0  0  0  0     4  3  1     8  1
+1969 Chili Peppers     0  0  3  0  0  0  1  0  1     5 10  0    13  0
+May,R(W,2-3), Morris,J(L,0-1)
+HR - None
+Pat Kelly goes 4 for 4 and Bud Harrelson drives in the winning run.  Nolan
+Ryan walks nine in six innings while striking out eight.
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1969 Peeps             1  0  0  0  0  1  0  0  1     3  6  0     6  0
+1969 Five-O            0  0  0  0  0  0  0  0  0     0  0  2     1  1
+Palmer,J (W,5-2), Miller,B(L,1-2)
+HR - Callison(4)
+Jim Palmer pitches a no-hitter, walking one (Don Mincher) and striking out eight.
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1969 Anacondas         1  0  0  0  0  0  0  0  1     2  8  2    11  1
+1969 Ringlings         1  0  0  1  0  2  3  0  x     7  9  1     7  0
+Drago(W,4-3), Lolich(L,4-4)
+HR - Ward(2), Colbert(5)
+Dick Drago pitches a strong eight innings, walking three and striking out five.
+
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1969 Apollos           0  0  0  0  4  0  0  0  0     4  5  0     6  1
+1969 Hairies           0  0  0  0  0  0  0  0  0     0  3  0     7  0
+Giusti(W,4-2), Tiant(L,4-3)
+HR - Tolan(5)
+Bobby Tolan hits a grand slam.  Dave Giusti allows three hits in eight innings
+but also walks six.
+
+=========================================================================================================
+STANDINGS
+
+Team                          W    L   Pct      GB   L10   Strk Recent        RF   RA  Mgn  Mgc  pW  pPct 
+A
+ONE WOMAN
+Northfield Nor'easters       26   18  .591       -   6-4    L1  lwlwlwlwww   246  172   74  112  30  .672 
+Cape Canaveral Apollos       19   25  .432       7   4-6    W1  wlllwllwwl   184  220  -36  126  18  .412 
+C Street Peccadillos         19   25  .432       7   2-8    L6  llllllwlwl   186  200  -14  126  20  .464 
+Apostles of St. Paul         13   31  .295      13   5-5    W3  wwwllwlllw   158  241  -83  132  13  .301 
+                                                                                                          
+PHOENIX
+St. Paul Peeps               29   15  .659       -   8-2    W1  wlwlwwwwww   194  126   68  118  31  .703 
+Hamsterdam Hoppers           28   16  .636       1   6-4    L3  lllwwwwwwl   214  164   50  120  28  .630 
+Andersonville Anacondas      25   19  .568       4   5-5    L1  lwwwllllww   251  216   35  123  25  .575 
+Okinawa Typhoons             17   27  .386      12   6-4    W1  wlwwwlwlwl   188  224  -36  131  18  .413 
+                                                                                                          
+N
+WALK ON BY
+Rockford Files               30   14  .682       -   6-4    W4  wwwwllwllw   297  224   73  109  28  .637 
+Quincy M.E.                  20   24  .455      10   7-3    W1  wlwwwwwllw   205  262  -57  129  17  .380 
+Hawai'i Five-O               19   25  .432      11   4-6    L1  lwllwwlwll   204  230  -26  130  19  .440 
+Sanford And Son              13   31  .295      17   1-9    L1  lwllllllll   187  263  -76  136  15  .336 
+                                                                                                          
+HYPERBOLICSYLLABLEC
+Cary Hairies                 28   16  .636       -   7-3    L1  lwwwwwwwll   234  200   34  117  25  .578 
+Sophia Kates                 26   18  .591       2   4-6    L4  llllwwlwlw   226  177   49  121  27  .620 
+Avery Island Chili Peppers   21   23  .477       7   8-2    W4  wwwwllwwww   210  215   -5  126  21  .488 
+Ringling Ringlings           19   25  .432       9   1-9    W1  wlllllllll   182  232  -50  128  17  .381 
+
+=========================================================================================================
+BOXSCORES, SCORESHEETS AND GAME LOGS
+
+5/24/1969, HAM69-ROC69, Comiskey Park
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1969 Hoppers           0  0  0  0  0  1  1  0  0     2  9  0     7  2
+1969 Files             0  0  0  0  1  3  0  0  x     4  9  1     7  1
+ 
+Hoppers              AB  R  H BI   AVG    Files                AB  R  H BI   AVG
+Bando             3b  4  0  1  0  .202    Morgan            2b  4  0  0  0  .248
+Clarke            2b  3  1  0  0  .320    Hegan             rf  4  1  2  1  .353
+Shamsky           rf  4  0  2  0  .287    Killebrew         3b  3  0  0  0  .282
+Allen,R           1b  3  0  1  1  .317    McCovey           1b  3  0  0  0  .331
+Bench             c   4  0  1  0  .166    Howard            lf  3  1  2  0  .310
+Rettenmund        lf  2  0  0  0  .174     Bradford         lf  0  0  0  0  .281
+ Francona         pr  2  0  0  0  .324    Jones,M           cf  4  1  2  2  .355
+Cardenas          ss  2  0  1  0  .263     Browne           cf  0  0  0  0  .000
+ Motton           ph  1  1  1  0  .204    Sims              c   3  0  1  0  .275
+ Etheridge        ss  1  0  0  0  .333    Menke             ss  4  1  1  1  .233
+Henderson         cf  2  0  0  0  .217    McLain            p   3  0  1  0  .129
+ Goossen          ph  1  0  0  0  .402                         31  4  9  4
+ Comer            cf  1  0  1  0  .305
+Dierker           p   2  0  0  0  .103
+ Taylor,Ca        ph  1  0  1  1  .361
+ Murphy,D         p   0  0  0  0  .000
+ Suarez           ph  1  0  0  0  .313
+                     34  2  9  2
+ 
+Hoppers                          INN  H  R ER BB  K PCH STR   ERA
+Dierker          L 4-1           6.0  8  4  4  3  6 115  65  3.02
+Murphy,D                         2.0  1  0  0  0  1  29  17  5.68
+                                 8.0  9  4  4  3  7 144  82 
+ 
+Files                            INN  H  R ER BB  K PCH STR   ERA
+McLain           W 6-3           9.0  9  2  2  1  8 139  92  3.77
+                                 9.0  9  2  2  1  8 139  92 
+ 
+HAM: Francona ran for Rettenmund in the 4th
+     Francona moved to lf in the 4th
+     Motton batted for Cardenas in the 7th
+     Goossen batted for Henderson in the 7th
+     Taylor,Ca batted for Dierker in the 7th
+     Etheridge inserted at ss in the 7th
+     Comer inserted at cf in the 7th
+     Suarez batted for Murphy,D in the 9th
+ROC: Bradford inserted at lf in the 9th
+     Browne inserted at cf in the 9th
+ 
+E-Morgan. 2B-Bench, Motton, Howard, Jones,M. HR-Hegan(7), Jones,M(13), 
+Menke(2). K-Shamsky 2, Allen,R, Bench, Rettenmund, Dierker 2, Etheridge, 
+Morgan, Hegan 2, Killebrew, McCovey, McLain 2. BB-Clarke, McCovey, Howard, 
+Sims. SF-Allen,R. HBP-Killebrew. HB-Murphy,D. WP-Dierker. 
+GWRBI: Jones,M
+Merv Rettenmund was injured for this game only
+Temperature: 83, Sky: clear, Wind: right to left at 9 MPH.
+
+....................................................................................................
+5/24/1969, HAM69-ROC69, Comiskey Park
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1969 Hoppers           0  0  0  0  0  1  1  0  0     2  9  0     7  2
+1969 Files             0  0  0  0  1  3  0  0  x     4  9  1     7  1
+ 
+ 
+Hoppers              -----A------ -----B------ -----C------ -----D------ -----E------
+Bando             3b 1>S          3>63           63           8                      
+Clarke            2b   64/f.B-1     6          6>W            7                      
+Shamsky           rf   k            S            S.1-3      8>k                      
+Allen,R           1b   S.1-3        k            8/SF.3-H     43                     
+Bench             c    63         4>53           D.1xH(862)   k                      
+Rettenmund        lf 2>k            e4.B-1                                           
+ Francona         pr                             9          9>53                     
+Cardenas          ss   S            543/gdp                                          
+ Motton           ph                           7>D                                   
+ Etheridge        ss                                          k                      
+Henderson         cf   8          5>43                                               
+ Goossen          ph                             5/fl                                
+ Comer            cf                                          S                      
+Dierker           p    k            k                                                
+ Taylor,Ca        ph                             S.2-H                               
+ Murphy,D         p                                                                  
+ Suarez           ph                                          7                      
+ 
+ 
+Files                -----A------ -----B------ -----C------ -----D------ -----E------
+Morgan            2b 1>43           k            31         7>Murphy,D               
+                                                              8                      
+Hegan             rf   S            k            HR           k                      
+Killebrew         3b   643/gdp      k            43           HBP                    
+McCovey           1b 2>k          4>W          6>9            5                      
+Howard            lf   D            wp.1-2       S          8>143                    
+                                    W                                                
+ Bradford         lf                                                                 
+Jones,M           cf   63           note 1       HR.1-H       D                      
+ Browne           cf                                                                 
+Sims              c    S.2-3        W            31           43.2-3                 
+Menke             ss   7            5/fl         HR           9                      
+McLain            p  3>S          5>k            k                                   
+ 
+ 1: 643/gdp.2-3 
+ 
+ 
+Hoppers          IN OUT ER                  Files            IN OUT ER                  
+Dierker          A1  C9  4 L 4-1            McLain           A1  D9  2 W 6-3            
+Murphy,D         D1  D8  0                                                              
+
+....................................................................................................
+5/24/1969, HAM69-ROC69, Comiskey Park
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1969 Hoppers           0  0  0  0  0  1  1  0  0     2  9  0     7  2
+1969 Files             0  0  0  0  1  3  0  0  x     4  9  1     7  1
+ 
+Score O Rnr BS  Event
+----- - --- --  -----
+ 
+**************  Top of the 1st inning, Hoppers batting
+ 0-0  0 --- 12  Bando lined a single between third and short (CBCX)
+ 0-0  0 1-- 21  Clarke grounded to short, forcing Bando at second, Clarke 
+                  to first (CBBX)
+ 0-0  1 1-- 12  Shamsky struck out (CBFS)
+ 0-0  2 1-- 32  Allen,R lined a single between third and short, Clarke to 
+                  third (11BBFBF>X)
+ 0-0  2 1-3 00  Bench grounded out to short (X)
+ 
+**************  Bottom of the 1st inning, Files batting
+ 0-0  0 --- 22  Morgan grounded out to second (FBCBFX)
+ 0-0  1 --- 20  Hegan grounded a single between third and short (BBX)
+ 0-0  1 1-- 02  Killebrew grounded into a double play, Cardenas to Clarke 
+                  to Allen,R (CFFX)
+ 
+**************  Top of the 2nd inning, Hoppers batting
+ 0-0  0 --- 32  Rettenmund struck out (CCBFBFBC)
+ 0-0  1 --- 12  Cardenas lined a single to right center (BFFX)
+ 0-0  1 1-- 11  Henderson popped out to center (BCX)
+ 0-0  2 1-- 12  Dierker struck out (1FFBS)
+ 
+**************  Bottom of the 2nd inning, Files batting
+ 0-0  0 --- 22  McCovey struck out (BCFBS)
+ 0-0  1 --- 10  Howard lined a double down the right field line (BX)
+ 0-0  1 -2- 00  Jones,M grounded out to short (X)
+ 0-0  2 -2- 01  Sims reached on an infield single to second, Howard to 
+                  third (CX)
+ 0-0  2 1-3 32  Menke lined out to left (CFBBFB>X)
+ 
+**************  Top of the 3rd inning, Hoppers batting
+ 0-0  0 --- 21  Bando grounded out to short (FBBX)
+ 0-0  1 --- 12  Clarke popped out to short (CBFFX)
+ 0-0  2 --- 00  Shamsky lined a single to shallow center (X)
+ 0-0  2 1-- 12  Allen,R struck out (BCCS)
+ 
+**************  Bottom of the 3rd inning, Files batting
+ 0-0  0 --- 12  McLain lined a single down the left field line (BCFX)
+ 0-0  0 1-- 22  Morgan struck out (CBBFS)
+ 0-0  1 1-- 22  Hegan struck out (CSBBS)
+ 0-0  2 1-- 32  Killebrew struck out (FBBFB>S)
+ 
+**************  Top of the 4th inning, Hoppers batting
+ 0-0  0 --- 22  Bench grounded out to third (BFBFX)
+ 0-0  1 --- 00  Rettenmund to first on an error by the second baseman 
+                  Morgan (X)
+                Rettenmund left the game with an injury
+                Francona pinch running for Rettenmund
+ 0-0  1 1-- 02  Cardenas grounded into a double play, Killebrew to Morgan 
+                  to McCovey (1CCX)
+ 
+**************  Bottom of the 4th inning, Files batting
+                Francona moved to left field
+ 0-0  0 --- 31  McCovey walked (CBBBB)
+ 0-0  0 1-- 00  Dierker threw a wild pitch, McCovey to second (B)
+ 0-0  0 -2- 31  Howard walked (B.BBCB)
+ 0-0  0 12- 11  Jones,M grounded into a double play, Cardenas to Clarke 
+                  to Allen,R, McCovey to third (CBX)
+ 0-0  2 --3 30  Sims walked (BBBB)
+ 0-0  2 1-3 12  Menke popped out to third (BFSX)
+ 
+**************  Top of the 5th inning, Hoppers batting
+ 0-0  0 --- 01  Henderson grounded out to second (FX)
+ 0-0  1 --- 02  Dierker struck out (CFS)
+ 0-0  2 --- 32  Bando grounded out to short (BCFFFBBX)
+ 
+**************  Bottom of the 5th inning, Files batting
+ 0-0  0 --- 02  McLain struck out (CFS)
+ 0-0  1 --- 20  Morgan grounded out to first (BBX)
+ 0-0  2 --- 11  Hegan homered deep down the right field line (BCX)
+ 0-1  2 --- 22  Killebrew grounded out to second (BCFBX)
+ 
+**************  Top of the 6th inning, Hoppers batting
+ 0-1  0 --- 30  Clarke walked (BBBB)
+ 0-1  0 1-- 02  Shamsky grounded a single between first and second, 
+                  Clarke to third (CFX)
+ 0-1  0 1-3 22  Allen,R hit a sacrifice fly to center, Clarke scored 
+                  (CSBFBX)
+ 1-1  1 1-- 21  Bench doubled deep to center, Shamsky out at home (CBBX)
+ 1-1  2 -2- 11  Francona lined out to right (CBX)
+ 
+**************  Bottom of the 6th inning, Files batting
+ 1-1  0 --- 32  McCovey flied out to right (BBBCFX)
+ 1-1  1 --- 22  Howard lined a single to shallow center (CBBCX)
+ 1-1  1 1-- 32  Jones,M homered deep to right, Howard scored (BFBCBX)
+ 1-3  1 --- 31  Sims grounded out to first (BBBCX)
+ 1-3  2 --- 12  Menke homered deep to left (BSSX)
+ 1-4  2 --- 12  McLain struck out (CFBS)
+ 
+**************  Top of the 7th inning, Hoppers batting
+                Motton pinch hitting for Cardenas
+ 1-4  0 --- 10  Motton doubled deep to left center (BX)
+                Goossen pinch hitting for Henderson
+ 1-4  0 -2- 01  Goossen popped out to third (FX)
+                Taylor,Ca pinch hitting for Dierker
+ 1-4  1 -2- 12  Taylor,Ca lined a single between third and short, Motton 
+                  scored (CBSFFX)
+ 2-4  1 1-- 10  Bando flied out to center (BX)
+ 2-4  2 1-- 10  Clarke flied out to left (BX)
+ 
+**************  Bottom of the 7th inning, Files batting
+                Etheridge now playing shortstop
+                Comer now playing center field
+                Murphy,D now pitching
+ 2-4  0 --- 22  Morgan flied out to center (CBBFX)
+ 2-4  1 --- 22  Hegan struck out (BFCFBC)
+ 2-4  2 --- 00  Killebrew was hit by a pitch (H)
+ 2-4  2 1-- 11  McCovey popped out to third (CBX)
+ 
+**************  Top of the 8th inning, Hoppers batting
+ 2-4  0 --- 32  Shamsky struck out (BBBCCS)
+ 2-4  1 --- 12  Allen,R grounded out to second (CBCX)
+ 2-4  2 --- 32  Bench struck out (CBFBBS)
+ 
+**************  Bottom of the 8th inning, Files batting
+ 2-4  0 --- 10  Howard grounded out to the mound (BX)
+ 2-4  1 --- 00  Jones,M lined a double down the right field line (X)
+ 2-4  1 -2- 31  Sims grounded out to second, Jones,M to third (BBBCX)
+ 2-4  2 --3 22  Menke flied out to right (CFBFBX)
+ 
+**************  Top of the 9th inning, Hoppers batting
+                Bradford now playing left field
+                Browne now playing center field
+ 2-4  0 --- 11  Francona grounded out to third (BFX)
+ 2-4  1 --- 32  Etheridge struck out (BFBBFS)
+ 2-4  2 --- 12  Comer reached on an infield single to second (CCBX)
+                Suarez pinch hitting for Murphy,D
+ 2-4  2 1-- 01  Suarez flied out to left (FX)
+_________________________________________________________________________________________________________
+
+5/24/1969, NOR69-QME69, Anaheim Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1969 Nor'easters       0  0  0  0  2  0  0  0  1     3  8  0     4  0
+1969 M.E.              0  0  0  0  0  0  1  2  1     4  7  1     7  3
+ 
+Nor'easters          AB  R  H BI   AVG    M.E.                 AB  R  H BI   AVG
+Blair             cf  4  0  0  0  .236    Kirkpatrick       c   3  1  2  2  .311
+Jones,C           lf  3  0  1  0  .293    Oliver,A          rf  4  0  0  0  .247
+Reese             1b  3  0  1  0  .340    Jackson,R         cf  3  1  1  0  .270
+ Hovley           pr  0  1  0  0  .500    Hickman           lf  4  1  1  2  .231
+ Horton,T         1b  0  0  0  0  .404     Bolin            p   0  0  0  0  .000
+Petrocelli        ss  4  0  0  0  .282     Bryant,R         p   0  0  0  0 1.000
+Northrup          rf  4  1  3  0  .301     Timmermann       p   0  0  0  0  .000
+McMullen          3b  4  0  1  0  .315    Cepeda            1b  3  0  0  0  .322
+Grote             c   4  1  2  1  .299    Boyer,C           3b  4  0  0  0  .285
+Fuller            2b  2  0  0  1  .278    Helms             2b  4  1  2  0  .261
+Singer            p   2  0  0  0  .139    Chaney            ss  2  0  0  0  .114
+ Unser            ph  1  0  0  0  .292     Boswell,K        ph  1  0  0  0  .256
+ Marone           p   0  0  0  0  .000     Hargan           p   0  0  0  0  .000
+                     31  3  8  2           Scheinblum       lf  0  0  0  0  .269
+                                           Alou,F           ph  1  0  0  0  .250
+                                          Moose             p   2  0  0  0  .000
+                                           Tresh            ph  2  0  1  0  .270
+                                                               33  4  7  4
+ 
+Nor'easters                      INN  H  R ER BB  K PCH STR   ERA
+Singer                           7.0  5  1  1  3  8 110  72  1.99
+Marone           BS 4, L 1-2     1.2  2  3  3  1  0  38  22  6.60
+                                 8.2  7  4  4  4  8 148  94 
+ 
+M.E.                             INN  H  R ER BB  K PCH STR   ERA
+Moose                            7.0  6  2  2  2  6  99  63  2.63
+Hargan                           1.0  0  0  0  0  1  14  10  5.70
+Bolin                            0.0  1  1  0  0  0   2   2  4.50
+Bryant,R         BS 2            0.1  1  0  0  0  0   2   2  9.26
+Timmermann       W 1-2           0.2  0  0  0  0  1   6   5  7.04
+                                 9.0  8  3  2  2  8 123  82 
+ 
+NOR: Unser batted for Singer in the 8th
+     Hovley ran for Reese in the 9th
+     Horton,T inserted at 1b in the 9th
+QME: Boswell,K batted for Chaney in the 7th
+     Tresh batted for Moose in the 7th
+     Tresh moved to ss in the 8th
+     Scheinblum inserted at lf in the 9th
+     Alou,F batted for Scheinblum in the 9th
+ 
+E-Oliver,A. 2B-Jackson,R. 3B-Grote. HR-Kirkpatrick(6), Hickman(11). K-Blair, 
+Reese, Petrocelli, McMullen, Grote, Singer 2, Unser, Jackson,R, Hickman 2, 
+Boyer,C, Chaney, Moose 2, Boswell,K. BB-Jones,C, Reese, Kirkpatrick 2, 
+Jackson,R, Cepeda. SF-Fuller. 
+GWRBI: Kirkpatrick
+Temperature: 72, Sky: clear, Wind: none.
+
+....................................................................................................
+5/24/1969, NOR69-QME69, Anaheim Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1969 Nor'easters       0  0  0  0  2  0  0  0  1     3  8  0     4  0
+1969 M.E.              0  0  0  0  0  0  1  2  1     4  7  1     7  3
+ 
+ 
+Nor'easters          -----A------ -----B------ -----C------ -----D------ -----E------
+Blair             cf 1>k            63         6>43           43                     
+Jones,C           lf   W          4>7            S            43                     
+Reese             1b   k            W            8          9>Bolin                  
+                                                              S                      
+ Hovley           pr                                                                 
+ Horton,T         1b                                                                 
+Petrocelli        ss   k            143/gdp      8            Bryant,R               
+                                                              63.1-2                 
+Northrup          rf 2>8          5>S          7>S            note 1                 
+McMullen          3b   S            k            643/gdp      Timmermann             
+                                                              63                     
+Grote             c    543/gdp      T.1-H        S            k                      
+Fuller            2b 3>8            9/SF.3-H     13                                  
+Singer            p    k            k          8>Hargan                              
+ Unser            ph                             k                                   
+ Marone           p                                                                  
+ 
+ 1: S.2-H;B-2(e9) 
+ 
+ 
+M.E.                 -----A------ -----B------ -----C------ -----D------ -----E------
+Kirkpatrick       c  1>W          3>43           W            S.3-H;1-2    HR        
+Oliver,A          rf   8            63           7            64/f                   
+Jackson,R         cf   4/L          D          6>k          8>Marone                 
+                                                              W                      
+Hickman           lf   k            k            43           HR.1-H                 
+ Bolin            p                                                                  
+ Bryant,R         p                                                                  
+ Timmermann       p                                                                  
+Cepeda            1b 2>W          4>31           8            43                     
+Boyer,C           3b   26/b/f.B-1   k          7>43           3/g                    
+Helms             2b   S.1-3        8            S            7                      
+Chaney            ss   k          5>31                                               
+ Boswell,K        ph                             k                                   
+ Hargan           p                                                                  
+ Scheinblum       lf                                                                 
+ Alou,F           ph                                        9>8                      
+Moose             p    k            k                                                
+ Tresh            ph                             S.1-3        13                     
+ 
+ 
+Nor'easters      IN OUT ER                  M.E.             IN OUT ER                  
+Singer           A1  D2  1                  Moose            A1  C8  2                  
+Marone           D3  E1  3 BS 4, L 1-2      Hargan           C9  D2  0                  
+                                            Bolin            D3  D3  0                  
+                                            Bryant,R         D4  D5  0 BS 2             
+                                            Timmermann       D6  D7  0 W 1-2            
+
+....................................................................................................
+5/24/1969, NOR69-QME69, Anaheim Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1969 Nor'easters       0  0  0  0  2  0  0  0  1     3  8  0     4  0
+1969 M.E.              0  0  0  0  0  0  1  2  1     4  7  1     7  3
+ 
+Score O Rnr BS  Event
+----- - --- --  -----
+ 
+**************  Top of the 1st inning, Nor'easters batting
+ 0-0  0 --- 12  Blair struck out (CBFFFS)
+ 0-0  1 --- 31  Jones,C walked (BSBBB)
+ 0-0  1 1-- 02  Reese struck out (1CFC)
+ 0-0  2 1-- 32  Petrocelli struck out (1C1CBpBB>C)
+ 
+**************  Bottom of the 1st inning, M.E. batting
+ 0-0  0 --- 31  Kirkpatrick walked (BBBCB)
+ 0-0  0 1-- 00  Oliver,A flied out to center (X)
+ 0-0  1 1-- 32  Jackson,R lined out to second (BBBCCX)
+ 0-0  2 1-- 12  Hickman struck out (CSFBS)
+ 
+**************  Top of the 2nd inning, Nor'easters batting
+ 0-0  0 --- 00  Northrup flied out to center (X)
+ 0-0  1 --- 00  McMullen lined a single to shallow center (X)
+ 0-0  1 1-- 22  Grote grounded into a double play, Boyer,C to Helms to 
+                  Cepeda (1CB1CBX)
+ 
+**************  Bottom of the 2nd inning, M.E. batting
+ 0-0  0 --- 31  Cepeda walked (BCBBB)
+ 0-0  0 1-- 00  Boyer,C bunted into an out to the catcher, forcing Cepeda 
+                  at second, Boyer,C to first (Xb)
+ 0-0  1 1-- 10  Helms lined a single down the right field line, Boyer,C 
+                  to third (BX)
+ 0-0  1 1-3 12  Chaney struck out (FBFC)
+ 0-0  2 1-3 12  Moose struck out (SCBC)
+ 
+**************  Top of the 3rd inning, Nor'easters batting
+ 0-0  0 --- 12  Fuller flied out to center (BSSX)
+ 0-0  1 --- 12  Singer struck out (SCBS)
+ 0-0  2 --- 10  Blair grounded out to short (BX)
+ 
+**************  Bottom of the 3rd inning, M.E. batting
+ 0-0  0 --- 02  Kirkpatrick grounded out to second (CSX)
+ 0-0  1 --- 12  Oliver,A grounded out to short (CBSX)
+ 0-0  2 --- 10  Jackson,R lined a double down the first base line (BX)
+ 0-0  2 -2- 02  Hickman struck out (CCS)
+ 
+**************  Top of the 4th inning, Nor'easters batting
+ 0-0  0 --- 31  Jones,C lined out to left (FBBBX)
+ 0-0  1 --- 31  Reese walked (BBBCB)
+ 0-0  1 1-- 10  Petrocelli grounded into a double play, Moose to Helms to 
+                  Cepeda (1BX)
+ 
+**************  Bottom of the 4th inning, M.E. batting
+ 0-0  0 --- 00  Cepeda grounded out to first (X)
+ 0-0  1 --- 02  Boyer,C struck out (CSC)
+ 0-0  2 --- 01  Helms popped out to center (CX)
+ 
+**************  Top of the 5th inning, Nor'easters batting
+ 0-0  0 --- 12  Northrup lined a single between first and second (CSBFX)
+ 0-0  0 1-- 12  McMullen struck out (SBFS)
+ 0-0  1 1-- 21  Grote lined a triple to right center, Northrup scored 
+                  (BCBX)
+ 1-0  1 --3 21  Fuller hit a sacrifice fly to right, Grote scored (CBBX)
+ 2-0  2 --- 12  Singer struck out (SFBS)
+ 
+**************  Bottom of the 5th inning, M.E. batting
+ 2-0  0 --- 22  Chaney grounded out to first (BCFFBFX)
+ 2-0  1 --- 22  Moose struck out (BFBSS)
+ 2-0  2 --- 32  Kirkpatrick walked (BBBCFFFFB)
+ 2-0  2 1-- 00  Oliver,A flied out to left (X)
+ 
+**************  Top of the 6th inning, Nor'easters batting
+ 2-0  0 --- 02  Blair grounded out to second (CSFFX)
+ 2-0  1 --- 02  Jones,C lined a single between third and short (CFX)
+ 2-0  1 1-- 01  Reese lined out to center (FX)
+ 2-0  2 1-- 32  Petrocelli flied out to center (B11BC1BF1>X)
+ 
+**************  Bottom of the 6th inning, M.E. batting
+ 2-0  0 --- 32  Jackson,R struck out (FBSFBBS)
+ 2-0  1 --- 11  Hickman grounded out to second (CBX)
+ 2-0  2 --- 22  Cepeda flied out to center (CCBBX)
+ 
+**************  Top of the 7th inning, Nor'easters batting
+ 2-0  0 --- 00  Northrup lined a single to right center (X)
+ 2-0  0 1-- 00  McMullen grounded into a double play, Chaney to Helms to 
+                  Cepeda (X)
+ 2-0  2 --- 32  Grote grounded a single up the middle (CBBSBFX)
+ 2-0  2 1-- 21  Fuller grounded out to the mound (1BBCX)
+ 
+**************  Bottom of the 7th inning, M.E. batting
+ 2-0  0 --- 12  Boyer,C grounded out to second (CCBFX)
+ 2-0  1 --- 00  Helms lined a single to left center (X)
+                Boswell,K pinch hitting for Chaney
+ 2-0  1 1-- 22  Boswell,K struck out (BFB1FFS)
+                Tresh pinch hitting for Moose
+ 2-0  2 1-- 32  Tresh singled down the right field line, Helms to third 
+                  (CFBBB>F>X)
+ 2-0  2 1-3 10  Kirkpatrick grounded a single up the middle, Helms 
+                  scored, Tresh to second (BX)
+ 2-1  2 12- 00  Oliver,A grounded to short, forcing Kirkpatrick at second 
+                  (X)
+ 
+**************  Top of the 8th inning, Nor'easters batting
+                Hargan now pitching
+                Tresh moved to shortstop
+                Unser pinch hitting for Singer
+ 2-1  0 --- 12  Unser struck out (CBCFS)
+ 2-1  1 --- 22  Blair grounded out to second (CFFBBX)
+ 2-1  2 --- 11  Jones,C grounded out to second (CBX)
+ 
+**************  Bottom of the 8th inning, M.E. batting
+                Marone now pitching
+ 2-1  0 --- 32  Jackson,R walked (SBSBBB)
+ 2-1  0 1-- 02  Hickman homered deep down the left-field line, Jackson,R 
+                  scored (SCX)
+ 2-3  0 --- 32  Cepeda grounded out to second (BBBCFX)
+ 2-3  1 --- 22  Boyer,C grounded out to first (CBCBX)
+ 2-3  2 --- 11  Helms flied out to left (BFX)
+ 
+**************  Top of the 9th inning, Nor'easters batting
+                Scheinblum now playing left field
+                Bolin now pitching
+ 2-3  0 --- 01  Reese lined a single up the middle (CX)
+                Bryant,R now pitching
+                Hovley pinch running for Reese
+ 2-3  0 1-- 00  Petrocelli grounded out to short, Hovley to second (>X)
+ 2-3  1 -2- 00  Northrup lined a single to shallow right, Hovley scored, 
+                  Northrup to second on an error by the right fielder 
+                  Oliver,A (X)
+                Timmermann now pitching
+ 3-3  1 -2- 01  McMullen grounded out to short (CX)
+ 3-3  2 -2- 12  Grote struck out (FFBC)
+ 
+**************  Bottom of the 9th inning, M.E. batting
+                Horton,T now playing first base
+                Alou,F pinch hitting for Scheinblum
+ 3-3  0 --- 01  Alou,F flied out to center (FX)
+ 3-3  1 --- 32  Tresh grounded out to the mound (BBBCFFX)
+ 3-3  2 --- 32  Kirkpatrick homered to right (BBFSBX)
+_________________________________________________________________________________________________________
+
+5/24/1969, OKI69-SAN69, Wrigley Field
+ 
+                       1  2  3  4  5  6  7  8  9 10 11     R  H  E   LOB DP
+1969 Typhoons          3  1  1  0  0  0  0  3  1  0  2    11 16  2     9  3
+1969 And Son           1  0  0  1  3  0  0  4  0  0  0     9 17  0    12  0
+ 
+Typhoons             AB  R  H BI   AVG    And Son              AB  R  H BI   AVG
+Brock             lf  5  0  0  0  .321    Alou,M            cf  6  1  2  1  .320
+Hunt              2b  5  1  1  0  .255    Kessinger         ss  5  2  1  2  .280
+Fairly            1b  5  3  3  0  .304    Harrelson,K       lf  3  2  2  1  .222
+Monday            cf  3  2  1  0  .248    Hundley           c   6  0  1  0  .285
+Johnson,A         rf  4  2  2  5  .344    Banks             1b  6  2  4  3  .362
+ Wilson,B         p   0  0  0  0  .000    Sizemore          2b  6  0  3  1  .231
+ Hedlund          p   0  0  0  0  .000    Stanley,M         rf  5  0  0  1  .227
+ Hansen           ph  1  0  0  0  .194     Lonborg          p   0  0  0  0  .000
+ Taylor,R         p   0  0  0  0  .000     Brabender        p   0  0  0  0  .000
+ Gibbs            ph  0  1  0  0  .178     Dobson,C         p   0  0  0  0  .000
+ Pattin           p   0  0  0  0  .000     Sutherland       ph  1  0  0  0  .200
+Pagan             3b  6  0  3  3  .272    Rodriguez,A       3b  4  1  1  0  .301
+Haller            c   6  1  3  1  .203     Jones,D          ph  1  0  1  0  .125
+Campaneris        ss  6  0  1  0  .244    Murphy,T          p   2  0  1  0  .071
+Hunter            p   2  0  1  1  .143     Brunet           p   0  0  0  0  .333
+ Northey          ph  1  0  0  0  .273     Kenney           ph  1  0  0  0  .355
+ Woodson          p   0  0  0  0  .000     Santorini        p   0  0  0  0  .000
+ Hinton           ph  0  0  0  0  .286     Ross             p   0  0  0  0  .000
+ Cline            rf  2  1  1  0  .448     Gamble           ph  1  1  0  0  .190
+                     46 11 16 10           Russell          rf  2  0  1  0  .212
+                                                               49  9 17  9
+ 
+Typhoons                         INN  H  R ER BB  K PCH STR   ERA
+Hunter                           6.0 10  5  5  3  4 111  72  4.42
+Woodson                          1.0  0  0  0  0  1   8   7  4.65
+Wilson,B         BS 1            0.2  4  4  2  1  0  29  15  3.04
+Hedlund                          0.1  1  0  0  0  0   3   2  0.65
+Taylor,R         W 1-2           2.0  1  0  0  1  1  27  15  3.10
+Pattin           S 1             1.0  1  0  0  0  1  12   6  9.00
+                                11.0 17  9  7  5  7 190 117 
+ 
+And Son                          INN  H  R ER BB  K PCH STR   ERA
+Murphy,T                         4.0  6  5  5  3  0  60  34  5.95
+Brunet                           2.0  1  0  0  0  1  16  11  6.35
+Santorini                        1.0  1  2  2  1  0  23  13  5.68
+Ross                             1.0  2  1  1  0  0  16  10  4.50
+Lonborg                          0.0  1  1  1  0  0   2   2  6.26
+Brabender        H 1             0.2  0  0  0  1  0  10   4  5.76
+Dobson,C         BS 1, L 1-3     2.1  5  2  2  2  1  55  31  5.70
+                                11.0 16 11 11  7  2 182 105 
+ 
+OKI: Northey batted for Hunter in the 7th
+     Hinton batted for Woodson in the 8th
+     Cline inserted at rf in the 8th
+     Hansen batted for Hedlund in the 9th
+     Gibbs batted for Taylor,R in the 11th
+SAN: Kenney batted for Brunet in the 6th
+     Gamble batted for Ross in the 8th
+     Russell inserted at rf in the 9th
+     Jones,D batted for Rodriguez,A in the 9th
+     Jones,D moved to 3b in the 10th
+     Sutherland batted for Dobson,C in the 11th
+ 
+E-Fairly, Pagan. 2B-Hunter, Banks. 3B-Fairly, Johnson,A. HR-Johnson,A(7), 
+Harrelson,K(10), Banks(4). SB-Hunt(8), Alou,M(3). CS-Hunt, Campaneris. 
+K-Monday, Hansen, Harrelson,K, Hundley 2, Banks, Sizemore, Rodriguez,A, 
+Murphy,T. BB-Brock, Hunt, Fairly, Monday 3, Gibbs, Kessinger, Harrelson,K 3, 
+Jones,D. WP-Wilson,B, Murphy,T, Santorini, Dobson,C. 
+GWRBI: Pagan
+Temperature: 69, Field: wet, Sky: threatening, Wind: left to right at 18 MPH, 
+Rain Delays: 81 and 37 minutes.
+
+....................................................................................................
+5/24/1969, OKI69-SAN69, Wrigley Field
+ 
+                       1  2  3  4  5  6  7  8  9 10 11     R  H  E   LOB DP
+1969 Typhoons          3  1  1  0  0  0  0  3  1  0  2    11 16  2     9  3
+1969 And Son           1  0  0  1  3  0  0  4  0  0  0     9 17  0    12  0
+ 
+ 
+Typhoons             -----A------ -----B------ -----C------ -----D------ -----E------
+Brock             lf 1>W            7            43           9            Brabender 
+                                                                           8         
+Hunt              2b   1          3>S          5>W            7            43.1-2    
+Fairly            1b   64/f.B-1     7            Brunet     8>S            W         
+                                                 S.1-2                               
+Monday            cf   S.1-2        SB2          note 1       wp.1-2       Dobson,C  
+                                    wp.2-3       k            W            W.2-3;1-2 
+                                    W                                                
+Johnson,A         rf   HR.2-H;1-H   6            8            Ross                   
+                                                              T.2-H;1-H              
+ Wilson,B         p                                                                  
+ Hedlund          p                                                                  
+ Hansen           ph                                                       note 2    
+                                                                           k         
+ Taylor,R         p                                                                  
+ Gibbs            ph                                                                 
+ Pattin           p                                                                  
+Pagan             3b   63           S.3-H;1-2  6>53           S.3-H      0>63        
+Haller            c  2>S            53           6            9            S         
+Campaneris        ss   8          4>8            8            46/f.B-1     S.1-2     
+Hunter            p    note 3       63         7>Santorini                           
+ Northey          ph                             13                                  
+ Woodson          p                                                                  
+ Hinton           ph                                          CS2(24)                
+ Cline            rf                                                       8.2-3     
+                                                            9>Lonborg                
+                                                              S                      
+ 
+ 1: CS3(25).1-2  2: wp.3-H;2-3;1-2  3: D.1-H;Bx3(945) 
+ 
+ 
+And Son              -----A------ -----B------ -----C------ -----D------ -----E------
+Alou,M            cf 1>53         3>63           53           S            S.3-H;1-3 
+Kessinger         ss   3/g          63         5>W            54/f.B-1     SB2       
+                                                                           S.3-H;2-H 
+Harrelson,K       lf   HR           S            W.1-2        W.1-2        wp.1-2    
+                                                                           W         
+Hundley           c    S            k            8.2-3        k            note 1    
+Banks             1b   S.1-3      4>HR           D.3-H;1-3  7>Woodson      S.3-H     
+                                                              k                      
+Sizemore          2b   3/g          S            S.3-H;2-3    43           Hedlund   
+                                                                           S.1-2     
+Stanley,M         rf 2>53           9            note 2       7            163       
+ Lonborg          p                                                                  
+ Brabender        p                                                                  
+ Dobson,C         p                                                                  
+ Sutherland       ph                                                                 
+Rodriguez,A       3b   k            14/f.B-1     13         8>Wilson,B   9>Taylor,R  
+                                                              S                      
+ Jones,D          ph                                                       W         
+Murphy,T          p    k            S.1-2                                            
+ Brunet           p                                                                  
+ Kenney           ph                           6>13                                  
+ Santorini        p                                                                  
+ Ross             p                                                                  
+ Gamble           ph                                          e5.1-3;B-1             
+ Russell          rf                                                       S.1-2     
+ 
+ 1: 643/gdp.2-3  2: 46/f.3-H;1x2;B-1 
+ 
+ 
+
+....................................................................................................
+Typhoons             -----F------ -----G------ -----H------ -----I------ -----J------
+Brock             lf   8                                                             
+                                                                                     
+Hunt              2b 1>3/L                                                           
+Fairly            1b   T                                                             
+                                                                                     
+Monday            cf   6                                                             
+                                                                                     
+                                                                                     
+Johnson,A         rf                                                                 
+                                                                                     
+ Wilson,B         p                                                                  
+ Hedlund          p                                                                  
+ Hansen           ph                                                                 
+                                                                                     
+ Taylor,R         p                                                                  
+ Gibbs            ph   W                                                             
+ Pattin           p                                                                  
+Pagan             3b   S.3-H;1-2                                                     
+Haller            c    note 1                                                        
+Campaneris        ss   53                                                            
+Hunter            p                                                                  
+ Northey          ph                                                                 
+ Woodson          p                                                                  
+ Hinton           ph                                                                 
+ Cline            rf                                                                 
+                                                                                     
+                                                                                     
+ 
+ 1: S.2-H;1-3;B-2 
+ 
+ 
+And Son              -----F------ -----G------ -----H------ -----I------ -----J------
+Alou,M            cf   8                                                             
+Kessinger         ss   543/gdp                                                       
+                                                                                     
+Harrelson,K       lf 0>k                                                             
+                                                                                     
+Hundley           c    43                                                            
+Banks             1b   53                                                            
+                                                                                     
+Sizemore          2b 1>Pattin                                                        
+                       k                                                             
+Stanley,M         rf                                                                 
+ Lonborg          p                                                                  
+ Brabender        p                                                                  
+ Dobson,C         p                                                                  
+ Sutherland       ph   e3.B-1                                                        
+Rodriguez,A       3b                                                                 
+                                                                                     
+ Jones,D          ph   S.1-3                                                         
+Murphy,T          p                                                                  
+ Brunet           p                                                                  
+ Kenney           ph                                                                 
+ Santorini        p                                                                  
+ Ross             p                                                                  
+ Gamble           ph                                                                 
+ Russell          rf   543/gdp                                                       
+ 
+ 
+Typhoons         IN OUT ER                  And Son          IN OUT ER                  
+Hunter           A1  D4  5                  Murphy,T         A1  C2  5                  
+Woodson          D5  D7  0                  Brunet           C3  C8  0                  
+Wilson,B         D8  E5  2 BS 1             Santorini        C9  D4  2                  
+Hedlund          E6  E7  0                  Ross             D5  D8  1                  
+Taylor,R         E8  F5  0 W 1-2            Lonborg          D9  D9  1                  
+Pattin           F6  F9  0 S 1              Brabender        E1  E3  0 H 1              
+                                            Dobson,C         E4  F8  2 BS 1, L 1-3      
+
+....................................................................................................
+5/24/1969, OKI69-SAN69, Wrigley Field
+ 
+                       1  2  3  4  5  6  7  8  9 10 11     R  H  E   LOB DP
+1969 Typhoons          3  1  1  0  0  0  0  3  1  0  2    11 16  2     9  3
+1969 And Son           1  0  0  1  3  0  0  4  0  0  0     9 17  0    12  0
+ 
+Score O Rnr BS  Event
+----- - --- --  -----
+ 
+**************  Top of the 1st inning, Typhoons batting
+ 0-0  0 --- 31  Brock walked (BFBBB)
+ 0-0  0 1-- 00  Hunt popped out to the mound (>X)
+ 0-0  1 1-- 01  Fairly grounded to short, forcing Brock at second, Fairly 
+                  to first (1CX)
+ 0-0  2 1-- 11  Monday reached on an infield single to second, Fairly to 
+                  second (BCX)
+ 0-0  2 12- 01  Johnson,A homered deep down the right field line, Fairly 
+                  scored, Monday scored (CX)
+ 3-0  2 --- 01  Pagan grounded out to short (CX)
+ 
+**************  Bottom of the 1st inning, And Son batting
+ 3-0  0 --- 12  Alou,M grounded out to third (CBFX)
+ 3-0  1 --- 32  Kessinger grounded out to first (FBFFBBX)
+ 3-0  2 --- 22  Harrelson,K homered deep to left (CBCBX)
+ 3-1  2 --- 21  Hundley lined a single to shallow right (BBCX)
+ 3-1  2 1-- 21  Banks lined a single to left center, Hundley to third 
+                  (FBBX)
+ 3-1  2 1-3 00  Sizemore grounded out to first (X)
+ 
+**************  Top of the 2nd inning, Typhoons batting
+ 3-1  0 --- 10  Haller grounded a single up the middle (BX)
+ 3-1  0 1-- 00  Campaneris lined out to center (X)
+ 3-1  1 1-- 22  Hunter lined a double to right center, Haller scored, 
+                  Hunter out at third (BCFbBX)
+ 4-1  2 --- 11  Brock flied out to left (FBX)
+ 
+**************  Bottom of the 2nd inning, And Son batting
+ 4-1  0 --- 10  Stanley,M grounded out to third (BX)
+ 4-1  1 --- 02  Rodriguez,A struck out (CCFFFS)
+ 4-1  2 --- 22  Murphy,T struck out (BCBCC)
+ 
+**************  Top of the 3rd inning, Typhoons batting
+ 4-1  0 --- 10  Hunt lined a single to shallow center (BX)
+ 4-1  0 1-- 20  Fairly flied out to left (1BBX)
+ 4-1  1 1-- 10  Hunt stole second (B>S)
+ 4-1  1 -2- 11  Murphy,T threw a wild pitch, Hunt to third (B>S.B)
+ 4-1  1 --3 32  Monday walked (B>S.B.SBFB)
+ 4-1  1 1-3 10  Johnson,A popped out to short (BX)
+ 4-1  2 1-3 12  Pagan grounded a single between third and short, Hunt 
+                  scored, Monday to second (CBFX)
+ 5-1  2 12- 00  Haller grounded out to third (X)
+ 
+**************  Bottom of the 3rd inning, And Son batting
+ 5-1  0 --- 22  Alou,M grounded out to short (BBCFX)
+ 5-1  1 --- 01  Kessinger grounded out to short (FX)
+ 5-1  2 --- 12  Harrelson,K grounded a single between first and second 
+                  (CSBX)
+ 5-1  2 1-- 12  Hundley struck out (CFBS)
+ 
+**************  Top of the 4th inning, Typhoons batting
+ 5-1  0 --- 10  Campaneris flied out to center (BX)
+ 5-1  1 --- 00  Hunter grounded out to short (X)
+ 5-1  2 --- 32  Brock grounded out to second (BFCBBX)
+ 
+**************  Bottom of the 4th inning, And Son batting
+ 5-1  0 --- 22  Banks homered deep down the left-field line (BCBSX)
+ 5-2  0 --- 02  Sizemore reached on an infield single to second (CFX)
+ 5-2  0 1-- 01  Stanley,M flied out to right (CX)
+ 5-2  1 1-- 10  Rodriguez,A grounded to the mound, forcing Sizemore at 
+                  second, Rodriguez,A to first (BX)
+ 5-2  2 1-- 00  Murphy,T lined a single to shallow left, Rodriguez,A to 
+                  second (X)
+                Game delayed by rain for 81 minutes
+ 5-2  2 12- 20  Alou,M grounded out to third (BBX)
+ 
+**************  Top of the 5th inning, Typhoons batting
+ 5-2  0 --- 32  Hunt walked (CBBCBB)
+                Brunet now pitching
+ 5-2  0 1-- 01  Fairly lined a single to shallow left, Hunt to second (CX)
+ 5-2  0 12- 01  Hunt was caught stealing third, Fairly to second (C>S)
+ 5-2  1 -2- 22  Monday struck out (C>S.BBC)
+ 5-2  2 -2- 01  Johnson,A flied out to center (CX)
+ 
+**************  Bottom of the 5th inning, And Son batting
+ 5-2  0 --- 31  Kessinger walked (BBCBB)
+ 5-2  0 1-- 31  Harrelson,K walked, Kessinger to second (BBBCB)
+ 5-2  0 12- 00  Hundley flied out to center, Kessinger to third (X)
+ 5-2  1 1-3 02  Banks lined a double down the third base line, Kessinger 
+                  scored, Harrelson,K to third (FCX)
+ 5-3  1 -23 00  Sizemore grounded a single between first and second, 
+                  Harrelson,K scored, Banks to third (X)
+ 5-4  1 1-3 01  Stanley,M grounded to second, forcing Sizemore at second, 
+                  Banks scored, Sizemore out at second, Stanley,M to 
+                  first (SX)
+ 5-5  2 1-- 01  Rodriguez,A grounded out to the mound (SX)
+ 
+**************  Top of the 6th inning, Typhoons batting
+ 5-5  0 --- 11  Pagan grounded out to third (FBX)
+ 5-5  1 --- 10  Haller popped out to short (BX)
+ 5-5  2 --- 10  Campaneris flied out to center (BX)
+ 
+**************  Bottom of the 6th inning, And Son batting
+                Kenney pinch hitting for Brunet
+ 5-5  0 --- 11  Kenney grounded out to the mound (CBX)
+ 5-5  1 --- 32  Alou,M reached on an infield single to the pitcher 
+                  (BBBCFFX)
+                Started raining
+ 5-5  1 1-- 12  Kessinger grounded to third, forcing Alou,M at second, 
+                  Kessinger to first (FB1SX)
+ 5-5  2 1-- 32  Harrelson,K walked, Kessinger to second (BFBBC>B)
+ 5-5  2 12- 02  Hundley struck out (C2SS)
+                Game delayed by rain for 37 minutes
+ 
+**************  Top of the 7th inning, Typhoons batting
+                Santorini now pitching
+                Northey pinch hitting for Hunter
+ 5-5  0 --- 01  Northey grounded out to the mound (CX)
+ 5-5  1 --- 22  Brock flied out to right (BCCBX)
+ 5-5  2 --- 22  Hunt flied out to left (CFBBX)
+ 
+**************  Bottom of the 7th inning, And Son batting
+                Woodson now pitching
+ 5-5  0 --- 02  Banks struck out (CCS)
+ 5-5  1 --- 12  Sizemore grounded out to second (BFFX)
+ 5-5  2 --- 00  Stanley,M flied out to left (X)
+                Started raining
+ 
+**************  Top of the 8th inning, Typhoons batting
+ 5-5  0 --- 22  Fairly lined a single to shallow left (FFBBX)
+ 5-5  0 1-- 00  Santorini threw a wild pitch, Fairly to second (B)
+ 5-5  0 -2- 32  Monday walked (B.BFbBCB)
+                Ross now pitching
+ 5-5  0 12- 00  Johnson,A tripled deep to left center, Fairly scored, 
+                  Monday scored (X)
+ 7-5  0 --3 11  Pagan lined a single to left center, Johnson,A scored 
+                  (CBX)
+ 8-5  0 1-- 32  Haller flied out to right (CCBBBX)
+ 8-5  1 1-- 02  Campaneris grounded to second, forcing Pagan at second, 
+                  Campaneris to first (C>FFX)
+                Hinton pinch hitting for Woodson
+ 8-5  2 1-- 10  Campaneris was caught stealing second (B1>B)
+ 
+**************  Bottom of the 8th inning, And Son batting
+                Cline now playing right field
+                Wilson,B now pitching
+ 8-5  0 --- 10  Rodriguez,A reached on an infield single to short (BX)
+                Gamble pinch hitting for Ross
+ 8-5  0 1-- 32  Rodriguez,A to third, Gamble to first on an error by the 
+                  third baseman Pagan (11BFBBFX)
+ 8-5  0 1-3 10  Alou,M singled down the left field line, Rodriguez,A 
+                  scored, Gamble to third (BX)
+ 8-6  0 1-3 01  Alou,M stole second (S>B)
+ 8-6  0 -23 11  Kessinger grounded a single between first and second, 
+                  Gamble scored, Alou,M scored (S>B.X)
+ 8-8  0 1-- 21  Wilson,B threw a wild pitch, Kessinger to second (BBFB)
+ 8-8  0 -2- 31  Harrelson,K walked (BBFB.B)
+ 8-8  0 12- 12  Hundley grounded into a double play, Campaneris to Hunt 
+                  to Fairly, Kessinger to third (FbBFbX)
+ 8-8  2 --3 32  Banks lined a single down the right field line, Kessinger 
+                  scored (CBBSFBX)
+                Hedlund now pitching
+ 8-9  2 1-- 10  Sizemore lined a single between third and short, Banks to 
+                  second (BX)
+ 8-9  2 12- 00  Stanley,M grounded out to the mound (X)
+ 
+**************  Top of the 9th inning, Typhoons batting
+                Russell now playing right field
+                Lonborg now pitching
+ 8-9  0 --- 01  Cline lined a single to right center (CX)
+                Brabender now pitching
+ 8-9  0 1-- 01  Brock flied out to center (FX)
+ 8-9  1 1-- 21  Hunt grounded out to second, Cline to second (BB1>FX)
+ 8-9  2 -2- 30  Fairly walked (BBBB)
+                Dobson,C now pitching
+ 8-9  2 12- 31  Monday walked, Cline to third, Fairly to second (BBBCB)
+                Hansen pinch hitting for Hedlund
+ 8-9  2 123 00  Dobson,C threw a wild pitch, Cline scored, Fairly to 
+                  third, Monday to second (B)
+ 9-9  2 -23 22  Hansen struck out (B.BCFS)
+ 
+**************  Bottom of the 9th inning, And Son batting
+                Taylor,R now pitching
+                Jones,D pinch hitting for Rodriguez,A
+ 9-9  0 --- 32  Jones,D walked (CBBBFB)
+ 9-9  0 1-- 11  Russell grounded a single up the middle, Jones,D to 
+                  second (BFX)
+ 9-9  0 12- 11  Alou,M flied out to center (BFX)
+ 9-9  1 12- 21  Kessinger grounded into a double play, Pagan to Hunt to 
+                  Fairly (BFBX)
+ 
+**************  Top of the 10th inning, Typhoons batting
+                Jones,D moved to third base
+ 9-9  0 --- 11  Pagan grounded out to short (BCX)
+ 9-9  1 --- 10  Haller grounded a single between first and second (BX)
+ 9-9  1 1-- 32  Campaneris lined a single to right, Haller to second 
+                  (SbFBBFB>FX)
+ 9-9  1 12- 11  Cline flied out to center, Haller to third (BSX)
+ 9-9  2 1-3 32  Brock lined out to center (CCBB1B>F>X)
+ 
+**************  Bottom of the 10th inning, And Son batting
+ 9-9  0 --- 12  Harrelson,K struck out (CCBS)
+ 9-9  1 --- 00  Hundley grounded out to second (X)
+ 9-9  2 --- 32  Banks grounded out to third (BCCBBX)
+ 
+**************  Top of the 11th inning, Typhoons batting
+ 9-9  0 --- 01  Hunt lined out to first (CX)
+ 9-9  1 --- 11  Fairly lined a triple down the right field line (CBX)
+ 9-9  1 --3 12  Monday popped out to short (BCFX)
+                Gibbs pinch hitting for Taylor,R
+ 9-9  2 --3 32  Gibbs walked (FBBFBFB)
+ 9-9  2 1-3 10  Pagan reached on an infield single to second, Fairly 
+                  scored, Gibbs to second (BX)
+10-9  2 12- 20  Haller grounded a single between third and short, Gibbs 
+                  scored, Pagan to third, Haller to second (BBX)
+11-9  2 -23 00  Campaneris grounded out to third (X)
+ 
+**************  Bottom of the 11th inning, And Son batting
+                Pattin now pitching
+11-9  0 --- 22  Sizemore struck out (CSBBS)
+                Sutherland pinch hitting for Dobson,C
+11-9  1 --- 10  Sutherland to first on an error by the first baseman 
+                  Fairly (BX)
+11-9  1 1-- 10  Jones,D lined a single to right center, Sutherland to 
+                  third (BX)
+11-9  1 1-3 20  Russell grounded into a double play, Pagan to Hunt to 
+                  Fairly (BBX)
+_________________________________________________________________________________________________________
+
+5/24/1969, ASP69-SOP69, Dodger Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1969 of St. Paul       0  0  0  3  2  0  0  0  3     8 13  0     8  1
+1969 Kates             0  0  1  0  1  0  0  1  3     6 15  2    11  0
+ 
+of St. Paul          AB  R  H BI   AVG    Kates                AB  R  H BI   AVG
+Wills             ss  4  0  0  0  .297    Javier            2b  5  0  3  2  .225
+Beckert           2b  5  2  2  0  .189    Mota              rf  5  0  0  1  .287
+Aaron,H           1b  4  2  1  0  .256    Carty             lf  4  1  2  0  .324
+McCarver          c   4  1  1  0  .222    Agee              cf  5  1  3  0  .287
+ Egan             ph  0  1  0  0  .116    Hiatt             c   3  0  0  0  .213
+Lefebvre          3b  4  1  2  1  .236     Conigliaro,B     ph  1  0  0  0  .367
+Oliva             lf  5  0  2  3  .303     Rodriguez,E      c   1  0  0  0  .100
+Mays              cf  5  1  2  0  .296    Cash,N            1b  4  2  3  3  .337
+Valdespino        rf  4  0  1  0  .300    Woodward          ss  2  0  1  0  .243
+Roberts           p   3  0  2  2  .417     Nash,J           p   0  0  0  0  .333
+ Ray              p   0  0  0  0  .000     Hart             ph  0  0  0  0  .250
+ Stahl            ph  1  0  0  0  .129     Britton          p   0  0  0  0  .000
+ Wood             p   0  0  0  0  .000     Martinez,J       ph  1  0  0  0  .217
+ Romo             p   0  0  0  0  .000     Wright           p   0  0  0  0  .000
+                     39  8 13  6           Hall,T           p   1  0  0  0  .200
+                                          Klimchock         3b  5  0  1  0  .371
+                                          Sutton            p   1  1  1  0  .080
+                                           Michael          ss  3  1  1  0  .278
+                                                               41  6 15  6
+ 
+of St. Paul                      INN  H  R ER BB  K PCH STR   ERA
+Roberts          W 2-0           6.0  9  2  2  2  1  95  55  3.74
+Ray              H 3             1.0  0  0  0  1  3  18  10  5.02
+Wood             H 5             0.1  2  1  1  0  0   7   4  8.04
+Romo             S 4             1.2  4  3  3  0  1  26  18  4.26
+                                 9.0 15  6  6  3  5 146  87 
+ 
+Kates                            INN  H  R ER BB  K PCH STR   ERA
+Sutton           L 5-5           4.2  9  5  4  2  4  78  49  3.15
+Nash,J                           1.1  1  0  0  0  2  16  14  2.21
+Britton                          2.0  1  0  0  1  1  38  23  6.75
+Wright                           0.2  2  3  2  1  0  10   6  5.50
+Hall,T                           0.1  0  0  0  0  1   5   3  3.07
+                                 9.0 13  8  6  4  8 147  95 
+ 
+ASP: Stahl batted for Ray in the 8th
+     Egan batted for McCarver in the 9th
+     Egan moved to c in the 9th
+SOP: Michael inserted at ss in the 5th
+     Hart batted for Nash,J in the 6th
+     Conigliaro,B batted for Hiatt in the 7th
+     Rodriguez,E inserted at c in the 8th
+     Martinez,J batted for Britton in the 8th
+ 
+E-Mota, Agee. 2B-Aaron,H, Oliva, Cash,N, Sutton, Michael. HR-Cash,N(11). 
+K-Wills, Lefebvre, Oliva, Mays 3, Valdespino, Roberts, Javier, Mota, Agee, 
+Conigliaro,B, Hall,T. BB-Wills, Aaron,H, Lefebvre, Egan, Carty, Cash,N, Hart. 
+WP-Wright. 
+GWRBI: Roberts
+Temperature: 73, Sky: clear, Wind: left to right at 6 MPH.
+
+....................................................................................................
+5/24/1969, ASP69-SOP69, Dodger Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1969 of St. Paul       0  0  0  3  2  0  0  0  3     8 13  0     8  1
+1969 Kates             0  0  1  0  1  0  0  1  3     6 15  2    11  0
+ 
+ 
+of St. Paul          -----A------ -----B------ -----C------ -----D------ -----E------
+Wills             ss 1>63           W.1-2      5>53           k            53        
+Beckert           2b   43           8            S            54/f       9>Wright    
+                                                                           S         
+Aaron,H           1b   D            64/f         W.1-2      7>Britton      e8.1-3;B-2
+                                                              63                     
+McCarver          c    8          4>S            5            43                     
+ Egan             ph                                                       wp.3-H;2-3
+                                                                           W         
+Lefebvre          3b 2>k            S.1-2        S.2-H;1-3    W            5/fl      
+Oliva             lf   9            7            S.3-H;1-2    k            note 1    
+Mays              cf   k            note 2       Nash,J     8>S            Hall,T    
+                                                 k                         k         
+Valdespino        rf 3>S            k          6>63           6/f.B-1                
+Roberts           p    k            note 3       S                                   
+ Ray              p                                                                  
+ Stahl            ph                                          63.1-2                 
+ Wood             p                                                                  
+ Romo             p                                                                  
+ 
+ 1: D.3-H;1-H;Bx3(845)  2: S.2-H;1-3;B-2(e9)  3: S.3-H;2-H;Bx2(854) 
+ 
+ 
+Kates                -----A------ -----B------ -----C------ -----D------ -----E------
+Javier            2b 1>8            S.2-H        S.2-3        k            S.3-H;1-2 
+Mota              rf   63           6            note 1     7>Ray          9         
+                                                              k                      
+Carty             lf   63           S.1-2        8            W          9>S         
+Agee              cf 2>S            5/f          S.1-2        k            S.1-3     
+Hiatt             c    7          4>13           5                                   
+ Conigliaro,B     ph                                          k                      
+ Rodriguez,E      c                                                        3/fl      
+Cash,N            1b   S.1-3        31         6>W          8>Wood         HR.3-H;1-H
+                                                              D                      
+Woodward          ss   143/gdp      S                                                
+ Nash,J           p                                                                  
+ Hart             ph                             W.1-2                               
+ Britton          p                                                                  
+ Martinez,J       ph                                          53                     
+ Wright           p                                                                  
+ Hall,T           p                                                        k         
+Klimchock         3b 3>3/g          5            7.2-3        S.2-3        43        
+Sutton            p    D                                                             
+ Michael          ss              5>D            4/fl         Romo                   
+                                                              7                      
+ 
+ 1: 64/f.3-H;1x2;B-1 
+ 
+ 
+of St. Paul      IN OUT ER                  Kates            IN OUT ER                  
+Roberts          A1  D1  2 W 2-0            Sutton           A1  C6  4 L 5-5            
+Ray              D2  D5  0 H 3              Nash,J           C7  D2  0                  
+Wood             D6  D8  1 H 5              Britton          D3  E1  0                  
+Romo             D9  E8  3 S 4              Wright           E2  E6  2                  
+                                            Hall,T           E7  E7  0                  
+
+....................................................................................................
+5/24/1969, ASP69-SOP69, Dodger Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1969 of St. Paul       0  0  0  3  2  0  0  0  3     8 13  0     8  1
+1969 Kates             0  0  1  0  1  0  0  1  3     6 15  2    11  0
+ 
+Score O Rnr BS  Event
+----- - --- --  -----
+ 
+**************  Top of the 1st inning, of St. Paul batting
+ 0-0  0 --- 00  Wills grounded out to short (X)
+ 0-0  1 --- 01  Beckert grounded out to second (FX)
+ 0-0  2 --- 11  Aaron,H doubled deep to left center (CBX)
+ 0-0  2 -2- 00  McCarver flied out to center (X)
+ 
+**************  Bottom of the 1st inning, Kates batting
+ 0-0  0 --- 11  Javier flied out to center (BCX)
+ 0-0  1 --- 21  Mota grounded out to short (CBBX)
+ 0-0  2 --- 00  Carty grounded out to short (X)
+ 
+**************  Top of the 2nd inning, of St. Paul batting
+ 0-0  0 --- 12  Lefebvre struck out (FCBS)
+ 0-0  1 --- 20  Oliva flied out to right (BBX)
+ 0-0  2 --- 22  Mays struck out (FBBCC)
+ 
+**************  Bottom of the 2nd inning, Kates batting
+ 0-0  0 --- 12  Agee reached on an infield single to second (CFBX)
+ 0-0  0 1-- 20  Hiatt flied out to left (11BBX)
+ 0-0  1 1-- 10  Cash,N lined a single to right center, Agee to third (BX)
+ 0-0  1 1-3 00  Woodward grounded into a double play, Roberts to Beckert 
+                  to Aaron,H (X)
+ 
+**************  Top of the 3rd inning, of St. Paul batting
+ 0-0  0 --- 00  Valdespino lined a single to shallow left (X)
+ 0-0  0 1-- 22  Roberts struck out (SbFbB1FBS)
+ 0-0  1 1-- 31  Wills walked, Valdespino to second (1B1BF11BB)
+ 0-0  1 12- 01  Beckert flied out to center (FX)
+ 0-0  2 12- 00  Aaron,H grounded to short, forcing Wills at second (X)
+ 
+**************  Bottom of the 3rd inning, Kates batting
+ 0-0  0 --- 11  Klimchock grounded out to first (CBX)
+ 0-0  1 --- 01  Sutton lined a double down the right field line (CX)
+ 0-0  1 -2- 21  Javier lined a single to right center, Sutton scored 
+                  (BCBX)
+ 0-1  1 1-- 31  Mota popped out to short (BBCBX)
+ 0-1  2 1-- 22  Carty lined a single to left, Javier to second (CFBFBpX)
+ 0-1  2 12- 00  Agee grounded to third, forcing Javier at third (X)
+ 
+**************  Top of the 4th inning, of St. Paul batting
+ 0-1  0 --- 22  McCarver grounded a single up the middle (CFFFBBX)
+ 0-1  0 1-- 32  Lefebvre lined a single to right, McCarver to second 
+                  (BSbBBFX)
+ 0-1  0 12- 02  Oliva flied out to left (CFX)
+ 0-1  1 12- 12  Mays lined a single to shallow right, McCarver scored, 
+                  Lefebvre to third, Mays to second on an error by the 
+                  right fielder Mota (CSBX)
+ 1-1  1 -23 12  Valdespino struck out (CBCS)
+ 1-1  2 -23 11  Roberts lined a single to center, Lefebvre scored, Mays 
+                  scored, Roberts out at second (FBX)
+ 
+**************  Bottom of the 4th inning, Kates batting
+ 3-1  0 --- 31  Hiatt grounded out to the mound (BBBCX)
+ 3-1  1 --- 21  Cash,N grounded out to first (FBBX)
+ 3-1  2 --- 00  Woodward lined a single to left center (X)
+ 3-1  2 1-- 01  Klimchock popped out to third (1CX)
+ 
+**************  Top of the 5th inning, of St. Paul batting
+ 3-1  0 --- 00  Wills grounded out to third (X)
+ 3-1  1 --- 10  Beckert grounded a single up the middle (BX)
+ 3-1  1 1-- 32  Aaron,H walked, Beckert to second (BBBCS>B)
+ 3-1  1 12- 11  McCarver popped out to third (BCX)
+ 3-1  2 12- 10  Lefebvre lined a single down the right field line, 
+                  Beckert scored, Aaron,H to third (BX)
+ 4-1  2 1-3 20  Oliva lined a single to shallow center, Aaron,H scored, 
+                  Lefebvre to second (BBX)
+                Michael now playing shortstop
+                Nash,J now pitching
+ 5-1  2 12- 12  Mays struck out (SSBFS)
+ 
+**************  Bottom of the 5th inning, Kates batting
+ 5-1  0 --- 10  Michael lined a double to left center (BX)
+ 5-1  0 -2- 22  Javier lined a single between third and short, Michael to 
+                  third (BSFFBX)
+ 5-1  0 1-3 12  Mota grounded to short, forcing Javier at second, Michael 
+                  scored, Javier out at second, Mota to first (FB>FX)
+ 5-2  1 1-- 20  Carty flied out to center (B1BX)
+ 5-2  2 1-- 32  Agee reached on an infield single to third, Mota to 
+                  second (BBSBF11>F>X)
+ 5-2  2 12- 01  Hiatt popped out to third (SX)
+ 
+**************  Top of the 6th inning, of St. Paul batting
+ 5-2  0 --- 02  Valdespino grounded out to short (FFX)
+ 5-2  1 --- 01  Roberts lined a single to right center (CX)
+ 5-2  1 1-- 12  Wills struck out (FBFFS)
+ 5-2  2 1-- 00  Beckert grounded to third, forcing Roberts at second (X)
+ 
+**************  Bottom of the 6th inning, Kates batting
+ 5-2  0 --- 31  Cash,N walked (BBBCB)
+                Hart pinch hitting for Nash,J
+ 5-2  0 1-- 31  Hart walked, Cash,N to second (BCBBB)
+ 5-2  0 12- 12  Klimchock flied out to left, Cash,N to third (CFBX)
+ 5-2  1 1-3 00  Michael popped out to second (X)
+ 5-2  2 1-3 22  Javier struck out (CFBBS)
+ 
+**************  Top of the 7th inning, of St. Paul batting
+                Britton now pitching
+ 5-2  0 --- 00  Aaron,H grounded out to short (X)
+ 5-2  1 --- 32  McCarver grounded out to second (FCBBBX)
+ 5-2  2 --- 32  Lefebvre walked (BBBCCFB)
+ 5-2  2 1-- 22  Oliva struck out (FCBBFFS)
+ 
+**************  Bottom of the 7th inning, Kates batting
+                Ray now pitching
+ 5-2  0 --- 12  Mota struck out (SFBC)
+ 5-2  1 --- 31  Carty walked (BBCBB)
+ 5-2  1 1-- 12  Agee struck out (BCCS)
+                Conigliaro,B pinch hitting for Hiatt
+ 5-2  2 1-- 22  Conigliaro,B struck out (BCCBS)
+ 
+**************  Top of the 8th inning, of St. Paul batting
+                Rodriguez,E now playing catcher
+ 5-2  0 --- 01  Mays grounded a single up the middle (CX)
+ 5-2  0 1-- 11  Valdespino grounded to short, forcing Mays at second, 
+                  Valdespino to first (FBX)
+                Stahl pinch hitting for Ray
+ 5-2  1 1-- 32  Stahl grounded out to short, Valdespino to second 
+                  (BFCBBFX)
+ 5-2  2 -2- 22  Wills grounded out to third (BBCFX)
+ 
+**************  Bottom of the 8th inning, Kates batting
+                Wood now pitching
+ 5-2  0 --- 11  Cash,N grounded a double down the third base line (BCX)
+                Martinez,J pinch hitting for Britton
+ 5-2  0 -2- 10  Martinez,J grounded out to third (BX)
+ 5-2  1 -2- 10  Klimchock grounded a single between first and second, 
+                  Cash,N to third (BX)
+                Romo now pitching
+ 5-2  1 1-3 00  Michael popped out to left (X)
+ 5-2  2 1-3 01  Javier grounded a single between first and second, Cash,N 
+                  scored, Klimchock to second (CX)
+ 5-3  2 12- 00  Mota flied out to right (X)
+ 
+**************  Top of the 9th inning, of St. Paul batting
+                Wright now pitching
+ 5-3  0 --- 00  Beckert lined a single to center (X)
+ 5-3  0 1-- 00  Beckert to third, Aaron,H to second on an error by the 
+                  center fielder Agee (X)
+                Egan pinch hitting for McCarver
+ 5-3  0 -23 20  Wright threw a wild pitch, Beckert scored, Aaron,H to 
+                  third (BBB)
+ 6-3  0 --3 31  Egan walked (BBB.CB)
+ 6-3  0 1-3 00  Lefebvre popped out to third (X)
+ 6-3  1 1-3 01  Oliva lined a double to right center, Aaron,H scored, 
+                  Egan scored, Oliva out at third (CX)
+                Hall,T now pitching
+ 8-3  2 --- 22  Mays struck out (CBBCC)
+ 
+**************  Bottom of the 9th inning, Kates batting
+                Egan moved to catcher
+ 8-3  0 --- 22  Carty grounded a single up the middle (CBBFX)
+ 8-3  0 1-- 02  Agee lined a single to right center, Carty to third (CCX)
+ 8-3  0 1-3 10  Rodriguez,E popped out to first (BX)
+ 8-3  1 1-3 21  Cash,N homered deep to right center, Carty scored, Agee 
+                  scored (BBFX)
+ 8-6  1 --- 12  Hall,T struck out (BFFC)
+ 8-6  2 --- 21  Klimchock grounded out to second (FBBX)
+_________________________________________________________________________________________________________
+
+5/24/1969, CST69-AVI69, Crosley Field
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1969 Peccadillos       0  1  1  2  0  0  0  0  0     4  3  1     8  1
+1969 Chili Peppers     0  0  3  0  0  0  1  0  1     5 10  0    13  0
+ 
+Peccadillos          AB  R  H BI   AVG    Chili Peppers        AB  R  H BI   AVG
+Buford            lf  4  0  0  1  .271    Rose              rf  4  1  2  0  .303
+Fregosi           ss  4  0  0  1  .215    Kelly,P           cf  4  2  4  1  .273
+Staub             rf  4  1  1  1  .293     Cardenal         ph  1  0  0  0  .262
+Parker            1b  3  0  0  0  .239    May,C             lf  3  2  0  0  .326
+Crawford          cf  3  0  0  1  .253    May,L             1b  5  0  2  2  .298
+ Hamilton,S       p   0  0  0  0  .000    Melton            3b  4  0  0  0  .169
+ Johnson,Da       2b  0  0  0  0  .295    Schofield         2b  4  0  1  0  .250
+Allen,B           2b  3  0  0  0  .235    Herrmann          c   2  0  0  1  .174
+ Johnson,De       ph  1  0  0  0  .115     Dyer             ph  0  0  0  0  .231
+ Roland           p   0  0  0  0  .000    Harrelson,B       ss  4  0  0  1  .280
+ Morris,J         p   0  0  0  0  .000    Ryan,N            p   2  0  0  0  .100
+Bailey            3b  3  2  1  0  .277     Fuentes,T        ph  1  0  1  0  .390
+Dietz             c   1  1  0  0  .213     May,R            p   1  0  0  0  .077
+Culp              p   1  0  0  0  .120                         35  5 10  5
+ Taylor,Ch        p   1  0  0  0  .000
+ Maye             cf  1  0  1  0  .333
+                     29  4  3  4
+ 
+Peccadillos                      INN  H  R ER BB  K PCH STR   ERA
+Culp                             3.2  6  3  3  4  4  79  45  4.17
+Taylor,Ch                        2.1  1  0  0  0  1  26  17  5.06
+Hamilton,S       BS 1            1.0  2  1  1  0  1  20  17  5.11
+Roland                           1.0  1  0  0  1  2  22  14  4.24
+Morris,J         L 0-1           0.2  0  1  1  4  0  26   8 24.30
+                                 8.2 10  5  5  9  8 173 101 
+ 
+Chili Peppers                    INN  H  R ER BB  K PCH STR   ERA
+Ryan,N                           6.0  2  4  4  9  8 121  63  2.53
+May,R            W 2-3           3.0  1  0  0  0  4  47  31  3.81
+                                 9.0  3  4  4  9 12 168  94 
+ 
+CST: Maye inserted at cf in the 7th
+     Johnson,De batted for Allen,B in the 8th
+     Johnson,Da inserted at 2b in the 8th
+AVI: Fuentes,T batted for Ryan,N in the 6th
+     Dyer batted for Herrmann in the 8th
+     Cardenal batted for Kelly,P in the 8th
+     Dyer moved to c in the 9th
+     Cardenal moved to cf in the 9th
+ 
+E-Dietz. 2B-Staub, Rose, Kelly,P. SB-Kelly,P(7). K-Buford 3, Fregosi, Parker, 
+Crawford, Allen,B 2, Bailey, Culp, Taylor,Ch, Johnson,De, Rose, May,L, 
+Melton 2, Ryan,N 2, May,R, Cardenal. BB-Buford, Fregosi, Staub, Parker, 
+Crawford, Bailey, Dietz 3, Rose, May,C 2, Melton, Schofield, Herrmann, 
+Harrelson,B, Dyer 2. SH-Culp. 
+GWRBI: Harrelson,B
+Temperature: 75, Sky: partly cloudy, Wind: out to right at 14 MPH.
+
+....................................................................................................
+5/24/1969, CST69-AVI69, Crosley Field
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1969 Peccadillos       0  1  1  2  0  0  0  0  0     4  3  1     8  1
+1969 Chili Peppers     0  0  3  0  0  0  1  0  1     5 10  0    13  0
+ 
+ 
+Peccadillos          -----A------ -----B------ -----C------ -----D------ -----E------
+Buford            lf 1>k            53.3-H;2-3   W.2-3;1-2    k            k         
+Fregosi           ss   63           53           note 1       k            7         
+Staub             rf   W          3>D            note 2     7>May,R        43        
+                                                              7                      
+Parker            1b   W.1-2        9.2-3        k            43                     
+Crawford          cf   W.2-3;1-2    53.3-H     5>53           k                      
+ Hamilton,S       p                                                                  
+ Johnson,Da       2b                                                                 
+Allen,B           2b   k            k            63                                  
+ Johnson,De       ph                                        8>k                      
+ Roland           p                                                                  
+ Morris,J         p                                                                  
+Bailey            3b 2>W          4>S            8            k                      
+Dietz             c    W.1-2        W.1-2      6>W            9                      
+Culp              p    note 3       k/b                                              
+ Taylor,Ch        p                              k                                   
+ Maye             cf                                        9>S                      
+ 
+ 1: W.3-H;2-3;1-2  2: 53.3-H;2-3;1-2  3: 14/SH.2-3;1-2 
+ 
+ 
+Chili Peppers        -----A------ -----B------ -----C------ -----D------ -----E------
+Rose              rf 1>W            D            9            k            S.1-2     
+Kelly,P           cf   S.1-2        D.2-H        S          7>Hamilton,S             
+                                                              S                      
+ Cardenal         ph                                                       k         
+May,C             lf   note 1       W            Taylor,Ch    43.1-2     9>Morris,J  
+                                                 note 2                    W         
+                                                 43                                  
+May,L             1b   k            S.2-H;1-3  5>7            S.2-H        9         
+Melton            3b 2>63           k            43           k            W.1-2     
+Schofield         2b   S            W.1-2        3/L          31           note 3    
+Herrmann          c    46/f.B-1     note 4     6>63         8>Roland                 
+ Dyer             ph                                          W            W.1-2     
+Harrelson,B       ss   43           43           9            5/fl         note 5    
+Ryan,N            p  3>k          4>k                                                
+ Fuentes,T        ph                             S                                   
+ May,R            p                                           k                      
+ 
+ 1: 643/gdp.2-3  2: SB2.1-3(e2/th)  3: 46/f.2-3;B-1  4: W.3-H;2-3;1-2 
+ 5: W.3-H;2-3;1-2 
+ 
+ 
+Peccadillos      IN OUT ER                  Chili Peppers    IN OUT ER                  
+Culp             A1  C2  3                  Ryan,N           A1  D2  4                  
+Taylor,Ch        C3  D1  0                  May,R            D3  E3  0 W 2-3            
+Hamilton,S       D2  D6  1 BS 1                                                         
+Roland           D7  E2  0                                                              
+Morris,J         E3  E8  1 L 0-1                                                        
+
+....................................................................................................
+5/24/1969, CST69-AVI69, Crosley Field
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1969 Peccadillos       0  1  1  2  0  0  0  0  0     4  3  1     8  1
+1969 Chili Peppers     0  0  3  0  0  0  1  0  1     5 10  0    13  0
+ 
+Score O Rnr BS  Event
+----- - --- --  -----
+ 
+**************  Top of the 1st inning, Peccadillos batting
+ 0-0  0 --- 32  Buford struck out (BBBCFFC)
+ 0-0  1 --- 10  Fregosi grounded out to short (BX)
+ 0-0  2 --- 31  Staub walked (BBFBB)
+ 0-0  2 1-- 32  Parker walked, Staub to second (BB1BCF>F>B)
+ 0-0  2 12- 30  Crawford walked, Staub to third, Parker to second (BBBB)
+ 0-0  2 123 32  Allen,B struck out (CBBFB>F>F>S)
+ 
+**************  Bottom of the 1st inning, Chili Peppers batting
+ 0-0  0 --- 31  Rose walked (BBBCB)
+ 0-0  0 1-- 02  Kelly,P reached on an infield single to third, Rose to 
+                  second (CCX)
+ 0-0  0 12- 22  May,C grounded into a double play, Fregosi to Allen,B to 
+                  Parker, Rose to third (BCFBFX)
+ 0-0  2 --3 02  May,L struck out (CFFS)
+ 
+**************  Top of the 2nd inning, Peccadillos batting
+ 0-0  0 --- 31  Bailey walked (BBFBB)
+ 0-0  0 1-- 30  Dietz walked, Bailey to second (BBBB)
+ 0-0  0 12- 00  Culp sacrifice bunted to the mound, Bailey to third, 
+                  Dietz to second (Xb)
+ 0-0  1 -23 00  Buford grounded out to third, Bailey scored, Dietz to 
+                  third (X)
+ 1-0  2 --3 32  Fregosi grounded out to third (BBCBCX)
+ 
+**************  Bottom of the 2nd inning, Chili Peppers batting
+ 1-0  0 --- 01  Melton grounded out to short (CX)
+ 1-0  1 --- 20  Schofield lined a single to shallow left (BBX)
+ 1-0  1 1-- 01  Herrmann grounded to second, forcing Schofield at second, 
+                  Herrmann to first (CX)
+ 1-0  2 1-- 21  Harrelson,B grounded out to second (CBBX)
+ 
+**************  Top of the 3rd inning, Peccadillos batting
+ 1-0  0 --- 00  Staub grounded a double down the first base line (X)
+ 1-0  0 -2- 32  Parker flied out to right, Staub to third (CBBCBX)
+ 1-0  1 --3 00  Crawford grounded out to third, Staub scored (X)
+ 2-0  2 --- 02  Allen,B struck out (CCFFC)
+ 
+**************  Bottom of the 3rd inning, Chili Peppers batting
+ 2-0  0 --- 02  Ryan,N struck out (SFC)
+ 2-0  1 --- 31  Rose lined a double to right center (CBBBX)
+ 2-0  1 -2- 21  Kelly,P doubled deep to left center, Rose scored (CBBX)
+ 2-1  1 -2- 32  May,C walked (BFCBBB)
+ 2-1  1 12- 10  May,L lined a single to left center, Kelly,P scored, 
+                  May,C to third (BX)
+ 2-2  1 1-3 32  Melton struck out (BFF1BBC)
+ 2-2  2 1-3 32  Schofield walked, May,L to second (1BBCSFB>B)
+ 2-2  2 123 32  Herrmann walked, May,C scored, May,L to third, Schofield 
+                  to second (BBFBS>B)
+ 2-3  2 123 21  Harrelson,B grounded out to second (BCBX)
+ 
+**************  Top of the 4th inning, Peccadillos batting
+ 2-3  0 --- 01  Bailey grounded a single between third and short (SX)
+ 2-3  0 1-- 32  Dietz walked, Bailey to second (B1FB1CFBB)
+ 2-3  0 12- 02  Culp struck out on a fouled bunt (CbSbFb)
+ 2-3  1 12- 30  Buford walked, Bailey to third, Dietz to second (BBBB)
+ 2-3  1 123 31  Fregosi walked, Bailey scored, Dietz to third, Buford to 
+                  second (BBBCB)
+ 3-3  1 123 11  Staub grounded out to third, Dietz scored, Buford to 
+                  third, Fregosi to second (BCX)
+ 4-3  2 -23 32  Parker struck out (CBBFBS)
+ 
+**************  Bottom of the 4th inning, Chili Peppers batting
+ 4-3  0 --- 02  Ryan,N struck out (CCS)
+ 4-3  1 --- 01  Rose flied out to right (FX)
+ 4-3  2 --- 10  Kelly,P reached on an infield single to first (BX)
+                Taylor,Ch now pitching
+ 4-3  2 1-- 10  Kelly,P stole second, Kelly,P to third on an error by the 
+                  catcher Dietz (B>B)
+ 4-3  2 --3 20  May,C grounded out to second (B>B.X)
+ 
+**************  Top of the 5th inning, Peccadillos batting
+ 4-3  0 --- 01  Crawford grounded out to third (CX)
+ 4-3  1 --- 12  Allen,B grounded out to short (BCSX)
+ 4-3  2 --- 02  Bailey flied out to center (SCX)
+ 
+**************  Bottom of the 5th inning, Chili Peppers batting
+ 4-3  0 --- 21  May,L flied out to left (CBBX)
+ 4-3  1 --- 01  Melton grounded out to second (CX)
+ 4-3  2 --- 11  Schofield lined out to first (FBX)
+ 
+**************  Top of the 6th inning, Peccadillos batting
+ 4-3  0 --- 31  Dietz walked (BBCBB)
+ 4-3  0 1-- 02  Taylor,Ch struck out (FbSFS)
+ 4-3  1 1-- 12  Buford struck out (CFBC)
+ 4-3  2 1-- 32  Fregosi struck out (FSBBB>S)
+ 
+**************  Bottom of the 6th inning, Chili Peppers batting
+ 4-3  0 --- 10  Herrmann grounded out to short (BX)
+ 4-3  1 --- 12  Harrelson,B flied out to right (CBFX)
+                Fuentes,T pinch hitting for Ryan,N
+ 4-3  2 --- 12  Fuentes,T reached on an infield single to the pitcher 
+                  (FBFX)
+ 4-3  2 1-- 12  Rose struck out (SBFS)
+ 
+**************  Top of the 7th inning, Peccadillos batting
+                May,R now pitching
+ 4-3  0 --- 00  Staub flied out to left (X)
+ 4-3  1 --- 12  Parker grounded out to second (BCSX)
+ 4-3  2 --- 12  Crawford struck out (BFCS)
+ 
+**************  Bottom of the 7th inning, Chili Peppers batting
+                Maye now playing center field
+                Hamilton,S now pitching
+ 4-3  0 --- 12  Kelly,P reached on an infield single to third (FFBFX)
+ 4-3  0 1-- 01  May,C grounded out to second, Kelly,P to second (1SX)
+ 4-3  1 -2- 02  May,L lined a single down the right field line, Kelly,P 
+                  scored (CSX)
+ 4-4  1 1-- 12  Melton struck out (BCCS)
+ 4-4  2 1-- 12  Schofield grounded out to first (1CSFBFX)
+ 
+**************  Top of the 8th inning, Peccadillos batting
+                Johnson,De pinch hitting for Allen,B
+ 4-4  0 --- 32  Johnson,De struck out (BCBSBS)
+ 4-4  1 --- 32  Bailey struck out (BBFBFFS)
+ 4-4  2 --- 32  Dietz flied out to right (CBBBSFX)
+ 
+**************  Bottom of the 8th inning, Chili Peppers batting
+                Johnson,Da now playing second base
+                Roland now pitching
+                Dyer pinch hitting for Herrmann
+ 4-4  0 --- 32  Dyer walked (FBBFFBB)
+ 4-4  0 1-- 22  Harrelson,B popped out to third (FFFBBX)
+ 4-4  1 1-- 12  May,R struck out (BCFS)
+ 4-4  2 1-- 00  Rose lined a single to left, Dyer to second (X)
+                Cardenal pinch hitting for Kelly,P
+ 4-4  2 12- 12  Cardenal struck out (CBFS)
+ 
+**************  Top of the 9th inning, Peccadillos batting
+                Dyer moved to catcher
+                Cardenal moved to center field
+ 4-4  0 --- 12  Maye grounded a single up the middle (SFFBX)
+ 4-4  0 1-- 12  Buford struck out (S1BFS)
+ 4-4  1 1-- 11  Fregosi lined out to left (CBX)
+ 4-4  2 1-- 22  Staub grounded out to second (CFBFBX)
+ 
+**************  Bottom of the 9th inning, Chili Peppers batting
+                Morris,J now pitching
+ 4-4  0 --- 31  May,C walked (BBBCB)
+ 4-4  0 1-- 00  May,L popped out to right (X)
+ 4-4  1 1-- 30  Melton walked, May,C to second (BBBB)
+ 4-4  1 12- 22  Schofield grounded to second, forcing Melton at second, 
+                  May,C to third, Schofield to first (BBCFX)
+ 4-4  2 1-3 31  Dyer walked, Schofield to second (CBBBB)
+ 4-4  2 123 32  Harrelson,B walked, May,C scored, Schofield to third, 
+                  Dyer to second (BFBBS>B)
+_________________________________________________________________________________________________________
+
+5/24/1969, SPP69-H5069, Yankee Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1969 Peeps             1  0  0  0  0  1  0  0  1     3  6  0     6  0
+1969 Five-O            0  0  0  0  0  0  0  0  0     0  0  2     1  1
+ 
+Peeps                AB  R  H BI   AVG    Five-O               AB  R  H BI   AVG
+Tovar             2b  4  0  0  0  .339    Mincher           1b  3  0  0  0  .248
+Callison          rf  4  2  1  1  .256    Murcer            cf  3  0  0  0  .253
+Yastrzemski       lf  3  0  0  0  .199    Robinson,F        lf  3  0  0  0  .287
+Powell            1b  3  0  0  0  .259    Stargell          rf  3  0  0  0  .305
+Uhlaender         cf  3  0  2  1  .258    Robinson,Br       3b  3  0  0  0  .172
+ Flood            ph  1  1  1  0  .162    May,J             c   3  0  0  0  .202
+Popovich          3b  4  0  0  0  .250    Cox,B             2b  3  0  0  0  .293
+Freehan           c   4  0  1  1  .228     Burgmeier        p   0  0  0  0  .111
+Brinkman,E        ss  3  0  1  0  .368     Shaw             p   0  0  0  0  .000
+Palmer,J          p   4  0  0  0  .214    Brown,L           ss  2  0  0  0  .305
+                     33  3  6  3           Johnstone        ph  1  0  0  0  .250
+                                          Miller,B          p   2  0  0  0  .000
+                                           Andrews          2b  1  0  0  0  .289
+                                                               27  0  0  0
+ 
+Peeps                            INN  H  R ER BB  K PCH STR   ERA
+Palmer,J         W 5-2           9.0  0  0  0  1  8 101  67  2.75
+                                 9.0  0  0  0  1  8 101  67 
+ 
+Five-O                           INN  H  R ER BB  K PCH STR   ERA
+Miller,B         L 1-2           8.0  4  2  1  2  1 112  73  2.90
+Burgmeier                        0.2  2  1  1  0  0  13   8  5.10
+Shaw                             0.1  0  0  0  1  0   8   4  2.08
+                                 9.0  6  3  2  3  1 133  85 
+ 
+SPP: Flood batted for Uhlaender in the 9th
+     Flood moved to cf in the 9th
+H50: Andrews inserted at 2b in the 9th
+     Johnstone batted for Brown,L in the 9th
+ 
+E-Cox,B, Brown,L. HR-Callison(4). K-Palmer,J, Mincher, Murcer, Robinson,F, 
+Robinson,Br 2, May,J 2, Johnstone. BB-Yastrzemski, Powell, Brinkman,E, 
+Mincher. 
+GWRBI: Uhlaender
+Temperature: 59, Sky: cloudy, Wind: right to left at 2 MPH.
+
+....................................................................................................
+5/24/1969, SPP69-H5069, Yankee Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1969 Peeps             1  0  0  0  0  1  0  0  1     3  6  0     6  0
+1969 Five-O            0  0  0  0  0  0  0  0  0     0  0  2     1  1
+ 
+ 
+Peeps                -----A------ -----B------ -----C------ -----D------ -----E------
+Tovar             2b 1>9            9            5/L          7                      
+Callison          rf   e6.B-2     3>63         6>HR         8>3/g                    
+Yastrzemski       lf   43.2-3       43           W            7                      
+Powell            1b   IW           2/fl         63/gdp       63                     
+Uhlaender         cf   S.3-H;1-2  4>43           S          9>Burgmeier              
+ Flood            ph                                          S                      
+Popovich          3b   5/fl         4/L          53           53.1-2                 
+Freehan           c  2>63           3          7>53           note 1                 
+Brinkman,E        ss   S          5>8            8            Shaw                   
+                                                              W                      
+Palmer,J          p    k            3            e4.B-1       7                      
+ 
+ 1: S.2-H;Bx2(936) 
+ 
+ 
+Five-O               -----A------ -----B------ -----C------ -----D------ -----E------
+Mincher           1b 1>8          4>W            9            k                      
+Murcer            cf   53           7          7>k                                   
+Robinson,F        lf   53           k            63                                  
+Stargell          rf 2>6            8            8                                   
+Robinson,Br       3b   53         5>k          8>k                                   
+May,J             c    53           k            k                                   
+Cox,B             2b 3>63           3/fl         8                                   
+ Burgmeier        p                                                                  
+ Shaw             p                                                                  
+Brown,L           ss   63         6>53                                               
+ Johnstone        ph                           9>k                                   
+Miller,B          p    43           43                                               
+ Andrews          2b                             63                                  
+ 
+ 
+Peeps            IN OUT ER                  Five-O           IN OUT ER                  
+Palmer,J         A1  D1  0 W 5-2            Miller,B         A1  D4  1 L 1-2            
+                                            Burgmeier        D5  D7  1                  
+                                            Shaw             D8  D9  0                  
+
+....................................................................................................
+5/24/1969, SPP69-H5069, Yankee Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1969 Peeps             1  0  0  0  0  1  0  0  1     3  6  0     6  0
+1969 Five-O            0  0  0  0  0  0  0  0  0     0  0  2     1  1
+ 
+Score O Rnr BS  Event
+----- - --- --  -----
+ 
+**************  Top of the 1st inning, Peeps batting
+ 0-0  0 --- 12  Tovar flied out to right (CCFBX)
+ 0-0  1 --- 12  Callison to second on an error by the shortstop Brown,L 
+                  (CBFX)
+ 0-0  1 -2- 21  Yastrzemski grounded out to second, Callison to third 
+                  (BCBX)
+ 0-0  2 --3 30  Powell was walked intentionally (IIII)
+ 0-0  2 1-3 01  Uhlaender lined a single to shallow center, Callison 
+                  scored, Powell to second (1CX)
+ 1-0  2 12- 01  Popovich popped out to third (FX)
+ 
+**************  Bottom of the 1st inning, Five-O batting
+ 1-0  0 --- 10  Mincher flied out to center (BX)
+ 1-0  1 --- 11  Murcer grounded out to third (BCX)
+ 1-0  2 --- 21  Robinson,F grounded out to third (BCBX)
+ 
+**************  Top of the 2nd inning, Peeps batting
+ 1-0  0 --- 11  Freehan grounded out to short (FBX)
+ 1-0  1 --- 11  Brinkman,E grounded a single up the middle (BCX)
+ 1-0  1 1-- 02  Palmer,J struck out (SbSS)
+ 1-0  2 1-- 12  Tovar flied out to right (CBFX)
+ 
+**************  Bottom of the 2nd inning, Five-O batting
+ 1-0  0 --- 10  Stargell popped out to short (BX)
+ 1-0  1 --- 21  Robinson,Br grounded out to third (BBCX)
+ 1-0  2 --- 21  May,J grounded out to third (BBCX)
+ 
+**************  Top of the 3rd inning, Peeps batting
+ 1-0  0 --- 12  Callison grounded out to short (BCFX)
+ 1-0  1 --- 22  Yastrzemski grounded out to second (BCBFX)
+ 1-0  2 --- 30  Powell popped out to the catcher (BBBX)
+ 
+**************  Bottom of the 3rd inning, Five-O batting
+ 1-0  0 --- 32  Cox,B grounded out to short (BCBBCX)
+ 1-0  1 --- 12  Brown,L grounded out to short (CSBX)
+ 1-0  2 --- 00  Miller,B grounded out to second (X)
+ 
+**************  Top of the 4th inning, Peeps batting
+ 1-0  0 --- 32  Uhlaender grounded out to second (BBFFFBX)
+ 1-0  1 --- 20  Popovich lined out to second (BBX)
+ 1-0  2 --- 02  Freehan popped out to first (FFFX)
+ 
+**************  Bottom of the 4th inning, Five-O batting
+ 1-0  0 --- 31  Mincher walked (SBBBB)
+ 1-0  0 1-- 01  Murcer flied out to left (CX)
+ 1-0  1 1-- 02  Robinson,F struck out (C1CC)
+ 1-0  2 1-- 01  Stargell flied out to center (FX)
+ 
+**************  Top of the 5th inning, Peeps batting
+ 1-0  0 --- 01  Brinkman,E lined out to center (CX)
+ 1-0  1 --- 11  Palmer,J popped out to first (BCX)
+ 1-0  2 --- 11  Tovar lined out to third (BCX)
+ 
+**************  Bottom of the 5th inning, Five-O batting
+ 1-0  0 --- 22  Robinson,Br struck out (BFBFFFFC)
+ 1-0  1 --- 12  May,J struck out (CBCS)
+ 1-0  2 --- 11  Cox,B popped out to first (CBX)
+ 
+**************  Top of the 6th inning, Peeps batting
+ 1-0  0 --- 10  Callison homered deep down the right field line (BX)
+ 2-0  0 --- 31  Yastrzemski walked (BSBBB)
+ 2-0  0 1-- 22  Powell grounded into a double play, Brown,L to Mincher 
+                  (CCBB1X)
+ 2-0  2 --- 11  Uhlaender lined a single up the middle (BFX)
+ 2-0  2 1-- 11  Popovich grounded out to third (11CBX)
+ 
+**************  Bottom of the 6th inning, Five-O batting
+ 2-0  0 --- 22  Brown,L grounded out to third (BCFBX)
+ 2-0  1 --- 12  Miller,B grounded out to second (BCFX)
+ 2-0  2 --- 01  Mincher flied out to right (CX)
+ 
+**************  Top of the 7th inning, Peeps batting
+ 2-0  0 --- 31  Freehan grounded out to third (BCBBX)
+ 2-0  1 --- 12  Brinkman,E flied out to center (CCBX)
+ 2-0  2 --- 02  Palmer,J to first on an error by the second baseman Cox,B 
+                  (FFX)
+ 2-0  2 1-- 02  Tovar flied out to left (CFX)
+ 
+**************  Bottom of the 7th inning, Five-O batting
+ 2-0  0 --- 12  Murcer struck out (CCBC)
+ 2-0  1 --- 11  Robinson,F grounded out to short (BSX)
+ 2-0  2 --- 01  Stargell lined out to center (CX)
+ 
+**************  Top of the 8th inning, Peeps batting
+ 2-0  0 --- 12  Callison grounded out to first (BSFX)
+ 2-0  1 --- 12  Yastrzemski flied out to left (CBCX)
+ 2-0  2 --- 01  Powell grounded out to short (SX)
+ 
+**************  Bottom of the 8th inning, Five-O batting
+ 2-0  0 --- 12  Robinson,Br struck out (CCBC)
+ 2-0  1 --- 02  May,J struck out (CCC)
+ 2-0  2 --- 11  Cox,B flied out to center (BCX)
+ 
+**************  Top of the 9th inning, Peeps batting
+                Andrews now playing second base
+                Burgmeier now pitching
+                Flood pinch hitting for Uhlaender
+ 2-0  0 --- 31  Flood lined a single up the middle (BBBCX)
+ 2-0  0 1-- 22  Popovich grounded out to third, Flood to second (FbFBBX)
+ 2-0  1 -2- 02  Freehan lined a single to right, Flood scored, Freehan 
+                  out at second (FSX)
+                Shaw now pitching
+ 3-0  2 --- 32  Brinkman,E walked (BBCFBB)
+ 3-0  2 1-- 01  Palmer,J flied out to left (CX)
+ 
+**************  Bottom of the 9th inning, Five-O batting
+                Flood moved to center field
+                Johnstone pinch hitting for Brown,L
+ 3-0  0 --- 22  Johnstone struck out (BBFFC)
+ 3-0  1 --- 11  Andrews grounded out to short (CBX)
+ 3-0  2 --- 32  Mincher struck out (FFBBBS)
+_________________________________________________________________________________________________________
+
+5/24/1969, AND69-RIN69, Tiger Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1969 Anacondas         1  0  0  0  0  0  0  0  1     2  8  2    11  1
+1969 Ringlings         1  0  0  1  0  2  3  0  x     7  9  1     7  0
+ 
+Anacondas            AB  R  H BI   AVG    Ringlings            AB  R  H BI   AVG
+White,R           lf  4  0  1  0  .269    Smith,R           cf  5  1  2  0  .271
+McAuliffe         2b  5  0  1  0  .289    Williams,BL       rf  5  0  0  1  .235
+Epstein           1b  4  1  1  0  .290    Colbert           1b  3  1  1  1  .238
+Bonds             cf  4  0  0  0  .290    Hisle             lf  3  1  0  0  .283
+Kaline            rf  3  0  1  0  .269    Nettles           3b  3  2  1  1  .239
+Sanguillen        c   4  0  1  0  .278    McNertney         c   3  1  1  1  .197
+Aparicio          ss  4  0  1  0  .285    Patek             ss  3  1  2  0  .262
+Harper            3b  3  0  0  0  .297    Harmon            2b  4  0  2  1  .177
+ Briggs           ph  1  0  0  0  .133    Drago             p   2  0  0  2  .048
+Lolich            p   3  0  1  0  .136     Lee,L            ph  1  0  0  0  .250
+ Fisher,E         p   0  0  0  0  .000     Billingham       p   0  0  0  0  .000
+ Ward             ph  1  1  1  1  .323     Gladding         p   0  0  0  0  .333
+                     36  2  8  1                               32  7  9  7
+ 
+Anacondas                        INN  H  R ER BB  K PCH STR   ERA
+Lolich           L 4-4           6.1  8  7  6  4  6 131  76  4.83
+Fisher,E                         1.2  1  0  0  0  1  15  11  5.40
+                                 8.0  9  7  6  4  7 146  87 
+ 
+Ringlings                        INN  H  R ER BB  K PCH STR   ERA
+Drago            W 4-3           8.0  5  1  0  3  5 138  84  3.22
+Billingham                       0.2  2  1  1  1  0  21   8  3.62
+Gladding                         0.1  1  0  0  0  1   8   5  1.01
+                                 9.0  8  2  1  4  6 167  97 
+ 
+AND: Briggs batted for Harper in the 9th
+     Ward batted for Fisher,E in the 9th
+RIN: Lee,L batted for Drago in the 8th
+ 
+E-McAuliffe, Harper, Smith,R. 2B-Lolich. 3B-Smith,R, Nettles. HR-Ward(2), 
+Colbert(5). SB-White,R(13). K-White,R, Bonds 3, Sanguillen, Harper, Smith,R, 
+Colbert, Hisle 2, McNertney, Drago, Lee,L. BB-White,R, Epstein, Bonds, 
+Kaline, Colbert, Hisle, Nettles, Patek. SF-McNertney, Drago. WP-Lolich. 
+GWRBI: Drago
+Temperature: 74, Sky: cloudy, Wind: out to left at 12 MPH.
+
+....................................................................................................
+5/24/1969, AND69-RIN69, Tiger Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1969 Anacondas         1  0  0  0  0  0  0  0  1     2  8  2    11  1
+1969 Ringlings         1  0  0  1  0  2  3  0  x     7  9  1     7  0
+ 
+ 
+Anacondas            -----A------ -----B------ -----C------ -----D------ -----E------
+White,R           lf 1>k            S.2-3        8          7>2/fl         W         
+McAuliffe         2b   5/fl         4/L          53           8            S.1-2     
+Epstein           1b   W            SB2        5>53           9            Gladding  
+                                    63                                     S.2-3;1-2 
+Bonds             cf   W.1-2      3>k            k(23)      8>8            k         
+Kaline            rf   W.2-3;1-2    S            63           7                      
+Sanguillen        c    note 1       S.1-2      6>7            k                      
+Aparicio          ss   53           note 2       S          9>Billingham             
+                                                              63                     
+Harper            3b 2>63           53           k                                   
+ Briggs           ph                                          5                      
+Lolich            p    D          4>9            7                                   
+ Fisher,E         p                                                                  
+ Ward             ph                                          HR                     
+ 
+ 1: e8.3-H;2-3;1-2;B-1  2: 54/f.2-3;B-1 
+ 
+ 
+Ringlings            -----A------ -----B------ -----C------ -----D------ -----E------
+Smith,R           cf 1>T          3>8            k            7            S         
+Williams,BL       rf   63.3-H       8          5>9          7>63           43        
+Colbert           1b   8            W            k            HR                     
+Hisle             lf   63           k            k            W                      
+Nettles           3b 2>W          4>e4.B-1     6>2/fl         T.1-H                  
+McNertney         c    463/gdp      k            S            Fisher,E               
+                                                              8/SF.3-H               
+Patek             ss   S            wp.1-2       S.1-3        9                      
+                                    W                                                
+Harmon            2b   e5.1-2;B-1   S.2-3;1-2    S.3-H;1-3  8>3/g                    
+Drago             p    k            note 1       8/SF.3-H                            
+ Lee,L            ph                                          k                      
+ Billingham       p                                                                  
+ Gladding         p                                                                  
+ 
+ 1: 43.3-H;2-3;1-2 
+ 
+ 
+Anacondas        IN OUT ER                  Ringlings        IN OUT ER                  
+Lolich           A1  D5  6 L 4-4            Drago            A1  D6  0 W 4-3            
+Fisher,E         D6  E2  0                  Billingham       D7  E2  1                  
+                                            Gladding         E3  E4  0                  
+
+....................................................................................................
+5/24/1969, AND69-RIN69, Tiger Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1969 Anacondas         1  0  0  0  0  0  0  0  1     2  8  2    11  1
+1969 Ringlings         1  0  0  1  0  2  3  0  x     7  9  1     7  0
+ 
+Score O Rnr BS  Event
+----- - --- --  -----
+ 
+**************  Top of the 1st inning, Anacondas batting
+ 0-0  0 --- 02  White,R struck out (CCC)
+ 0-0  1 --- 21  McAuliffe popped out to third (CBBX)
+ 0-0  2 --- 31  Epstein walked (BFBBB)
+ 0-0  2 1-- 32  Bonds walked, Epstein to second (FBBFB>B)
+ 0-0  2 12- 32  Kaline walked, Epstein to third, Bonds to second 
+                  (BCCBB>F>B)
+ 0-0  2 123 10  Epstein scored, Bonds to third, Kaline to second, 
+                  Sanguillen to first on an error by the center fielder 
+                  Smith,R (BX)
+ 1-0  2 123 12  Aparicio grounded out to third (CCBX)
+ 
+**************  Bottom of the 1st inning, Ringlings batting
+ 1-0  0 --- 12  Smith,R lined a triple to shallow center (BCCX)
+ 1-0  0 --3 21  Williams,BL grounded out to short, Smith,R scored (CBBX)
+ 1-1  1 --- 21  Colbert lined out to center (BBCX)
+ 1-1  2 --- 01  Hisle grounded out to short (SX)
+ 
+**************  Top of the 2nd inning, Anacondas batting
+ 1-1  0 --- 22  Harper grounded out to short (CBBFX)
+ 1-1  1 --- 22  Lolich lined a double to right center (BBSSX)
+ 1-1  1 -2- 10  White,R lined a single to left, Lolich to third (BX)
+ 1-1  1 1-3 32  McAuliffe lined out to second (FB1FBFFBX)
+ 1-1  2 1-3 00  White,R stole second (>C)
+ 1-1  2 -23 21  Epstein grounded out to short (>C.BBX)
+ 
+**************  Bottom of the 2nd inning, Ringlings batting
+ 1-1  0 --- 30  Nettles walked (BBBB)
+ 1-1  0 1-- 32  McNertney grounded into a double play, McAuliffe to 
+                  Aparicio to Epstein (BBBCFX)
+ 1-1  2 --- 22  Patek lined a single to center (SFBBX)
+ 1-1  2 1-- 01  Patek to second, Harmon to first on an error by the third 
+                  baseman Harper (CX)
+ 1-1  2 12- 32  Drago struck out (BCBSB>S)
+ 
+**************  Top of the 3rd inning, Anacondas batting
+ 1-1  0 --- 12  Bonds struck out (CCBC)
+ 1-1  1 --- 10  Kaline lined a single to left center (BX)
+ 1-1  1 1-- 01  Sanguillen lined a single to center, Kaline to second (FX)
+ 1-1  1 12- 12  Aparicio grounded to third, forcing Sanguillen at second, 
+                  Kaline to third, Aparicio to first (FBFFFX)
+ 1-1  2 1-3 00  Harper grounded out to third (X)
+ 
+**************  Bottom of the 3rd inning, Ringlings batting
+ 1-1  0 --- 00  Smith,R flied out to center (X)
+ 1-1  1 --- 31  Williams,BL lined out to center (BBCBX)
+ 1-1  2 --- 32  Colbert walked (CBFBFBFB)
+ 1-1  2 1-- 12  Hisle struck out (1BC11C1FFS)
+ 
+**************  Top of the 4th inning, Anacondas batting
+ 1-1  0 --- 20  Lolich lined out to right (BBX)
+ 1-1  1 --- 10  White,R popped out to center (BX)
+ 1-1  2 --- 21  McAuliffe grounded out to third (BCBX)
+ 
+**************  Bottom of the 4th inning, Ringlings batting
+ 1-1  0 --- 01  Nettles to first on an error by the second baseman 
+                  McAuliffe (SX)
+ 1-1  0 1-- 32  McNertney struck out (BBBCSb1FC)
+ 1-1  1 1-- 21  Lolich threw a wild pitch, Nettles to second (CBBB)
+ 1-1  1 -2- 31  Patek walked (CBBB.B)
+ 1-1  1 12- 21  Harmon reached on an infield single to the catcher, 
+                  Nettles to third, Patek to second (CBBX)
+ 1-1  1 123 32  Drago grounded out to second, Nettles scored, Patek to 
+                  third, Harmon to second (CBSBBX)
+ 1-2  2 -23 02  Smith,R struck out (CCS)
+ 
+**************  Top of the 5th inning, Anacondas batting
+ 1-2  0 --- 22  Epstein grounded out to third (CFBBX)
+ 1-2  1 --- 32  Bonds struck out, McNertney to Colbert (BCBFBS)
+ 1-2  2 --- 02  Kaline grounded out to short (FCX)
+ 
+**************  Bottom of the 5th inning, Ringlings batting
+ 1-2  0 --- 32  Williams,BL flied out to right (BBBCFFX)
+ 1-2  1 --- 32  Colbert struck out (BFFFBBS)
+ 1-2  2 --- 02  Hisle struck out (CFC)
+ 
+**************  Top of the 6th inning, Anacondas batting
+ 1-2  0 --- 22  Sanguillen flied out to left (FBSBX)
+ 1-2  1 --- 12  Aparicio lined a single to shallow right (CBSX)
+ 1-2  1 1-- 22  Harper struck out (BBFFS)
+ 1-2  2 1-- 21  Lolich flied out to left (BBCX)
+ 
+**************  Bottom of the 6th inning, Ringlings batting
+ 1-2  0 --- 31  Nettles popped out to the catcher (BBBCX)
+ 1-2  1 --- 00  McNertney lined a single to left center (X)
+ 1-2  1 1-- 22  Patek lined a single to right center, McNertney to third 
+                  (FBFBX)
+ 1-2  1 1-3 00  Harmon lined a single to left center, McNertney scored, 
+                  Patek to third (X)
+ 1-3  1 1-3 00  Drago hit a sacrifice fly to center, Patek scored (X)
+ 1-4  2 1-- 01  Smith,R flied out to left (CX)
+ 
+**************  Top of the 7th inning, Anacondas batting
+ 1-4  0 --- 00  White,R popped out to the catcher (X)
+ 1-4  1 --- 00  McAuliffe flied out to center (X)
+ 1-4  2 --- 12  Epstein flied out to right (BFCFFFX)
+ 
+**************  Bottom of the 7th inning, Ringlings batting
+ 1-4  0 --- 11  Williams,BL grounded out to short (BFX)
+ 1-4  1 --- 12  Colbert homered deep down the left-field line (BSFX)
+ 1-5  1 --- 31  Hisle walked (BBBCB)
+ 1-5  1 1-- 11  Nettles tripled deep to right center, Hisle scored (BCX)
+                Fisher,E now pitching
+ 1-6  1 --3 00  McNertney hit a sacrifice fly to center, Nettles scored 
+                  (X)
+ 1-7  2 --- 10  Patek flied out to right (BX)
+ 
+**************  Top of the 8th inning, Anacondas batting
+ 1-7  0 --- 32  Bonds flied out to center (SCBFBBX)
+ 1-7  1 --- 10  Kaline flied out to left (BX)
+ 1-7  2 --- 32  Sanguillen struck out (BFBBFFFFS)
+ 
+**************  Bottom of the 8th inning, Ringlings batting
+ 1-7  0 --- 12  Harmon grounded out to first (FFBX)
+                Lee,L pinch hitting for Drago
+ 1-7  1 --- 12  Lee,L struck out (SBFC)
+ 1-7  2 --- 01  Smith,R lined a single to shallow center (FX)
+ 1-7  2 1-- 10  Williams,BL grounded out to second (BX)
+ 
+**************  Top of the 9th inning, Anacondas batting
+                Billingham now pitching
+ 1-7  0 --- 20  Aparicio grounded out to short (BBX)
+                Briggs pinch hitting for Harper
+ 1-7  1 --- 32  Briggs popped out to third (CBBCBX)
+                Ward pinch hitting for Fisher,E
+ 1-7  2 --- 31  Ward homered deep down the right field line (BBSBX)
+ 2-7  2 --- 31  White,R walked (BFBBB)
+ 2-7  2 1-- 10  McAuliffe lined a single to shallow center, White,R to 
+                  second (BX)
+                Gladding now pitching
+ 2-7  2 12- 21  Epstein lined a single to right, White,R to third, 
+                  McAuliffe to second (BBCX)
+ 2-7  2 123 12  Bonds struck out (CBFS)
+_________________________________________________________________________________________________________
+
+5/24/1969, CCA69-CAR69, Busch Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1969 Apollos           0  0  0  0  4  0  0  0  0     4  5  0     6  1
+1969 Hairies           0  0  0  0  0  0  0  0  0     0  3  0     7  0
+ 
+Apollos              AB  R  H BI   AVG    Hairies              AB  R  H BI   AVG
+Tolan             cf  5  1  1  4  .291    Fiore             lf  3  0  0  0  .278
+Torre             c   4  0  1  0  .202    Wynn              rf  3  0  2  0  .232
+Perez,T           3b  3  0  0  0  .257    Carew             2b  3  0  0  0  .331
+Piniella          lf  4  0  1  0  .225    Davis,W           cf  2  0  0  0  .313
+ Gaspar           lf  0  0  0  0  .179    Scott             1b  4  0  0  0  .289
+Smith,W           rf  4  0  0  0  .155    Munson            c   4  0  0  0  .229
+Blefary           1b  2  0  0  0  .287    Rader             3b  2  0  0  0  .319
+Millan            2b  3  1  1  0  .268     Scherman         p   0  0  0  0  .000
+Belanger          ss  4  1  0  0  .262     Stroud           ph  1  0  0  0  .231
+Giusti            p   2  1  0  0  .250     Walker           p   0  0  0  0  .000
+ Lum              ph  1  0  1  0  .206     Cram             p   0  0  0  0  .000
+ Cloninger        p   0  0  0  0  .000     Rudi             ph  1  0  0  0  .222
+                     32  4  5  4          Money             ss  2  0  0  0  .239
+                                          Tiant             p   1  0  0  0  .263
+                                           Stewart          3b  2  0  1  0  .526
+                                                               28  0  3  0
+ 
+Apollos                          INN  H  R ER BB  K PCH STR   ERA
+Giusti           W 4-2           8.0  3  0  0  6  2 126  66  5.82
+Cloninger                        1.0  0  0  0  0  1   8   6  6.17
+                                 9.0  3  0  0  6  3 134  72 
+ 
+Hairies                          INN  H  R ER BB  K PCH STR   ERA
+Tiant            L 4-3           4.1  2  4  4  4  3  74  42  4.31
+Scherman                         2.2  1  0  0  0  2  30  25  3.00
+Walker                           1.0  1  0  0  1  0  20   9  3.63
+Cram                             1.0  1  0  0  0  1  13  10  4.66
+                                 9.0  5  4  4  5  6 137  86 
+ 
+CCA: Gaspar inserted at lf in the 8th
+     Lum batted for Giusti in the 9th
+CAR: Stewart inserted at 3b in the 5th
+     Stroud batted for Scherman in the 7th
+     Rudi batted for Cram in the 9th
+ 
+HR-Tolan(5). CS-Wynn. K-Tolan, Perez,T, Smith,W, Belanger 2, Giusti, Fiore, 
+Carew, Munson. BB-Perez,T, Blefary 2, Millan, Giusti, Fiore, Wynn, Carew, 
+Davis,W 2, Money. 
+GWRBI: Tolan
+Temperature: 84, Sky: clear, Wind: right to left at 4 MPH.
+
+....................................................................................................
+5/24/1969, CCA69-CAR69, Busch Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1969 Apollos           0  0  0  0  4  0  0  0  0     4  5  0     6  1
+1969 Hairies           0  0  0  0  0  0  0  0  0     0  3  0     7  0
+ 
+ 
+Apollos              -----A------ -----B------ -----C------ -----D------ -----E------
+Tolan             cf 1>k            9            note 1       43           43        
+Torre             c    3            13           Scherman   8>Walker                 
+                                                 S            8                      
+Perez,T           3b   7          4>6            k            W                      
+Piniella          lf 2>63           9            43           S.1-2                  
+ Gaspar           lf                                                                 
+Smith,W           rf   9            k          6>8            8                      
+Blefary           1b   W          5>W            43           5/f                    
+Millan            2b   W.1-2        S.1-3        8          9>Cram                   
+                                                              4                      
+Belanger          ss   k            note 2     7>3            k                      
+Giusti            p  3>43           W.2-3;1-2    k                                   
+ Lum              ph                                          S                      
+ Cloninger        p                                                                  
+ 
+ 1: HR.3-H;2-H;1-H  2: 32.3xH;1-2;B-1 
+ 
+ 
+Hairies              -----A------ -----B------ -----C------ -----D------ -----E------
+Fiore             lf 1>8            W            k          8>43                     
+Wynn              rf   S            S.1-2        53/gdp       W                      
+Carew             2b   W.1-2        k          6>9            64/f.B-1               
+Davis,W           cf   note 1       9            W            43                     
+                       W                                                             
+Scott             1b   31         4>63           63.1-2     9>Cloninger              
+                                                              4                      
+Munson            c  2>8            7            13           k                      
+Rader             3b   5/L          63                                               
+ Scherman         p                                                                  
+ Stroud           ph                           7>7                                   
+ Walker           p                                                                  
+ Cram             p                                                                  
+ Rudi             ph                                          8                      
+Money             ss   8          5>W            5                                   
+Tiant             p  3>9                                                             
+ Stewart          3b                S.1-2        63                                  
+ 
+ 1: CS3(25).1-2 
+ 
+ 
+Apollos          IN OUT ER                  Hairies          IN OUT ER                  
+Giusti           A1  D4  0 W 4-2            Tiant            A1  C1  4 L 4-3            
+Cloninger        D5  D7  0                  Scherman         C2  D1  0                  
+                                            Walker           D2  D6  0                  
+                                            Cram             D7  E1  0                  
+
+....................................................................................................
+5/24/1969, CCA69-CAR69, Busch Stadium
+ 
+                       1  2  3  4  5  6  7  8  9     R  H  E   LOB DP
+1969 Apollos           0  0  0  0  4  0  0  0  0     4  5  0     6  1
+1969 Hairies           0  0  0  0  0  0  0  0  0     0  3  0     7  0
+ 
+Score O Rnr BS  Event
+----- - --- --  -----
+ 
+**************  Top of the 1st inning, Apollos batting
+ 0-0  0 --- 12  Tolan struck out (CBFS)
+ 0-0  1 --- 02  Torre popped out to first (CCX)
+ 0-0  2 --- 22  Perez,T flied out to left (BFBSX)
+ 
+**************  Bottom of the 1st inning, Hairies batting
+ 0-0  0 --- 00  Fiore flied out to center (X)
+ 0-0  1 --- 32  Wynn reached on an infield single to short (CBFBBX)
+ 0-0  1 1-- 32  Carew walked, Wynn to second (1BCFFB1BB)
+ 0-0  1 12- 00  Wynn was caught stealing third, Carew to second (>B)
+ 0-0  2 -2- 31  Davis,W walked (>B.FBBB)
+ 0-0  2 12- 20  Scott grounded out to first (BB2X)
+ 
+**************  Top of the 2nd inning, Apollos batting
+ 0-0  0 --- 01  Piniella grounded out to short (CX)
+ 0-0  1 --- 32  Smith,W flied out to right (BFFBBX)
+ 0-0  2 --- 31  Blefary walked (BFBBB)
+ 0-0  2 1-- 32  Millan walked, Blefary to second (CCB1BB>B)
+ 0-0  2 12- 22  Belanger struck out (CBBFFFS)
+ 
+**************  Bottom of the 2nd inning, Hairies batting
+ 0-0  0 --- 10  Munson flied out to center (BX)
+ 0-0  1 --- 01  Rader lined out to third (CX)
+ 0-0  2 --- 01  Money flied out to center (CX)
+ 
+**************  Top of the 3rd inning, Apollos batting
+ 0-0  0 --- 12  Giusti grounded out to second (CBFX)
+ 0-0  1 --- 01  Tolan flied out to right (FX)
+ 0-0  2 --- 01  Torre grounded out to the mound (CX)
+ 
+**************  Bottom of the 3rd inning, Hairies batting
+ 0-0  0 --- 00  Tiant flied out to right (X)
+ 0-0  1 --- 31  Fiore walked (CBBBB)
+ 0-0  1 1-- 02  Wynn lined a single to shallow left, Fiore to second (CFX)
+ 0-0  1 12- 12  Carew struck out (SSFBS)
+ 0-0  2 12- 10  Davis,W lined out to right (BX)
+ 
+**************  Top of the 4th inning, Apollos batting
+ 0-0  0 --- 12  Perez,T popped out to short (BCSX)
+ 0-0  1 --- 32  Piniella lined out to right (BCCBBX)
+ 0-0  2 --- 12  Smith,W struck out (BCCS)
+ 
+**************  Bottom of the 4th inning, Hairies batting
+ 0-0  0 --- 01  Scott grounded out to short (FX)
+ 0-0  1 --- 20  Munson flied out to left (BBX)
+ 0-0  2 --- 32  Rader grounded out to short (SBFBFBFX)
+ 
+**************  Top of the 5th inning, Apollos batting
+ 0-0  0 --- 31  Blefary walked (BCBBB)
+ 0-0  0 1-- 10  Millan singled down the right field line, Blefary to 
+                  third (BbX)
+ 0-0  0 1-3 10  Belanger grounded to first, Blefary out at home, Millan 
+                  to second, Belanger to first (BX)
+ 0-0  1 12- 30  Giusti walked, Millan to third, Belanger to second (BB2BB)
+ 0-0  1 123 00  Tolan homered deep to right, Millan scored, Belanger 
+                  scored, Giusti scored (X)
+                Stewart now playing third base
+                Scherman now pitching
+ 4-0  1 --- 11  Torre lined a single to right center (CBX)
+ 4-0  1 1-- 12  Perez,T struck out (BCSFC)
+ 4-0  2 1-- 01  Piniella grounded out to second (CX)
+ 
+**************  Bottom of the 5th inning, Hairies batting
+ 4-0  0 --- 30  Money walked (BBBB)
+ 4-0  0 1-- 22  Stewart grounded a single up the middle, Money to second 
+                  (SBFBX)
+ 4-0  0 12- 32  Fiore struck out (CBBBSS)
+ 4-0  1 12- 22  Wynn grounded into a double play, Perez,T to Blefary 
+                  (CBBSX)
+ 
+**************  Top of the 6th inning, Apollos batting
+ 4-0  0 --- 02  Smith,W flied out to center (CFX)
+ 4-0  1 --- 12  Blefary grounded out to second (BFSX)
+ 4-0  2 --- 11  Millan flied out to center (BCX)
+ 
+**************  Bottom of the 6th inning, Hairies batting
+ 4-0  0 --- 00  Carew flied out to right (X)
+ 4-0  1 --- 32  Davis,W walked (BSFBBB)
+ 4-0  1 1-- 32  Scott grounded out to short, Davis,W to second 
+                  (BFSFFBBF11>X)
+ 4-0  2 -2- 22  Munson grounded out to the mound (SBBCX)
+ 
+**************  Top of the 7th inning, Apollos batting
+ 4-0  0 --- 00  Belanger popped out to first (X)
+ 4-0  1 --- 02  Giusti struck out (CFFFC)
+ 4-0  2 --- 12  Tolan grounded out to second (CBFX)
+ 
+**************  Bottom of the 7th inning, Hairies batting
+                Stroud pinch hitting for Scherman
+ 4-0  0 --- 32  Stroud lined out to left (BBCBSX)
+ 4-0  1 --- 22  Money popped out to third (BFSBX)
+ 4-0  2 --- 20  Stewart grounded out to short (BBX)
+ 
+**************  Top of the 8th inning, Apollos batting
+                Walker now pitching
+ 4-0  0 --- 22  Torre flied out to center (CBCBX)
+ 4-0  1 --- 31  Perez,T walked (SBBBB)
+ 4-0  1 1-- 20  Piniella lined a single to shallow center, Perez,T to 
+                  second (BBX)
+ 4-0  1 12- 22  Smith,W flied out to center (BBFSX)
+ 4-0  2 12- 10  Blefary grounded to third, forcing Perez,T at third (BX)
+ 
+**************  Bottom of the 8th inning, Hairies batting
+                Gaspar now playing left field
+ 4-0  0 --- 11  Fiore grounded out to second (CBX)
+ 4-0  1 --- 31  Wynn walked (BBCBB)
+ 4-0  1 1-- 10  Carew grounded to short, forcing Wynn at second, Carew to 
+                  first (BX)
+ 4-0  2 1-- 21  Davis,W grounded out to second (BBCX)
+ 
+**************  Top of the 9th inning, Apollos batting
+                Cram now pitching
+ 4-0  0 --- 11  Millan popped out to second (CBX)
+ 4-0  1 --- 12  Belanger struck out (CBFS)
+                Lum pinch hitting for Giusti
+ 4-0  2 --- 12  Lum grounded a single up the middle (BFFX)
+ 4-0  2 1-- 01  Tolan grounded out to second (FX)
+ 
+**************  Bottom of the 9th inning, Hairies batting
+                Cloninger now pitching
+ 4-0  0 --- 00  Scott popped out to second (X)
+ 4-0  1 --- 22  Munson struck out (CFBBFC)
+                Rudi pinch hitting for Cram
+ 4-0  2 --- 00  Rudi flied out to center (X)
+
+=========================================================================================================
+PLAYING TIME REPORT (no platoon limits)
+
+                          HBSL Team Status -- 1969 Northfield Nor'easters                           
+                                 Regular season -- as of 5/24/1969                                  
+
+                          Usage  Inj ---Simulated PA--- Real PA  BFC  
+S Name                        % Days  Total  vs L  vs R   Total   Cum 
+  Rich Reese                 39    0    177    24   153     451       
+  Cleon Jones                36    0    199    47   152     558       
+d Dick Green                 35   16    196    41   155     553       
+  Ray Fosse                  35    0     44    22    22     126    69 
+  Rico Petrocelli            33    0    209    51   158     643       
+  Jerry Grote                31    0    127    20   107     406   226 
+  Jim Northrup               29    0    177    44   133     602       
+  Ken McMullen               29    0    184    44   140     642       
+  Paul Blair                 22    0    150    34   116     685       
+  Del Unser                  12    0     75     7    68     649       
+  Steve Hovley               11    0     40    11    29     364       
+  Bob Allison                10    0     21    11    10     220       
+  Tony Horton                 8    0     51    32    19     669       
+  Vern Fuller                 7    0     19     7    12     280       
+  Hal Lanier                  2    0     12     6     6     537       
+  Danny Cater                 1    0      9     4     5     620       
+f Bob Didier                  0    0      0     0     0     397       
+f Fran Healy                  0    0      0     0     0      10       
+f John Bateman                0    0      0     0     0     249       
+f Tim Cullen                  0    0      0     0     0     277       
+f J.C. Martin                 0    0      0     0     0     192       
+f Al Weis                     0    0      0     0     0     269       
+f Jose Arcia                  0    0      0     0     0     321       
+f Gus Gil                     0    0      0     0     0     241       
+f Bobby Wine                  0    0      0     0     0     403       
+  Total                                1690   405  1285   10364       
+
+
+
+                          Usage  Inj -----BFP-----            -------------Pitches Thrown------------- 
+S Name                        % Days    Sim   Real       Last   5/24   5/23   5/22   5/21   5/20   Cum 
+  Lou Marone                 46    0     65    140  5/24/1969    38r                                38 
+  Pete Mikkelsen             40    0    134    336  5/22/1969                  15r    27r    20r    42 
+  Don McMahon                35    0     85    245  5/16/1969                                          
+  Vida Blue                  34    0     64    191  5/22/1969                  96s                  96 
+  Steve Carlton              31    0    302    968  5/23/1969          133s                        133 
+  Bill Singer                28    0    356   1263  5/24/1969   110s                               110 
+  Mike Cuellar               24    0    272   1137  5/20/1969                                95s       
+  Juan Marichal              22    0    262   1176  5/21/1969                         82s           82 
+  Mudcat Grant               13    0     63    504  5/20/1969                                25r       
+  Dave Boswell                7    0     75   1070  5/21/1969                         21r    14r    21 
+f Jack DiLauro                0    0      0    256                                                     
+f Dooley Womack               0    0      0    276                                                     
+f Dan Osinski                 0    0      0    253                                                     
+f Mike Nagy                   0    0      0    870                                                     
+f Paul Doyle                  0    0      0    154                                                     
+  Total                                1678   8839                                                     
+_________________________________________________________________________________________________________
+
+
+                              HBSL Team Status -- 1969 Rockford Files                               
+                                 Regular season -- as of 5/24/1969                                  
+
+                          Usage  Inj ---Simulated PA--- Real PA  BFC  
+S Name                        % Days  Total  vs L  vs R   Total   Cum 
+  Von Joshua                 63    0      5     1     4       8       
+  Mike Hegan                 48    0    160    27   133     333       
+  Duke Sims                  33    0    133    19   114     399   212 
+  Willie McCovey             30    0    187    62   125     623       
+  Mack Jones                 30    0    160    33   127     542       
+  Harmon Killebrew           28    0    199    60   139     709       
+  Frank Howard               28    0    194    64   130     702       
+  Joe Morgan                 27    0    177    30   147     657       
+  Denis Menke                27    0    176    66   110     657       
+  Frank Fernandez            27    0     79    46    33     298   131 
+  Chico Salmon               26    0     27     3    24     104       
+  Ted Savage                 23    0     30    28     2     132       
+  Brant Alyea                22    0     62    39    23     276       
+  Buddy Bradford             11    0     35    26     9     313       
+  Byron Browne                8    0      5     2     3      64       
+  Al Ferrara                  5    0     21     8    13     421       
+f Toby Harrah                 0    0      0     0     0       1       
+f Don Pavletich               0    0      0     0     0     219       
+f Angel Bravo                 0    0      0     0     0      95       
+f Bill Heath                  0    0      0     0     0      45       
+f Woodie Held                 0    0      0     0     0      79       
+f Ken Rudolph                 0    0      0     0     0      40       
+f Johnny Jeter                0    0      0     0     0      32       
+f Jim Holt                    0    0      0     0     0      14       
+f Bob Rodgers                 0    0      0     0     0      52       
+  Total                                1650   514  1136    6815       
+
+
+
+                          Usage  Inj -----BFP-----            -------------Pitches Thrown------------- 
+S Name                        % Days    Sim   Real       Last   5/24   5/23   5/22   5/21   5/20   Cum 
+  Marcelino Lopez            39    0    116    299  5/22/1969                  50r           18r    50 
+  Hoyt Wilhelm               37    0    111    303  5/22/1969                  38r    10r           48 
+  Ken Brett                  37    0     65    178  5/20/1969                                 7r       
+  Jack Aker                  31    0    109    348  5/22/1969                  31r           20r    31 
+  Jim Perry                  31    0    337   1079  5/22/1969                  57s                  57 
+  Ron Perranoski             30    0    145    484  5/23/1969           26r    19r    18r           63 
+  Denny McLain               28    0    371   1304  5/24/1969   139s                         67s   139 
+  Sam McDowell               26    0    304   1166  5/21/1969                        117s          117 
+  Bob Veale                  22    0    217    980  5/23/1969          129s                        129 
+f Danny Coombs                0    0      0     36                                                     
+f Gary Neibauer               0    0      0    245                                                     
+f Earl Wilson                 0    0      0    903                                                     
+f Phil Hennigan               0    0      0     66                                                     
+f Al Worthington              0    0      0    257                                                     
+f Bill Henry                  0    0      0     20                                                     
+f Roy Face                    0    0      0    253                                                     
+  Total                                1775   7921                                                     
+_________________________________________________________________________________________________________
+
+
+                                HBSL Team Status -- 1969 Quincy M.E.                                
+                                 Regular season -- as of 5/24/1969                                  
+
+                          Usage  Inj ---Simulated PA--- Real PA  BFC  
+S Name                        % Days  Total  vs L  vs R   Total   Cum 
+f Darrell Evans              96    0     27     0    27      28       
+f Ron Blomberg               86    0      6     2     4       7       
+f John Mayberry              80    0      4     1     3       5       
+f Gene Tenace                75    0     30    14    16      40       
+f Bob Watson                 75    0     36    14    22      48       
+  Al Oliver                  40    0    199    62   137     502       
+f Dave Ricketts              36    0     18     3    15      50    39 
+  Jim Hickman                34    0    132    58    74     389       
+  Orlando Cepeda             32    0    201    67   134     636       
+  Tommy Helms                29    0    148    45   103     508       
+  Clete Boyer                29    0    162    63    99     562       
+  Richie Scheinblum          24    0     54     4    50     222       
+  Darrel Chaney              24    0     57    25    32     237       
+  Tom Tresh                  24    0    127    29    98     538       
+  Reggie Jackson             23    0    159    53   106     677       
+  Ed Kirkpatrick             23    0     83    24    59     366   158 
+  Ken Boswell                12    0     48    14    34     405       
+  Vada Pinson                 9    0     47     9    38     543       
+  Mike Ryan                   8    0     39     9    30     481   130 
+  Felipe Alou                 3    0     16    14     2     509       
+f Ted Kubiak                  1    0      5     0     5     338       
+  Roberto Pena                0    0      2     2     0     501       
+f Tom Satriano                0    0      0     0     0     288       
+f Leon McFadden               0    0      0     0     0      81       
+f Jim Beauchamp               0    0      0     0     0      65       
+f Adolfo Phillips             0    0      0     0     0     286       
+  Total                                1600   512  1088    8312       
+
+
+
+                          Usage  Inj -----BFP-----            -------------Pitches Thrown------------- 
+S Name                        % Days    Sim   Real       Last   5/24   5/23   5/22   5/21   5/20   Cum 
+f Scipio Spinks             200    0     16      8  4/11/1969                                          
+f Bobby Darwin               81    0     17     21   5/2/1969                                          
+  Ron Bryant                 48    0    121    252  5/24/1969     2r    12r           21r    22r    35 
+  Dock Ellis                 32    0    293    917  5/23/1969           81s                         81 
+  Nelson Briles              30    0    283    954  5/22/1969                 127s                 127 
+  Tom Timmermann             29    0     69    241  5/24/1969     6r                                 6 
+  Grant Jackson              25    0    268   1071  5/20/1969                                79s       
+  Bill Stoneman              24    0    253   1046  5/21/1969                         82s           82 
+  Bob Moose                  24    0    171    716  5/24/1969    99s    22r                        121 
+  Bobby Bolin                23    0    148    639  5/24/1969     2r    15r           20r    26r    37 
+  Steve Hargan               21    0    136    648  5/24/1969    14r    18r           19r    17r    51 
+  George Culver               6    0     30    470  5/23/1969           39r                         39 
+f Dan McGinn                  0    0      0    578                                                     
+f Mike Wegener                0    0      0    731                                                     
+f Camilo Pascual              0    0      0    285                                                     
+  Total                                1805   8577                                                     
+_________________________________________________________________________________________________________
+
+
+                          HBSL Team Status -- 1969 Cape Canaveral Apollos                           
+                                 Regular season -- as of 5/24/1969                                  
+
+                          Usage  Inj ---Simulated PA--- Real PA  BFC  
+S Name                        % Days  Total  vs L  vs R   Total   Cum 
+  Willie Smith               62    0    138    11   127     223       
+  Mike Lum                   36    0     68    37    31     187       
+  Lou Piniella               34    0    182    49   133     539       
+  Tony Perez                 27    0    188    55   133     704       
+  Joe Torre                  27    0    180    58   122     678   197 
+  Mark Belanger              25    0    148    40   108     594       
+  Bobby Tolan                24    0    163    52   111     691       
+  Curt Blefary               20    0    129     8   121     632       
+  Felix Millan               19    0    135    41    94     708       
+  Bubba Morton               18    0     37    16    21     206       
+  Bill Mazeroski             18    0     45     8    37     256       
+  Rod Gaspar                 14    0     34     6    28     250       
+  Jim Davenport              11    0     37    17    20     339       
+  Chris Cannizzaro           11    0     51    41    10     469    81 
+  Paul Casanova               2    0     10     0    10     408    37 
+f Bernie Carbo                0    0      0     0     0       3       
+f Bill Buckner                0    0      0     0     0       1       
+f Cesar Geronimo              0    0      0     0     0       8       
+f Dal Maxvill                 0    0      0     0     0     425       
+f Billy Cowan                 0    0      0     0     0     111       
+f Ken Berry                   0    0      0     0     0     327       
+f Tom Matchick                0    0      0     0     0     316       
+f Keith Lampard               0    0      0     0     0      12       
+  Total                                1545   439  1106    8087       
+
+
+
+                          Usage  Inj -----BFP-----            -------------Pitches Thrown------------- 
+S Name                        % Days    Sim   Real       Last   5/24   5/23   5/22   5/21   5/20   Cum 
+  Dave Giusti                47    0    200    424  5/24/1969   126s                               126 
+  Bill Butler                33    0    276    834  5/23/1969           43s                 121s    43 
+f Mike Kilkenny              31    0    169    544   5/2/1969                                          
+  Dave Baldwin               29    0     84    287  5/23/1969           41r                         41 
+  Bob Gibson                 29    0    371   1270  5/21/1969                        101s          101 
+  Wayne Granger              27    0    166    611  5/22/1969                  29r    23r    18r    52 
+  Mike Torrez                22    0    103    467  5/22/1969                 126s                 126 
+  Clay Carroll               21    0    144    674  5/23/1969           72r     5r                  77 
+  Mike Marshall              20    0     79    395  5/23/1969           34r                         34 
+  Dick Ellsworth              8    0     52    647  5/22/1969                  16r                  16 
+  Tony Cloninger              6    0     54    854  5/24/1969     8r                                 8 
+f Jim Merritt                 0    0      0   1072                                                     
+f Bob D. Johnson              0    0      0      7                                                     
+f Dick Kelley                 0    0      0    572                                                     
+f Gary Peters                 0    0      0    946                                                     
+f Fred Talbot                 0    0      0    638                                                     
+f Jim Hannan                  0    0      0    685                                                     
+  Total                                1698  10927                                                     
+_________________________________________________________________________________________________________
+
+
+                          HBSL Team Status -- 1969 Andersonville Anacondas                          
+                                 Regular season -- as of 5/24/1969                                  
+
+                          Usage  Inj ---Simulated PA--- Real PA  BFC  
+S Name                        % Days  Total  vs L  vs R   Total   Cum 
+  Dick McAuliffe             49    0    156     7   149     321       
+  Mike Epstein               41    0    203    51   152     500       
+  Roy White                  39    0    214    55   159     543       
+  Al Kaline                  37    0    191    48   143     518       
+  Manny Sanguillen           28    0    134    30   104     481   227 
+  Bobby Bonds                28    0    199    48   151     720       
+  Luis Aparicio              26    0    176    51   125     681       
+  Tommy Harper               23    0    147    39   108     640       
+  Ellie Hendricks            18    0     62    15    47     339    82 
+  Pete Ward                  15    0     35     3    32     238       
+  Joe Foy                    10    0     62    43    19     609       
+  Johnny Briggs               8    0     34     4    30     427       
+  Syd O'Brien                 4    0     11     4     7     283       
+  Tony Gonzalez               3    0     15     0    15     561       
+f Jerry Moses                 0    0      0     0     0     144       
+f Steve Whitaker              0    0      0     0     0     130       
+f Bob Tillman                 0    0      0     0     0     209       
+f Don Mason                   0    0      0     0     0     292       
+f Frank Baker                 0    0      0     0     0     189       
+f Jesus Alou                  0    0      0     0     0     476       
+f Bobby Knoop                 0    0      0     0     0     473       
+f Jerry Adair                 0    0      0     0     0     461       
+  Total                                1639   398  1241    9235       
+
+
+
+                          Usage  Inj -----BFP-----            -------------Pitches Thrown------------- 
+S Name                        % Days    Sim   Real       Last   5/24   5/23   5/22   5/21   5/20   Cum 
+f Mel Queen                 111    0     52     47  4/25/1969                                          
+  John Gelnar                40    0    182    454  5/22/1969                  20r           39r    20 
+  Joe Coleman                27    0    276   1041  5/22/1969                 130s                 130 
+  Mickey Lolich              26    0    309   1172  5/24/1969   131s                         87s   131 
+  Joe Gibbon                 23    0     68    294  5/21/1969                         28r           28 
+  Mel Stottlemyre            23    0    280   1244  5/21/1969                         72s           72 
+  Bob Locker                 22    0     94    425  5/21/1969                         24r           24 
+  Gaylord Perry              22    0    297   1345  5/23/1969          131s                        131 
+  Darold Knowles             19    0     66    352  5/12/1969                                          
+  Eddie Fisher               16    0     63    403  5/24/1969    15r                                15 
+  Wally Bunker                7    0     65    907  5/21/1969                         31r    21r    31 
+f John Cumberland             0    0      0     18                                                     
+  Tom Hilgendorf              0    0      0     25                                                     
+f Casey Cox                   0    0      0    719                                                     
+f Jim Hardin                  0    0      0    577                                                     
+f Chris Short                 0    0      0     45                                                     
+f Marcel Lachemann            0    0      0    188                                                     
+f Don Drysdale                0    0      0    267                                                     
+  Total                                1752   9523                                                     
+_________________________________________________________________________________________________________
+
+
+                           HBSL Team Status -- 1969 Apostles of St. Paul                            
+                                 Regular season -- as of 5/24/1969                                  
+
+                          Usage  Inj ---Simulated PA--- Real PA  BFC  
+S Name                        % Days  Total  vs L  vs R   Total   Cum 
+  Fred Stanley               50    0     24    18     6      48       
+  Jim Lefebvre               44    0    145    12   133     330       
+  Tom Egan                   36    0     51    37    14     141   158 
+  Ron Woods                  34    0     74    21    53     217       
+  Glenn Beckert              32    0    185    47   138     582       
+  Roberto Clemente           31    0    179    45   134     570       
+  Hank Aaron                 30    0    191    47   144     639       
+  Paul Schaal                28    0     67    46    21     237       
+  Maury Wills                27    0    185    35   150     690       
+  Sandy Valdespino           25    0     44     3    41     177       
+  Tony Oliva                 24    0    164    32   132     692       
+  Tim McCarver               23    0    130     9   121     576   173 
+  Larry Stahl                20    0     36     2    34     182       
+  Willie Mays                17    0     76    19    57     459       
+f Ron Swoboda                 7    0     25    19     6     375       
+f Ike Brown                   2    0      4     2     2     205       
+  Gates Brown                 0    0      0     0     0     100       
+f Phil Gagliano               0    0      0     0     0     143       
+f Bob Barton                  0    0      0     0     0     118       
+f Dave Nelson                 0    0      0     0     0     137       
+f Mike Hershberger            0    0      0     0     0     142       
+f Rich Morales                0    0      0     0     0     132       
+f Danny Breeden               0    0      0     0     0      11       
+f Cap Peterson                0    0      0     0     0     137       
+f Tommie Aaron                0    0      0     0     0      66       
+  Total                                1580   394  1186    7106       
+
+
+
+                          Usage  Inj -----BFP-----            -------------Pitches Thrown------------- 
+S Name                        % Days    Sim   Real       Last   5/24   5/23   5/22   5/21   5/20   Cum 
+  Dave Roberts               66    0    151    228  5/24/1969    95s                                95 
+  Joe Hoerner                46    0     96    207  5/23/1969            6r                  12r     6 
+  Jerry Johnson              41    0    259    636  5/23/1969          102s                        102 
+  Paul Lindblad              32    0    109    339  5/20/1969                                22r       
+  Jim Ray                    27    0    131    489  5/24/1969    18r            6r    15r    26r    39 
+  Don Wilson                 27    0    262    979  5/22/1969                 130s                 130 
+  Wilbur Wood                26    0    135    511  5/24/1969     7r    12r                  17r    19 
+  Clay Kirby                 25    0    235    931  5/21/1969                        120s          120 
+  Vicente Romo               20    0    114    569  5/24/1969    26r                                26 
+  Woodie Fryman              19    0    187   1010  5/20/1969                                87s       
+f Frank Linzy                14    0     72    515  4/24/1969                                          
+f Tom Bradley                 0    0      0     15                                                     
+f Ray Sadecki                 0    0      0    597                                                     
+f Lew Krausse                 0    0      0    589                                                     
+f Mike Kekich                 0    0      0    446                                                     
+  Total                                1751   8061                                                     
+_________________________________________________________________________________________________________
+
+
+                              HBSL Team Status -- 1969 St. Paul Peeps                               
+                                 Regular season -- as of 5/24/1969                                  
+
+                          Usage  Inj ---Simulated PA--- Real PA  BFC  
+S Name                        % Days  Total  vs L  vs R   Total   Cum 
+  Paul Popovich              37    0     86    13    73     231       
+  Cesar Tovar                32    0    189    53   136     591       
+  Boog Powell                29    0    177    45   132     615       
+  Bill Freehan               26    0    143    37   106     555   217 
+  Johnny Callison            25    0    137    21   116     552       
+  Ron Santo                  22    0    149    43   106     687       
+  Carl Yastrzemski           21    0    151    40   111     707       
+  Ed Brinkman                19    0    120    38    82     639       
+  Curt Flood                 18    0    120    52    68     672       
+  Norm Miller                14    0     65     6    59     467       
+  Ted Uhlaender              11    0     69    10    59     610       
+  Jim Pagliaroni              9    0     14     8     6     160     8 
+  Ollie Brown                 7    0     44    25    19     621       
+  John Roseboro               6    0     23     2    21     406    69 
+  Coco Laboy                  4    0     25    17     8     616       
+f Jim Price                   0    0      0     0     0     214       
+f Zoilo Versalles             0    0      0     0     0     321       
+f Andy Kosco                  0    0      0     0     0     453       
+f Bill Voss                   0    0      0     0     0     387       
+f Frank Quilici               0    0      0     0     0     159       
+f Chuck Manuel                0    0      0     0     0     194       
+f Dave Marshall               0    0      0     0     0     315       
+f Tom Hutton                  0    0      0     0     0      56       
+  Total                                1512   410  1102   10228       
+
+
+
+                          Usage  Inj -----BFP-----            -------------Pitches Thrown------------- 
+S Name                        % Days    Sim   Real       Last   5/24   5/23   5/22   5/21   5/20   Cum 
+  Jim Palmer                 38    0    272    722  5/24/1969   101s                               101 
+  Dick Bosman                37    0    279    762  5/21/1969                        141s          141 
+  Jim Maloney                35    0    260    747  5/22/1969                  72s                  72 
+  Gary Gentry                27    0    264    962  5/23/1969          125s                        125 
+  Fritz Peterson             23    0    250   1066  5/20/1969                               116s       
+  Jim Bouton                 22    0    117    530  5/22/1969                  47r    18r           65 
+  Moe Drabowsky              17    0     67    398  5/22/1969                  41r                  41 
+  Cecil Upshaw               13    0     55    437  5/22/1969                  23r                  23 
+  Jim Brewer                 11    0     40    372  5/22/1969                  38r                  38 
+  Dick Hall                   7    0     16    246  5/16/1969                                          
+f Mike McCormick              0    0      0    824                                                     
+f Dean Chance                 0    0      0    371                                                     
+f Don Cardwell                0    0      0    635                                                     
+f Fred Lasher                 0    0      0    181                                                     
+f Don Secrist                 0    0      0    170                                                     
+f Ron Herbel                  0    0      0    369                                                     
+f Bill Burbach                0    0      0    624                                                     
+  Total                                1620   9416                                                     
+_________________________________________________________________________________________________________
+
+
+                              HBSL Team Status -- 1969 Sanford And Son                              
+                                 Regular season -- as of 5/24/1969                                  
+
+                          Usage  Inj ---Simulated PA--- Real PA  BFC  
+S Name                        % Days  Total  vs L  vs R   Total   Cum 
+  Jim Spencer                32    8    137    13   124     422       
+  Oscar Gamble               31    0     25     3    22      81       
+  Ken Harrelson              30    0    202    56   146     672       
+  Ted Sizemore               28    0    182    48   134     650       
+  Mickey Stanley             27    0    178    47   131     651       
+  Don Kessinger              27    0    200    56   144     737       
+  Randy Hundley              27    0    160    43   117     595   257 
+  Aurelio Rodriguez          26    0    155    45   110     606       
+  Bill Russell               25    0     59    48    11     238       
+  Matty Alou                 21    0    158    14   144     746       
+  Buck Martinez              13    0     27     7    20     214    67 
+  Ernie Banks                 8    0     52    34    18     629       
+  Jerry Kenney                6    0     33     1    32     509       
+  Dalton Jones                5    0     18     2    16     381       
+  Gary Sutherland             1    0      5     3     2     596       
+f George Foster               0    0      0     0     0       5       
+f Steve Garvey                0    0      0     0     0       3       
+f Dusty Baker                 0    0      0     0     0       7       
+f Bob Oliver                  0    0      0     0     0     425       
+f Eddie Leon                  0    0      0     0     0     236       
+f John Donaldson              0    0      0     0     0     393       
+f Merritt Ranew               0    0      0     0     0      92       
+  Total                                1591   420  1171    8888       
+
+
+
+                          Usage  Inj -----BFP-----            -------------Pitches Thrown------------- 
+S Name                        % Days    Sim   Real       Last   5/24   5/23   5/22   5/21   5/20   Cum 
+  Joe Niekro                 28    0    256    928  5/21/1969                         89s           89 
+  Gene Brabender             27    0    240    891  5/24/1969    10r          134s            5r   144 
+  Gary Ross                  27    0    132    491  5/24/1969    16r    14r    12r     5r    17r    47 
+  Stan Bahnsen               26    0    249    956  5/23/1969           96s                         96 
+  Tom Seaver                 21    0    230   1089  5/20/1969                                27s       
+  Tom Murphy                 20    0    183    917  5/24/1969    60s                                60 
+  Jim Lonborg                20    0    123    628  5/24/1969     2r                  13r    42r    15 
+  Al Santorini               15    0    125    814  5/24/1969    23r                  11r    22r    34 
+  Chuck Dobson               12    0    115    998  5/24/1969    55r                         25r    55 
+  George Brunet              11    0     82    715  5/24/1969    16r     6r           13r     5r    35 
+f Jerry Reuss                 0    0      0     27                                                     
+f Reggie Cleveland            0    0      0     20                                                     
+f Skip Lockwood               0    0      0     95                                                     
+f Mike Garman                 0    0      0     57                                                     
+f Alan Foster                 0    0      0    451                                                     
+f Billy McCool                0    0      0    276                                                     
+  Total                                1735   9353                                                     
+_________________________________________________________________________________________________________
+
+
+                               HBSL Team Status -- 1969 Sophia Kates                                
+                                 Regular season -- as of 5/24/1969                                  
+
+                          Usage  Inj ---Simulated PA--- Real PA  BFC  
+S Name                        % Days  Total  vs L  vs R   Total   Cum 
+f George Thomas             113    0     63    37    26      56       
+f Dave Cash                 105    0     78    23    55      74       
+  Rico Carty                 61    0    207    57   150     339       
+  Jack Hiatt                 51    0    124    20   104     245   283 
+  Lou Klimchock              50    0    139    14   125     279       
+  Manny Mota                 50    0    215    55   160     433       
+  Gene Michael               36    0    167    12   155     464       
+  Norm Cash                  35    0    195    52   143     556       
+  Billy Conigliaro           34    0     31     8    23      90       
+  Tommie Agee                31    0    195    57   138     635       
+  Rick Joseph                23    9     68    42    26     292       
+  Julian Javier              21    0    111    39    72     540       
+  Woody Woodward             15    0     42    34     8     274       
+  Jose Martinez              14    0     25     9    16     179       
+  Ralph Garr                  3    0      1     0     1      29       
+  Ellie Rodriguez             3    0     10     4     6     308    40 
+  Jim Ray Hart                2    0      5     1     4     271       
+f Bob Stinson                 0    0      0     0     0       9       
+f Bill Robinson               0    0      0     0     0     239       
+f Garry Jestadt               0    0      0     0     0       6       
+f Tony Muser                  0    0      0     0     0      10       
+f Don Hahn                    0    0      0     0     0       9       
+f Jim Lyttle                  0    0      0     0     0      87       
+f Julio Gotay                 0    0      0     0     0      88       
+f Gary Geiger                 0    0      0     0     0     156       
+f Russ Nagelson               0    0      0     0     0      20       
+  Total                                1676   464  1212    5688       
+
+
+
+                          Usage  Inj -----BFP-----            -------------Pitches Thrown------------- 
+S Name                        % Days    Sim   Real       Last   5/24   5/23   5/22   5/21   5/20   Cum 
+f Ron Klimkowski             92    0     48     52  4/20/1969                                          
+  Clyde Wright               31    0     85    272  5/24/1969    10r                                10 
+  Phil Niekro                29    0    326   1143  5/23/1969           94s                         94 
+  Don Sutton                 26    0    316   1226  5/24/1969    78s                        129s    78 
+  Jim McAndrew               25    0    139    553  5/22/1969                  29r    26r    12r    55 
+  Dave McNally               24    0    260   1093  5/21/1969                         88s           88 
+  John O'Donoghue            23    0     69    299  5/23/1969           16r           33r           49 
+  Tom Hall                   22    0    126    584  5/24/1969     5r    26r            6r    13r    37 
+  Tommy John                 21    0    211    984  5/22/1969                  78s                  78 
+  Jim Nash                   16    0     76    487  5/24/1969    16r           20r                  36 
+  Jim Britton                13    0     49    377  5/24/1969    38r                                38 
+f Al Fitzmorris               0    0      0     45                                                     
+f Ray Lamb                    0    0      0     60                                                     
+f Bob Reed                    0    0      0     58                                                     
+  Total                                1705   7233                                                     
+_________________________________________________________________________________________________________
+
+
+                        HBSL Team Status -- 1969 Avery Island Chili Peppers                         
+                                 Regular season -- as of 5/24/1969                                  
+
+                          Usage  Inj ---Simulated PA--- Real PA  BFC  
+S Name                        % Days  Total  vs L  vs R   Total   Cum 
+  Duffy Dyer                 53    0     42    28    14      79    68 
+  Carlos May                 35    0    154    55    99     434       
+  Pete Rose                  29    0    208    70   138     728       
+  Lee May                    28    0    186    67   119     665       
+  Amos Otis                  26    0     27    14    13     102       
+  Bill Melton                25    0    160    50   110     628       
+  Pat Kelly                  25    0    120    38    82     473       
+  Tony Taylor                24    0    146    52    94     608       
+  Ed Herrmann                24    0     78    12    66     329   125 
+  Bud Harrelson              23    0    106    46    60     457       
+  Tito Fuentes               22    0     44     9    35     203       
+  Jose Cardenal              21    0    128    42    86     616       
+  Dick Schofield             20    0     51    16    35     261       
+  Johnny Edwards             14    0     80    21    59     559   145 
+f Sonny Jackson               8    0     30     1    29     363       
+  Gail Hopkins                8    0     33     5    28     427       
+f Gene Alley                  6    0     17     9     8     309       
+f Donn Clendenon              0    0      0     0     0     362       
+f Tony Conigliaro             0    0      0     0     0     566       
+f Rick Reichardt              0    0      0     0     0     557       
+f Jeff Torborg                0    0      0     0     0     136       
+f Hank Allen                  0    0      0     0     0     286       
+f Tommy McCraw                0    0      0     0     0     265       
+f Jose Herrera                0    0      0     0     0     130       
+  Total                                1610   535  1075    9543       
+
+
+
+                          Usage  Inj -----BFP-----            -------------Pitches Thrown------------- 
+S Name                        % Days    Sim   Real       Last   5/24   5/23   5/22   5/21   5/20   Cum 
+  Nolan Ryan                 67    0    251    375  5/24/1969   121s                               121 
+f Steve Arlin                67    0     36     54  4/22/1969                                          
+  Rudy May                   32    0    233    722  5/24/1969    47r           33r                  80 
+  Jim Bunning                30    0    267    892  5/23/1969            5r          124s          129 
+  Jim McGlothlin             27    0    226    827  5/22/1969                 114s                 114 
+  Rollie Fingers             25    0    125    503  5/23/1969           15r                  14r    15 
+  Jerry Koosman              25    0    237    957  5/20/1969                               115s       
+  Pat Dobson                 24    0    108    451  5/23/1969           10r    12r                  22 
+  Ted Abernathy              24    0     88    374  5/23/1969           37r                         37 
+  Diego Segui                22    0    134    610  5/23/1969           82s                         82 
+  Pete Richert               16    0     37    225  5/20/1969                                17r       
+f Jim Shellenback             4    0     18    448  4/25/1969                                          
+f Bob Humphreys               0    0      0    341                                                     
+f Gary Waslewski              0    0      0    574                                                     
+f Ken Johnson                 0    0      0    321                                                     
+f Jerry Nyman                 0    0      0    282                                                     
+f Joe Sparma                  0    0      0    421                                                     
+  Total                                1760   8377                                                     
+_________________________________________________________________________________________________________
+
+
+                            HBSL Team Status -- 1969 Hamsterdam Hoppers                             
+                                 Regular season -- as of 5/24/1969                                  
+
+                          Usage  Inj ---Simulated PA--- Real PA  BFC  
+S Name                        % Days  Total  vs L  vs R   Total   Cum 
+f Leon Wagner                67    0     10     0    10      15       
+  Greg Goossen               63    0     99    40    59     157       
+  Curt Motton                54    0     56    19    37     104       
+  Ken Suarez                 51    0     52    10    42     102    53 
+  Tito Francona              39    0     80     4    76     204       
+  Art Shamsky                33    0    115     6   109     349       
+  Carl Taylor                32    0     84    28    56     261       
+  Richie Allen               31    0    159    46   113     506       
+  Sal Bando                  28    0    208    54   154     734       
+f Bob Johnson                28    0     29    17    12     104       
+  Bobby Etheridge            27    0     41    16    25     152       
+  Johnny Bench               26    0    155    44   111     592   270 
+  Merv Rettenmund            26    1     58    25    33     226       
+  Horace Clarke              23    0    162    26   136     699       
+  Ken Henderson              22    0     96     6    90     429       
+  Leo Cardenas               20    0    133    30   103     665       
+  Wayne Comer                11    0     65    39    26     572       
+f Jim French                  0    0      0     0     0     202       
+f Hawk Taylor                 0    0      0     0     0      96       
+f Bobby Brooks                0    0      0     0     0     101       
+f Marv Staehle                0    0      0     0     0      19       
+f John Harrell                0    0      0     0     0       8       
+f Bob Heise                   0    0      0     0     0      13       
+f Chip Coulter                0    0      0     0     0      21       
+f Bill McNulty                0    0      0     0     0      17       
+  Total                                1602   410  1192    6348       
+
+
+
+                          Usage  Inj -----BFP-----            -------------Pitches Thrown------------- 
+S Name                        % Days    Sim   Real       Last   5/24   5/23   5/22   5/21   5/20   Cum 
+f Sal Campisi               105    0     42     40  4/23/1969                                          
+  Ken Tatum                  40    0    138    342  5/22/1969                  66r           29r    66 
+  Denny Lemaster             29    0    303   1029  5/21/1969                        115s          115 
+  John Hiller                28    0    122    431  5/23/1969           36r    23r                  59 
+  Larry Dierker              27    0    331   1207  5/24/1969   115s                         27s   115 
+  Hank Aguirre               26    0     49    186  5/23/1969            8r                          8 
+  Danny Murphy               26    0     33    126  5/24/1969    29r           19r           20r    48 
+  Bill Hands                 23    0    284   1220  5/23/1969           84s                         84 
+  Sparky Lyle                21    0     90    439  5/23/1969           25r    35r           24r    60 
+  Joe Horlen                 20    0    196   1001  5/22/1969                  47s           44r    47 
+  Mike Paul                  19    0     96    497  5/22/1969                  50r                  50 
+f Carl Morton                 0    0      0    136                                                     
+f Tom Griffin                 0    0      0    810                                                     
+f Joe Decker                  0    0      0     51                                                     
+f Frank Reberger              0    0      0    375                                                     
+  Total                                1684   7890                                                     
+_________________________________________________________________________________________________________
+
+
+                              HBSL Team Status -- 1969 Hawai'i Five-O                               
+                                 Regular season -- as of 5/24/1969                                  
+
+                          Usage  Inj ---Simulated PA--- Real PA  BFC  
+S Name                        % Days  Total  vs L  vs R   Total   Cum 
+  Jerry May                  61    0    125    32    93     205   235 
+  Don Mincher                34    0    173    34   139     513       
+  Bobby Cox                  30    0     69    24    45     229       
+  Mike Andrews               30    0    166    37   129     554       
+  Willie Stargell            29    0    173    42   131     594       
+  Ed Kranepool               29    0    113    29    84     396       
+  Bobby Murcer               27    0    168    43   125     625       
+  Brooks Robinson            26    0    175    39   136     670       
+  Larry Brown                20    0    104    33    71     521       
+  Frank Robinson             20    0    128    33    95     643       
+  Joe Azcue                  17    0     61    16    45     365    88 
+  Joe Pepitone               11    0     58    19    39     546       
+  Jackie Hernandez            9    0     50     8    42     549       
+  Jay Johnstone               9    0     52     9    43     597       
+f Dave Duncan                 0    0      0     0     0     150       
+f Walt Williams               0    0      0     0     0     507       
+f Tommy Davis                 0    0      0     0     0     582       
+f Sandy Alomar                0    0      0     0     0     662       
+f Dave Watkins                0    0      0     0     0     174       
+f John Boccabella             0    0      0     0     0      94       
+  Total                                1615   398  1217    9176       
+
+
+
+                          Usage  Inj -----BFP-----            -------------Pitches Thrown------------- 
+S Name                        % Days    Sim   Real       Last   5/24   5/23   5/22   5/21   5/20   Cum 
+f Danny Frisella            158    0     38     24  4/24/1969                                          
+f Bart Johnson              108    0     98     91  5/17/1969                                          
+  Tom Burgmeier              57    0    138    244  5/24/1969    13r                  21r    41r    34 
+  Milt Pappas                51    0    314    615  5/22/1969                 126s                 126 
+  George Stone               35    0    248    702  5/23/1969          126s                        126 
+  Tug McGraw                 33    0    141    424  5/21/1969                         24r    58r    24 
+  Joe Grzenda                31    0     65    207  5/22/1969                  42r    32r           74 
+  Don Shaw                   31    0     90    287  5/24/1969     8r                  39r           47 
+  Bob Miller                 26    0    128    486  5/24/1969   112s                               112 
+  Juan Pizarro               24    0    103    429  5/21/1969                         51r    19r    51 
+  Rick Wise                  24    0    216    916  5/20/1969                                32s       
+  Sonny Siebert              23    0    173    758  5/21/1969                         43s           43 
+f Dave Leonhard               0    0      0    384                                                     
+f Rickey Clark                0    0      0     48                                                     
+f Al Severinsen               0    0      0     82                                                     
+f Jose Pena                   0    0      0     30                                                     
+f Joe Moeller                 0    0      0    213                                                     
+f Steve Kealey                0    0      0    165                                                     
+f Bucky Brandon               0    0      0     98                                                     
+  Total                                1752   6203                                                     
+_________________________________________________________________________________________________________
+
+
+                             HBSL Team Status -- 1969 Okinawa Typhoons                              
+                                 Regular season -- as of 5/24/1969                                  
+
+                          Usage  Inj ---Simulated PA--- Real PA  BFC  
+S Name                        % Days  Total  vs L  vs R   Total   Cum 
+f Terry Crowley             110    0     22     1    21      20       
+  Bob Robertson              58    0     61    50    11     105       
+  Billy Grabarkewitz         47    0     33     6    27      70       
+  Chuck Hinton               43    0     57    32    25     132       
+  Scott Northey              38    0     26    10    16      68       
+  Ron Fairly                 36    0    128    20   108     357       
+  Jose Pagan                 33    0     98    36    62     298       
+  Rick Monday                31    0    150    24   126     481       
+  Ron Hunt                   30    0    169    61   108     569       
+  Lou Brock                  29    0    207    64   143     710       
+  Alex Johnson               27    0    156    49   107     572       
+  Tom Haller                 27    0    137    43    94     504   260 
+d Richie Hebner              24   11    130    26   104     532       
+  Bert Campaneris            22    0    132    52    80     592       
+  Jake Gibbs                 20    0     49     7    42     245    62 
+  Ty Cline                   16    0     38     7    31     244       
+  Ron Hansen                 15    0     32     6    26     207       
+  Phil Roof                   0    0      1     1     0     289       
+f Bobby Valentine             0    0      0     0     0       0       
+f Bob Aspromonte              0    0      0     0     0     215       
+f Don Young                   0    0      0     0     0     323       
+f Walt Hriniak                0    0      0     0     0      85       
+f Ray Oyler                   0    0      0     0     0     291       
+f Jimmie Hall                 0    0      0     0     0     270       
+  Total                                1626   495  1131    7179       
+
+
+
+                          Usage  Inj -----BFP-----            -------------Pitches Thrown------------- 
+S Name                        % Days    Sim   Real       Last   5/24   5/23   5/22   5/21   5/20   Cum 
+  Bill Wilson                43    0    117    271  5/24/1969    29r    14r           12r           55 
+  Jim Hunter                 33    0    328   1002  5/24/1969   111s                         94s   111 
+  Pat Jarvis                 30    0    279    918  5/22/1969                  98s                  98 
+  Ron Taylor                 28    0     84    300  5/24/1969    27r           22r    13r           62 
+  Dick Woodson               27    0    129    473  5/24/1969     8r    19r           26r           53 
+  Jim Kaat                   27    0    279   1048  5/21/1969                         89s           89 
+  Fergie Jenkins             26    0    326   1275  5/23/1969           94s                         94 
+  Mike Hedlund               21    0    112    532  5/24/1969     3r                         37r     3 
+  Marty Pattin               14    0     96    698  5/24/1969    12r                                12 
+f Gene Garber                 0    0      0     20                                                     
+f Fred Beene                  0    0      0     11                                                     
+f Lloyd Allen                 0    0      0     44                                                     
+f Phil Regan                  0    0      0    476                                                     
+f Tom Dukes                   0    0      0    101                                                     
+f Barry Moore                 0    0      0    582                                                     
+f Bob Meyer                   0    0      0    135                                                     
+  Total                                1750   7886                                                     
+_________________________________________________________________________________________________________
+
+
+                            HBSL Team Status -- 1969 Ringling Ringlings                             
+                                 Regular season -- as of 5/24/1969                                  
+
+                          Usage  Inj ---Simulated PA--- Real PA  BFC  
+S Name                        % Days  Total  vs L  vs R   Total   Cum 
+  Leron Lee                  46    0     12     1    11      26       
+f John Ellis                 37    0     24    12    12      65    70 
+  Larry Hisle                34    0    185    62   123     537       
+  Nate Colbert               33    0    175    59   116     532       
+  Reggie Smith               32    0    193    67   126     607       
+  Jerry McNertney            31    0    141    43    98     449   243 
+  Terry Harmon               30    0     69    47    22     227       
+  Bill Sudakis               28    0    143    16   127     507       
+  Wayne Garrett              28    0    126    10   116     454       
+  Graig Nettles              27    0     71    48    23     261       
+  Freddie Patek              27    0    141    49    92     522       
+  Billy L. Williams          27    0    190    64   126     708       
+  Dave May                   21    0     27     6    21     131       
+  Joe Lahoud                 17    0     43     8    35     259       
+  Russ Gibson                 4    0     11     3     8     307    42 
+  Russ Snyder                 2    0      6     0     6     293       
+f Carlton Fisk                0    0      0     0     0       5       
+f Steve Huntz                 0    0      0     0     0     166       
+f Jerry Morales               0    0      0     0     0      46       
+f Jim Breazeale               0    0      0     0     0       3       
+f Angel Mangual               0    0      0     0     0       4       
+  Total                                1557   495  1062    6109       
+
+
+
+                          Usage  Inj -----BFP-----            -------------Pitches Thrown------------- 
+S Name                        % Days    Sim   Real       Last   5/24   5/23   5/22   5/21   5/20   Cum 
+f Chris Zachary              86    0     75     87  5/21/1969                         35r           35 
+  Pedro Borbon               71    0    135    189  5/23/1969           29r    23r           25r    52 
+  Gary Nolan                 54    0    249    460  5/23/1969           13r    35r                  48 
+f Steve Renko                49    0    217    445  5/17/1969                                          
+f Al Downing                 45    0    248    550  5/21/1969                        121s          121 
+  Horacio Pina               41    0     86    208  5/21/1969                         24r     6r    24 
+  Fred Gladding              35    0    112    319  5/24/1969     8r    29r           13r           50 
+  Jack Billingham            32    0    116    358  5/24/1969    21r                                21 
+  Dick Drago                 31    0    261    848  5/24/1969   138s                         99s   138 
+  Steve Blass                26    0    236    907  5/23/1969           88s                         88 
+  Bill Lee                    3    0      8    232  5/22/1969                  33r                  33 
+  Tom Phoebus                 2    0     20    849  5/22/1969                  63s                  63 
+f Jim Colborn                 0    0      0     65                                                     
+  Jim Rooker                  0    0      0    679                                                     
+f Bob Reynolds                0    0      0     11                                                     
+f Dave Lemonds                0    0      0     21                                                     
+f Jerry Robertson             0    0      0    788                                                     
+f Dick Baney                  0    0      0     81                                                     
+f Lee Stange                  0    0      0    603                                                     
+  Total                                1763   7700                                                     
+_________________________________________________________________________________________________________
+
+
+                               HBSL Team Status -- 1969 Cary Hairies                                
+                                 Regular season -- as of 5/24/1969                                  
+
+                          Usage  Inj ---Simulated PA--- Real PA  BFC  
+S Name                        % Days  Total  vs L  vs R   Total   Cum 
+d Clay Dalrymple            104    4     98     7    91      94       
+  Thurman Munson             81    0     79    46    33      97   230 
+  Rick Renick                49    5     76    36    40     154       
+  Willie Davis               33    0    179    51   128     540       
+  Rod Carew                  32    0    159    20   139     504       
+  Jimmy Wynn                 31    0    204    56   148     653       
+  Mike Fiore                 31    0    133    11   122     427       
+  Willie Horton              26    0    148    53    95     568       
+  Don Money                  25    0    125    42    83     503       
+  Doug Rader                 24    0    156    52   104     641       
+  George Scott               23    0    139    54    85     617       
+  Ed Stroud                  18    0     42     9    33     240       
+  Jimmy Stewart               8    0     20     1    19     245       
+  Andy Etchebarren            7    0     18     3    15     255    70 
+  Joe Rudi                    7    0      9     3     6     129       
+  Mike Shannon                1    0      5     5     0     606       
+f Marty Martinez              0    0      0     0     0     213       
+f George Mitterwald           0    0      0     0     0     210       
+f John Kennedy                0    0      0     0     0     145       
+f Bob Burda                   0    0      0     0     0     184       
+f Ron Brand                   0    0      0     0     0     325       
+f Don Wert                    0    0      0     0     0     478       
+f Ray Webster                 0    0      0     0     0      92       
+f Tommie Reynolds             0    0      0     0     0     363       
+  Total                                1590   449  1141    8283       
+
+
+
+                          Usage  Inj -----BFP-----            -------------Pitches Thrown------------- 
+S Name                        % Days    Sim   Real       Last   5/24   5/23   5/22   5/21   5/20   Cum 
+  Fred Scherman              67    0     12     18  5/24/1969    30r     4r                         34 
+  Jerry Cram                 61    0     43     71  5/24/1969    13r                                13 
+d Blue Moon Odom             27   12    261    965  5/20/1969                                62s       
+  Stan Williams              27    0    203    754  5/22/1969                 130s                 130 
+  Lindy McDaniel             26    0     91    356  5/20/1969                                16r       
+  Ken Holtzman               25    0    274   1112  5/23/1969          121s                        121 
+  Luis Tiant                 22    0    236   1091  5/24/1969    74s                         46r    74 
+  Eddie Watt                 21    0     62    289  5/18/1969                                          
+  Jack Baldschun             20    0     68    340  5/23/1969           47r                         47 
+  Luke Walker                19    0     94    500  5/24/1969    20r           23r           10r    43 
+  Claude Osteen              18    0    238   1291  5/21/1969                        125s          125 
+f Ray Washburn               16    0     93    569  4/24/1969                                          
+f Barry Lersch                0    0      0     83                                                     
+f Dick Radatz                 0    0      0    226                                                     
+f Dennis Higgins              0    0      0    383                                                     
+f Jan Dukes                   0    0      0     42                                                     
+  Total                                1675   8090                                                     
+_________________________________________________________________________________________________________
+
+
+                           HBSL Team Status -- 1969 C Street Peccadillos                            
+                                 Regular season -- as of 5/24/1969                                  
+
+                          Usage  Inj ---Simulated PA--- Real PA  BFC  
+S Name                        % Days  Total  vs L  vs R   Total   Cum 
+f Ted Simmons               125    0     20     1    19      16       
+f Rick Dempsey              100    0      7     6     1       7       
+f Oscar Brown               100    0      4     4     0       4       
+  Dick Dietz                 37    0    112    49    63     303   266 
+  Bob Bailey                 36    0    144    70    74     405       
+  Wes Parker                 33    0    178    75   103     541       
+  Don Buford                 30    0    201    86   115     663       
+  Rusty Staub                30    0    200    87   113     673       
+  Dave Johnson               28    0    162    69    93     580       
+  Jim Fregosi                27    0    185    72   113     685       
+  Duane Josephson            23    0     42    25    17     179    57 
+  Willie Crawford            23    0     99    15    84     440       
+  Jerry DaVanon              19    0     21    15     6     108       
+  Fred Kendall               14    0      4     3     1      28       
+d Cito Gaston                14   13     57    37    20     419       
+  Bernie Allen               13    0     55     8    47     417       
+  Deron Johnson              10    0     57    34    23     545       
+  Lee Maye                    8    0     29     6    23     376       
+  Vic Davalillo               7    0     12    10     2     183       
+f Ed Spiezio                  0    0      0     0     0     400       
+f Larry Haney                 0    0      0     0     0     162       
+f Cookie Rojas                0    0      0     0     0     425       
+f Pat Corrales                0    0      0     0     0      81       
+f Joe Keough                  0    0      0     0     0     183       
+f Bobby Floyd                 0    0      0     0     0      94       
+  Total                                1589   672   917    7917       
+
+
+
+                          Usage  Inj -----BFP-----            -------------Pitches Thrown------------- 
+S Name                        % Days    Sim   Real       Last   5/24   5/23   5/22   5/21   5/20   Cum 
+  John Morris                39    0     24     62  5/24/1969    26r                  67r    14r    93 
+  Ray Culp                   33    0    312    944  5/24/1969    79s                        141s    79 
+  Andy Messersmith           32    0    325   1008  5/23/1969          116s                        116 
+  Roger Nelson               31    0    246    790  5/21/1969                         60s           60 
+  Ron Reed                   29    4    294   1003  5/22/1969                  63s                  63 
+  Chuck Taylor               28    0    139    500  5/24/1969    26r     3r    47r           20r    76 
+  Steve Hamilton             24    0     53    225  5/24/1969    20r                  36r           56 
+d Paul Edmondson             23    9     85    369  5/17/1969                                          
+  Jim Roland                 21    0     77    359  5/24/1969    22r                  55r           77 
+  Bruce Dal Canton           20    0     73    372  5/22/1969                  35r     8r           43 
+  Dick Selma                  9    0     72    791  5/23/1969           39r                         39 
+f Chuck Hartenstein           0    0      0    389                                                     
+f Cal Koonce                  0    0      0    367                                                     
+f Wade Blasingame             0    0      0    258                                                     
+f Gary Wagner                 0    0      0    173                                                     
+  Total                                1700   7610                                                     

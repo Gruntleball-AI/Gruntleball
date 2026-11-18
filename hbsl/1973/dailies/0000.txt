@@ -1,0 +1,115 @@
+<html>
+<head>
+<style type="text/css">
+p         {color: #000000; font-size: 12; font-weight: 200; font-family: "arial"; font-size: 14;}
+h1        {color: #ff5511; font-size: 36; font-weight: 800; font-family: "arial"; }
+h2        {color: #000000; font-size: 15; font-weight: 800; font-family: "arial"; border-top: 2px ; border-top-style: solid; border-top-color: #dd7755; }
+h3        {color: #000000; font-size: 12; font-weight: 200; font-family: "arial"; border-top: 1px ; border-top-style: dotted; border-top-color: #773322; }
+h4        {color: #aabb55; font-size: 20; font-weight: 800; font-family: "arial"; }
+a:link    {color: #ff5511; font-size: 14; font-weight: 200; font-family: "arial"; }
+a:visited {color: #dd7755; font-size: 14; font-weight: 200; font-family: "arial"; }
+a:hover   {color: #ccdd88; font-size: 14; font-weight: 800; font-family: "arial"; }
+body      {background-color: #eeeedd; color:#000000; font-family: "arial"; font-size: 14;}
+</style>
+</head>
+<h1> Hot Buttered Soul </h1>
+<h4> INSIDER BASEBALL LEAGUE DAILY</h4>
+<img src="https://dl.dropbox.com/u/3641528/Gruntleball/HBSL/Images/bhpg.jpg", height=300/>
+<p><b> date </b><br><br>
+<br><br>
+<br><br>
+<br><br>
+</p>
+<a href="https://dl.dropbox.com/u/3641528/Gruntleball/HBSL/1973/Web/index.htm">League homepage</a></p>
+<a href="#Playing Time Report"> Jump to Playing Time Reports </a></p><br> 
+
+<h2><br> ROSTER NOTES </h2><p>
+
+</p>
+<h2><br> CURRENT INJURIES </h2>
+<pre> 
+
+</pre>
+
+
+<h2><br> TRANSACTIONS </h2>
+<pre>
+
+</pre>
+
+
+<h2><br> GAME RESULTS <a name="Results"></a></h2>
+<h3><a href="#Game 1"><br> Details</a></h3><pre>
+
+</pre> 
+<br>HR - 
+<br> 
+<h3><a href="#Game 2"><br> Details</a></h3><pre>
+
+</pre> 
+<br>HR - 
+<br> 
+<h3><a href="#Game 3"><br> Details</a></h3><pre>
+
+</pre> 
+<br>HR - 
+<br> 
+<h3><a href="#Game 4"><br> Details</a></h3><pre>
+
+</pre> 
+<br>HR - 
+<br> 
+<h3><a href="#Game 5"><br> Details</a></h3><pre>
+
+</pre> 
+<br>HR - 
+<br> 
+<h3><a href="#Game 6"><br> Details</a></h3><pre>
+
+</pre> 
+<br>HR - 
+<br> 
+<h3><a href="#Game 7"><br> Details</a></h3><pre>
+
+</pre> 
+<br>HR - 
+<br> 
+<h3><a href="#Game 8"><br> Details</a></h3><pre>
+
+</pre> 
+<br>HR - 
+<br> 
+
+
+
+<h2><br> STANDINGS </h2>
+<pre>
+
+</pre>
+
+
+<h2><br> BOXSCORES-SCORESHEETS-GAME LOGS</h2>
+      <h3><a name="Game 1"></a><a href="#Results"><br> back to Results </a></h3><pre>
+
+</pre><h3><a name="Game 2"></a><a href="#Results"><br> back to Results </a></h3><pre>
+
+</pre><h3><a name="Game 3"></a><a href="#Results"><br> back to Results </a></h3><pre>
+
+</pre><h3><a name="Game 4"></a><a href="#Results"><br> back to Results </a></h3><pre>
+
+</pre><h3><a name="Game 5"></a><a href="#Results"><br> back to Results </a></h3><pre>
+
+</pre><h3><a name="Game 6"></a><a href="#Results"><br> back to Results </a></h3><pre>
+
+</pre><h3><a name="Game 7"></a><a href="#Results"><br> back to Results </a></h3><pre>
+
+</pre><h3><a name="Game 8"></a><a href="#Results"><br> back to Results </a></h3><pre>
+
+</pre>
+
+
+<h2><a name="Playing Time Report"></a><br> PLAYING TIME REPORT </h2><pre>
+
+</pre>
+</body></html>
+https://dl.dropbox.com/u/3641528/Gruntleball/HBSL/1973/Dailies/

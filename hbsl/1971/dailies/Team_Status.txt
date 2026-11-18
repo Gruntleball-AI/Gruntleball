@@ -1,0 +1,880 @@
+                          HBSL Team Status -- 1971 Northfield Nor'easters                           
+                                 Regular season -- as of 10/1/1971                                  
+
+                          Usage  Inj ---Simulated PA--- Real PA  BFC  
+S Name                        % Days  Total  vs L  vs R   Total   Cum 
+f Tony Muser                112    0     19     1    18      17       
+f Jim Northrup              105    0    552   141   411     524       
+  Leo Cardenas              105    0    654   208   446     624       
+f Jose Cruz                 105    0    362    67   295     346       
+f Cecil Cooper              104    0     51    10    41      49       
+  Cleon Jones               103    0    587   197   390     568       
+f Ron Cey                   100    0      2     0     2       2       
+  Paul Blair                100    0    554   195   359     555       
+  Rico Petrocelli            97    0    642   214   428     661       
+  Deron Johnson              93    0    617   182   435     660       
+  Dick Green                 89    0    480   183   297     538       
+  Fran Healy                 81    0     87    33    54     108    73 
+  Ray Fosse                  76    0    403   105   298     529   127 
+  Jerry Grote                76    0    340   135   205     450   105 
+  Boots Day                  59    0    248    59   189     422       
+  Eddie Leon                 20    0     95    16    79     476       
+  Dave Marshall              17    0     43     2    41     250       
+  Billy Grabarkewitz         11    0     10     2     8      90       
+  Donn Clendenon             10    0     29    23     6     288       
+f Gus Gil                     0    0      0     0     0      44       
+f Ed Goodson                  0    0      0     0     0      44       
+f Tim Hosley                  0    0      0     0     0      16       
+f J.C. Martin                 0    0      0     0     0     142       
+f Jerry Morales               0    0      0     0     0      19       
+  Total                                5775  1773  4002    7422       
+
+
+
+                          Usage  Inj -----BFP-----            -------------Pitches Thrown------------- 
+S Name                        % Days    Sim   Real       Last   10/1   9/30   9/29   9/28   9/27   Cum 
+f Ed Acosta                 108    0    198    184  6/29/1971                                          
+f Camilo Pascual            107    0    102     95  8/13/1971                                          
+  Hoyt Wilhelm              106    0     76     72  9/30/1971            9r                          9 
+  Vicente Romo              105    0    313    299  10/1/1971     8r           20r    16r           44 
+  Pete Mikkelsen            103    0    311    301  10/1/1971    31r            9r     5r    10r    45 
+  Juan Marichal              96    0   1078   1124  9/29/1971                 106s                 106 
+  Gary Gentry                94    0    802    850  9/30/1971          135s                        135 
+  Vida Blue                  92    0   1108   1206  9/28/1971                         98s           98 
+  Paul Splittorff            81    0    473    584  9/26/1971                                          
+f Jim Willoughby             81    0     17     21   9/8/1971                                          
+  Moe Drabowsky              80    0    204    256  9/26/1971                                          
+  Dave Giusti                78    0    284    365  10/1/1971    36s                         72s    36 
+f Mike Cuellar               75    0    888   1179   9/6/1971                                          
+  Bill Singer                71    0    609    863  9/18/1971                                          
+f Dick Kelley                45    0    114    256  7/29/1971                                          
+  Joe Moeller                26    0     73    280  10/1/1971    18r                         42r    18 
+f Roger Hambright             0    0      0    111                                                     
+  Total                                6650   8046                                                     
+
+
+
+                              HBSL Team Status -- 1971 Rockford Files                               
+                                 Regular season -- as of 10/1/1971                                  
+
+                          Usage  Inj ---Simulated PA--- Real PA  BFC  
+S Name                        % Days  Total  vs L  vs R   Total   Cum 
+f Tommie Agee               105    0    507   215   292     482       
+f Reggie Jackson            105    0    673   207   466     642       
+f Cookie Rojas              104    0    483   153   330     463       
+f Duke Sims                 104    0    273    31   242     263     3 
+f Harmon Killebrew          103    0    643   199   444     624       
+f Jerry McNertney           102    0    149    78    71     146       
+  Bud Harrelson             102    0    628   211   417     618       
+  Frank Howard               98    0    623   200   423     633       
+  Jim Hickman                91    0    403   155   248     444       
+f Willie McCovey             78    0    312    37   275     402       
+  Duane Josephson            70    0    231    83   148     331   186 
+  Billy Conigliaro           68    0    260    28   232     380       
+  Frank Fernandez            62    0     65    18    47     105   102 
+  Denis Menke                53    0    289    72   217     547       
+  Orlando Cepeda             47    0    130    70    60     276       
+  Jimmy Rosario              37    4     86    20    66     231       
+  Clete Boyer                30    0     32    11    21     108       
+  Billy Parker               21    0     15    11     4      72       
+  Dal Maxvill                 5    0     22     6    16     408       
+  Billy Cowan                 4    0      7     4     3     182       
+  Jake Gibbs                  3    0      6     0     6     224    40 
+  Total                                5837  1809  4028    7581       
+
+
+
+                          Usage  Inj -----BFP-----            -------------Pitches Thrown------------- 
+S Name                        % Days    Sim   Real       Last   10/1   9/30   9/29   9/28   9/27   Cum 
+f Jack Aker                 109    0    258    237   9/7/1971                                          
+f Woodie Fryman             107    0    662    616  9/18/1971                                          
+f Rickey Clark              107    0    205    192  9/11/1971                                          
+f Ray Newman                106    0    165    156  8/25/1971                                          
+  Bill Gogolewski           100    0    511    512  9/30/1971          107s           34r          141 
+  Steve Hamilton             98    0    169    173  8/24/1971                                          
+f Sam McDowell               86    0    808    939  9/26/1971                                          
+f Ken Sanders                83    0    450    541  9/29/1971                  22r    13r     4r    35 
+f Steve Kline                82    0    726    890  9/25/1971                                          
+  Bill Stoneman              77    0    957   1243  9/28/1971                         82s           82 
+  Ray Culp                   65    0    660   1008  9/27/1971                               102s       
+f Denny Riddleberger         50    0    153    303  9/29/1971                   8r    11r     4r    19 
+  Mike McQueen               47    0    110    235  9/29/1971                  35r     7r    14r    42 
+  Cecil Upshaw               41    0    150    364  9/30/1971           27r     6r     8r           41 
+  Mark Ballinger             24    0     35    145  9/28/1971                         14r    11r    14 
+  Tom Kelley                 24    0    146    613  9/29/1971                  62s                  62 
+  Jim Nelson                 10    0     15    153  9/21/1971                                          
+  Bob Johnson                 5    0     36    732  10/1/1971   120s                               120 
+  Don Eddy                    0    0      0    105                                                     
+  Ron Tompkins                0    0      0    171                                                     
+  Total                                6216   9328                                                     
+
+
+
+                                HBSL Team Status -- 1971 Quincy M.E.                                
+                                 Regular season -- as of 10/1/1971                                  
+
+                          Usage  Inj ---Simulated PA--- Real PA  BFC  
+S Name                        % Days  Total  vs L  vs R   Total   Cum 
+f Richie Scheinblum         111    0     63     8    55      57       
+f Mike Hegan                106    0    228    73   155     215       
+  Angel Mangual             105    0    322   110   212     307       
+f Al Oliver                 105    0    600   221   379     573       
+f Bob Watson                105    0    538   172   366     514       
+  Ron Blomberg              104    0    224    78   146     216       
+  Joe Morgan                102    0    704   245   459     689       
+  Gene Tenace               102    7    215   141    74     211    41 
+  John Mayberry             101    0    156    47   109     154       
+  Jim Ray Hart              100    0     45    25    20      45       
+  Ed Kirkpatrick            100    0    422    42   380     423     1 
+  Buddy Bradford             98    0    158    78    80     162       
+  Leron Lee                  97    0    297    71   226     307       
+  Danny Cater                96    0    440   161   279     456       
+  Darrell Evans              96    0    292    77   215     305       
+  Bobby Darwin               91    0     20    13     7      22       
+  Chris Speier               86    0    573   196   377     670       
+  Darrel Chaney              84    0     21    10    11      25       
+  Bill Voss                  81   29    244    80   164     303       
+  John Stephenson            35    0    109    70    39     308   260 
+  Gary Sutherland            28    0     93    32    61     331       
+  Tim Cullen                 12    0     51    17    34     443       
+  Paul Ratliff                9    0      9     1     8      96    11 
+  Total                                5824  1968  3856    6832       
+
+
+
+                          Usage  Inj -----BFP-----            -------------Pitches Thrown------------- 
+S Name                        % Days    Sim   Real       Last   10/1   9/30   9/29   9/28   9/27   Cum 
+f Orlando Pena              120    0     78     65  9/25/1971                                          
+f Scipio Spinks             112    0    135    121   9/4/1971                                          
+f Jerry Bell                110    0     66     60   9/7/1971                                          
+f Roger Nelson              105    0    146    139  9/27/1971                                15r       
+  Jim McAndrew              105    0    401    382  10/1/1971    21r                                21 
+  Jon Matlack               101    0    154    153   8/7/1971                                          
+  Ron Bryant                 97    0    583    603  9/29/1971                  37r     4r           41 
+  Harry Parker               96    0     22     23  5/10/1971                                          
+  Bobby Bolin                95    0    287    302  9/30/1971           45r                         45 
+  Nelson Briles              91    0    517    566  9/30/1971           13r                         13 
+  Doyle Alexander            88    0    344    392  9/29/1971                  39r            4r    39 
+  Bob Moose                  85    0    523    616  9/17/1971                                          
+  Dock Ellis                 83    0    786    943  9/28/1971                        125s          125 
+  Stan Perzanowski           79    0     27     34  5/26/1971                                          
+  George Culver              79    0    315    398  10/1/1971    28r                                28 
+  Grant Jackson              79    0    251    319   8/8/1971                                          
+  Tom Timmermann             77    0    279    364  9/18/1971                                          
+  Vince Colbert              63    0    398    628  9/27/1971                               121s       
+  Les Cain                   55    0    351    634  10/1/1971    80s                                80 
+  Ernie McAnally             52    0    393    762  9/30/1971           94s                         94 
+  Mike Kekich                38    0    283    744  9/29/1971                  58s                  58 
+f Rich Folkers                0    0      0      0                                                     
+  Total                                6339   8248                                                     
+
+
+
+                            HBSL Team Status -- 1971 Philly Cheesesteaks                            
+                                 Regular season -- as of 10/1/1971                                  
+
+                          Usage  Inj ---Simulated PA--- Real PA  BFC  
+S Name                        % Days  Total  vs L  vs R   Total   Cum 
+f Cesar Geronimo            108    0     95    24    71      88       
+f Phil Roof                 106    0    233    81   152     219       
+f Ken Henderson             105    0    629   178   451     598       
+  Mark Belanger             105    0    620   174   446     590       
+  Tony Perez                104    0    692   185   507     664       
+  Joe Torre                 101    0    717   203   514     707       
+  Lou Piniella               94    0    447   203   244     476       
+  Mike Lum                   94    0    480   126   354     512       
+  Chris Cannizzaro           91    0    281    76   205     309    35 
+  Von Joshua                 86    0      6     1     5       7       
+  Bernie Carbo               85    0    315    36   279     369       
+  Bill Buckner               83    0    318    80   238     382       
+  Len Randle                 77    0    191    57   134     249       
+f Dave Rader                 75    0      3     0     3       4       
+f Felix Millan               75    0    474   129   345     635       
+  Ken Suarez                 62    0     90    39    51     146   262 
+  Kurt Bevacqua              51    0     74    17    57     145       
+  Bobby Pfeil                32    0     25    11    14      77    23 
+  Joe Foy                    21    0     33    15    18     158       
+  Joe Hague                  20    0     88    23    65     443       
+  Jimmy Stewart               8    0      7     3     4      92       
+f John Vukovich               0    0      0     0     0     233       
+  Total                                5818  1661  4157    7103       
+
+
+
+                          Usage  Inj -----BFP-----            -------------Pitches Thrown------------- 
+S Name                        % Days    Sim   Real       Last   10/1   9/30   9/29   9/28   9/27   Cum 
+f Al Hrabosky               113    0      9      8  6/19/1971                                          
+f Andy Hassler              105    0    100     95  9/29/1971                   9r     7r           16 
+f Fred Gladding             103    0    234    228  8/16/1971                                          
+f Mike Marshall             103    0    484    472  9/18/1971                                          
+  Bob Gibson                 98    0   1001   1026  9/27/1971                               130s       
+  Ross Grimsley              83    0    550    660  9/17/1971                                          
+  Clay Carroll               82    0    318    387  10/1/1971    30r     6r    18r                  54 
+  Stan Bahnsen               82    0    818    998  9/29/1971                  38r                  38 
+  Wayne Granger              78    0    323    412  9/30/1971           28r                         28 
+  Claude Osteen              77    0    821   1071  9/16/1971                                          
+  Steve Carlton              76    0    887   1171  9/30/1971           54s          100s          154 
+  Mike Torrez                73    0    135    186  10/1/1971    77s           64s                 141 
+  Tom Murphy                 47    0    479   1018  9/30/1971           23r    18r                  41 
+  Ken Tatum                  38    0     88    232  10/1/1971     9r    23r    13r    14r           59 
+  Gary Peters                 2    0     19    934  9/30/1971           22r                         22 
+f Al Severinsen               0    0      0    308                                                     
+  Total                                6266   9206                                                     
+
+
+
+                          HBSL Team Status -- 1971 Andersonville Anacondas                          
+                                 Regular season -- as of 10/1/1971                                  
+
+                          Usage  Inj ---Simulated PA--- Real PA  BFC  
+S Name                        % Days  Total  vs L  vs R   Total   Cum 
+f Don Baylor                120    0      6     3     3       5       
+f Derrel Thomas             117    0      7     2     5       6       
+f Al Kaline                 105    0    527   157   370     501       
+f Tommy Harper              105    0    686   206   480     653       
+f Roy White                 105    0    665   199   466     634       
+f Dave Kingman              105    0    139    51    88     133       
+  Manny Sanguillen          103    0    574   183   391     557   233 
+  Bobby Bonds               101    0    699   209   490     691       
+  Gene Alley                 95    0    371   125   246     389       
+  Curt Blefary               93    0    146    21   125     157    45 
+  Dick McAuliffe             93    0    499    52   447     537       
+  Mike Epstein               89    0    449   116   333     503       
+  Rich McKinney              58    0    240   166    74     414       
+  Del Unser                  47    0    305    83   222     648       
+  Charlie Sands              41    0     13     1    12      32       
+  Vada Pinson                38    0    228    47   181     599       
+  Luis Aparicio              37    0    199    67   132     541       
+  Randy Hundley              24    0      5     3     2      21       
+  Curt Motton                22    0     14     4    10      65       
+  Steve Huntz                 6    0      6     3     3      96       
+  Jeff Torborg                3    0      4     3     1     130    23 
+  Dick Schofield              1    0      1     0     1     103       
+  Total                                5783  1701  4082    7415       
+
+
+
+                          Usage  Inj -----BFP-----            -------------Pitches Thrown------------- 
+S Name                        % Days    Sim   Real       Last   10/1   9/30   9/29   9/28   9/27   Cum 
+f Monty Montgomery          113    0     90     80  6/25/1971                                          
+f Darold Knowles            105    0    292    278  9/28/1971                         34r           34 
+  Gaylord Perry              98    0   1124   1149  10/1/1971   130s                               130 
+  Bob Locker                 97    0    287    297  10/1/1971     3r                         14r     3 
+  Mel Stottlemyre            95    0   1031   1090  9/29/1971                 135s                 135 
+  Larry Dierker              90    0    584    647  9/30/1971           33r           24s           57 
+  Bert Blyleven              86    0    974   1136  9/27/1971                               104s       
+  Joe Coleman                75    0    873   1170  9/30/1971          114s                        114 
+  Denny Lemaster             74    0    186    253  10/1/1971     5r    12r           17r           34 
+  Eddie Fisher               70    0    340    488  9/28/1971                         29r    19r    29 
+  Steve Kealey               59    0    189    319  9/17/1971                                          
+  Santiago Guzman            59    0     23     39  9/28/1971                         40r           40 
+f Balor Moore                 0    0      0      0                                                     
+f Bob Gebhard                 0    0      0     80                                                     
+  John Morris                 0    0      0    294                                                     
+  Bob O'Brien                 0    0      0    177                                                     
+  Dick Selma                  0    0      0    102                                                     
+  Ed Sprague                  0    0      0     43                                                     
+  Total                                5993   7642                                                     
+
+
+
+                           HBSL Team Status -- 1971 Apostles of St. Paul                            
+                                 Regular season -- as of 10/1/1971                                  
+
+                          Usage  Inj ---Simulated PA--- Real PA  BFC  
+S Name                        % Days  Total  vs L  vs R   Total   Cum 
+f Rich Severson             127    0     42     8    34      33       
+f Paul Schaal               105    0    692   204   488     659       
+  Ted Martinez               99    0    134    48    86     135       
+f Roberto Clemente           99    0    545   184   361     553       
+f Willie Mays                98    0    526   185   341     537       
+  Tom Egan                   97    0    272   180    92     281   294 
+f Merv Rettenmund            93    0    546   204   342     589       
+f Ike Brown                  92    0    122    34    88     132       
+  Ben Oglivie                87    0     33    11    22      38       
+  Gates Brown                87    0    189    36   153     218       
+f Tim McCarver               85    0    444    19   425     525       
+f Hank Aaron                 84    0    504   155   349     599       
+f Tony Oliva                 82    0    427    30   397     518       
+f Maury Wills                78    0    510   144   366     654       
+  Mike Anderson              75    0     77    26    51     103       
+f Glenn Beckert              75    0    426   132   294     570       
+  Joe Lis                    47    0     67    27    40     144       
+  Ron Woods                  30    0     59    32    27     195       
+  Gail Hopkins               30    0    101    24    77     339       
+  Willie Montanez            24    0    162    20   142     683       
+  Rich Morales               20    0     43    16    27     212       
+  Jim Lefebvre               17    0     71    27    44     427       
+  Juan Beniquez               6    0      4     3     1      63       
+  Andy Etchebarren            4    0      9     6     3     243    24 
+  Bob Barton                  0    0      0     0     0     413     3 
+  Curt Flood                  0    0      0     0     0      40       
+  Total                                6005  1755  4250    8903       
+
+
+
+                          Usage  Inj -----BFP-----            -------------Pitches Thrown------------- 
+S Name                        % Days    Sim   Real       Last   10/1   9/30   9/29   9/28   9/27   Cum 
+  Don Wilson                 89    0    951   1067  10/1/1971    25r                                25 
+  Ken Forsch                 86    0    663    771  10/1/1971   120s                               120 
+  Clay Kirby                 86    0    949   1107  9/27/1971                                74s       
+  Joe Hoerner                85    0    251    296  10/1/1971    14r                  24r    32r    38 
+  Dave Roberts               81    0    884   1086  9/30/1971           21r                         21 
+  Wilbur Wood                81    0   1061   1307  9/25/1971                                          
+d Steve Mingori              79    0    166    211  9/11/1971                                          
+f Jim York                   77    0    298    385  9/11/1971                                          
+  Jim Ray                    69    0    263    382  9/28/1971                         61s     7r    61 
+  Tom Bradley                35    0    418   1180  9/29/1971                 105s    32r    13r   137 
+  Paul Lindblad              33    0    131    399  9/30/1971           36r                  37r    36 
+  Frank Linzy                13    0     32    250  9/30/1971           35r            5r    13r    40 
+  Ray Sadecki                 9    0     62    664  9/30/1971           64s    47r    20r          131 
+  Total                                6129   9105                                                     
+
+
+
+                              HBSL Team Status -- 1971 St. Paul Peeps                               
+                                 Regular season -- as of 10/1/1971                                  
+
+                          Usage  Inj ---Simulated PA--- Real PA  BFC  
+S Name                        % Days  Total  vs L  vs R   Total   Cum 
+  Boog Powell               103    0    523    91   432     509       
+  Ron Swoboda               101    0    261   139   122     259       
+  Ted Kubiak                 97    0    382    89   293     395       
+  Brooks Robinson            96    0    638   202   436     663       
+  Bill Freehan               95    0    558   179   379     586    33 
+f Rennie Stennett            95    0    157    88    69     165       
+  Larry Howard               94    0     64     8    56      68   263 
+  Cesar Tovar                90    0    645   207   438     718       
+  Matty Alou                 90    0    591   198   393     660       
+  Dave Nelson                89    0    319   137   182     358       
+  Carl Yastrzemski           88    0    548   109   439     620       
+  Larry Stahl                86    0    294    55   239     341       
+f Hal Breeden                82    0     32    18    14      39       
+  Ed Brinkman                81    0    476   145   331     589       
+f Jim Mason                  80    0      8     3     5      10       
+  Elrod Hendricks            65    0    234    41   193     361    14 
+  Jim Nettles                17    0     33    12    21     190       
+  Jackie Hernandez           15    0     39     9    30     255       
+f Marty Martinez              0    0      0     0     0      65       
+f Danny Breeden               0    0      0     0     0      79       
+f Roger Repoz                 0    0      0     0     0     360       
+f Russ Gibson                 0    0      0     0     0      59       
+f Tony Gonzalez               0    0      0     0     0     350       
+  Total                                5802  1730  4072    7699       
+
+
+
+                          Usage  Inj -----BFP-----            -------------Pitches Thrown------------- 
+S Name                        % Days    Sim   Real       Last   10/1   9/30   9/29   9/28   9/27   Cum 
+f Tom Griffin               107    0    189    177  9/28/1971                         45r           45 
+  Casey Cox                  97    0    516    532  9/30/1971           18r            9r           27 
+f Ron Klimkowski             91    0    173    191   7/5/1971                                          
+f Don Shaw                   90    0    204    227  7/16/1971                                          
+  Fritz Peterson             88    0    977   1109  9/30/1971          100s                        100 
+  Don Gullett                87    0    777    891  9/29/1971                 101s                 101 
+  Dave LaRoche               86    0    252    292  9/17/1971                                          
+  Jim Palmer                 86    0    991   1159  10/1/1971    98s                        117s    98 
+  Jerry Johnson              65    0    305    469  9/28/1971                         19r           19 
+  Alan Foster                60    0    459    770  9/28/1971                         74s           74 
+  John Cumberland            54    0    404    750  9/28/1971                         36r           36 
+  Stan Williams              46    0    178    389  9/29/1971                  44r     7r           51 
+  Ken Reynolds               27    0    190    709  10/1/1971    31r                                31 
+  Frank Reberger             25    0     46    186  9/17/1971                                          
+  Wally Bunker               22    0     30    134  9/30/1971           14r                         14 
+  Tom Phoebus                13    0     79    593  9/28/1971                         34r           34 
+f Bill Champion               0    0      0    466                                                     
+  Total                                5770   9044                                                     
+
+
+
+                              HBSL Team Status -- 1971 Sanford And Son                              
+                                 Regular season -- as of 10/1/1971                                  
+
+                          Usage  Inj ---Simulated PA--- Real PA  BFC  
+S Name                        % Days  Total  vs L  vs R   Total   Cum 
+f Rick Dempsey              107    0     15     3    12      14       
+f Bill Russell              105    0    235    62   173     223       
+  George Foster             103    0    529   133   396     514       
+  Chris Chambliss           103    2    472   113   359     459       
+f Mickey Rivers             101    0    300    75   225     296       
+  Ted Sizemore              101    0    535   149   386     532       
+f Frank Taveras             100    0      1     1     0       1       
+  Greg Luzinski              97    0    112    30    82     115       
+  Tim Foli                   96    0    299    85   214     312       
+  Steve Garvey               96    0    238    67   171     249       
+  Oscar Gamble               94    0    290    63   227     309       
+  Dusty Baker                89    0     57    19    38      64       
+  Jay Johnstone              85    0    371   110   261     436       
+  Hal Lanier                 85    0    193    49   144     227       
+  George Hendrick            83    0    100    21    79     121       
+  Aurelio Rodriguez          79    0    503   136   367     639       
+  Gomer Hodge                78    0     70    18    52      90       
+  John Bateman               77    0    403   118   285     526    25 
+  Felipe Alou                71    0    363   111   252     509       
+  Paul Casanova              57    0    189    53   136     329   266 
+  Mickey Stanley             54    0    235    71   164     432       
+  Larry Biittner             44    0     84     7    77     189       
+  Bob Oliver                 15    0     60    49    11     398       
+  Ernie Banks                 0    0      0     0     0      92       
+  Total                                5654  1543  4111    7076       
+
+
+
+                          Usage  Inj -----BFP-----            -------------Pitches Thrown------------- 
+S Name                        % Days    Sim   Real       Last   10/1   9/30   9/29   9/28   9/27   Cum 
+f Larry Gura                111    0     20     18  4/16/1971                                          
+  Charlie Williams          107    0    424    398  10/1/1971    40r    20r           12r           72 
+f Gary Ross                 106    0    115    109  5/22/1971                                          
+f Ed Farmer                 105    0    365    348  8/21/1971                                          
+  Joe Niekro                103    0    557    540  9/21/1971                                          
+  Bruce Kison               102    0    413    405  9/30/1971            9r                          9 
+  Jim Lonborg                94    0    678    723  10/1/1971     7r     9r    31r                  47 
+  Tom Seaver                 94    0   1033   1103  9/29/1971                 108s                 108 
+  Reggie Cleveland           91    0    865    953  10/1/1971    85s                        123s    85 
+  Jerry Reuss                75    0    716    952  9/30/1971           72s                         72 
+  Skip Lockwood              74    0    653    888  9/28/1971                        113s          113 
+  Jim Bunning                49    0    238    484  10/1/1971     5r                                 5 
+  Phil Regan                 27    0     87    326   9/9/1971                                          
+  Jim Slaton                 24    0    152    642  9/11/1971                                          
+  Total                                6316   7889                                                     
+
+
+
+                               HBSL Team Status -- 1971 Sophia Kates                                
+                                 Regular season -- as of 10/1/1971                                  
+
+                          Usage  Inj ---Simulated PA--- Real PA  BFC  
+S Name                        % Days  Total  vs L  vs R   Total   Cum 
+f Bob Stinson               120    0     24     2    22      20    82 
+f Milt Ramirez              115    0     15     9     6      13       
+f Dwain Anderson            114    0     49    38    11      43       
+f Steve Hovley              111    0     40     8    32      36       
+f Bruce Christensen         107    0     76     6    70      71       
+f Jack Hiatt                106    0    227    81   146     214       
+f Bernie Allen              106    0    277    28   249     262       
+f Steve Braun               105    0    424    25   399     402       
+f Norm Cash                 105    0    549   158   391     523       
+f Dave Cash                 105    0    558   184   374     532       
+f Bob Burda                 105    0     87    26    61      83       
+f Al Gallagher              105    0    501   185   316     478       
+f Don Buford                105    0    575   114   461     549       
+f Johnny Jeter              105    0     92    36    56      88       
+  Carmen Fanzone            100    0     45    13    32      45       
+  Ralph Garr                 98    3    677   207   470     693       
+  Norm Miller                94    0     73     8    65      78       
+  Elliott Maddox             93    0    291    81   210     312       
+  Joe Ferguson               92    0    106    55    51     115   118 
+  Ron Theobald               91    0    413    77   336     452       
+  Hal McRae                  83    0    295   101   194     354       
+  Manny Mota                 80    0    240   148    92     300       
+  Ellie Rodriguez            79    0    296    69   227     375   139 
+  Woody Woodward             57    0    175   114    61     309       
+  Carl Taylor                47    0     27     4    23      58       
+  Clay Dalrymple             31    3     21     0    21      67       
+  Ken Boswell                20    0     87    17    70     436       
+f Johnny Oates                0    0      0     0     0       0       
+f Rico Carty                  0    0      0     0     0       0       
+  Total                                6240  1794  4446    6908       
+
+
+
+                          Usage  Inj -----BFP-----            -------------Pitches Thrown------------- 
+S Name                        % Days    Sim   Real       Last   10/1   9/30   9/29   9/28   9/27   Cum 
+f Skip Guinn                133    0     24     18  9/27/1971                                26r       
+f Dennis Higgins            117    0     34     29  5/25/1971                                          
+f Gary Waslewski            109    0    162    149   8/8/1971                                          
+  Rob Gardner               104    0     50     48  9/29/1971                  97s            5r    97 
+  Tom Hall                  104    0    560    541  10/1/1971    44r    14r           11r    11r    69 
+  Clyde Wright               94    0   1048   1114  9/27/1971                                24r       
+  Al Fitzmorris              92    0    494    537  10/1/1971    95s                        108s    95 
+  Don Sutton                 92    0    972   1059  9/30/1971           95s                         95 
+  J.R. Richard               89    0     85     96  9/29/1971                  12r                  12 
+  Dave McNally               80    0    722    899  9/29/1971                  15r                  15 
+  Fred Norman                80    0    454    567  9/30/1971           12r    20r     6r     6r    38 
+  Phil Niekro                78    0    863   1101  9/28/1971                        132s          132 
+  Tommy John                 77    0    746    969  9/29/1971                  31r     8r    11r    39 
+  Fred Scherman              24    0    113    469  10/1/1971     8r                   6r    11r    14 
+  Total                                6327   7596                                                     
+
+
+
+                        HBSL Team Status -- 1971 Avery Island Chili Peppers                         
+                                 Regular season -- as of 10/1/1971                                  
+
+                          Usage  Inj ---Simulated PA--- Real PA  BFC  
+S Name                        % Days  Total  vs L  vs R   Total   Cum 
+f Rusty Torres              108    0     28     5    23      26       
+f Amos Otis                 105    0    637   146   491     607       
+f Rick Miller               105    0     44     9    35      42       
+  Pete Rose                 104    0    736   186   550     707       
+  Ed Herrmann               104    0    357    18   339     344   106 
+  Lee May                   100   13    599   136   463     602       
+  Duffy Dyer                 97    0    180   122    58     185   115 
+  Bill Melton                93    0    575   142   433     621       
+  Jose Cardenal              84    0    468   129   339     558       
+  Dave Concepcion            82    0    291    72   219     354       
+  Tito Fuentes               79    3    531   132   399     672       
+  Sandy Alomar               75    0    554   132   422     739       
+  Joe Pepitone               50    0    229    28   201     460       
+  Hal King                   49    0    114     4   110     233    71 
+  Don Pavletich              44    0     14     8     6      32    25 
+  Jim Spencer                27    0    157    22   135     572       
+  Walt Williams              25    0     99    42    57     397       
+  Rick Reichardt             12    0     66    46    20     544       
+  Jose Ortiz                 10    0     10     3     7      96       
+  Dalton Jones                7    0     10     0    10     148       
+  Bob Didier                  3    0      5     4     1     171       
+  Roy Foster                  1    0      6     4     2     439       
+  John Kennedy                0    0      0     0     0     296       
+  Doug Griffin                0    0      0     0     0     526       
+  Enzo Hernandez              0    0      0     0     0     618       
+  Ken McMullen                0    0      0     0     0     657       
+  Total                                5710  1390  4320   10646       
+
+
+
+                          Usage  Inj -----BFP-----            -------------Pitches Thrown------------- 
+S Name                        % Days    Sim   Real       Last   10/1   9/30   9/29   9/28   9/27   Cum 
+f Roger Moret               106    0    316    297  9/24/1971                                          
+f Rollie Fingers            106    0    528    500  9/20/1971                                          
+  Eddie Watt                102    0    166    163  9/30/1971           24r    13r     8r    11r    45 
+  Rudy May                   99    0    847    853  9/27/1971                               111s       
+  Steve Arlin                98    0    965    988  10/1/1971    85s                                85 
+  Pat Dobson                 93    0   1049   1133  9/30/1971           87s                         87 
+  Jim Barr                   87    0    123    142  9/29/1971                   8r                   8 
+  Nolan Ryan                 85    0    599    705  9/28/1971                         94s           94 
+  Jerry Koosman              83    0    576    694  9/18/1971                                          
+  Diego Segui                83    0    505    610  10/1/1971    10r           14r    13r           37 
+  Jim Strickland             77    0     98    128  6/21/1971                                          
+  Joe Gibbon                 69    0    187    271  10/1/1971    20r    10r     9r                  39 
+  Hal Haydel                 49    0     88    178  10/1/1971    14r            6r           21r    20 
+  Jim McGlothlin             12    0     84    683  9/29/1971                  78s                  78 
+  Ron Cook                   12    0     13    110  9/28/1971                          4r            4 
+  Mudcat Grant                3    0     13    433  9/21/1971                                          
+  Jose Pena                   1    0      1    176  9/22/1971                                          
+  Ken Wright                  0    0      0    340                                                     
+  Total                                6158   8404                                                     
+
+
+
+                            HBSL Team Status -- 1971 Hamsterdam Hoppers                             
+                                 Regular season -- as of 10/1/1971                                  
+
+                          Usage  Inj ---Simulated PA--- Real PA  BFC  
+S Name                        % Days  Total  vs L  vs R   Total   Cum 
+f Richie Zisk               116    0     22    14     8      19       
+f Tom Paciorek              100    0      2     0     2       2       
+f Milt May                   99    0    136    23   113     137    36 
+  Danny Thompson             99    0     67    38    29      68       
+  Dick Allen                 96    0    621   201   420     649       
+  Mike Jorgensen             95    0    126    11   115     132       
+  Toby Harrah                89    0    380   170   210     425       
+  Johnny Bench               89    0    545   186   359     613   114 
+  Ron Santo                  86    0    553   171   382     642       
+  Vic Davalillo              85    0    266    23   243     312       
+  Jerry Kenney               85    0    335    33   302     395       
+  Carlos May                 79    0    454    45   409     574       
+  Ollie Brown                79    0    428   163   265     542       
+  Horace Clarke              78    0    541   168   373     696       
+  Ken Berry                  78    0    253   140   113     326       
+  Tommy Helms                77    0    453   165   288     588       
+  Jim Holt                   75    0    271    31   240     361       
+  Johnny Edwards             58    0    199    25   174     345   140 
+  Tommy McCraw               39    0     92    21    71     234       
+f Bobby Tolan                 0    0      0     0     0       0       
+  Total                                5744  1628  4116    7060       
+
+
+
+                          Usage  Inj -----BFP-----            -------------Pitches Thrown------------- 
+S Name                        % Days    Sim   Real       Last   10/1   9/30   9/29   9/28   9/27   Cum 
+f Burt Hooton               113    0     93     82  4/16/1971                                          
+  Pete Broberg              107    0    560    521  9/30/1971          101s                        101 
+  Terry Forster             102    0    220    215  9/28/1971                        112s          112 
+  Jim Brewer                101    0    320    317  9/30/1971           20r                  13r    20 
+f Mike Caldwell              96    0     25     26  5/13/1971                                          
+  Joe Decker                 94    0    202    215  9/24/1971                                          
+  Steve Stone                94    0    455    485  9/28/1971                         16r           16 
+  Sparky Lyle                93    0    234    252  9/30/1971           26r                  19r    26 
+  Joe Horlen                 92    0    532    579  9/26/1971                                          
+  Blue Moon Odom             92    4    576    629  9/20/1971                                          
+f John Curtis                91    0    102    112  5/14/1971                                          
+  Stephen D Barber           91    0    305    337  9/28/1971                         20r           20 
+  Ted Abernathy              89    0    309    346  9/27/1971                                15r       
+f Wayne Twitchell            87    0     60     69  6/27/1971                                          
+f Chuck Seelbach             84    0     21     25   8/4/1971                                          
+f Gary Neibauer              79    0     68     86  7/18/1971                                          
+  Carl Morton                79    0    753    958  9/28/1971                          3r            3 
+f Mike Strahler              78    0     43     55  8/20/1971                                          
+  Mickey Lolich              77    0   1170   1524  10/1/1971   128s                        110s   128 
+  Dick Bosman                69    0    694   1007  9/29/1971                 114s                 114 
+f John Hiller                 0    0      0      0                                                     
+f Lerrin LaGrow               0    0      0      0                                                     
+  Total                                6742   7840                                                     
+
+
+
+                               HBSL Team Status -- 1971 Pakenham Arms                               
+                                 Regular season -- as of 10/1/1971                                  
+
+                          Usage  Inj ---Simulated PA--- Real PA  BFC  
+S Name                        % Days  Total  vs L  vs R   Total   Cum 
+f Johnny Briggs             105    0    508   170   338     482       
+  Darrell Porter            105    0     84    18    66      80    85 
+f Mike Andrews              105    0    428   136   292     408       
+f Frank Robinson            105    0    571   177   394     545       
+f Sal Bando                 101    0    652   224   428     643       
+  Pat Kelly                 101    0    254    71   183     252       
+f Willie Stargell            99    0    598   210   388     606       
+f Bobby Murcer               98    0    610   209   401     624       
+  Willie Horton              91    0    454   147   307     498       
+f Earl Williams              81    0    443   161   282     550       
+  Don Kessinger              77    0    528   166   362     687       
+  Tommy Davis                57    0    136    50    86     238       
+  Larry Bowa                 52    0    362   118   244     696       
+  Mike Hershberger           44    0     94    33    61     214       
+  Don Mincher                28    0    141    41   100     497       
+  Garry Jestadt              13    0     27     4    23     207       
+  Ed Kranepool                7    0     30     4    26     439       
+  Mike Ryan                   6    0      9     0     9     144    93 
+  Jerry May                   5    0     13    10     3     249    26 
+  Dennis Paepke               4    0      7     2     5     161    93 
+  Jesus Alou                  0    0      2     1     1     455       
+  Bob Aspromonte              0    0      1     0     1     377       
+  Sonny Jackson               0    0      1     0     1     593       
+  Roger Freed                 0    0      0     0     0     401       
+  Don Hahn                    0    0      0     0     0     203       
+  Total                                5953  1952  4001   10249       
+
+
+
+                          Usage  Inj -----BFP-----            -------------Pitches Thrown------------- 
+S Name                        % Days    Sim   Real       Last   10/1   9/30   9/29   9/28   9/27   Cum 
+f Joe Grzenda               105    0    290    275  9/25/1971                                          
+  Bart Johnson              101    0    788    778  10/1/1971   120s                               120 
+  Lew Krausse                99    0    741    750  9/27/1971                                77s       
+f Bob Miller                 97    0    397    409  8/20/1971                                          
+f Sonny Siebert              93    0    897    965  9/20/1971                                          
+  Tom Burgmeier              87    0    310    357  9/30/1971           37r            3r           40 
+  Rick Wise                  82    0    918   1123  9/30/1971           59s                         59 
+  George Stone               80    0    593    737  9/28/1971                         85s           85 
+f Tug McGraw                 79    0    347    441  9/21/1971                                          
+  Danny Frisella             69    0    261    376  10/1/1971    10r           28r     5r    13r    43 
+  Mel Queen                  61    0    164    270  9/30/1971           14r                  37r    14 
+  Milt Pappas                37    0    407   1099  9/29/1971                  88s                  88 
+  Dave Leonhard               8    0     18    227  9/30/1971           21r                  17r    21 
+  Juan Pizarro                3    0     11    419  9/28/1971                         32r    10r    32 
+  Wade Blasingame             0    0      0    696                                                     
+  Chris Short                 0    0      0    745                                                     
+  Total                                6142   9667                                                     
+
+
+
+                             HBSL Team Status -- 1971 Okinawa Typhoons                              
+                                 Regular season -- as of 10/1/1971                                  
+
+                          Usage  Inj ---Simulated PA--- Real PA  BFC  
+S Name                        % Days  Total  vs L  vs R   Total   Cum 
+f Mike Ivie                 116    0     22     4    18      19       
+f Sandy Valdespino          109    0     71    27    44      65       
+f Bobby Grich               106    0     37    13    24      35       
+f John Milner               106    0     19     2    17      18       
+f Richie Hebner             105    0    457    49   408     434       
+f Bob Robertson             105    0    563   182   381     536       
+f Phil Gagliano             105    0     85    39    46      81       
+f Gene Clines               105    0    314   181   133     300       
+f Cleo James                105    0    180   147    33     172       
+f Rick Monday               105    0    428    47   381     409       
+  Ron Hunt                  104    0    666   224   442     638       
+  Jeff Burroughs            104    0    212   131    81     204       
+  Ron Fairly                101    0    550   120   430     542       
+  Lou Brock                 100    3    720   235   485     720       
+f Terry Crowley             100    0     26     2    24      26       
+  Fred Stanley               96    0    154    44   110     160       
+  Dick Dietz                 93    0    521   194   327     558   262 
+  Bert Campaneris            92    0    562   191   371     609       
+  Tom Haller                 83    0    194    26   168     234    25 
+  Ty Cline                   57    0     67    19    48     118       
+  Chuck Hinton               45    0     75    17    58     167       
+  Bobby Valentine             9    0     28    10    18     307       
+  Andy Kosco                  4   21     11     7     4     290       
+  Ron Hansen                  4    0      6     1     5     159       
+  John Boccabella             3    0      5     1     4     195       
+  Dick Billings               1    0      2     2     0     380       
+  Total                                5975  1915  4060    7376       
+
+
+
+                          Usage  Inj -----BFP-----            -------------Pitches Thrown------------- 
+S Name                        % Days    Sim   Real       Last   10/1   9/30   9/29   9/28   9/27   Cum 
+f Buzz Capra                138    0     33     24  4/30/1971                                          
+f Tom House                 112    0     92     82  7/12/1971                                          
+f Mike Garman               105    0     83     79  6/24/1971                                          
+  Jim Kaat                   99    0   1066   1080  10/1/1971    93s                                93 
+  Catfish Hunter             98    0   1083   1103  9/29/1971                  87s                  87 
+  Bill Wilson                95    0    226    237  9/29/1971                  28r    11r     9r    39 
+  Marty Pattin               95    0   1019   1070  9/30/1971          100s                        100 
+  Fergie Jenkins             92    0   1197   1299  9/28/1971                         96s           96 
+  Lloyd Allen                86    0    333    389  10/1/1971    19r            7r    26r           52 
+  Mike Hedlund               68    0    572    840  9/27/1971                               113s       
+  Pat Jarvis                 47    0    322    686  10/1/1971    10r            7r                  17 
+  Ron Taylor                 45    0    126    281  10/1/1971    20r           21r                  41 
+  Tom Dukes                  36    0     58    159   9/7/1971                                          
+f Fred Beene                  0    0      0      0                                                     
+f Gene Garber                 0    0      0      0                                                     
+f Dick Woodson                0    0      0      0                                                     
+  Total                                6210   7329                                                     
+
+
+
+                            HBSL Team Status -- 1971 Ringling Ringlings                             
+                                 Regular season -- as of 10/1/1971                                  
+
+                          Usage  Inj ---Simulated PA--- Real PA  BFC  
+S Name                        % Days  Total  vs L  vs R   Total   Cum 
+f Terry Harmon              104    0    257   120   137     248       
+f Larry Hisle               102    0     84    22    62      82       
+  Graig Nettles             100    0    687   206   481     690       
+  Bill Sudakis               97    0     93    19    74      96       
+  Joe Lahoud                 94    0    284    44   240     301       
+  Freddie Patek              92    0    593   161   432     648       
+  Carlton Fisk               90    0     44    17    27      49    13 
+  Reggie Smith               88    0    606   198   408     692       
+  Nate Colbert               87    0    559   174   385     639       
+  Billy Williams             85    0    573   189   384     677       
+  Wayne Garrett              81    0    191     7   184     235       
+f John Lowenstein            80    0    127    22   105     159       
+  Cesar Cedeno               79    0    514   149   365     649       
+  Bob Montgomery             79    0    181    53   128     229     2 
+  Dave May                   78    0    438    97   341     562       
+  John Ellis                 76    0    205    64   141     271     2 
+  George Mitterwald          53    0    232    69   163     434   299 
+  Dave Campbell              19    0     79    38    41     414       
+  Cito Gaston                 1    0      3     2     1     547       
+  Total                                5750  1651  4099    7622       
+
+
+
+                          Usage  Inj -----BFP-----            -------------Pitches Thrown------------- 
+S Name                        % Days    Sim   Real       Last   10/1   9/30   9/29   9/28   9/27   Cum 
+f Jim Rooker                101    0    242    240  9/24/1971                                          
+  Chris Zachary              90    0    360    399  10/1/1971    10r    10r    12r    16r     5r    48 
+  Steve Blass                87    0    869    996  10/1/1971    80s                        100s    80 
+  Al Downing                 85    0    936   1095  9/30/1971          110s                        110 
+f Bob Reynolds               84    0     53     63  7/27/1971                                          
+f Ramon Hernandez            84    0     37     44   5/5/1971                                          
+  Bill Lee                   84    0    374    445  10/1/1971    28r           10r    17r    22r    55 
+f Jim Colborn                84    0     42     50  6/22/1971                                          
+  Gary Nolan                 84    0    829    991  9/29/1971                 119s                 119 
+  Dick Drago                 82    0    823    999  10/1/1971    11r           20r           23r    31 
+  Ray Corbin                 82    0    509    619  9/29/1971                   5r    57r     8r    62 
+f Pedro Borbon               81    0     13     16   4/6/1971                                          
+  Jack Billingham            77    0    722    943  9/12/1971                                          
+  Mike Paul                  76    0    208    273  10/1/1971     1r            3r     8r           12 
+  Horacio Pina               46    0    113    247  9/28/1971                         40s           40 
+  Steve Renko                 8    0    100   1193  9/28/1971                         30r           30 
+f Dave Lemonds                0    0      0      0                                                     
+  Total                                6230   8613                                                     
+
+
+
+                               HBSL Team Status -- 1971 Cary Hairies                                
+                                 Regular season -- as of 10/1/1971                                  
+
+                          Usage  Inj ---Simulated PA--- Real PA  BFC  
+S Name                        % Days  Total  vs L  vs R   Total   Cum 
+f Adrian Garrett            112    0     29     9    20      26       
+f Jimmy Wynn                105    0    488   176   312     466       
+f Joe Rudi                  105    0    582   173   409     556       
+  Doug Rader                103    0    549   162   387     534       
+  Gil Garrido                93    0    133    54    79     143       
+  Tony Taylor                90    0    283   161   122     314       
+  Don Money                  89    1    431   120   311     482       
+  Coco Laboy                 88    0    143    43   100     162       
+  Willie Davis               88    0    591   135   456     672       
+  George Scott               86    0    505   163   342     590       
+  Rod Carew                  81    0    512    76   436     632       
+f Buck Martinez              79    0     42    21    21      53       
+  Frank Duffy                78    0     36    12    24      46       
+  Ken Rudolph                78    0     67    24    43      86   264 
+  Bob Heise                  78    0    162    55   107     209       
+f Dave Duncan                76    0    304    92   212     398       
+f Thurman Munson             75    0    387   113   274     517       
+  Gene Michael               72    0    369    87   282     514       
+  Pat Corrales               25    0     26     4    22     102    53 
+  Clyde Mashore               6    0      7     5     2     126       
+  Ed Stroud                   2    0      3     3     0     153       
+  Total                                5649  1688  3961    6781       
+
+
+
+                          Usage  Inj -----BFP-----            -------------Pitches Thrown------------- 
+S Name                        % Days    Sim   Real       Last   10/1   9/30   9/29   9/28   9/27   Cum 
+f Pete Richert              105    0    161    153  9/17/1971                                          
+  Al Santorini              103    0    389    377  9/29/1971                  45s                  45 
+  Lindy McDaniel            103    0    319    310  9/30/1971           11r    18r           30r    29 
+  Steve Hargan               97    0    506    523  10/1/1971    22r           23r                  45 
+  Dan McGinn                 96    0    305    318  9/28/1971                        102s          102 
+  Ray Lamb                   91    0    618    676  9/29/1971                  32r                  32 
+  Barry Lersch               86    0    755    875  9/29/1971                  29r    28r    12r    57 
+  Ken Holtzman               85    0    722    848  9/30/1971          117s                        117 
+f Bill Hands                 83    0    848   1019   9/3/1971                                          
+  Luis Tiant                 82    0    258    315   9/4/1971                                          
+  John Strohmayer            79    0    380    483  9/11/1971                                          
+  Phil Hennigan              78    0    290    370  9/12/1971                                          
+  Jackie Brown               78    0    175    224  9/12/1971                                          
+  Luke Walker                77    0    511    666  10/1/1971   122s                         81s   122 
+f Mike Corkins               75    0     42     56   5/8/1971                                          
+  Bucky Brandon              49    0    177    364  9/30/1971           27r           13r    25r    40 
+  Total                                6456   7577                                                     
+
+
+
+                           HBSL Team Status -- 1971 C Street Peccadillos                            
+                                 Regular season -- as of 10/1/1971                                  
+
+                          Usage  Inj ---Simulated PA--- Real PA  BFC  
+S Name                        % Days  Total  vs L  vs R   Total   Cum 
+f Fred Kendall              107    0    128    53    75     120    39 
+f Jerry DaVanon             106    0    100    46    54      94       
+f Ted Simmons               105    0    593   180   413     563   115 
+f Willie Crawford           105    0    394    55   339     375       
+f Dave Johnson              105    0    602   207   395     574       
+f Bill North                105    0     22    11    11      21       
+f Ken Singleton             105    0    383   182   201     366       
+  Wes Parker                105    0    637   214   423     609       
+  Rusty Staub               103    0    711   240   471     690       
+  Ted Uhlaender             102    0    550   195   355     541       
+  Bob Bailey                 96    0    628   209   419     654       
+  Roger Metzger              94    0    579   187   392     617       
+  Eric Soderholm             78    0     61    33    28      78       
+  Jim Fregosi                51    0    203    88   115     399       
+  Brock Davis                46    0    159    26   133     344       
+  Jerry Moses                26    0     50    14    36     193   139 
+  Don Mason                  22    0     82    16    66     377       
+  Denny Doyle                 6    0     21     3    18     368       
+  Marty Perez                 0    0      1     0     1     445       
+f Bill Robinson               0    0      0     0     0       0       
+  Total                                5904  1959  3945    7428       
+
+
+
+                          Usage  Inj -----BFP-----            -------------Pitches Thrown------------- 
+S Name                        % Days    Sim   Real       Last   10/1   9/30   9/29   9/28   9/27   Cum 
+f Charlie Hough             116    0     22     19  4/17/1971                                          
+f Ron Reed                  105    0    976    927  9/29/1971                  78s                  78 
+  Bill Parsons               92    0    943   1026  9/28/1971                        104s          104 
+  Bruce Dal Canton           91    0    547    599  9/30/1971           40r            2r    11r    42 
+  Andy Messersmith           89    0   1028   1152  10/1/1971   119s                         81s   119 
+  Ken Brett                  88    0    232    264  9/22/1971                                          
+  Bill Bonham                88    0    238    272  9/19/1971                                          
+  Jim Perry                  84    0    966   1152  9/30/1971          107s                        107 
+  Don McMahon                82    0    292    356  9/29/1971                  24r                  24 
+  Chuck Taylor               79    0    238    303  6/18/1971                                          
+  Milt Wilcox                77    0    144    187  5/23/1971                                          
+  Jim Roland                 74    0    137    184  9/30/1971            9r                  17r     9 
+  Steve Dunning              28    0    227    818  9/19/1971                                          
+  Chuck Dobson               20    0    164    807  9/28/1971                         13r    44r    13 
+  Denny McLain               20    0    186    937  9/19/1971                                          
+  Total                                6340   9003                                                     
+

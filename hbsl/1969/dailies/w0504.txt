@@ -1,0 +1,61 @@
+The Hot Buttered Soul League
+Weekly Awards for the week ending Sunday May 4, 1969
+
+GOOD TEAMS OF THE WEEK:
+  W-L:   6-0 Hamsterdam Hoppers (RMiller)
+   RS: 36-24 Rockford Files (Bernstein)
+   RA: 31-12 Northfield Nor'easters (Bailey)
+  Mgn:    19 Northfield Nor'easters (Bailey)
+Pyth%:  .870 Northfield Nor'easters (Bailey)
+
+BAD TEAMS OF THE WEEK:
+  W-L:   1-5 Apostles, Anacondas, Typhoons, And Son, Five-O
+   RS: 12-25 St. Paul Peeps (Henninger)
+   RA: 19-38 Hawai'i Five-O (Potter)
+  Mgn:   -19 Hawai'i Five-O (Potter)
+Pyth%:  .187 St. Paul Peeps (Henninger)
+
+BATTING LEADERS:
+ AVG:  600 - Goossen (HAM)
+ OBA:  652 - Goossen (HAM)
+ SLG: 1133 - Allen,R (HAM)
+  RC: 11.4 - Goossen (HAM)
+RC27: 43.9 - Allen,R (HAM)
+   H:   12 - Goossen (HAM)
+  2b:    3 - 
+  3b:    2 - Maloney (SPP), Bradford (ROC), Torre (CCA)
+  HR:    5 - McCovey (ROC)
+   R:    9 - McCovey (ROC)
+ RBI:    8 - McCovey (ROC), Petrocelli (NOR)
+  BB:    6 - Yastrzemski (SPP), Unser (NOR), Kaline (AND), Killebrew (ROC)
+   K:    9 - Colbert (RIN)
+  SB:  5-0 - White,R (AND)
+  CS:    2 - 
+
+PITCHING LEADERS:
+   SO:   14 - Bunning (AVI), McDowell (ROC), Singer (NOR)
+   BB:    9 - Jackson,G (QME)
+   HR:    4 - Tiant (CAR), Bahnsen (SAN)
+  BAA:  158 - Peterson,F (SPP)
+  OBA:  183 - Peterson,F (SPP)
+  SLG:  233 - Peterson,F (SPP)
+  R/9:  5.9 - Peterson,F (SPP)
+  K/9: 10.0 - McDowell (ROC)
+  OPS:  416 - Peterson,F (SPP)
+RCERA: 1.09 - Peterson,F (SPP)
+ CERA: 0.96 - Peterson,F (SPP)
+
+WEEKLY WINNERS:
+W/E    BATTER                        PITCHER           
+-------------------------------------------------------------------
+04/13  Frank Howard (ROC)            Fritz Peterson (SPP)
+04/20  Orlando Cepeda (QME)          Grant Jackson (QME)
+04/27  Cleon Jones (NOR)             Dick Bosman (SPP)
+05/04  Greg Goossen (HAM)            Fritz Peterson (SPP)
+
+W/E   GOOD TEAM                      BAD TEAM
+-------------------------------------------------------------------
+04/13  Northfield Nor'easters   6-1  Quincy M.E.                0-7
+04/20  St. Paul Peeps           5-1  Apostles of St. Paul       1-5
+04/27  St. Paul Peeps           6-1  C Street Peccadillos       1-6
+05/04  Hamsterdam Hoppers       6-0  Hawai'i Five-O             1-5

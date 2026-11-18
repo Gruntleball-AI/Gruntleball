@@ -1,0 +1,59 @@
+The Hot Buttered Soul League
+Weekly Awards for the week ending Sunday April 27, 1969
+
+GOOD TEAMS OF THE WEEK:
+  W-L:   6-1 St. Paul Peeps (Thommy Boy)
+   RS: 46-30 Andersonville Anacondas (Trogdor)
+   RA: 37-15 St. Paul Peeps (Thommy Boy)
+  Mgn:    22 St. Paul Peeps (Thommy Boy)
+Pyth%:  .859 St. Paul Peeps (Thommy Boy)
+
+BAD TEAMS OF THE WEEK:
+  W-L:   1-6 C Street Peccadillos (Stearnsy)
+   RS: 13-27 C Street Peccadillos (Stearnsy)
+   RA: 38-41 Northfield Nor'easters (Shecky)
+  Mgn:   -23 Apostles of St. Paul (EnglishMess)
+Pyth%:  .144 Apostles of St. Paul (EnglishMess)
+
+BATTING LEADERS:
+ AVG:  519 - Jones,C (NOR)
+ OBA:  581 - Jones,C (NOR)
+ SLG:  862 - McCovey (ROC)
+  RC:  9.9 - Jones,C (NOR)
+RC27: 19.1 - Jones,C (NOR)
+   H:   14 - Jones,C (NOR)
+  2b:    4 - Reese (NOR), Epstein (AND)
+  3b:    2 - Williams,BL (RIN), White,R (AND), Fairly (OKI), Thomas,G (SOP)
+  HR:    4 - McCovey (RIN)
+   R:    9 - Hisle (RIN), Jones,C (NOR)
+ RBI:    9 - Epstein (AND), Northrup (NOR), Foy (AND)
+  BB:    9 - Killebrew (ROC)
+   K:   10 - Wynn (CAR), Hisle (RIN)
+  SB:  6-0 - Harper (AND) <-- 2nd week leading without getting caught
+  CS:  3-3 - Tovar (SPP)
+
+PITCHING LEADERS:
+   SO:   15 - Wilson,D (ASP)
+   BB:    8 - Coleman (AND), Ryan,N (AVI), Wilson,D (ASP)
+   HR:    4 - Blass (RIN)
+  BAA:  120 - Mikkelsen (NOR)
+  OBA:  170 - Singer (NOR)
+  SLG:  138 - Maloney (SPP)
+  R/9:  5.5 - Singer (NOR)
+  K/9: 12.9 - Gentry (SPP)
+  OPS:  343 - Bosman (SPP)
+RCERA: 0.54 - Bosman (SPP)
+ CERA: 0.81 - Hands (HAM)
+
+WEEKLY WINNERS:
+W/E    BATTER                        PITCHER           
+-------------------------------------------------------------------
+04/13  Frank Howard (ROC)            Fritz Peterson (SPP)
+04/20  Orlando Cepeda (QME)          Grant Jackson (QME)
+04/27  Cleon Jones (NOR)             Dick Bosman (SPP)
+
+W/E   GOOD TEAM                      BAD TEAM
+-------------------------------------------------------------------
+04/13  Northfield Nor'easters   6-1  Quincy M.E.                0-7
+04/20  St. Paul Peeps           5-1  Apostles of St. Paul       1-5
+04/27  St. Paul Peeps           6-1  C Street Peccadillos       1-6

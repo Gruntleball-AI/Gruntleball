@@ -1,0 +1,774 @@
+                              Org transaction log -- Hot Buttered Soul                              
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+10/1/1971  AND     Harper              Demoted to reserve roster                          Before   
+10/1/1971  AND     Thomas,D            Demoted to reserve roster                          Before   
+10/1/1971  CAR     Stroud              Signed                                             Before   
+10/1/1971  CAR     Wynn                Demoted to reserve roster                          Before   
+9/30/1971  ASP     Schaal              Demoted to reserve roster                          Before   
+9/30/1971  CAR     Garrett,A           Demoted to reserve roster                          Before   
+9/30/1971  CAR     Mashore             Signed                                             Before   
+9/30/1971  CAR     Rudi                Demoted to reserve roster                          Before   
+9/30/1971  CST     Reed,R              Demoted to reserve roster                          Before   
+9/30/1971  PHI     Hassler             Demoted to reserve roster                          Before   
+9/30/1971  ROC     Agee                Demoted to reserve roster                          Before   
+9/30/1971  ROC     Riddleberger        Demoted to reserve roster                          Before   
+9/30/1971  ROC     Sanders             Demoted to reserve roster                          Before   
+9/30/1971  SOP     Hovley              Demoted to reserve roster                          Before   
+9/29/1971  AND     Knowles             Demoted to reserve roster                          Before   
+9/29/1971  HAM     McCraw              Activated from disabled list                       Before   
+9/29/1971  NOR     Cruz                Demoted to reserve roster                          Before   
+9/29/1971  SPP     Griffin,T           Demoted to reserve roster                          Before   
+9/28/1971  CAR     Garrett,A           Promoted to active roster                          Before   
+9/28/1971  CST     Johnson,Da          Demoted to reserve roster                          Before   
+9/28/1971  CST     Kendall             Demoted to reserve roster                          Before   
+9/28/1971  HAM     Edwards             Activated from disabled list                       Before   
+9/28/1971  HAM     May,M               Demoted to reserve roster                          Before   
+9/28/1971  PAK     Briggs              Demoted to reserve roster                          Before   
+9/28/1971  QME     Nelson,R            Demoted to reserve roster                          Before   
+9/28/1971  SOP     Ferguson            Promoted to active roster                          Before   
+9/28/1971  SOP     Guinn               Demoted to reserve roster                          Before   
+9/28/1971  SOP     Richard,JR          Promoted to active roster                          Before   
+9/27/1971  AVI     Torres,R            Demoted to reserve roster                          Before   
+9/27/1971  CST     Simmons             Demoted to reserve roster                          Before   
+9/27/1971  CST     Singleton           Demoted to reserve roster                          Before   
+9/27/1971  NOR     Northrup            Demoted to reserve roster                          Before   
+9/27/1971  ROC     Johnson,Bo          Promoted to active roster                          Before   
+9/27/1971  ROC     Killebrew           Demoted to reserve roster                          Before   
+9/27/1971  ROC     Kline               Demoted to reserve roster                          Before   
+9/27/1971  ROC     McCovey             Demoted to reserve roster                          Before   
+9/27/1971  ROC     McDowell            Demoted to reserve roster                          Before   
+9/27/1971  ROC     McNertney           Demoted to reserve roster                          Before   
+9/27/1971  ROC     Parker,B            Promoted to active roster                          Before   
+9/27/1971  ROC     Rojas               Demoted to reserve roster                          Before   
+9/27/1971  ROC     Sims                Demoted to reserve roster                          Before   
+9/27/1971  ROC     Upshaw              Promoted to active roster                          Before   
+9/26/1971  PAK     Grzenda             Demoted to reserve roster                          Before   
+9/26/1971  QME     Pena,O              Demoted to reserve roster                          Before   
+9/26/1971  SOP     Stinson             Demoted to reserve roster                          Before   
+9/25/1971  AVI     Barr                Promoted to active roster                          Before   
+9/25/1971  AVI     Haydel              Promoted to active roster                          Before   
+9/25/1971  AVI     Moret               Demoted to reserve roster                          Before   
+9/25/1971  AVI     Otis                Demoted to reserve roster                          Before   
+9/25/1971  PAK     Alou,J              Promoted to active roster                          Before   
+9/25/1971  PAK     Aspromonte          Promoted to active roster                          Before   
+9/25/1971  PAK     Bando               Demoted to reserve roster                          Before   
+9/25/1971  PAK     Freed               Promoted to active roster                          Before   
+9/25/1971  PAK     Hahn                Promoted to active roster                          Before   
+9/25/1971  PAK     Jackson,S           Promoted to active roster                          Before   
+9/25/1971  PAK     Jestadt             Promoted to active roster                          Before   
+9/25/1971  PAK     Murcer              Demoted to reserve roster                          Before   
+9/25/1971  PAK     Paepke              Promoted to active roster                          Before   
+9/25/1971  PAK     Ryan,M              Promoted to active roster                          Before   
+9/25/1971  PAK     Williams,E          Demoted to reserve roster                          Before   
+9/25/1971  RIN     Ellis,J             Promoted to active roster                          Before   
+9/25/1971  RIN     Fisk                Promoted to active roster                          Before   
+9/25/1971  RIN     Garrett,W           Promoted to active roster                          Before   
+9/25/1971  RIN     Harmon              Demoted to reserve roster                          Before   
+9/25/1971  RIN     Hisle               Demoted to reserve roster                          Before   
+9/25/1971  RIN     Rooker              Demoted to reserve roster                          Before   
+9/25/1971  ROC     Jackson,R           Demoted to reserve roster                          Before   
+9/25/1971  SOP     Gardner             Promoted to active roster                          Before   
+9/24/1971  PAK     Robinson,F          Demoted to reserve roster                          Before   
+9/24/1971  SOP     Hiatt               Demoted to reserve roster                          Before   
+9/22/1971  AND     White               Demoted to reserve roster                          Before   
+9/22/1971  ASP     Aaron,H             Demoted to reserve roster                          Before   
+                              Org transaction log -- Hot Buttered Soul                              
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+9/22/1971  PAK     Blasingame          Promoted to active roster                          Before   
+9/22/1971  PAK     Leonhard            Promoted to active roster                          Before   
+9/22/1971  PAK     McGraw              Demoted to reserve roster                          Before   
+9/22/1971  PAK     Pizarro             Promoted to active roster                          Before   
+9/22/1971  PAK     Short               Promoted to active roster                          Before   
+9/22/1971  PAK     Siebert             Demoted to reserve roster                          Before   
+9/22/1971  PAK     Stargell            Demoted to reserve roster                          Before   
+9/22/1971  QME     Chaney              Promoted to active roster                          Before   
+9/22/1971  QME     Darwin              Promoted to active roster                          Before   
+9/22/1971  QME     Matlack             Promoted to active roster                          Before   
+9/22/1971  QME     Parker,H            Promoted to active roster                          Before   
+9/22/1971  QME     Pena,O              Promoted to active roster                          Before   
+9/22/1971  QME     Perzanowski         Promoted to active roster                          Before   
+9/22/1971  RIN     Paul                Activated from disabled list                       Before   
+9/22/1971  RIN     Renko               Promoted to active roster                          Before   
+9/21/1971  AVI     Fingers             Demoted to reserve roster                          Before   
+9/21/1971  AVI     Wright,K            Promoted to active roster                          Before   
+9/21/1971  SOP     Allen,B             Demoted to reserve roster                          Before   
+9/20/1971  AND     Epstein             Activated from disabled list                       Before   
+9/20/1971  AND     Morris              Promoted to active roster                          Before   
+9/20/1971  CAR     Corrales            Promoted to active roster                          Before   
+9/20/1971  CAR     Munson              Demoted to reserve roster                          Before   
+9/20/1971  QME     Hegan               Demoted to reserve roster                          Before   
+9/20/1971  QME     Oliver,A            Demoted to reserve roster                          Before   
+9/20/1971  SAN     Banks               Promoted to active roster                          Before   
+9/20/1971  SAN     Dempsey             Demoted to reserve roster                          Before   
+9/20/1971  SAN     Dempsey             Promoted to active roster                          Before   
+9/20/1971  SAN     Gamble              Promoted to active roster                          Before   
+9/20/1971  SAN     Hendrick            Promoted to active roster                          Before   
+9/20/1971  SAN     Kison               Promoted to active roster                          Before   
+9/20/1971  SAN     Luzinski            Promoted to active roster                          Before   
+9/19/1971  CAR     Duncan              Demoted to reserve roster                          Before   
+9/19/1971  CAR     Munson              Promoted to active roster                          Before   
+9/19/1971  CAR     Richert             Demoted to reserve roster                          Before   
+9/19/1971  OKI     Billings            Promoted to active roster                          Before   
+9/19/1971  OKI     Boccabella          Promoted to active roster                          Before   
+9/19/1971  OKI     Clines              Demoted to reserve roster                          Before   
+9/19/1971  OKI     Robertson,B         Demoted to reserve roster                          Before   
+9/19/1971  PAK     Kranepool           Promoted to active roster                          Before   
+9/19/1971  PAK     Mincher             Promoted to active roster                          Before   
+9/19/1971  PHI     Foy                 Promoted to active roster                          Before   
+9/19/1971  PHI     Hague               Promoted to active roster                          Before   
+9/19/1971  PHI     Marshall,M          Demoted to reserve roster                          Before   
+9/19/1971  PHI     Peters              Promoted to active roster                          Before   
+9/19/1971  PHI     Stewart             Promoted to active roster                          Before   
+9/19/1971  PHI     Tatum               Promoted to active roster                          Before   
+9/19/1971  ROC     Fryman              Demoted to reserve roster                          Before   
+9/19/1971  ROC     Kline               Activated from disabled list                       Before   
+9/18/1971  PHI     Roof                Demoted to reserve roster                          Before   
+9/18/1971  SOP     Christensen         Demoted to reserve roster                          Before   
+9/18/1971  SOP     Gallagher           Demoted to reserve roster                          Before   
+9/17/1971  OKI     Valdespino          Demoted to reserve roster                          Before   
+9/16/1971  CST     DaVanon             Demoted to reserve roster                          Before   
+9/15/1971  AVI     Foster,R            Promoted to active roster                          Before   
+9/15/1971  OKI     Monday              Demoted to reserve roster                          Before   
+9/15/1971  SOP     Buford              Demoted to reserve roster                          Before   
+9/14/1971  ASP     Aaron,H             Promoted to active roster                          Before   
+9/14/1971  ASP     Mingori             Promoted to active roster                          Before   
+9/14/1971  ASP     Mingori             Placed on disabled list                 9/12/1971  Before   
+9/14/1971  AVI     Miller,R            Demoted to reserve roster                          Before   
+9/14/1971  PHI     Geronimo            Demoted to reserve roster                          Before   
+9/14/1971  PHI     Pfeil               Promoted to active roster                          Before   
+9/12/1971  OKI     Ivie                Demoted to reserve roster                          Before   
+9/12/1971  PHI     Henderson           Demoted to reserve roster                          Before   
+9/12/1971  PHI     Joshua              Demoted to reserve roster                          Before   
+9/12/1971  PHI     Joshua              Promoted to active roster                          Before   
+9/12/1971  ROC     Clark,Ri            Demoted to reserve roster                          Before   
+9/12/1971  ROC     McQueen             Activated from disabled list                       Before   
+9/12/1971  SOP     Fanzone             Promoted to active roster                          Before   
+9/12/1971  SOP     Maddox              Promoted to active roster                          Before   
+9/12/1971  SOP     Rodriguez,E         Promoted to active roster                          Before   
+9/12/1971  SOP     Taylor,Ca           Promoted to active roster                          Before   
+                              Org transaction log -- Hot Buttered Soul                              
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+9/12/1971  SPP     Bunker              Promoted to active roster                          Before   
+9/12/1971  SPP     Nettles,J           Promoted to active roster                          Before   
+9/11/1971  CST     Crawford            Demoted to reserve roster                          Before   
+9/11/1971  NOR     Gentry              Activated from disabled list                       Before   
+9/10/1971  AVI     Barr                Demoted to reserve roster                          Before   
+9/10/1971  AVI     Haydel              Demoted to reserve roster                          Before   
+9/10/1971  AVI     Koosman             Promoted to active roster                          Before   
+9/10/1971  AVI     Ryan,N              Promoted to active roster                          Before   
+9/10/1971  NOR     Willoughby          Demoted to reserve roster                          Before   
+9/10/1971  SOP     Ferguson            Demoted to reserve roster                          Before   
+9/10/1971  SOP     Hovley              Promoted to active roster                          Before   
+9/8/1971   AND     Huntz               Promoted to active roster                          Before   
+9/8/1971   AND     Sands               Promoted to active roster                          Before   
+9/8/1971   AND     Schofield           Promoted to active roster                          Before   
+9/8/1971   AND     Selma               Promoted to active roster                          Before   
+9/8/1971   NOR     Cuellar             Demoted to reserve roster                          Before   
+9/8/1971   PHI     Joshua              Promoted to active roster                          Before   
+9/8/1971   QME     Bell                Demoted to reserve roster                          Before   
+9/8/1971   ROC     Aker                Demoted to reserve roster                          Before   
+9/7/1971   SAN     Reuss               Activated from disabled list                       Before   
+9/6/1971   AND     Kingman             Demoted to reserve roster                          Before   
+9/6/1971   OKI     Hebner              Demoted to reserve roster                          Before   
+9/6/1971   QME     Watson              Demoted to reserve roster                          Before   
+9/5/1971   AVI     Foster,R            Demoted to reserve roster                          Before   
+9/5/1971   AVI     May,L               Activated from disabled list                       Before   
+9/5/1971   CAR     Brown,J             Promoted to active roster                          Before   
+9/5/1971   CAR     Corrales            Demoted to reserve roster                          Before   
+9/5/1971   CAR     Hands               Demoted to reserve roster                          Before   
+9/5/1971   CAR     Hennigan            Promoted to active roster                          Before   
+9/5/1971   CAR     Holtzman            Promoted to active roster                          Before   
+9/5/1971   CAR     Laboy               Promoted to active roster                          Before   
+9/5/1971   CAR     McDaniel            Promoted to active roster                          Before   
+9/5/1971   CAR     Strohmayer          Promoted to active roster                          Before   
+9/5/1971   QME     Spinks              Demoted to reserve roster                          Before   
+9/5/1971   SPP     Griffin,T           Promoted to active roster                          Before   
+9/5/1971   SPP     Howard,L            Promoted to active roster                          Before   
+9/4/1971   QME     Alexander           Promoted to active roster                          Before   
+9/4/1971   QME     Bell                Promoted to active roster                          Before   
+9/4/1971   QME     Blomberg            Promoted to active roster                          Before   
+9/4/1971   QME     Bolin               Promoted to active roster                          Before   
+9/4/1971   QME     Bradford            Promoted to active roster                          Before   
+9/4/1971   QME     Hart                Promoted to active roster                          Before   
+9/4/1971   QME     Jackson,G           Promoted to active roster                          Before   
+9/4/1971   QME     Lee,L               Promoted to active roster                          Before   
+9/4/1971   QME     Mayberry            Promoted to active roster                          Before   
+9/4/1971   QME     Nelson,R            Promoted to active roster                          Before   
+9/4/1971   QME     Spinks              Promoted to active roster                          Before   
+9/4/1971   QME     Timmermann          Promoted to active roster                          Before   
+9/1/1971   AND     Hundley             Promoted to active roster                          Before   
+9/1/1971   AND     Motton              Promoted to active roster                          Before   
+9/1/1971   AND     O'Brien             Promoted to active roster                          Before   
+9/1/1971   AND     Sprague             Promoted to active roster                          Before   
+9/1/1971   ASP     Anderson,M          Promoted to active roster                          Before   
+9/1/1971   ASP     Linzy               Promoted to active roster                          Before   
+9/1/1971   ASP     Sadecki             Promoted to active roster                          Before   
+9/1/1971   ASP     Woods               Promoted to active roster                          Before   
+9/1/1971   AVI     Barr                Promoted to active roster                          Before   
+9/1/1971   AVI     Cook                Promoted to active roster                          Before   
+9/1/1971   AVI     Didier              Promoted to active roster                          Before   
+9/1/1971   AVI     Grant               Promoted to active roster                          Before   
+9/1/1971   AVI     Griffin,D           Promoted to active roster                          Before   
+9/1/1971   AVI     Hernandez,E         Promoted to active roster                          Before   
+9/1/1971   AVI     Jones,D             Promoted to active roster                          Before   
+9/1/1971   AVI     Kennedy             Promoted to active roster                          Before   
+9/1/1971   AVI     Koosman             Demoted to reserve roster                          Before   
+9/1/1971   AVI     McGlothlin          Promoted to active roster                          Before   
+9/1/1971   AVI     McMullen            Promoted to active roster                          Before   
+9/1/1971   AVI     Miller,R            Promoted to active roster                          Before   
+9/1/1971   AVI     Pavletich           Promoted to active roster                          Before   
+9/1/1971   AVI     Pena,J              Promoted to active roster                          Before   
+9/1/1971   AVI     Strickland          Promoted to active roster                          Before   
+9/1/1971   AVI     Torres,R            Promoted to active roster                          Before   
+                              Org transaction log -- Hot Buttered Soul                              
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+9/1/1971   AVI     Williams,W          Promoted to active roster                          Before   
+9/1/1971   CST     Bonham              Promoted to active roster                          Before   
+9/1/1971   CST     Brett               Promoted to active roster                          Before   
+9/1/1971   CST     Crawford            Promoted to active roster                          Before   
+9/1/1971   CST     DaVanon             Promoted to active roster                          Before   
+9/1/1971   CST     Doyle               Promoted to active roster                          Before   
+9/1/1971   CST     Taylor,Ch           Promoted to active roster                          Before   
+9/1/1971   CST     Wilcox              Promoted to active roster                          Before   
+9/1/1971   HAM     Barber,SD           Promoted to active roster                          Before   
+9/1/1971   HAM     Forster             Promoted to active roster                          Before   
+9/1/1971   HAM     Lyle                Promoted to active roster                          Before   
+9/1/1971   NOR     Grabarkewitz        Promoted to active roster                          Before   
+9/1/1971   NOR     Moeller             Promoted to active roster                          Before   
+9/1/1971   NOR     Willoughby          Promoted to active roster                          Before   
+9/1/1971   OKI     Cline               Promoted to active roster                          Before   
+9/1/1971   OKI     Hansen              Promoted to active roster                          Before   
+9/1/1971   OKI     Ivie                Promoted to active roster                          Before   
+9/1/1971   OKI     James               Demoted to reserve roster                          Before   
+9/1/1971   OKI     Kosco               Promoted to active roster                          Before   
+9/1/1971   OKI     Valentine           Promoted to active roster                          Before   
+9/1/1971   ROC     Aker                Promoted to active roster                          Before   
+9/1/1971   ROC     Ballinger           Promoted to active roster                          Before   
+9/1/1971   ROC     Eddy                Promoted to active roster                          Before   
+9/1/1971   ROC     Fernandez           Promoted to active roster                          Before   
+9/1/1971   ROC     Gibbs               Promoted to active roster                          Before   
+9/1/1971   ROC     Kelley,T            Promoted to active roster                          Before   
+9/1/1971   ROC     Maxvill             Promoted to active roster                          Before   
+9/1/1971   ROC     McCovey             Activated from disabled list                       Before   
+9/1/1971   ROC     Sims                Promoted to active roster                          Before   
+9/1/1971   ROC     Tompkins            Promoted to active roster                          Before   
+9/1/1971   SOP     Cash,D              Demoted to reserve roster                          Before   
+9/1/1971   SOP     Guinn               Promoted to active roster                          Before   
+8/31/1971  SAN     Niekro,J            Promoted to active roster                          Before   
+8/30/1971  ASP     Oglivie             Promoted to active roster                          Before   
+8/30/1971  ASP     Oliva               Demoted to reserve roster                          Before   
+8/30/1971  SOP     Cash,N              Demoted to reserve roster                          Before   
+8/29/1971  HAM     Edwards             Placed on disabled list                 8/28/1971  Before   
+8/29/1971  HAM     Jorgensen           Promoted to active roster                          Before   
+8/29/1971  SOP     Stinson             Promoted to active roster                          Before   
+8/27/1971  NOR     Gentry              Placed on disabled list                 8/27/1971  Before   
+8/27/1971  NOR     Singer              Activated from disabled list                       Before   
+8/27/1971  SOP     Dalrymple           Promoted to active roster                          Before   
+8/27/1971  SOP     Maddox              Demoted to reserve roster                          Before   
+8/26/1971  CAR     Duffy               Promoted to active roster                          Before   
+8/26/1971  CAR     Holtzman            Demoted to reserve roster                          Before   
+8/26/1971  ROC     Fernandez           Demoted to reserve roster                          Before   
+8/26/1971  ROC     Gogolewski          Promoted to active roster                          Before   
+8/26/1971  ROC     Kline               Placed on disabled list                 8/25/1971  Before   
+8/26/1971  ROC     McNertney           Activated from disabled list                       Before   
+8/26/1971  ROC     Nelson,J            Promoted to active roster                          Before   
+8/26/1971  ROC     Newman              Demoted to reserve roster                          Before   
+8/25/1971  PHI     Grimsley            Activated from disabled list                       Before   
+8/25/1971  PHI     Hague               Demoted to reserve roster                          Before   
+8/22/1971  AVI     Herrmann            Activated from disabled list                       Before   
+8/22/1971  AVI     Pavletich           Demoted to reserve roster                          Before   
+8/22/1971  PAK     Miller,B            Demoted to reserve roster                          Before   
+8/22/1971  PAK     Pappas              Promoted to active roster                          Before   
+8/22/1971  SAN     Farmer              Demoted to reserve roster                          Before   
+8/21/1971  AND     Torborg             Promoted to active roster                          Before   
+8/21/1971  HAM     Davalillo           Promoted to active roster                          Before   
+8/21/1971  HAM     McCraw              Placed on disabled list                 8/21/1971  Before   
+8/21/1971  HAM     Stone,S             Promoted to active roster                          Before   
+8/21/1971  HAM     Strahler            Demoted to reserve roster                          Before   
+8/21/1971  SOP     Braun               Demoted to reserve roster                          Before   
+8/21/1971  SOP     Christensen         Promoted to active roster                          Before   
+8/20/1971  AND     Kaline              Demoted to reserve roster                          Before   
+8/20/1971  AVI     Foster,R            Promoted to active roster                          Before   
+8/20/1971  AVI     May,L               Placed on disabled list                 8/20/1971  Before   
+8/18/1971  AND     Epstein             Placed on disabled list                 8/18/1971  Before   
+8/18/1971  AND     Thomas,D            Promoted to active roster                          Before   
+8/18/1971  CAR     Brown,J             Demoted to reserve roster                          Before   
+8/18/1971  CAR     Tiant               Activated from disabled list                       Before   
+                              Org transaction log -- Hot Buttered Soul                              
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+8/18/1971  QME     Bradford            Demoted to reserve roster                          Before   
+8/18/1971  QME     McAndrew            Promoted to active roster                          Before   
+8/18/1971  QME     Tenace              Promoted to active roster                          Before   
+8/18/1971  QME     Timmermann          Demoted to reserve roster                          Before   
+8/18/1971  SAN     Hodge               Promoted to active roster                          Before   
+8/18/1971  SAN     Regan               Promoted to active roster                          Before   
+8/18/1971  SAN     Reuss               Placed on disabled list                 8/18/1971  Before   
+8/17/1971  PHI     Gladding            Demoted to reserve roster                          Before   
+8/17/1971  PHI     Hassler             Promoted to active roster                          Before   
+8/16/1971  ROC     Cowan               Promoted to active roster                          Before   
+8/16/1971  ROC     McCovey             Placed on disabled list                 8/16/1971  Before   
+8/15/1971  NOR     Pascual             Demoted to reserve roster                          Before   
+8/15/1971  NOR     Wilhelm             Promoted to active roster                          Before   
+8/13/1971  ASP     Beckert             Demoted to reserve roster                          Before   
+8/13/1971  ASP     Brown,I             Promoted to active roster                          Before   
+8/11/1971  AVI     Didier              Demoted to reserve roster                          Before   
+8/11/1971  AVI     Dyer                Activated from disabled list                       Before   
+8/11/1971  PHI     Grimsley            Placed on disabled list                 8/10/1971  Before   
+8/11/1971  PHI     Millan              Demoted to reserve roster                          Before   
+8/11/1971  PHI     Randle              Promoted to active roster                          Before   
+8/11/1971  PHI     Suarez              Promoted to active roster                          Before   
+8/11/1971  ROC     Fernandez           Promoted to active roster                          Before   
+8/11/1971  ROC     McNertney           Placed on disabled list                 8/10/1971  Before   
+8/11/1971  SOP     Richard,JR          Demoted to reserve roster                          Before   
+8/11/1971  SOP     Scherman            Promoted to active roster                          Before   
+8/10/1971  CAR     Brown,J             Promoted to active roster                          Before   
+8/10/1971  CAR     Corrales            Promoted to active roster                          Before   
+8/10/1971  CAR     Hennigan            Demoted to reserve roster                          Before   
+8/10/1971  CAR     Laboy               Demoted to reserve roster                          Before   
+8/10/1971  CAR     McDaniel            Demoted to reserve roster                          Before   
+8/10/1971  CAR     Richert             Promoted to active roster                          Before   
+8/10/1971  RIN     Gaston              Promoted to active roster                          Before   
+8/10/1971  RIN     Lowenstein          Demoted to reserve roster                          Before   
+8/9/1971   AVI     Ortiz               Promoted to active roster                          Before   
+8/9/1971   AVI     Torres,R            Demoted to reserve roster                          Before   
+8/9/1971   CST     Crawford            Demoted to reserve roster                          Before   
+8/9/1971   CST     DaVanon             Demoted to reserve roster                          Before   
+8/9/1971   CST     Moses               Promoted to active roster                          Before   
+8/9/1971   CST     Perez,M             Promoted to active roster                          Before   
+8/9/1971   QME     Bolin               Demoted to reserve roster                          Before   
+8/9/1971   QME     Briles              Promoted to active roster                          Before   
+8/9/1971   QME     Bryant              Promoted to active roster                          Before   
+8/9/1971   QME     Evans               Promoted to active roster                          Before   
+8/9/1971   QME     Hegan               Promoted to active roster                          Before   
+8/9/1971   QME     Jackson,G           Demoted to reserve roster                          Before   
+8/9/1971   QME     Lee,L               Demoted to reserve roster                          Before   
+8/9/1971   QME     Matlack             Demoted to reserve roster                          Before   
+8/9/1971   QME     McAndrew            Demoted to reserve roster                          Before   
+8/9/1971   QME     Moose               Promoted to active roster                          Before   
+8/9/1971   QME     Ratliff             Promoted to active roster                          Before   
+8/9/1971   QME     Scheinblum          Demoted to reserve roster                          Before   
+8/9/1971   SOP     McRae               Promoted to active roster                          Before   
+8/9/1971   SOP     Miller,N            Promoted to active roster                          Before   
+8/9/1971   SOP     Waslewski           Demoted to reserve roster                          Before   
+8/8/1971   SOP     Jeter               Demoted to reserve roster                          Before   
+8/7/1971   AVI     Herrmann            Placed on disabled list                 8/7/1971   Before   
+8/7/1971   AVI     Pavletich           Promoted to active roster                          Before   
+8/6/1971   OKI     Crowley             Demoted to reserve roster                          Before   
+8/6/1971   OKI     Hinton,C            Promoted to active roster                          Before   
+8/5/1971   HAM     Seelbach            Demoted to reserve roster                          Before   
+8/5/1971   HAM     Strahler            Promoted to active roster                          Before   
+8/5/1971   ROC     Aker                Demoted to reserve roster                          Before   
+8/5/1971   ROC     Gogolewski          Demoted to reserve roster                          Before   
+8/5/1971   ROC     McDowell            Activated from disabled list                       Before   
+8/5/1971   ROC     McNertney           Promoted to active roster                          Before   
+8/5/1971   ROC     Riddleberger        Promoted to active roster                          Before   
+8/5/1971   ROC     Sims                Demoted to reserve roster                          Before   
+8/1/1971   ASP     Aaron,H             Activated from disabled list                       Before   
+8/1/1971   ASP     Woods               Demoted to reserve roster                          Before   
+8/1/1971   CAR     Corrales            Demoted to reserve roster                          Before   
+8/1/1971   CAR     Laboy               Promoted to active roster                          Before   
+8/1/1971   NOR     Kelley,D            Demoted to reserve roster                          Before   
+                              Org transaction log -- Hot Buttered Soul                              
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+8/1/1971   PAK     Andrews             Demoted to reserve roster                          Before   
+8/1/1971   PAK     May,J               Promoted to active roster                          Before   
+8/1/1971   PAK     Mincher             Demoted to reserve roster                          Before   
+8/1/1971   PAK     Pappas              Demoted to reserve roster                          Before   
+8/1/1971   PAK     Porter              Promoted to active roster                          Before   
+8/1/1971   PAK     Stone,G             Promoted to active roster                          Before   
+8/1/1971   SOP     Ferguson            Promoted to active roster                          Before   
+8/1/1971   SOP     Rodriguez,E         Demoted to reserve roster                          Before   
+8/1/1971   SPP     Reberger            Promoted to active roster                          Before   
+7/31/1971  AVI     Riddleberger        Traded away                    ROC                 After    
+7/31/1971  CAR     Duncan              Acquired via trade             PAK                 After    
+7/31/1971  CAR     Horton              Traded away                    PAK                 After    
+7/31/1971  NOR     Breeden,H           Traded away                    SPP                 After    
+7/31/1971  NOR     Bunker              Traded away                    SPP                 After    
+7/31/1971  NOR     Foster,A            Traded away                    SPP                 After    
+7/31/1971  NOR     Gentry              Acquired via trade             SPP                 After    
+7/31/1971  NOR     Griffin,T           Traded away                    SPP                 After    
+7/31/1971  NOR     Romo                Acquired via trade             SPP                 After    
+7/31/1971  PAK     Duncan              Traded away                    CAR                 After    
+7/31/1971  PAK     Horton              Acquired via trade             CAR                 After    
+7/31/1971  ROC     Riddleberger        Acquired via trade             AVI                 After    
+7/31/1971  SPP     Breeden,H           Acquired via trade             NOR                 After    
+7/31/1971  SPP     Bunker              Acquired via trade             NOR                 After    
+7/31/1971  SPP     Foster,A            Acquired via trade             NOR                 After    
+7/31/1971  SPP     Gentry              Traded away                    NOR                 After    
+7/31/1971  SPP     Griffin,T           Acquired via trade             NOR                 After    
+7/31/1971  SPP     Romo                Traded away                    NOR                 After    
+7/30/1971  AND     Epstein             Activated from disabled list                       Before   
+7/30/1971  AND     Thomas,D            Demoted to reserve roster                          Before   
+7/30/1971  CAR     Corrales            Promoted to active roster                          Before   
+7/30/1971  CAR     Munson              Demoted to reserve roster                          Before   
+7/30/1971  HAM     Broberg             Promoted to active roster                          Before   
+7/30/1971  HAM     Stone,S             Demoted to reserve roster                          Before   
+7/30/1971  OKI     Crowley             Promoted to active roster                          Before   
+7/30/1971  OKI     Hinton,C            Demoted to reserve roster                          Before   
+7/29/1971  HAM     Jorgensen           Demoted to reserve roster                          Before   
+7/29/1971  HAM     May,M               Promoted to active roster                          Before   
+7/28/1971  RIN     Pina                Promoted to active roster                          Before   
+7/28/1971  RIN     Reynolds,B          Demoted to reserve roster                          Before   
+7/27/1971  AVI     Didier              Promoted to active roster                          Before   
+7/27/1971  AVI     Dyer                Placed on disabled list                 7/27/1971  Before   
+7/27/1971  HAM     May,M               Demoted to reserve roster                          Before   
+7/27/1971  HAM     Seelbach            Promoted to active roster                          Before   
+7/26/1971  AVI     King                Promoted to active roster                          Before   
+7/26/1971  AVI     Ryan,N              Demoted to reserve roster                          Before   
+7/25/1971  AND     Baylor              Demoted to reserve roster                          Before   
+7/25/1971  AND     Guzman              Promoted to active roster                          Before   
+7/25/1971  CST     Brett               Demoted to reserve roster                          Before   
+7/25/1971  CST     Roland              Promoted to active roster                          Before   
+7/24/1971  SOP     Boswell,K           Promoted to active roster                          Before   
+7/24/1971  SPP     Gentry              Activated from disabled list                       Before   
+7/24/1971  SPP     Mason               Demoted to reserve roster                          Before   
+7/24/1971  SPP     Phoebus             Promoted to active roster                          Before   
+7/24/1971  SPP     Shaw                Demoted to reserve roster                          Before   
+7/23/1971  RIN     Boswell,K           Traded away                    SOP                 After    
+7/23/1971  SOP     Burda               Demoted to reserve roster                          Before   
+7/23/1971  SOP     Boswell,K           Acquired via trade             RIN                 After    
+7/22/1971  HAM     Neibauer            Demoted to reserve roster                          Before   
+7/22/1971  HAM     Odom                Promoted to active roster                          Before   
+7/22/1971  ROC     Gogolewski          Promoted to active roster                          Before   
+7/22/1971  ROC     McDowell            Placed on disabled list                 7/17/1971  Before   
+7/17/1971  ASP     Aaron,H             Promoted to active roster                          Before   
+7/17/1971  ASP     Aaron,H             Placed on disabled list                 7/16/1971  Before   
+7/17/1971  ASP     Aaron,H             Placed on disabled list                 7/16/1971  Before   
+7/17/1971  CAR     Brandon             Promoted to active roster                          Before   
+7/17/1971  CAR     Garrido             Promoted to active roster                          Before   
+7/17/1971  CAR     Laboy               Demoted to reserve roster                          Before   
+7/17/1971  CAR     McGinn              Promoted to active roster                          Before   
+7/17/1971  CAR     Strohmayer          Demoted to reserve roster                          Before   
+7/17/1971  CAR     Tiant               Placed on disabled list                 7/17/1971  Before   
+7/17/1971  SAN     Bunning             Promoted to active roster                          Before   
+7/17/1971  SAN     Hendrick            Demoted to reserve roster                          Before   
+                              Org transaction log -- Hot Buttered Soul                              
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+7/17/1971  SAN     Kison               Demoted to reserve roster                          Before   
+7/17/1971  SAN     Niekro,J            Demoted to reserve roster                          Before   
+7/17/1971  SAN     Oliver,B            Promoted to active roster                          Before   
+7/16/1971  SPP     Hernandez,J         Promoted to active roster                          Before   
+7/16/1971  SPP     Martinez,M          Demoted to reserve roster                          Before   
+7/16/1971  SPP     Martinez,M          Promoted to active roster                          Before   
+7/16/1971  SPP     Mason               Promoted to active roster                          Before   
+7/16/1971  SPP     Reynolds,K          Promoted to active roster                          Before   
+7/16/1971  SPP     Stennett            Demoted to reserve roster                          Before   
+7/15/1971  HAM     Odom                Demoted to reserve roster                          Before   
+7/15/1971  OKI     Dukes               Promoted to active roster                          Before   
+7/14/1971  HAM     Bosman              Acquired via trade             SPP                 After    
+7/14/1971  HAM     Reynolds,K          Traded away                    SPP                 After    
+7/14/1971  HAM     Robinson,Br         Traded away                    SPP                 After    
+7/14/1971  HAM     Santo               Acquired via trade             SPP                 After    
+7/14/1971  OKI     House               Demoted to reserve roster                          Before   
+7/14/1971  SOP     Ramirez             Demoted to reserve roster                          Before   
+7/14/1971  SOP     Martinez,M          Traded away                    SPP                 After    
+7/14/1971  SOP     Mason               Traded away                    SPP                 After    
+7/14/1971  SOP     Theobald            Acquired via trade             SPP                 After    
+7/14/1971  SPP     Bosman              Traded away                    HAM                 After    
+7/14/1971  SPP     Martinez,M          Acquired via trade             SOP                 After    
+7/14/1971  SPP     Mason               Acquired via trade             SOP                 After    
+7/14/1971  SPP     Reynolds,K          Acquired via trade             HAM                 After    
+7/14/1971  SPP     Robinson,Br         Acquired via trade             HAM                 After    
+7/14/1971  SPP     Santo               Traded away                    HAM                 After    
+7/14/1971  SPP     Theobald            Traded away                    SOP                 After    
+7/13/1971  AVI     Reichardt           Promoted to active roster                          Before   
+7/13/1971  AVI     Williams,W          Demoted to reserve roster                          Before   
+7/13/1971  HAM     Barber,SD           Demoted to reserve roster                          Before   
+7/13/1971  HAM     Thompson,D          Promoted to active roster                          Before   
+7/13/1971  NOR     Foster,A            Promoted to active roster                          Before   
+7/13/1971  NOR     Singer              Placed on disabled list                 7/12/1971  Before   
+7/13/1971  QME     Colbert,V           Promoted to active roster                          Before   
+7/13/1971  QME     Kekich              Promoted to active roster                          Before   
+7/13/1971  QME     Moose               Demoted to reserve roster                          Before   
+7/13/1971  QME     Spinks              Demoted to reserve roster                          Before   
+7/12/1971  HAM     Broberg             Demoted to reserve roster                          Before   
+7/12/1971  HAM     McCraw              Promoted to active roster                          Before   
+7/10/1971  AND     Dierker             Acquired via trade             HAM                 After    
+7/10/1971  AND     Lolich,M            Traded away                    HAM                 After    
+7/10/1971  HAM     Dierker             Traded away                    AND                 After    
+7/10/1971  HAM     Lolich,M            Acquired via trade             AND                 After    
+7/9/1971   AND     Epstein             Placed on disabled list                 7/4/1971   Before   
+7/9/1971   AND     Thomas,D            Promoted to active roster                          Before   
+7/9/1971   RIN     Paul                Placed on disabled list                 7/6/1971   Before   
+7/9/1971   RIN     Rooker              Promoted to active roster                          Before   
+7/7/1971   SPP     Bosman              Promoted to active roster                          Before   
+7/7/1971   SPP     Gentry              Placed on disabled list                 7/6/1971   Before   
+7/7/1971   SPP     Klimkowski          Demoted to reserve roster                          Before   
+7/7/1971   SPP     Williams,S          Promoted to active roster                          Before   
+7/6/1971   HAM     Broberg             Activated from disabled list                       Before   
+7/6/1971   HAM     Forster             Demoted to reserve roster                          Before   
+7/5/1971   ASP     Aaron,H             Activated from disabled list                       Before   
+7/5/1971   ASP     Hopkins             Demoted to reserve roster                          Before   
+7/5/1971   ASP     Lindblad            Promoted to active roster                          Before   
+7/5/1971   ASP     Woods               Demoted to reserve roster                          Before   
+7/5/1971   HAM     Davalillo           Demoted to reserve roster                          Before   
+7/5/1971   HAM     Holt                Promoted to active roster                          Before   
+7/5/1971   PHI     Belanger            Activated from disabled list                       Before   
+7/5/1971   PHI     Pfeil               Demoted to reserve roster                          Before   
+7/4/1971   AVI     Barr                Demoted to reserve roster                          Before   
+7/4/1971   AVI     Haydel              Promoted to active roster                          Before   
+7/4/1971   NOR     Clendenon           Promoted to active roster                          Before   
+7/4/1971   NOR     Griffin,T           Demoted to reserve roster                          Before   
+7/4/1971   NOR     Marshall,D          Promoted to active roster                          Before   
+7/4/1971   NOR     Muser               Demoted to reserve roster                          Before   
+7/3/1971   AND     Baylor              Promoted to active roster                          Before   
+7/3/1971   AVI     Miller,R            Demoted to reserve roster                          Before   
+7/3/1971   AVI     Torres,R            Promoted to active roster                          Before   
+7/3/1971   QME     Briles              Demoted to reserve roster                          Before   
+7/3/1971   QME     Cain                Promoted to active roster                          Before   
+                              Org transaction log -- Hot Buttered Soul                              
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+7/3/1971   QME     Stephenson,J        Promoted to active roster                          Before   
+7/3/1971   QME     Tenace              Demoted to reserve roster                          Before   
+7/1/1971   NOR     Acosta              Demoted to reserve roster                          Before   
+7/1/1971   NOR     Pascual             Promoted to active roster                          Before   
+6/30/1971  RIN     Ellis,J             Demoted to reserve roster                          Before   
+6/30/1971  RIN     Mitterwald          Promoted to active roster                          Before   
+6/29/1971  CAR     Brown,J             Demoted to reserve roster                          Before   
+6/29/1971  CAR     Martinez,B          Demoted to reserve roster                          Before   
+6/29/1971  CAR     Money               Activated from disabled list                       Before   
+6/29/1971  CAR     Tiant               Promoted to active roster                          Before   
+6/29/1971  HAM     Neibauer            Promoted to active roster                          Before   
+6/29/1971  HAM     Twitchell           Demoted to reserve roster                          Before   
+6/27/1971  SAN     Gamble              Demoted to reserve roster                          Before   
+6/27/1971  SAN     Johnstone           Promoted to active roster                          Before   
+6/27/1971  SAN     Rivers              Demoted to reserve roster                          Before   
+6/27/1971  SAN     Stanley             Promoted to active roster                          Before   
+6/26/1971  AND     Montgomery,M        Demoted to reserve roster                          Before   
+6/25/1971  OKI     Garman              Demoted to reserve roster                          Before   
+6/25/1971  OKI     Milner              Demoted to reserve roster                          Before   
+6/25/1971  OKI     Stanley             Promoted to active roster                          Before   
+6/25/1971  OKI     Taylor,R            Promoted to active roster                          Before   
+6/25/1971  QME     Briles              Promoted to active roster                          Before   
+6/25/1971  QME     Bryant              Demoted to reserve roster                          Before   
+6/25/1971  RIN     Garrett,W           Demoted to reserve roster                          Before   
+6/25/1971  RIN     Lowenstein          Promoted to active roster                          Before   
+6/23/1971  NOR     Breeden,H           Demoted to reserve roster                          Before   
+6/23/1971  NOR     Muser               Promoted to active roster                          Before   
+6/23/1971  OKI     Hunt                Activated from disabled list                       Before   
+6/23/1971  OKI     Stanley             Demoted to reserve roster                          Before   
+6/23/1971  QME     Blomberg            Demoted to reserve roster                          Before   
+6/23/1971  QME     Briles              Demoted to reserve roster                          Before   
+6/23/1971  QME     Evans               Demoted to reserve roster                          Before   
+6/23/1971  QME     Hegan               Demoted to reserve roster                          Before   
+6/23/1971  QME     Mangual             Promoted to active roster                          Before   
+6/23/1971  QME     McAnally            Promoted to active roster                          Before   
+6/23/1971  QME     Sutherland          Promoted to active roster                          Before   
+6/23/1971  QME     Voss                Promoted to active roster                          Before   
+6/23/1971  RIN     Colborn             Demoted to reserve roster                          Before   
+6/23/1971  RIN     Reynolds,B          Promoted to active roster                          Before   
+6/22/1971  AVI     Gibbon              Promoted to active roster                          Before   
+6/22/1971  AVI     Strickland          Demoted to reserve roster                          Before   
+6/21/1971  HAM     Broberg             Placed on disabled list                 6/21/1971  Before   
+6/21/1971  HAM     Decker              Promoted to active roster                          Before   
+6/21/1971  HAM     Lyle                Demoted to reserve roster                          Before   
+6/21/1971  HAM     Twitchell           Promoted to active roster                          Before   
+6/20/1971  PHI     Belanger            Placed on disabled list                 6/20/1971  Before   
+6/20/1971  PHI     Hrabosky            Demoted to reserve roster                          Before   
+6/20/1971  PHI     Pfeil               Promoted to active roster                          Before   
+6/20/1971  PHI     Torrez              Promoted to active roster                          Before   
+6/19/1971  CST     Dobson,C            Promoted to active roster                          Before   
+6/19/1971  CST     Taylor,Ch           Demoted to reserve roster                          Before   
+6/18/1971  OKI     Gagliano            Demoted to reserve roster                          Before   
+6/18/1971  OKI     Milner              Promoted to active roster                          Before   
+6/18/1971  PAK     Pappas              Promoted to active roster                          Before   
+6/18/1971  PAK     Stone,G             Demoted to reserve roster                          Before   
+6/16/1971  SOP     Maddox              Promoted to active roster                          Before   
+6/16/1971  SOP     McRae               Demoted to reserve roster                          Before   
+6/14/1971  QME     Matlack             Promoted to active roster                          Before   
+6/14/1971  QME     Pena,O              Demoted to reserve roster                          Before   
+6/12/1971  ASP     Aaron,H             Placed on disabled list                 6/12/1971  Before   
+6/12/1971  ASP     Hopkins             Promoted to active roster                          Before   
+6/10/1971  ROC     Boyer               Promoted to active roster                          Before   
+6/10/1971  ROC     Clark,Ri            Promoted to active roster                          Before   
+6/10/1971  ROC     Gogolewski          Demoted to reserve roster                          Before   
+6/10/1971  ROC     Kline               Activated from disabled list                       Before   
+6/10/1971  ROC     McNertney           Demoted to reserve roster                          Before   
+6/10/1971  ROC     Parker,B            Demoted to reserve roster                          Before   
+6/10/1971  ROC     Sims                Promoted to active roster                          Before   
+6/10/1971  ROC     Upshaw              Demoted to reserve roster                          Before   
+6/9/1971   ROC     Boyer               Demoted to reserve roster                          Before   
+6/9/1971   ROC     McCovey             Activated from disabled list                       Before   
+6/6/1971   OKI     Hunt                Placed on disabled list                 6/5/1971   Before   
+                              Org transaction log -- Hot Buttered Soul                              
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+6/6/1971   OKI     Valdespino          Promoted to active roster                          Before   
+6/6/1971   QME     Alexander           Demoted to reserve roster                          Before   
+6/6/1971   QME     Bell                Demoted to reserve roster                          Before   
+6/6/1971   QME     McAndrew            Promoted to active roster                          Before   
+6/6/1971   QME     Spinks              Promoted to active roster                          Before   
+6/5/1971   HAM     Decker              Demoted to reserve roster                          Before   
+6/5/1971   HAM     Edwards             Promoted to active roster                          Before   
+6/4/1971   RIN     Rooker              Demoted to reserve roster                          Before   
+6/4/1971   RIN     Zachary             Promoted to active roster                          Before   
+6/3/1971   ASP     Linzy               Promoted to active roster                          Before   
+6/3/1971   ASP     York                Placed on disabled list                 6/2/1971   Before   
+6/3/1971   CAR     Laboy               Promoted to active roster                          Before   
+6/3/1971   CAR     Money               Placed on disabled list                 6/3/1971   Before   
+6/3/1971   CST     Bonham              Demoted to reserve roster                          Before   
+6/3/1971   CST     Dunning             Promoted to active roster                          Before   
+6/2/1971   ASP     Severson            Demoted to reserve roster                          Before   
+6/2/1971   ASP     Wills               Promoted to active roster                          Before   
+6/1/1971   CAR     Horton              Promoted to active roster                          Before   
+6/1/1971   CAR     Laboy               Demoted to reserve roster                          Before   
+6/1/1971   NOR     Jones,C             Activated from disabled list                       Before   
+6/1/1971   NOR     Marshall,D          Demoted to reserve roster                          Before   
+6/1/1971   SAN     Garvey              Demoted to reserve roster                          Before   
+6/1/1971   SAN     Garvey              Promoted to active roster                          Before   
+6/1/1971   SAN     Lanier,H            Promoted to active roster                          Before   
+6/1/1971   SAN     Russell             Demoted to reserve roster                          Before   
+5/29/1971  QME     Pena,O              Promoted to active roster                          Before   
+5/29/1971  QME     Perzanowski         Demoted to reserve roster                          Before   
+5/29/1971  RIN     Fisk                Demoted to reserve roster                          Before   
+5/29/1971  RIN     Sudakis             Promoted to active roster                          Before   
+5/28/1971  CST     McLain              Promoted to active roster                          Before   
+5/28/1971  CST     Wilcox              Demoted to reserve roster                          Before   
+5/28/1971  SOP     Richard,JR          Promoted to active roster                          Before   
+5/28/1971  SPP     Bosman              Demoted to reserve roster                          Before   
+5/28/1971  SPP     Cox                 Promoted to active roster                          Before   
+5/26/1971  HAM     Dierker             Activated from disabled list                       Before   
+5/26/1971  HAM     Twitchell           Demoted to reserve roster                          Before   
+5/26/1971  SOP     Higgins             Demoted to reserve roster                          Before   
+5/25/1971  CAR     Garrido             Demoted to reserve roster                          Before   
+5/25/1971  CAR     Michael             Activated from disabled list                       Before   
+5/24/1971  ROC     Culp                Promoted to active roster                          Before   
+5/24/1971  ROC     Kline               Placed on disabled list                 5/22/1971  Before   
+5/23/1971  SAN     Ross                Demoted to reserve roster                          Before   
+5/23/1971  SAN     Williams,C          Promoted to active roster                          Before   
+5/21/1971  PHI     Foy                 Demoted to reserve roster                          Before   
+5/21/1971  PHI     Geronimo            Promoted to active roster                          Before   
+5/21/1971  PHI     Rader,Da            Demoted to reserve roster                          Before   
+5/21/1971  PHI     Roof                Promoted to active roster                          Before   
+5/21/1971  QME     Bell                Promoted to active roster                          Before   
+5/21/1971  QME     Nelson,R            Demoted to reserve roster                          Before   
+5/19/1971  SOP     Anderson,D          Demoted to reserve roster                          Before   
+5/19/1971  SOP     Ramirez             Promoted to active roster                          Before   
+5/18/1971  AND     Lanier,H            Traded away                    SAN                 After    
+5/18/1971  CAR     Garrett,A           Demoted to reserve roster                          Before   
+5/18/1971  CAR     Richert             Demoted to reserve roster                          Before   
+5/18/1971  CAR     Rudolph             Promoted to active roster                          Before   
+5/18/1971  CAR     Walker              Promoted to active roster                          Before   
+5/18/1971  ROC     McQueen             Placed on disabled list                 5/17/1971  Before   
+5/18/1971  ROC     Newman              Promoted to active roster                          Before   
+5/18/1971  SAN     Lanier,H            Acquired via trade             AND                 After    
+5/16/1971  SPP     Cumberland          Promoted to active roster                          Before   
+5/16/1971  SPP     Williams,S          Demoted to reserve roster                          Before   
+5/15/1971  HAM     Caldwell            Demoted to reserve roster                          Before   
+5/15/1971  HAM     Curtis              Demoted to reserve roster                          Before   
+5/15/1971  HAM     Decker              Promoted to active roster                          Before   
+5/15/1971  HAM     Twitchell           Promoted to active roster                          Before   
+5/14/1971  NOR     Jones,C             Placed on disabled list                 5/13/1971  Before   
+5/14/1971  NOR     Marshall,D          Promoted to active roster                          Before   
+5/14/1971  OKI     Grich               Demoted to reserve roster                          Before   
+5/14/1971  OKI     Stanley             Promoted to active roster                          Before   
+5/14/1971  QME     Cater               Promoted to active roster                          Before   
+5/14/1971  QME     Hart                Demoted to reserve roster                          Before   
+5/14/1971  ROC     Josephson           Promoted to active roster                          Before   
+                              Org transaction log -- Hot Buttered Soul                              
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+5/14/1971  ROC     Maxvill             Demoted to reserve roster                          Before   
+5/14/1971  ROC     Parker,B            Promoted to active roster                          Before   
+5/14/1971  ROC     Sims                Demoted to reserve roster                          Before   
+5/12/1971  PHI     Hrabosky            Promoted to active roster                          Before   
+5/12/1971  PHI     Rader,Da            Promoted to active roster                          Before   
+5/12/1971  PHI     Suarez              Demoted to reserve roster                          Before   
+5/12/1971  PHI     Tatum               Demoted to reserve roster                          Before   
+5/12/1971  SAN     Hendrick            Promoted to active roster                          Before   
+5/12/1971  SAN     Luzinski            Demoted to reserve roster                          Before   
+5/11/1971  QME     Hegan               Promoted to active roster                          Before   
+5/11/1971  QME     Mayberry            Demoted to reserve roster                          Before   
+5/11/1971  QME     Parker,H            Demoted to reserve roster                          Before   
+5/11/1971  QME     Perzanowski         Promoted to active roster                          Before   
+5/9/1971   CAR     Corkins             Demoted to reserve roster                          Before   
+5/9/1971   CAR     Garrido             Promoted to active roster                          Before   
+5/9/1971   CAR     Michael             Placed on disabled list                 5/8/1971   Before   
+5/9/1971   CAR     Santorini           Promoted to active roster                          Before   
+5/8/1971   QME     Blomberg            Activated from disabled list                       Before   
+5/8/1971   QME     Hegan               Demoted to reserve roster                          Before   
+5/7/1971   RIN     Colborn             Promoted to active roster                          Before   
+5/7/1971   RIN     Hernandez,R         Demoted to reserve roster                          Before   
+5/7/1971   ROC     Fernandez           Demoted to reserve roster                          Before   
+5/7/1971   ROC     Maxvill             Promoted to active roster                          Before   
+5/5/1971   QME     Chaney              Demoted to reserve roster                          Before   
+5/5/1971   QME     Cullen              Promoted to active roster                          Before   
+5/5/1971   QME     Darwin              Demoted to reserve roster                          Before   
+5/5/1971   QME     Parker,H            Promoted to active roster                          Before   
+5/5/1971   RIN     Drago               Promoted to active roster                          Before   
+5/5/1971   RIN     Renko               Demoted to reserve roster                          Before   
+5/3/1971   HAM     Dierker             Placed on disabled list                 5/1/1971   Before   
+5/3/1971   HAM     Odom                Promoted to active roster                          Before   
+5/3/1971   HAM     Reynolds,K          Acquired via trade             PAK                 After    
+5/3/1971   PAK     Reynolds,K          Traded away                    HAM                 After    
+5/2/1971   NOR     Breeden,H           Promoted to active roster                          Before   
+5/2/1971   NOR     Cooper              Demoted to reserve roster                          Before   
+5/1/1971   CAR     Holtzman            Activated from disabled list                       Before   
+5/1/1971   CAR     Tiant               Demoted to reserve roster                          Before   
+5/1/1971   OKI     Capra               Demoted to reserve roster                          Before   
+5/1/1971   OKI     Garman              Promoted to active roster                          Before   
+5/1/1971   SPP     Bosman              Promoted to active roster                          Before   
+5/1/1971   SPP     Cumberland          Demoted to reserve roster                          Before   
+5/1/1971   SPP     Klimkowski          Promoted to active roster                          Before   
+5/1/1971   SPP     Nettles,J           Demoted to reserve roster                          Before   
+4/25/1971  CST     Dal Canton          Promoted to active roster                          Before   
+4/25/1971  CST     Davis,B             Promoted to active roster                          Before   
+4/25/1971  CST     North               Demoted to reserve roster                          Before   
+4/22/1971  QME     Blomberg            Placed on disabled list                 4/22/1971  Before   
+4/22/1971  QME     Hegan               Promoted to active roster                          Before   
+4/22/1971  ROC     Fernandez           Promoted to active roster                          Before   
+4/22/1971  ROC     McCovey             Placed on disabled list                 4/22/1971  Before   
+4/21/1971  RIN     Mitterwald          Demoted to reserve roster                          Before   
+4/21/1971  RIN     Montgomery,B        Promoted to active roster                          Before   
+4/20/1971  CAR     Duffy               Demoted to reserve roster                          Before   
+4/20/1971  CAR     Michael             Promoted to active roster                          Before   
+4/18/1971  CST     Hough               Demoted to reserve roster                          Before   
+4/18/1971  RIN     Billingham          Demoted to reserve roster                          Before   
+4/18/1971  RIN     Billingham          Promoted to active roster                          Before   
+4/18/1971  SAN     Biittner            Promoted to active roster                          Before   
+4/18/1971  SAN     Taveras             Demoted to reserve roster                          Before   
+4/17/1971  HAM     Curtis              Promoted to active roster                          Before   
+4/17/1971  HAM     Hooton              Demoted to reserve roster                          Before   
+4/17/1971  HAM     Kenney              Promoted to active roster                          Before   
+4/17/1971  HAM     Zisk                Demoted to reserve roster                          Before   
+4/17/1971  SAN     Casanova            Promoted to active roster                          Before   
+4/17/1971  SAN     Dempsey             Demoted to reserve roster                          Before   
+4/17/1971  SAN     Gura                Demoted to reserve roster                          Before   
+4/17/1971  SAN     Ross                Promoted to active roster                          Before   
+4/13/1971  ASP     Severson            Demoted to reserve roster                          Before   
+4/13/1971  ASP     Wills               Promoted to active roster                          Before   
+4/13/1971  CAR     Holtzman            Placed on disabled list                 4/13/1971  Before   
+4/13/1971  CAR     Lamb,R              Promoted to active roster                          Before   
+4/12/1971  PHI     Geronimo            Demoted to reserve roster                          Before   
+                              Org transaction log -- Hot Buttered Soul                              
+                                           Regular season                                           
+
+Date       Team    Player              Type                           OthTm    EffDate    When     
+4/12/1971  PHI     Tatum               Promoted to active roster                          Before   
+4/8/1971   HAM     Caldwell            Promoted to active roster                          Before   
+4/8/1971   HAM     Paciorek            Demoted to reserve roster                          Before   
+4/7/1971   NOR     Cey                 Demoted to reserve roster                          Before   
+4/7/1971   NOR     Healy               Promoted to active roster                          Before   
+4/7/1971   RIN     Borbon              Demoted to reserve roster                          Before   
+4/7/1971   RIN     Hernandez,R         Promoted to active roster                          Before   
+4/7/1971   ROC     Agee                Promoted to active roster                          Before   
+4/7/1971   ROC     Fernandez           Demoted to reserve roster                          Before   
+
