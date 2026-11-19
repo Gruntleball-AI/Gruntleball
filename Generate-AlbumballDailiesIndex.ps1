@@ -235,94 +235,109 @@ foreach ($Year in 1990..2015) {
 
 <style>
 
+:root {  --bg: #050707;  --surface: #101617;  --surface-alt: #172022;  --blue: #86b6b8;  --blue-bright: #a5ced0;  --blue-light: #c0dadb;  --blue-dark: #4d6c6e;  --text: #eef4f4;  --text-secondary: #c0dadb;  --text-muted: #aab9b9;  --border: #486466; }
+
 body {
-    background-color: #000000;
-    color: #ffeecc;
-    font-family: -apple-system, BlinkMacSystemFont, Arial, sans-serif;
-    font-size: 15px;
-    line-height: 1.3;
-}
+ background-color: var(--bg);
+ color: var(--text);
+ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+ font-size: 15px;
+ line-height: 1.35;
+ }
 
 .archive {
-    max-width: 760px;
-    margin-left: 12px;
-}
+ max-width: 760px;
+ margin-left: 12px;
+ }
 
 h1 {
-    color: #ff5511;
-    font-size: 46px;
-    font-weight: 600;
-    margin-bottom: 4px;
-}
+ color: var(--blue-light);
+ font-size: 46px;
+ font-weight: 600;
+ margin-bottom: 4px;
+ }
 
 h2 {
-    color: #ffeecc;
-    font-size: 15px;
-    font-weight: 600;
-    border-top: 2px solid #dd7755;
-    margin-top: 24px;
-    margin-bottom: 8px;
-    padding-top: 3px;
-}
+ color: var(--text);
+ font-size: 15px;
+ font-weight: 600;
+ border-top: 2px solid var(--blue-dark);
+ margin-top: 24px;
+ margin-bottom: 8px;
+ padding-top: 4px;
+ }
 
 h4 {
-    color: #aabb55;
-    font-size: 20px;
-    font-weight: 600;
-    margin-top: 0;
-}
-
-a:link,
-a:visited {
-    color: #ffeecc;
-    text-decoration: none;
-}
+ color: var(--blue);
+ font-size: 20px;
+ font-weight: 600;
+ margin-top: 0;
+ }
+ 
+ a:link,
+ a:visited {
+ color: var(--blue-bright);
+ text-decoration: none;
+ }
 
 a:hover {
-    color: #ccdd88;
-    font-weight: 800;
-    text-decoration: underline;
-}
+ color: var(--blue-light);
+ font-weight: 800;
+ text-decoration: underline;
+ }
 
 .month-name {
-    color: #ff5511;
-    font-size: 16px;
-    font-weight: 600;
-    margin-top: 9px;
-    margin-bottom: 1px;
-}
+ color: var(--blue-bright);
+ font-size: 16px;
+ font-weight: 600;
+ margin-top: 9px;
+ margin-bottom: 1px;
+ }
 
 .calendar {
-    border-collapse: collapse;
-    margin-top: 0;
-    margin-bottom: 10px;
-}
+ border-collapse: collapse;
+ margin-top: 0;
+ margin-bottom: 10px;
+ }
 
 .calendar th,
-.calendar td {
-    width: 32px;
-    padding: 1px 2px;
-    text-align: center;
-    font-size: 14px;
-}
+ .calendar td {
+ width: 32px;
+ padding: 1px 2px;
+ text-align: center;
+ font-size: 14px;
+ }
 
 .calendar th {
-    color: #aabb55;
-    font-weight: 600;
-    border-bottom: 1px dotted #773322;
-}
+ color: var(--text-secondary);
+ font-weight: 600;
+ border-bottom: 1px dotted var(--blue-dark);
+ }
+ 
+ .calendar td a {
+ display: block;
+ color: var(--blue-bright);
+ border-radius: 3px;
+ }
+
+.calendar td a:hover {
+ color: var(--blue-light);
+ background-color: var(--surface-alt);
+ }
 
 .report-links {
-    line-height: 1.8;
-}
+ line-height: 1.8;
+ }
 
 .report-links a {
-    display: inline-block;
-    margin-right: 16px;
-    margin-bottom: 2px;
-}
-
+ display: inline-block;
+ margin-right: 16px;
+ margin-bottom: 2px;
+ color: var(--blue-light);
+ }
+ 
 </style>
+
 </head>
 
 <body>
